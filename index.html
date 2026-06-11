@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Famous People Timeline v6.4</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Famous People Timeline v7.0</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link
     href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600&display=swap"
@@ -1221,13 +1221,238 @@
       border-top: 1px solid rgba(255,255,255,0.04);
       text-align: right;
     }
+
+    /* ── ADDED IN V7: MOBILE RESPONSIVE DRAWERS & TOUCH STYLES ── */
+    #canvas-wrapper, #timeline-canvas {
+      touch-action: none;
+    }
+
+    #drawer-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.6);
+      backdrop-filter: blur(4px);
+      z-index: 90;
+      display: none;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    #drawer-overlay.show {
+      display: block;
+      opacity: 1;
+    }
+
+    #floating-controls {
+      display: none;
+      position: absolute;
+      bottom: 24px;
+      right: 24px;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 40;
+    }
+
+    .float-btn {
+      width: 46px;
+      height: 46px;
+      border-radius: 50%;
+      background: rgba(22, 20, 18, 0.95);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(212, 175, 55, 0.3);
+      color: #c9a96e;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.6);
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s;
+    }
+    .float-btn:active {
+      transform: scale(0.9);
+      background: rgba(212, 175, 55, 0.2);
+      border-color: #d4af37;
+    }
+
+    /* Override btn-themes hiding */
+    #btn-themes {
+      display: none;
+    }
+
+    @media (max-width: 768px) {
+      /* Main layouts */
+      #main {
+        height: calc(100vh - 100px); /* Adjust based on double-row mobile header */
+        position: relative;
+      }
+
+      /* Header Adjustments */
+      #header {
+        flex-wrap: wrap;
+        padding: 8px 12px;
+        gap: 6px;
+        justify-content: space-between;
+      }
+
+      #header h1 {
+        font-size: 15px;
+        order: 1;
+        flex: 1;
+      }
+
+      #btn-themes {
+        display: flex !important;
+        order: 2;
+        padding: 0 12px;
+        font-size: 10px;
+        height: 32px;
+      }
+
+      #btn-sidebar-toggle {
+        display: flex !important;
+        order: 0;
+        height: 32px;
+        width: 32px;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(145deg, rgba(30, 27, 24, 0.9), rgba(18, 16, 14, 0.9));
+        border: 1px solid rgba(212, 175, 55, 0.2);
+        color: #c9a96e;
+        border-radius: 8px;
+        cursor: pointer;
+      }
+
+      #search-container {
+        width: 100%;
+        order: 3;
+        flex: 1 1 100%;
+        margin-top: 4px;
+      }
+
+      #search-box {
+        width: 100%;
+        max-width: 100%;
+        height: 36px;
+        font-size: 13px;
+        background-position: 12px center;
+        padding-left: 34px;
+      }
+
+      #search-dropdown {
+        left: 0;
+        right: 0;
+        width: 100%;
+        min-width: 100%;
+      }
+
+      #stats {
+        display: none !important;
+      }
+
+      #header .zoom-btn {
+        display: none !important;
+      }
+
+      /* Sidebar & Themes drawer styles */
+      #sidebar {
+        position: fixed;
+        left: -280px;
+        top: 0;
+        bottom: 0;
+        width: 270px;
+        z-index: 100;
+        transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        background: rgba(18, 16, 14, 0.98);
+        backdrop-filter: blur(25px);
+        box-shadow: 10px 0 40px rgba(0,0,0,0.8);
+        border-right: 1px solid rgba(212, 175, 55, 0.25);
+        border-top: none;
+        height: 100%;
+      }
+      #sidebar.show {
+        left: 0;
+      }
+
+      .themes-panel {
+        position: fixed;
+        right: -280px;
+        top: 0;
+        bottom: 0;
+        width: 270px;
+        z-index: 100;
+        transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        background: rgba(18, 16, 14, 0.98);
+        backdrop-filter: blur(25px);
+        box-shadow: -10px 0 40px rgba(0,0,0,0.8);
+        border-left: 1px solid rgba(212, 175, 55, 0.25);
+        height: 100%;
+        padding: 14px 10px;
+      }
+      .themes-panel.show {
+        right: 0;
+      }
+
+      /* Floating control triggers */
+      #floating-controls {
+        display: flex;
+      }
+
+      /* Close buttons inside drawers */
+      .drawer-close-btn {
+        display: inline-block !important;
+        font-weight: bold;
+        color: #d4af37;
+        padding: 2px 6px;
+      }
+
+      /* Modal Bottom Sheet */
+      #modal-overlay {
+        align-items: flex-end;
+      }
+
+      #modal {
+        width: 100% !important;
+        max-width: 100% !important;
+        border-radius: 20px 20px 0 0 !important;
+        border-bottom: none !important;
+        padding: 20px 16px 36px !important;
+        animation: slideUp 0.32s cubic-bezier(0.4, 0, 0.2, 1) !important;
+      }
+
+      @keyframes slideUp {
+        from { transform: translateY(100%); }
+        to { transform: translateY(0); }
+      }
+
+      #modal-portrait {
+        width: 76px;
+        height: 102px;
+      }
+
+      #modal-title {
+        font-size: 22px;
+      }
+
+      #modal-desc {
+        font-size: 14px;
+        line-height: 1.6;
+        margin-top: 14px;
+      }
+
+      .relation-chip {
+        padding: 5px 10px;
+        font-size: 11px;
+      }
+    }
   </style>
 </head>
 
 <body>
 
   <div id="header">
-    <h1>Famous People Timeline <span style="color:#e8e0d4; font-size:14px; font-weight:400; opacity:0.5; vertical-align:middle;">v6.4.3</span></h1>
+    <button class="hdr-btn" id="btn-sidebar-toggle" title="Lọc danh mục"><i>🎛️</i></button>
+    <h1>Famous People Timeline <span style="color:#e8e0d4; font-size:14px; font-weight:400; opacity:0.5; vertical-align:middle;">v7.0</span></h1>
     <div id="search-container">
       <input type="text" id="search-box" placeholder="Search by name…" autocomplete="off">
       <div id="search-dropdown"></div>
@@ -1243,18 +1468,26 @@
     <div id="sidebar">
       <h2>
         <span>Categories</span>
-        <span id="select-all-btn" title="Show all">All</span>
+        <span style="display: flex; gap: 12px; align-items: center;"><span id="select-all-btn" title="Show all">All</span><span class="drawer-close-btn" style="cursor:pointer; display:none; font-size:16px;">✕</span></span>
       </h2>
     </div>
     <div id="canvas-wrapper">
       <canvas id="timeline-canvas"></canvas>
       <div id="year-label"></div>
+      <div id="floating-controls">
+        <button class="float-btn" id="float-zoom-in">+</button>
+        <button class="float-btn" id="float-zoom-out">−</button>
+        <button class="float-btn" id="float-reset">↺</button>
+      </div>
     </div>
     <div id="themes-panel" class="themes-panel">
       <div class="themes-panel-header">
-        <div>
-          <div class="themes-panel-title">Explore Themes</div>
-          <div class="themes-panel-subtitle">Filter the timeline by movement or era</div>
+        <div style="display:flex; justify-content:space-between; align-items:flex-start;">
+          <div>
+            <div class="themes-panel-title">Explore Themes</div>
+            <div class="themes-panel-subtitle">Filter the timeline by movement or era</div>
+          </div>
+          <span class="drawer-close-btn" style="cursor:pointer; display:none; font-size:16px; color:#d4af37;">✕</span>
         </div>
       </div>
       <div class="themes-active-banner" id="themes-active-banner">
@@ -4974,12 +5207,155 @@
     }
 
 
+
+    // ─── V7 ADDITIONS: MOBILE GESTURES, FLOATING CONTROLS, AND SIDEBAR DRAWERS ───
+    const drawerOverlay = document.getElementById('drawer-overlay');
+    const btnSidebarToggle = document.getElementById('btn-sidebar-toggle');
+
+    function closeDrawers() {
+      sidebar.classList.remove('show');
+      themesPanel.classList.remove('show');
+      if (drawerOverlay) drawerOverlay.classList.remove('show');
+    }
+
+    if (btnSidebarToggle) {
+      btnSidebarToggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const show = sidebar.classList.toggle('show');
+        themesPanel.classList.remove('show');
+        if (show && drawerOverlay) drawerOverlay.classList.add('show');
+        else if (drawerOverlay) drawerOverlay.classList.remove('show');
+      });
+    }
+
+    if (btnThemes) {
+      // Clean up previous event listener by cloning/replacing if necessary, or just overriding
+      btnThemes.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const show = themesPanel.classList.toggle('show');
+        sidebar.classList.remove('show');
+        if (show && drawerOverlay) drawerOverlay.classList.add('show');
+        else if (drawerOverlay) drawerOverlay.classList.remove('show');
+      });
+    }
+
+    if (drawerOverlay) {
+      drawerOverlay.addEventListener('click', closeDrawers);
+    }
+
+    document.querySelectorAll('.drawer-close-btn').forEach(btn => {
+      btn.addEventListener('click', closeDrawers);
+    });
+
+    // Close on canvas click/touch
+    canvas.addEventListener('click', (e) => {
+      if (Math.abs(e.clientX - dragStartX) > 5) return;
+      closeDrawers();
+    });
+
+    // Wire floating zoom buttons
+    document.getElementById('float-zoom-in').addEventListener('click', (e) => {
+      e.stopPropagation();
+      const cx = canvas.width / 2;
+      const wx = screenToWorld(cx);
+      vpScale = Math.min(vpScale * 1.4, 50);
+      vpX = wx - cx / vpScale;
+      render();
+    });
+
+    document.getElementById('float-zoom-out').addEventListener('click', (e) => {
+      e.stopPropagation();
+      const cx = canvas.width / 2;
+      const wx = screenToWorld(cx);
+      vpScale = Math.max(vpScale / 1.4, 0.04);
+      vpX = wx - cx / vpScale;
+      render();
+    });
+
+    document.getElementById('float-reset').addEventListener('click', (e) => {
+      e.stopPropagation();
+      vpScale = Math.max(canvas.width / TOTAL_YEARS, 0.1);
+      vpX = -1000;
+      const maxVietLane = Math.max(0, ...vietnamesePeople.filter(matchesCategory).map(p => p.lane));
+      const vietSectionH = (maxVietLane + 1) * LANE_H + TOP_PAD + 20;
+      vpY = (canvas.height / 2) - vietSectionH - (AXIS_H / 2);
+      render();
+    });
+
+    // Mobile Panning and Pinch-to-Zoom
+    let isPinching = false;
+    let initialDist = 0;
+    let initialMidX = 0;
+    let initialMidWorldX = 0;
+    let initialVpScale = 1;
+
+    canvas.addEventListener('touchstart', e => {
+      closeDrawers();
+      if (e.touches.length === 1) {
+        isDragging = true;
+        dragStartX = e.touches[0].clientX;
+        dragStartY = e.touches[0].clientY;
+        dragStartVpX = vpX;
+        dragStartVpY = vpY;
+        wrapper.classList.add('panning');
+      } else if (e.touches.length === 2) {
+        isDragging = false;
+        isPinching = true;
+        const t1 = e.touches[0];
+        const t2 = e.touches[1];
+        initialDist = Math.hypot(t1.clientX - t2.clientX, t1.clientY - t2.clientY);
+        initialMidX = (t1.clientX + t2.clientX) / 2;
+        const rect = canvas.getBoundingClientRect();
+        const mx = initialMidX - rect.left;
+        initialMidWorldX = screenToWorld(mx);
+        initialVpScale = vpScale;
+      }
+    }, { passive: true });
+
+    canvas.addEventListener('touchmove', e => {
+      if (isDragging && e.touches.length === 1) {
+        const dx = e.touches[0].clientX - dragStartX;
+        const dy = e.touches[0].clientY - dragStartY;
+        vpX = dragStartVpX - dx / vpScale;
+        vpY = dragStartVpY + dy;
+        render();
+      } else if (isPinching && e.touches.length === 2) {
+        const t1 = e.touches[0];
+        const t2 = e.touches[1];
+        const dist = Math.hypot(t1.clientX - t2.clientX, t1.clientY - t2.clientY);
+        const midX = (t1.clientX + t2.clientX) / 2;
+        const factor = dist / initialDist;
+        vpScale = Math.max(0.04, Math.min(initialVpScale * factor, 50));
+        const rect = canvas.getBoundingClientRect();
+        const mx = midX - rect.left;
+        vpX = initialMidWorldX - mx / vpScale;
+        render();
+      }
+    }, { passive: true });
+
+    canvas.addEventListener('touchend', e => {
+      if (e.touches.length === 0) {
+        isDragging = false;
+        isPinching = false;
+        wrapper.classList.remove('panning');
+      } else if (e.touches.length === 1) {
+        isPinching = false;
+        isDragging = true;
+        dragStartX = e.touches[0].clientX;
+        dragStartY = e.touches[0].clientY;
+        dragStartVpX = vpX;
+        dragStartVpY = vpY;
+      }
+    }, { passive: true });
+
+
     // ─── INIT ────────────────────────────────────────────────
     initThemes();
     buildSidebar();
     window.addEventListener('resize', () => { resize(); });
     resize();
   </script>
+  <div id="drawer-overlay"></div>
 </body>
 
 </html>
