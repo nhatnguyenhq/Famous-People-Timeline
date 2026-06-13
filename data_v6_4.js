@@ -1552,7 +1552,7 @@ const RAW_DATA = [
       "Political"
     ],
     "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg/500px-Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg",
+    "image": "",
     "relations": [
       "Germanicus",
       "Trưng Trắc",
@@ -1597,7 +1597,7 @@ const RAW_DATA = [
       "Military"
     ],
     "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hai_ba_trung_Dong_Ho_painting.jpg",
+    "image": "",
     "relations": [
       "Bà Triệu",
       "Thi Sách",
@@ -1620,7 +1620,7 @@ const RAW_DATA = [
       "Military"
     ],
     "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hai_ba_trung_Dong_Ho_painting.jpg/500px-Hai_ba_trung_Dong_Ho_painting.jpg",
+    "image": "",
     "relations": [
       "Hoàng Hoa Thám",
       "Huỳnh Thúc Kháng",
@@ -2513,6 +2513,7 @@ const RAW_DATA = [
     "fullName": "Triệu Quang Phục (Triệu Việt Vương, Dạ Trạch Vương)",
     "image": "",
     "relations": [
+      "Hoàng Diệu",
       "Ngô Quyền",
       "Phạm Ngũ Lão",
       "Đậu Kiến Đức"
@@ -3098,6 +3099,7 @@ const RAW_DATA = [
     "fullName": "Cao Biền",
     "image": "",
     "relations": [
+      "Hoàng Diệu",
       "Lê Văn Duyệt",
       "Mai Hắc Đế",
       "Đinh Tiên Hoàng"
@@ -3117,7 +3119,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Khúc Thừa Dụ",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VietNamToanCanhDuDo.jpg/500px-VietNamToanCanhDuDo.jpg",
+    "image": "",
     "relations": [
       "Chu Nguyên Chương",
       "Gia Long",
@@ -3140,7 +3142,7 @@ const RAW_DATA = [
       "Military"
     ],
     "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VietNamToanCanhDuDo.jpg/500px-VietNamToanCanhDuDo.jpg",
+    "image": "",
     "relations": [
       "Bùi Thiện Ngộ",
       "Hà Huy Tập",
@@ -3184,10 +3186,11 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Siêu",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/12_Su_quan.jpg/500px-12_Su_quan.jpg",
+    "image": "",
     "relations": [
       "Bạch Khởi",
       "Nguyễn Hoàng",
+      "Nguyễn Khuyến",
       "Thanh Tâm Tuyền"
     ],
     "themes": []
@@ -3227,7 +3230,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Bặc",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mothuytonguyenbac.jpg/500px-Mothuytonguyenbac.jpg",
+    "image": "",
     "relations": [
       "Hoàng Quốc Việt",
       "Phạm Ngũ Lão",
@@ -3249,10 +3252,11 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Ngô Xương Ngập",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Map_of_T%C4%A9nh_H%E1%BA%A3i_qu%C3%A2n_and_early_years_of_Ng%C3%B4_dynasty.png/500px-Map_of_T%C4%A9nh_H%E1%BA%A3i_qu%C3%A2n_and_early_years_of_Ng%C3%B4_dynasty.png",
+    "image": "",
     "relations": [
       "Ngô Quyền",
       "Ngô Xương Văn",
+      "Trần Văn Trà",
       "Đinh Tiên Hoàng"
     ],
     "themes": []
@@ -3270,7 +3274,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Ngô Xương Văn",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg/500px-T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg",
+    "image": "",
     "relations": [
       "Nguyễn Hoàng",
       "Ngô Quyền",
@@ -3486,7 +3490,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nùng Trí Cao",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nung_woman.jpg/500px-Nung_woman.jpg",
+    "image": "",
     "relations": [
       "Trần Hưng Đạo",
       "Trần Nhân Tông",
@@ -3552,6 +3556,7 @@ const RAW_DATA = [
     "fullName": "Lê Văn Thịnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Le_Van_Thinh.JPG",
     "relations": [
+      "Lê Đình Dương",
       "Lý Nhân Tông",
       "Phan Thanh Giản",
       "William I"
@@ -3854,7 +3859,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Hiền",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/NGUY%E1%BB%84N_TH%C3%9AY_HI%E1%BB%80N.jpg/500px-NGUY%E1%BB%84N_TH%C3%9AY_HI%E1%BB%80N.jpg",
+    "image": "",
     "relations": [
       "Hannibal Barca",
       "Lê Văn Hưu",
@@ -4010,6 +4015,7 @@ const RAW_DATA = [
     "fullName": "Mạc Đĩnh Chi (Lưỡng quốc Trạng nguyên, Mac Dinh Chi)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_n2022_%28th%E1%BB%9D_M%E1%BA%A1c_%C4%90%C4%A9nh_Chi%29_%283%29.jpg/500px-%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_n2022_%28th%E1%BB%9D_M%E1%BA%A1c_%C4%90%C4%A9nh_Chi%29_%283%29.jpg",
     "relations": [
+      "Hoàng Minh Chính",
       "Nguyễn Thiên Tích",
       "Thiết Mộc Nhĩ",
       "Đoàn Nhữ Hài"
@@ -4317,6 +4323,7 @@ const RAW_DATA = [
     "fullName": "Trần Dụ Tông",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg/500px-Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg",
     "relations": [
+      "Bùi Bằng Đoàn",
       "Chu Văn An",
       "Lý Nam Đế",
       "Minh Thành Tổ"
@@ -4379,7 +4386,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Trần Khát Chân",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/VietNam%281226-1400%29.png",
+    "image": "",
     "relations": [
       "Hồ Nguyên Trừng",
       "Hồ Quý Ly",
@@ -4510,8 +4517,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Lê Ngân",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/L%C3%AA_Minh_H%C6%B0ng_02052026.jpg/500px-L%C3%AA_Minh_H%C6%B0ng_02052026.jpg",
+    "image": "",
     "relations": [
+      "Hoàng Minh Chính",
       "Lê Sát",
       "Lê Thái Tổ",
       "Nguyễn Thiên Tích"
@@ -4553,7 +4561,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Thiên Tích",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg/500px-Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg",
+    "image": "",
     "relations": [
       "Lê Ngân",
       "Lý Nam Đế",
@@ -4651,7 +4659,7 @@ const RAW_DATA = [
       "Tăng Khánh Hồng"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/T%C3%B4_L%C3%A2m_20260519_%28cropped%29.jpg/500px-T%C3%B4_L%C3%A2m_20260519_%28cropped%29.jpg"
+    "image": ""
   },
   {
     "born": 1420,
@@ -4670,6 +4678,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Thánh Tông",
       "Mehmed II",
+      "Nguyễn Thái Học",
       "Ngô Thị Ngọc Dao"
     ],
     "themes": []
@@ -5069,7 +5078,7 @@ const RAW_DATA = [
       "Lê Tương Dực"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%C4%90oan_kh%C3%A1nh_th%C3%B4ng_b%E1%BA%A3o.jpg/500px-%C4%90oan_kh%C3%A1nh_th%C3%B4ng_b%E1%BA%A3o.jpg"
+    "image": ""
   },
   {
     "born": 1491,
@@ -5088,6 +5097,7 @@ const RAW_DATA = [
     "relations": [
       "Bùi Giáng",
       "Minh Mạng",
+      "Phạm Hy Lượng",
       "Đặng Hoàng Giang"
     ],
     "themes": []
@@ -5256,6 +5266,7 @@ const RAW_DATA = [
     "fullName": "Takeda Shingen (武田信玄, Harunobu, Tiger of Kai, Hổ xứ Kai)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Takeda_Harunobu.jpg",
     "relations": [
+      "Enomoto Takeaki",
       "Oda Nobunaga",
       "Phạm Ngũ Lão",
       "Yermak Timofeyevich"
@@ -7301,6 +7312,7 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Huỳnh Mẫn Đạt",
+      "Nguyễn Quang Bích",
       "Vũ Trinh",
       "Vũ Tông Phan"
     ],
@@ -7323,7 +7335,8 @@ const RAW_DATA = [
     "relations": [
       "Càn Long",
       "George Washington",
-      "Khang Hi"
+      "Khang Hi",
+      "Nikolai I"
     ],
     "themes": []
   },
@@ -7590,6 +7603,7 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Denis Diderot",
+      "Hans-Georg Gadamer",
       "Marquis de Condorcet",
       "Søren Kierkegaard"
     ]
@@ -7672,6 +7686,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Bùi Giáng",
       "Huỳnh Mẫn Đạt",
       "Phạm Hy Lượng",
       "Trịnh Hoài Đức"
@@ -7720,7 +7735,7 @@ const RAW_DATA = [
       "Trịnh Sâm"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Son_Tung_M-TP_1_%282021%29.png/500px-Son_Tung_M-TP_1_%282021%29.png"
+    "image": ""
   },
   {
     "born": 1754,
@@ -8047,7 +8062,7 @@ const RAW_DATA = [
       "Trần Quang Diệu"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/b/b7/V%C3%B5_T%C3%A1nh_Trung_ti%E1%BA%BFt_anh_h%C3%B9ng.png/500px-V%C3%B5_T%C3%A1nh_Trung_ti%E1%BA%BFt_anh_h%C3%B9ng.png"
+    "image": ""
   },
   {
     "born": 1769,
@@ -8528,6 +8543,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Văn Thịnh",
       "Nguyễn Hy",
+      "Phạm Phú Thứ",
       "Thiệu Trị"
     ],
     "themes": []
@@ -8549,7 +8565,7 @@ const RAW_DATA = [
     "relations": [
       "Minh Mạng",
       "Thiệu Trị",
-      "Tự Đức"
+      "Yekaterina II Đại đế"
     ],
     "themes": []
   },
@@ -8723,10 +8739,10 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_of_Nguyen_Tri_Phuong_in_Da_Nang_in_2015.jpg/500px-Statue_of_Nguyen_Tri_Phuong_in_Da_Nang_in_2015.jpg",
     "relations": [
-      "Hoàng Diệu",
       "Hoàng Kế Viêm",
       "Lê Đình Lý",
-      "Rigault de Genouilly",
+      "Phạm Phú Thứ",
+      "Phạm Văn Nghị",
       "Đỗ Thúc Tịnh"
     ],
     "themes": [
@@ -9100,8 +9116,8 @@ const RAW_DATA = [
     "fullName": "Cao Bá Quát (Thần Siêu, Cao Chu Thần)",
     "image": "",
     "relations": [
-      "Nguyễn Khuyến",
       "Phạm Hy Lượng",
+      "Phạm Văn Nghị",
       "Saladin",
       "Trịnh Doanh",
       "Trịnh Hoài Đức"
@@ -9546,7 +9562,7 @@ const RAW_DATA = [
       "Nguyễn Tri Phương"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hoang_Ke_Viem_Tomb.jpg/500px-Hoang_Ke_Viem_Tomb.jpg"
+    "image": ""
   },
   {
     "born": 1821,
@@ -9767,9 +9783,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Diệu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ho%C3%A0ng_Di%E1%BB%87u.jpg/500px-Ho%C3%A0ng_Di%E1%BB%87u.jpg",
     "relations": [
+      "Cao Biền",
       "Lê Đình Lý",
-      "Nguyễn Tri Phương",
-      "Tôn Thất Thuyết"
+      "Triệu Quang Phục"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9790,8 +9806,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Vua_T%E1%BB%B1_%C4%90%E1%BB%A9c.jpg",
     "relations": [
-      "Nikolai I",
-      "Phạm Hy Lượng",
+      "Phạm Phú Thứ",
+      "Phạm Văn Nghị",
       "Rama V",
       "Thiệu Trị",
       "Đỗ Thúc Tịnh"
@@ -9920,7 +9936,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hàm Nghi",
+      "Ngô Thì Sĩ",
       "Paul Verlaine",
       "Tôn Thất Thuyết"
     ],
@@ -10056,7 +10072,7 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Cao Bá Quát",
-      "Tự Đức",
+      "Nguyễn Bỉnh Khiêm",
       "Đặng Đức Siêu"
     ],
     "themes": [],
@@ -10077,8 +10093,8 @@ const RAW_DATA = [
     "fullName": "Nguyễn Khuyến",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Chan_dung_tam_nguyen_yen_do_nguyen_khuyen.jpg",
     "relations": [
-      "Cao Bá Quát",
       "Fyodor Dostoyevsky",
+      "Nguyễn Siêu",
       "Phạm Duy Tốn"
     ],
     "themes": []
@@ -10099,10 +10115,10 @@ const RAW_DATA = [
     "fullName": "Tôn Thất Thuyết",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ph%E1%BB%A5_ch%C3%ADnh_%C4%91%E1%BA%A1i_th%E1%BA%A7n_T%C3%B4n_Th%E1%BA%A5t_Thuy%E1%BA%BFt.jpg",
     "relations": [
-      "Enomoto Takeaki",
-      "Hoàng Diệu",
+      "Nguyễn Duy Hiệu",
       "Nguyễn Quang Bích",
-      "Phan Đình Phùng",
+      "Trần Xuân Soạn",
+      "Tôn Thất Đạm",
       "Đinh Công Tráng"
     ],
     "themes": [
@@ -10196,7 +10212,7 @@ const RAW_DATA = [
     "relations": [
       "Henri Rivière",
       "Hijikata Toshizō",
-      "Tôn Thất Thuyết"
+      "Takeda Shingen"
     ],
     "themes": []
   },
@@ -10672,7 +10688,8 @@ const RAW_DATA = [
     "relations": [
       "Cao Thắng",
       "Cầm Bá Thước",
-      "Tôn Thất Thuyết",
+      "Trần Xuân Soạn",
+      "Tôn Thất Đạm",
       "Đinh Công Tráng"
     ],
     "themes": [
@@ -11874,7 +11891,6 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Hải Thần",
       "Nguyễn Văn Cừ",
-      "Phan Châu Trinh",
       "Phạm Duy Tốn",
       "Tăng Bạt Hổ"
     ],
@@ -11970,7 +11986,7 @@ const RAW_DATA = [
     "fullName": "Mahatma Gandhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
     "relations": [
-      "Hàm Nghi",
+      "Indira Gandhi",
       "Phan Châu Trinh",
       "Theodore Roosevelt"
     ],
@@ -12105,11 +12121,11 @@ const RAW_DATA = [
     "fullName": "Hàm Nghi (Nguyễn Phúc Ưng Lịch, Ham Nghi, vua yêu nước)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg/500px-Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Lê Đình Dương",
-      "Mahatma Gandhi",
-      "Nguyễn Quang Bích",
-      "Paul Doumer",
-      "Trần Cao Vân"
+      "Nguyễn Duy Hiệu",
+      "Phạm Như Xương",
+      "Trần Cao Vân",
+      "Trần Xuân Soạn",
+      "Tôn Thất Đạm"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -12154,7 +12170,7 @@ const RAW_DATA = [
     "relations": [
       "Mahatma Gandhi",
       "Paul Doumer",
-      "Phan Bội Châu",
+      "Phạm Như Xương",
       "Tutankhamun",
       "Tăng Bạt Hổ"
     ],
@@ -13463,7 +13479,7 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Duy Tân",
-      "Hàm Nghi",
+      "Lê Văn Thịnh",
       "Tôn Đức Thắng"
     ],
     "themes": []
@@ -13859,7 +13875,6 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hàn Mặc Tử",
       "Phạm Duy Tốn",
       "Thế Lữ",
       "Xuân Diệu"
@@ -13955,11 +13970,11 @@ const RAW_DATA = [
     "fullName": "Hồ Chí Minh (Nguyễn Sinh Cung, Nguyễn Tất Thành, Nguyễn Ái Quốc, Văn Ba, Lý Thụy, Hồ Quang, Tống Văn Sơ, Thầu Chín, Trần Lực, Bác Hồ, Cụ Hồ, Ho Chi Minh)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ho_Chi_Minh_1946.jpg",
     "relations": [
-      "Bùi Bằng Đoàn",
       "Hoàng Minh Chính",
+      "Hoàng Minh Giám",
+      "Hoàng Văn Thụ",
       "Kim Đồng",
-      "Nguyễn Hải Thần",
-      "Phạm Văn Đồng"
+      "Nguyễn Hải Thần"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -15170,7 +15185,7 @@ const RAW_DATA = [
     "relations": [
       "Georg W. F. Hegel",
       "Jean-Paul Sartre",
-      "Simone de Beauvoir"
+      "Johann Gottfried Herder"
     ],
     "themes": []
   },
@@ -15379,7 +15394,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc.jpg/500px-Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc.jpg",
     "relations": [
       "Lê Hồng Phong",
-      "Trường Chinh",
+      "Lương Nhữ Hộc",
       "Đoàn Trần Nghiệp"
     ],
     "themes": [
@@ -16123,7 +16138,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hồ Chí Minh",
+      "Hoàng Minh Giám",
       "Lê Duẩn",
       "Trường Chinh"
     ],
@@ -16149,11 +16164,11 @@ const RAW_DATA = [
     "fullName": "Lê Duẩn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Le_duan.png/500px-Le_duan.png",
     "relations": [
-      "Hoàng Minh Chính",
       "Leonid Ilyich Brezhnev",
       "Phạm Văn Đồng",
       "Stepan Bandera",
-      "Trần Văn Trà"
+      "Trần Văn Trà",
+      "Võ Chí Công"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -16176,7 +16191,7 @@ const RAW_DATA = [
     "fullName": "Trường Chinh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg/500px-Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg",
     "relations": [
-      "Nguyễn Thái Học",
+      "Hoàng Văn Thụ",
       "Nguyễn Văn Linh",
       "Phạm Ngọc Thảo",
       "Phạm Văn Đồng",
@@ -16321,9 +16336,9 @@ const RAW_DATA = [
     "fullName": "Simone de Beauvoir",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/500px-Simone_De_Beauvoir_%28cropped%29.jpg",
     "relations": [
-      "Hans-Georg Gadamer",
       "Henri Bergson",
       "Hélène Cixous",
+      "Kimberle Crenshaw",
       "Trần Đức Thảo",
       "Vittorio Pini"
     ],
@@ -16639,6 +16654,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hữu Thọ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Nguy%E1%BB%85n_H%E1%BB%AFu_Th%E1%BB%8D.jpg",
     "relations": [
+      "Huỳnh Tấn Phát",
       "Lê Thanh Nghị",
       "Lê Đức Thọ",
       "Stepan Bandera",
@@ -16780,10 +16796,10 @@ const RAW_DATA = [
     "fullName": "Võ Nguyên Giáp (Vo Nguyen Giap, General Giap, tướng huyền thoại Điện Biên Phủ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mr._Vo_Nguyen_Giap_%28cropped%29.jpg",
     "relations": [
-      "Hoàng Minh Chính",
-      "Philippe Leclerc",
-      "Trần Văn Trà",
+      "Hoàng Minh Giám",
+      "Hoàng Văn Thụ",
       "Trần Độ",
+      "Võ Chí Công",
       "Đặng Thùy Trâm"
     ],
     "themes": [
@@ -16877,9 +16893,9 @@ const RAW_DATA = [
     "fullName": "Hàn Mặc Tử (Nguyễn Trọng Trí)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hanmactu.jpg",
     "relations": [
-      "Bùi Giáng",
+      "Chế Lan Viên",
       "Nguyễn Nhược Pháp",
-      "Tản Đà",
+      "Quách Tấn",
       "Vũ Trọng Phụng",
       "Đặng Thai Mai"
     ],
@@ -17413,8 +17429,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Xuandieupoet.jpg",
     "relations": [
       "Bùi Giáng",
-      "Huy Cận",
-      "Nguyễn Bính",
+      "Chế Lan Viên",
+      "Quách Tấn",
       "Tản Đà",
       "Vũ Trọng Phụng"
     ],
@@ -17529,6 +17545,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/500px-IndiraGandhi.png",
     "relations": [
       "Fidel Castro",
+      "Mahatma Gandhi",
       "Margaret Thatcher",
       "Patrice Lumumba",
       "Xuân Thủy"
@@ -17734,8 +17751,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Nhược Pháp",
       "Thế Lữ",
-      "Tế Hanh",
-      "Xuân Diệu"
+      "Tế Hanh"
     ],
     "themes": [
       "Tho Moi"
@@ -17803,8 +17819,7 @@ const RAW_DATA = [
       "Cù Huy Hà Vũ",
       "Nguyên Hồng",
       "Nhất Linh",
-      "Thâm Tâm",
-      "Xuân Diệu"
+      "Thâm Tâm"
     ],
     "themes": [
       "Tho Moi"
@@ -18234,9 +18249,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Huỳnh Tấn Phát",
       "John F. Kennedy",
       "Lê Khả Phiêu",
-      "Nguyễn Văn Linh",
       "Phạm Ngọc Thảo",
       "Đỗ Mười"
     ],
@@ -18724,9 +18739,9 @@ const RAW_DATA = [
     "fullName": "Bùi Giáng",
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/41/Buigiang-chandung.jpg",
     "relations": [
-      "Hàn Mặc Tử",
       "Nguyễn Bỉnh Khiêm",
-      "Xuân Diệu"
+      "Xuân Diệu",
+      "Đặng Đức Siêu"
     ],
     "themes": []
   },
@@ -19031,7 +19046,6 @@ const RAW_DATA = [
       "Dương Nghiễm Mậu",
       "Margaret Atwood",
       "Octavio Paz",
-      "Toni Morrison",
       "Ōe Kenzaburo"
     ],
     "themes": [
@@ -19881,7 +19895,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Thanh Tâm Tuyền (Dzư Văn Tâm)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg/500px-Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg",
+    "image": "",
     "relations": [
       "Du Tử Lê",
       "Dương Nghiễm Mậu",
@@ -24448,7 +24462,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Nguyên Phước",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Long_tinh_flag.svg/500px-Long_tinh_flag.svg.png",
+    "image": "",
     "relations": [
       "Han Kang",
       "Lưu Từ Hân",
@@ -27102,7 +27116,7 @@ const RAW_DATA = [
     "nationality": "French",
     "relations": [
       "Charles Martel",
-      "Nguyễn Tri Phương",
+      "Philippe Leclerc",
       "Trương Định"
     ],
     "themes": [
@@ -27148,7 +27162,6 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Hàm Nghi",
       "Phan Châu Trinh",
       "Tomas Masaryk",
       "Tomáš Masaryk"
@@ -27156,7 +27169,7 @@ const RAW_DATA = [
     "themes": [
       "Khang chien chong Phap"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/500px-Doumer.jpg"
+    "image": ""
   },
   {
     "born": 1902,
@@ -27174,7 +27187,7 @@ const RAW_DATA = [
     "relations": [
       "Henri Navarre",
       "Jean de Lattre de Tassigny",
-      "Võ Nguyên Giáp"
+      "Rigault de Genouilly"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -28303,8 +28316,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mr._Bui_Bang_Doan.jpg/250px-Mr._Bui_Bang_Doan.jpg",
     "relations": [
       "Bùi Tín",
-      "Hồ Chí Minh",
-      "Nguyễn Hải Thần"
+      "Nguyễn Hải Thần",
+      "Trần Dụ Tông"
     ]
   },
   {
@@ -28388,8 +28401,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/6/6e/HoangMinhChinh150.jpg",
     "relations": [
       "Hồ Chí Minh",
-      "Lê Duẩn",
-      "Võ Nguyên Giáp"
+      "Lê Ngân",
+      "Mạc Đĩnh Chi"
     ]
   },
   {
@@ -28696,8 +28709,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tranvantra.jpg",
     "relations": [
       "Lê Duẩn",
-      "Trần Độ",
-      "Võ Nguyên Giáp"
+      "Ngô Xương Ngập",
+      "Trần Độ"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29529,8 +29542,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/45/Nguy%E1%BB%85n_V%C4%83n_Linh.jpg",
     "relations": [
+      "Phạm Hùng",
       "Trường Chinh",
-      "Võ Văn Kiệt",
       "Đỗ Mười"
     ],
     "themes": [
@@ -29890,7 +29903,7 @@ const RAW_DATA = [
     "fullName": "Toni Morrison",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toni_Morrison_2008.jpg/500px-Toni_Morrison_2008.jpg",
     "relations": [
-      "Gabriel García Márquez",
+      "Kimberle Crenshaw",
       "Margaret Atwood",
       "Rosalind Miles",
       "Willa Cather",
@@ -30526,6 +30539,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg/500px-Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg",
     "relations": [
       "Gabriel García Márquez",
+      "Kimberle Crenshaw",
       "Toni Morrison",
       "Virginia Woolf"
     ],
@@ -30832,5 +30846,330 @@ const RAW_DATA = [
     "themes": [
       "Football"
     ]
+  },
+  {
+    "born": 1912,
+    "died": 1988,
+    "title": "Phạm Hùng",
+    "desc": "Chủ tịch Hội đồng Bộ trưởng Việt Nam, một trong những nhà lãnh đạo kiệt xuất của cách mạng Việt Nam. Ông có vai trò vô cùng quan trọng trong cuộc kháng chiến chống Mỹ ở miền Nam và thời kỳ đổi mới đất nước.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Hùng",
+    "image": "",
+    "relations": [
+      "Huỳnh Tấn Phát",
+      "Nguyễn Văn Linh",
+      "Võ Chí Công"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1813,
+    "died": 1884,
+    "title": "Phạm Văn Nghị",
+    "desc": "Nhà nho yêu nước, nhà thơ và là thủ lĩnh nghĩa quân chống Pháp nổi tiếng thời Nguyễn. Khi thực dân Pháp tấn công Đà Nẵng, ông dù đang làm đốc học đã tự mộ binh Nam tiến chống giặc.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Văn Nghị",
+    "image": "",
+    "relations": [
+      "Cao Bá Quát",
+      "Nguyễn Tri Phương",
+      "Tự Đức"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1959,
+    "died": 1960,
+    "title": "Kimberle Crenshaw",
+    "desc": "Nhà lý luận pháp lý, học giả và nhà hoạt động dân quyền người Mỹ. Bà nổi tiếng thế giới nhờ việc giới thiệu và phát triển khái niệm giao thoa luận (intersectionality) trong phong trào nữ quyền.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Political"
+    ],
+    "nationality": "American",
+    "fullName": "Kimberlé Williams Crenshaw",
+    "image": "",
+    "relations": [
+      "Margaret Atwood",
+      "Simone de Beauvoir",
+      "Toni Morrison"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ]
+  },
+  {
+    "born": 1909,
+    "died": 1944,
+    "title": "Hoàng Văn Thụ",
+    "desc": "Nhà lãnh đạo cách mạng Việt Nam, Ủy viên Ban Thường vụ Trung ương Đảng Cộng sản Đông Dương. Ông là người có đóng góp to lớn vào phong trào cách mạng trước năm 1945 và bị thực dân Pháp xử bắn.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Hoàng Văn Thụ",
+    "image": "",
+    "relations": [
+      "Hồ Chí Minh",
+      "Trường Chinh",
+      "Võ Nguyên Giáp"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1913,
+    "died": 1989,
+    "title": "Huỳnh Tấn Phát",
+    "desc": "Chủ tịch Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Phó Thủ tướng kiêm Bộ trưởng Bộ Xây dựng. Ông đồng thời là một kiến trúc sư tài hoa với nhiều công trình di sản lớn.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Huỳnh Tấn Phát",
+    "image": "",
+    "relations": [
+      "Nguyễn Hữu Thọ",
+      "Phạm Hùng",
+      "Võ Văn Kiệt"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1912,
+    "died": 2011,
+    "title": "Võ Chí Công",
+    "desc": "Chủ tịch Hội đồng Nhà nước nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (1987-1992), một trong những nhà lãnh đạo chủ chốt của cuộc kháng chiến chống Mỹ tại chiến trường Khu V miền Trung.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Võ Chí Công",
+    "image": "",
+    "relations": [
+      "Lê Duẩn",
+      "Phạm Hùng",
+      "Võ Nguyên Giáp"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1904,
+    "died": 1995,
+    "title": "Hoàng Minh Giám",
+    "desc": "Nhà ngoại giao xuất sắc, cựu Bộ trưởng Bộ Ngoại giao và Bộ trưởng Bộ Văn hóa Việt Nam Dân chủ Cộng hòa. Ông là một trí thức uyên bác đóng vai trò then chốt trong các cuộc đàm phán ngoại giao thời kỳ đầu kháng chiến.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Hoàng Minh Giám",
+    "image": "",
+    "relations": [
+      "Hồ Chí Minh",
+      "Phạm Văn Đồng",
+      "Võ Nguyên Giáp"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1864,
+    "died": 1888,
+    "title": "Tôn Thất Đạm",
+    "desc": "Danh tướng triều Nguyễn, con trai trưởng của đại thần Tôn Thất Thuyết. Ông là một trong những thủ lĩnh kiệt xuất chỉ huy phong trào Cần Vương bảo vệ vua Hàm Nghi chống lại thực dân Pháp.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Tôn Thất Đạm",
+    "image": "",
+    "relations": [
+      "Hàm Nghi",
+      "Phan Đình Phùng",
+      "Tôn Thất Thuyết"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1849,
+    "died": 1923,
+    "title": "Trần Xuân Soạn",
+    "desc": "Tướng lĩnh nhà Nguyễn và là thủ lĩnh phong trào Cần Vương chống Pháp ở khu vực Thanh Hóa. Sau khi phong trào thất bại, ông trốn sang Trung Quốc tiếp tục hoạt động cách mạng cho đến khi mất.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trần Xuân Soạn",
+    "image": "",
+    "relations": [
+      "Hàm Nghi",
+      "Phan Đình Phùng",
+      "Tôn Thất Thuyết"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1821,
+    "died": 1882,
+    "title": "Phạm Phú Thứ",
+    "desc": "Đại thần triều Nguyễn, nhà cải cách canh tân đất nước xuất sắc vào thế kỷ 19. Ông từng tham gia phái bộ sứ thần sang Pháp năm 1863, từ đó dâng sớ đề xuất nhiều phương án mở mang dân trí, công nghệ.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Phú Thứ",
+    "image": "",
+    "relations": [
+      "Nguyễn Tri Phương",
+      "Phan Thanh Giản",
+      "Tự Đức"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1910,
+    "died": 1992,
+    "title": "Quách Tấn",
+    "desc": "Nhà thơ nổi tiếng của Việt Nam, một trong 'Bàn thành tứ hữu' (Bốn người bạn thành Đồ Bàn) của đất Bình Định. Ông nổi tiếng với phong cách thơ Đường luật điêu luyện và các tập hồi ký giá trị.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Quách Tấn",
+    "image": "",
+    "relations": [
+      "Chế Lan Viên",
+      "Hàn Mặc Tử",
+      "Xuân Diệu"
+    ],
+    "themes": [
+      "Tho Moi"
+    ]
+  },
+  {
+    "born": 1920,
+    "died": 1989,
+    "title": "Chế Lan Viên",
+    "desc": "Nhà thơ, nhà văn hiện đại xuất sắc của Việt Nam, thành viên nổi bật của phong trào Thơ Mới với tập thơ đầu tay 'Điêu tàn' đầy bí ẩn. Thơ ông giàu chất triết lý, suy tưởng và tính thời sự cách mạng.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phan Ngọc Hoan",
+    "image": "",
+    "relations": [
+      "Hàn Mặc Tử",
+      "Quách Tấn",
+      "Xuân Diệu"
+    ],
+    "themes": [
+      "Tho Moi",
+      "Khang chien chong Phap",
+      "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1847,
+    "died": 1887,
+    "title": "Nguyễn Duy Hiệu",
+    "desc": "Sĩ phu yêu nước, thủ lĩnh phong trào Cần Vương chống Pháp tại tỉnh Quảng Nam (Nghĩa hội Quảng Nam). Khi bị bắt, ông nhận hết trách nhiệm về mình để bảo vệ đồng đội và hiên ngang lên máy chém.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Nguyễn Duy Hiệu",
+    "image": "",
+    "relations": [
+      "Hàm Nghi",
+      "Phạm Như Xương",
+      "Tôn Thất Thuyết"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1844,
+    "died": 1917,
+    "title": "Phạm Như Xương",
+    "desc": "Nhà khoa bảng, sĩ phu yêu nước và là một trong những thủ lĩnh hàng đầu của phong trào Cần Vương chống Pháp ở Quảng Nam, cùng thời với Nguyễn Duy Hiệu.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Như Xương",
+    "image": "",
+    "relations": [
+      "Hàm Nghi",
+      "Nguyễn Duy Hiệu",
+      "Phan Châu Trinh"
+    ],
+    "themes": []
   }
 ];
