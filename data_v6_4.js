@@ -476,9 +476,9 @@ const RAW_DATA = [
     "fullName": "Khổng Tử (Confucius, Kong Qiu, 孔子, Vạn thế sư biểu)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
     "relations": [
-      "Chu Hi",
       "Heraclitus",
       "Ibn Khaldun",
+      "Im Yunjidang",
       "Mặc Tử",
       "Plutarchus"
     ],
@@ -838,7 +838,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg/500px-Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg",
     "relations": [
       "David Hume",
-      "Mạnh Tử",
       "Plato",
       "Zeno xứ Citium"
     ],
@@ -962,8 +961,8 @@ const RAW_DATA = [
     "relations": [
       "Công Tôn Diễn",
       "Democritos",
-      "Diogenes",
       "Heraclitus",
+      "Im Yunjidang",
       "Tôn Tử"
     ],
     "themes": [
@@ -1171,7 +1170,6 @@ const RAW_DATA = [
     "relations": [
       "Alexander Đại Đế",
       "Nguyễn Siêu",
-      "Ngô Quyền",
       "William I",
       "Đường Tam Tạng"
     ],
@@ -3145,8 +3143,9 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Bùi Thiện Ngộ",
-      "Hà Huy Tập",
+      "Dương Đình Nghệ",
       "Khúc Thừa Dụ",
+      "Kiều Công Tiễn",
       "Nguyễn Thị Kim Tiến"
     ],
     "themes": []
@@ -3166,7 +3165,8 @@ const RAW_DATA = [
     "fullName": "Ngô Quyền (Ngo Quyen, chiến thắng Bạch Đằng 938), Tiền Ngô Vương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg",
     "relations": [
-      "Bạch Khởi",
+      "Dương Đình Nghệ",
+      "Kiều Công Tiễn",
       "Ngô Xương Ngập",
       "Ngô Xương Văn",
       "Triệu Quang Phục"
@@ -3667,7 +3667,7 @@ const RAW_DATA = [
     "fullName": "Chu Hi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chuhai_Japanese_Hard_Seltzer.jpg",
     "relations": [
-      "Khổng Tử",
+      "Im Yunjidang",
       "Lão Tử",
       "Mặc Tử"
     ],
@@ -4539,7 +4539,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Lê Sát",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Le_Loi_statue.JPG/500px-Le_Loi_statue.JPG",
+    "image": "",
     "relations": [
       "Lê Lai",
       "Lê Ngân",
@@ -4812,7 +4812,8 @@ const RAW_DATA = [
       "Adrian Le Roy",
       "Luca Guadagnino",
       "Raphael",
-      "Sandro Botticelli"
+      "Sandro Botticelli",
+      "Tullia d'Aragona"
     ],
     "themes": []
   },
@@ -4856,7 +4857,8 @@ const RAW_DATA = [
     "relations": [
       "Mạc Thái Tổ",
       "Thomas More",
-      "Toyotomi Hideyoshi"
+      "Toyotomi Hideyoshi",
+      "Tullia d'Aragona"
     ],
     "themes": []
   },
@@ -4901,8 +4903,8 @@ const RAW_DATA = [
       "Adrian Le Roy",
       "Antonio Canova",
       "El Greco",
-      "Raphael",
-      "Sandro Botticelli"
+      "Sandro Botticelli",
+      "Tullia d'Aragona"
     ],
     "themes": []
   },
@@ -5032,7 +5034,6 @@ const RAW_DATA = [
     "relations": [
       "El Greco",
       "Leonardo da Vinci",
-      "Michelangelo",
       "Nicolaus Copernicus",
       "Sandro Botticelli"
     ],
@@ -5620,8 +5621,8 @@ const RAW_DATA = [
     "relations": [
       "Carlo Matteucci",
       "Francis Bacon",
-      "Isaac Newton",
-      "Johannes Kepler"
+      "Johannes Kepler",
+      "Maria Gaetana Agnesi"
     ],
     "themes": []
   },
@@ -5728,7 +5729,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Đào Duy Từ",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bia_ti%E1%BB%83u_s%E1%BB%AD_%C4%90%C3%A0o_Duy_T%E1%BB%AB_m%E1%BA%B7t_tr%C6%B0%E1%BB%9Bc_t%E1%BA%A1i_%C4%91%E1%BB%81n_th%E1%BB%9D_%C4%90%C3%A0o_Duy_T%E1%BB%AB%2C_th%C3%B4n_C%E1%BB%B1_T%C3%A0i%2C_x%C3%A3_Ho%C3%A0i_Ph%C3%BA%2C_huy%E1%BB%87n_Ho%C3%A0i_Nh%C6%A1n%2C_t%E1%BB%89nh_B%C3%ACnh_%C4%90%E1%BB%8Bnh_.jpg/500px-Bia_ti%E1%BB%83u_s%E1%BB%AD_%C4%90%C3%A0o_Duy_T%E1%BB%AB_m%E1%BA%B7t_tr%C6%B0%E1%BB%9Bc_t%E1%BA%A1i_%C4%91%E1%BB%81n_th%E1%BB%9D_%C4%90%C3%A0o_Duy_T%E1%BB%AB%2C_th%C3%B4n_C%E1%BB%B1_T%C3%A0i%2C_x%C3%A3_Ho%C3%A0i_Ph%C3%BA%2C_huy%E1%BB%87n_Ho%C3%A0i_Nh%C6%A1n%2C_t%E1%BB%89nh_B%C3%ACnh_%C4%90%E1%BB%8Bnh_.jpg",
+    "image": "",
     "relations": [
       "Nguyễn Cư Trinh",
       "Trần Nguyên Hãn",
@@ -5929,6 +5930,7 @@ const RAW_DATA = [
     "fullName": "René Descartes (Cartesius, Cogito ergo sum)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/500px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
     "relations": [
+      "Anne Conway",
       "Blaise Pascal",
       "Gilles Deleuze",
       "Marquis de Condorcet",
@@ -6146,6 +6148,7 @@ const RAW_DATA = [
     "fullName": "Jean de La Fontaine",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jean_de_La_Fontaine.PNG/500px-Jean_de_La_Fontaine.PNG",
     "relations": [
+      "Andre Maurois",
       "Charles Perrault",
       "Italo Calvino",
       "Ninon de Lenclos"
@@ -6300,6 +6303,7 @@ const RAW_DATA = [
     "fullName": "John Locke (Father of Liberalism)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/John_Locke%27s_Kit-cat_portrait_by_Godfrey_Kneller%2C_National_Portrait_Gallery%2C_London.JPG/500px-John_Locke%27s_Kit-cat_portrait_by_Godfrey_Kneller%2C_National_Portrait_Gallery%2C_London.JPG",
     "relations": [
+      "Anne Conway",
       "Baruch Spinoza",
       "George Berkeley",
       "John Duns Scotus",
@@ -6517,8 +6521,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg",
     "relations": [
       "Edmund Halley",
-      "Galileo Galilei",
       "Johannes Kepler",
+      "Maria Gaetana Agnesi",
       "Ole Rømer",
       "Robert Hooke"
     ],
@@ -6539,6 +6543,7 @@ const RAW_DATA = [
     "fullName": "Matsuo Bashō",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Basho_by_Morikawa_Kyoriku_%281656-1715%29.jpg",
     "relations": [
+      "Akutagawa Ryūnosuke",
       "Aristotle",
       "E. M. Forster",
       "Vũ Trinh"
@@ -6581,9 +6586,9 @@ const RAW_DATA = [
     "fullName": "Gottfried Wilhelm Leibniz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/500px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
     "relations": [
+      "Anne Conway",
       "Edmund Halley",
       "Gerolamo Cardano",
-      "Kurt Gödel",
       "Ole Rømer",
       "Robert Hooke"
     ],
@@ -6940,7 +6945,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Headshot_of_Anders_Celsius.jpg/500px-Headshot_of_Anders_Celsius.jpg",
     "relations": [
       "Hippocrates",
-      "Leonhard Euler",
       "Mikhail Vasilyevich Lomonosov",
       "Rudolf Kjellén",
       "Tutankhamun"
@@ -6966,7 +6970,7 @@ const RAW_DATA = [
       "Nguyễn Chích"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/HOANG_THUY_LINH_121125.jpg/500px-HOANG_THUY_LINH_121125.jpg"
+    "image": ""
   },
   {
     "born": 1707,
@@ -6983,11 +6987,11 @@ const RAW_DATA = [
     "fullName": "Leonhard Euler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/500px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg",
     "relations": [
-      "Anders Celsius",
       "Carl Friedrich Gauss",
       "David Hume",
       "Henry Dunant",
-      "Johann Bernoulli"
+      "Johann Bernoulli",
+      "Maria Gaetana Agnesi"
     ],
     "themes": []
   },
@@ -7692,7 +7696,7 @@ const RAW_DATA = [
       "Trịnh Hoài Đức"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mianshan.jpg/500px-Mianshan.jpg"
+    "image": ""
   },
   {
     "born": 1752,
@@ -7887,6 +7891,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_de_Claude-Henri_de_Rouvroy%2C_comte_de_Saint-Simon.jpg/500px-Portrait_de_Claude-Henri_de_Rouvroy%2C_comte_de_Saint-Simon.jpg",
     "relations": [
       "Georg W. F. Hegel",
+      "Henri Bergson",
       "John Stuart Mill",
       "Marquis de Condorcet"
     ],
@@ -7971,7 +7976,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Võ Trường Toản",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/VN-F-HC-Q2_position_in_city_core.png",
+    "image": "",
     "relations": [
       "Chu Văn An",
       "Trần Lệ Xuân",
@@ -7995,11 +8000,12 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Cao Bá Quát",
+      "Nguyễn Huy Thiệp",
       "Ngô Tùng Châu",
       "Đặng Đức Siêu"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ch%C3%A2n_dung_Tr%E1%BB%8Bnh_B%E1%BB%ADu_Ho%C3%A0i.jpg/500px-Ch%C3%A2n_dung_Tr%E1%BB%8Bnh_B%E1%BB%ADu_Ho%C3%A0i.jpg"
+    "image": ""
   },
   {
     "born": 1766,
@@ -8016,6 +8022,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Du (Tố Như, Thanh Hiên, Đoạn trường tân thanh, Truyện Kiều)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_c%E1%BB%A5_Nguy%E1%BB%85n_Du.jpg",
     "relations": [
+      "Bùi Giáng",
       "Hồ Xuân Hương",
       "Jane Austen",
       "Nguyễn Huy Tự"
@@ -8126,6 +8133,7 @@ const RAW_DATA = [
     "fullName": "Georg W. F. Hegel (Georg Wilhelm Friedrich Hegel)",
     "image": "",
     "relations": [
+      "Arthur Schopenhauer",
       "Han Byung-chul",
       "Hans-Georg Gadamer",
       "Henri de Saint Simon"
@@ -8150,6 +8158,7 @@ const RAW_DATA = [
     "relations": [
       "Achim von Arnim",
       "Clemens Brentano",
+      "Emily Bronte",
       "Vũ Trinh"
     ]
   },
@@ -8168,6 +8177,7 @@ const RAW_DATA = [
     "fullName": "Hồ Xuân Hương (Bà chúa thơ Nôm)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ho_Xuan_Huong.png",
     "relations": [
+      "Chế Lan Viên",
       "Jane Austen",
       "Nguyễn Du",
       "Vũ Trinh"
@@ -8189,9 +8199,9 @@ const RAW_DATA = [
     "fullName": "Jane Austen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/500px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
     "relations": [
-      "Clemens Brentano",
+      "Charlotte Bronte",
+      "Emily Bronte",
       "Hồ Xuân Hương",
-      "Lord Byron",
       "Nguyễn Du",
       "Octavio Paz"
     ],
@@ -8280,7 +8290,6 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Achim von Arnim",
-      "Jane Austen",
       "Lord Byron",
       "William Wordsworth"
     ]
@@ -8412,7 +8421,6 @@ const RAW_DATA = [
     "relations": [
       "Achim von Arnim",
       "Clemens Brentano",
-      "Jane Austen",
       "John Keats"
     ],
     "themes": []
@@ -8433,7 +8441,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/500px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg",
     "relations": [
       "Franz Kafka",
-      "Friedrich Nietzsche",
+      "Georg W. F. Hegel",
+      "Hans-Georg Gadamer",
       "John Stuart Mill"
     ],
     "themes": []
@@ -8619,7 +8628,7 @@ const RAW_DATA = [
     "fullName": "Christian Johann Heinrich Heine",
     "born": 1797,
     "died": 1856,
-    "desc": "Một trong những nhà thơ Đức quan trọng nhất thế kỷ 19.",
+    "desc": "Nhà thơ, nhà báo và nhà phê bình văn học lỗi lạc người Đức, nổi tiếng với những bài thơ trữ tình đầy chất nhạc (được phổ nhạc bởi Schubert, Schumann) và phong cách viết trào phúng, châm biếm chính trị sắc sảo, bắc cầu nối giữa chủ nghĩa lãng mạn và chủ nghĩa hiện thực.",
     "color": "#4a7c5a",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -9029,7 +9038,7 @@ const RAW_DATA = [
       "Political"
     ],
     "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tomb_of_ThieuTri.jpg/500px-Tomb_of_ThieuTri.jpg",
+    "image": "",
     "relations": [
       "Nikolai I",
       "Phan Thanh Giản",
@@ -9097,6 +9106,7 @@ const RAW_DATA = [
     "relations": [
       "Alexandre Dumas cha",
       "Fyodor Dostoyevsky",
+      "Gwendolyn Brooks",
       "Heinrich Heine"
     ],
     "themes": []
@@ -9400,6 +9410,7 @@ const RAW_DATA = [
     "relations": [
       "Carl Friedrich Gauss",
       "Eugène Charles Catalan",
+      "Joseph John Thomson",
       "Joseph-Louis Lagrange"
     ],
     "themes": []
@@ -9422,7 +9433,6 @@ const RAW_DATA = [
       "Daniel Defoe",
       "Fyodor Dostoyevsky",
       "Jules Verne",
-      "Lev Tolstoy",
       "Vladimir Nabokov"
     ],
     "themes": []
@@ -9579,7 +9589,6 @@ const RAW_DATA = [
     "fullName": "Fyodor Dostoyevsky (Fyodor Mikhailovich Dostoevsky, Достоевский)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "relations": [
-      "Albert Camus",
       "Edgar Allan Poe",
       "Ivan Turgenev",
       "Jack London",
@@ -9693,8 +9702,10 @@ const RAW_DATA = [
     "fullName": "Henrik Ibsen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Henrik_Ibsen_av_Eilif_Peterssen_1895.jpg",
     "relations": [
+      "August Strindberg",
       "Ichikawa Takuji",
       "Richard Wagner",
+      "Tove Jansson",
       "Werner Herzog"
     ],
     "themes": []
@@ -9715,8 +9726,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
     "relations": [
       "Hector Malot",
-      "Ivan Turgenev",
       "Margaret Cavendish",
+      "Mark Twain",
       "Ocean Vuong",
       "Octavio Paz"
     ],
@@ -10543,12 +10554,13 @@ const RAW_DATA = [
     "tags": [
       "Art"
     ],
-    "nationality": "Norwegian",
+    "nationality": "Scandinavian",
     "themes": [
       "Classical Music"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg",
     "relations": [
+      "Alexander Rybak",
       "Camille Saint-Saëns",
       "Felix Mendelssohn",
       "Johannes Brahms"
@@ -10593,10 +10605,10 @@ const RAW_DATA = [
     "fullName": "Friedrich Nietzsche (Friedrich Wilhelm Nietzsche, Thus Spoke Zarathustra)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/500px-Nietzsche187a.jpg",
     "relations": [
-      "Arthur Schopenhauer",
       "Johann Wolfgang von Goethe",
       "Karl Marx",
       "Lou Andreas-Salomé",
+      "Wilhelm Wundt",
       "Zarathustra"
     ],
     "themes": [
@@ -10779,8 +10791,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/AugustStrindberg.jpg",
     "relations": [
       "Gustav Klimt",
-      "Jean-Paul Sartre",
-      "Maurice Maeterlinck"
+      "Henrik Ibsen",
+      "Maurice Maeterlinck",
+      "Tove Jansson"
     ],
     "themes": []
   },
@@ -10962,7 +10975,8 @@ const RAW_DATA = [
       "Bernard Shaw",
       "H. G. Wells",
       "Joseph Merrick",
-      "Rabindranath Tagore"
+      "Rabindranath Tagore",
+      "Saki"
     ],
     "themes": []
   },
@@ -11052,7 +11066,7 @@ const RAW_DATA = [
       "Jacques Lacan",
       "Joseph Merrick",
       "Lou Andreas-Salomé",
-      "Wilhelm Reich"
+      "Wilhelm Wundt"
     ],
     "themes": [
       "Psychoanalysis"
@@ -11301,8 +11315,8 @@ const RAW_DATA = [
     "fullName": "Henri Bergson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bergson.jpg/500px-Bergson.jpg",
     "relations": [
+      "Henri de Saint Simon",
       "Martin Heidegger",
-      "Simone de Beauvoir",
       "Yves Saint-Laurent"
     ],
     "themes": [
@@ -11536,6 +11550,7 @@ const RAW_DATA = [
     "relations": [
       "Gustav Klimt",
       "Maurice Maeterlinck",
+      "Tove Jansson",
       "Vincent van Gogh"
     ],
     "themes": []
@@ -11892,6 +11907,7 @@ const RAW_DATA = [
       "Nguyễn Hải Thần",
       "Nguyễn Văn Cừ",
       "Phạm Duy Tốn",
+      "Phạm Hồng Thái",
       "Tăng Bạt Hổ"
     ],
     "themes": [
@@ -11913,7 +11929,7 @@ const RAW_DATA = [
     "fullName": "Marie Curie",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg",
     "relations": [
-      "Ernest Rutherford",
+      "Dorothy Maud Wrinch",
       "Linus Pauling",
       "Rosalind Franklin",
       "Wilhelm Röntgen",
@@ -12098,11 +12114,11 @@ const RAW_DATA = [
     "fullName": "Marcel Proust (Valentin Louis Georges Eugène Marcel Proust)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Otto_Wegener_Proust_vers_1895_bis.jpg/500px-Otto_Wegener_Proust_vers_1895_bis.jpg",
     "relations": [
+      "Andre Maurois",
       "Natsume Sōseki",
       "Nguyễn Huy Thiệp",
       "Nguyễn Thượng Hiền",
-      "Phan Kế Bính",
-      "William Somerset Maugham"
+      "Phan Kế Bính"
     ],
     "themes": []
   },
@@ -12146,8 +12162,9 @@ const RAW_DATA = [
     "fullName": "Bertrand Russell (Bertrand Arthur William Russell)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bertrand_Russell_smoking_in_1936.jpg/500px-Bertrand_Russell_smoking_in_1936.jpg",
     "relations": [
+      "Alexius Meinong",
+      "Izydora Dąmbska",
       "John Duns Scotus",
-      "Julia Kristeva",
       "Kurt Gödel",
       "Otto Weininger"
     ],
@@ -12264,10 +12281,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg",
     "relations": [
       "Benito Mussolini",
-      "Franklin D. Roosevelt",
+      "Carl Gustaf Emil Mannerheim",
       "Kurt von Schleicher",
-      "Mustafa Kemal Atatürk",
-      "Toni Morrison"
+      "Mustafa Kemal Atatürk"
     ],
     "themes": [
       "World War II",
@@ -12292,7 +12308,6 @@ const RAW_DATA = [
       "Anton Chekhov",
       "Arthur Conan Doyle",
       "F. Scott Fitzgerald",
-      "Marcel Proust",
       "Natsume Sōseki"
     ],
     "themes": []
@@ -12679,7 +12694,7 @@ const RAW_DATA = [
     "fullName": "Albert Einstein (Theory of Relativity, E=mc²)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/500px-Albert_Einstein_Head_cleaned.jpg",
     "relations": [
-      "Joseph John Thomson",
+      "Dorothy Maud Wrinch",
       "Linus Pauling",
       "Remo Ruffini",
       "Rosalind Franklin",
@@ -12864,6 +12879,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg",
     "relations": [
       "Henri Matisse",
+      "Ingrid Bergman",
       "Jean-Antoine Watteau",
       "Kazimir Malevich",
       "Niko Pirosmani"
@@ -13104,11 +13120,11 @@ const RAW_DATA = [
     "fullName": "Franklin D. Roosevelt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
     "relations": [
+      "Carl Gustaf Emil Mannerheim",
       "Claire Lee Chennault",
       "Dwight D. Eisenhower",
       "Harry Truman",
-      "Theodore Roosevelt",
-      "Winston Churchill"
+      "Theodore Roosevelt"
     ],
     "themes": [
       "World War II"
@@ -13784,6 +13800,7 @@ const RAW_DATA = [
     "relations": [
       "Bong Joon-ho",
       "Buster Keaton",
+      "Ingrid Bergman",
       "Maurice Ravel"
     ],
     "themes": []
@@ -13875,9 +13892,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Hồ Biểu Chánh",
       "Phạm Duy Tốn",
-      "Thế Lữ",
-      "Xuân Diệu"
+      "Thế Lữ"
     ],
     "themes": [
       "Tho Moi"
@@ -14024,10 +14041,10 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/De_Gaulle-OWI.jpg",
     "relations": [
+      "Carl Gustaf Emil Mannerheim",
       "Dwight D. Eisenhower",
       "Francisco Franco",
       "Otto Strasser",
-      "Sukarno",
       "Tomas Masaryk"
     ]
   },
@@ -14141,9 +14158,9 @@ const RAW_DATA = [
     "fullName": "Akutagawa Ryūnosuke (芥川龍之介, Father of Japanese short story)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Akutagawa_portrait_Akutagawa_Sakuhinshu_6.jpg",
     "relations": [
-      "Ernest Hemingway",
       "F. Scott Fitzgerald",
-      "Kawabata Yasunari"
+      "Kawabata Yasunari",
+      "Matsuo Bashō"
     ],
     "themes": []
   },
@@ -14856,8 +14873,7 @@ const RAW_DATA = [
     "relations": [
       "Claude Lévi-Strauss",
       "Melanie Klein",
-      "Otto Rank",
-      "Sigmund Freud"
+      "Otto Rank"
     ]
   },
   {
@@ -14987,9 +15003,9 @@ const RAW_DATA = [
     "fullName": "Ernest Hemingway (Ernest Miller Hemingway, Papa)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ernest_Hemingway_1923_passport_photo.jpg",
     "relations": [
-      "Akutagawa Ryūnosuke",
       "Federico García Lorca",
       "J.R.R. Tolkien",
+      "Mark Twain",
       "Nguyễn Huy Thiệp",
       "Willa Cather"
     ],
@@ -15183,8 +15199,8 @@ const RAW_DATA = [
     "fullName": "Hans-Georg Gadamer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hans-Georg_Gadamer.jpg/500px-Hans-Georg_Gadamer.jpg",
     "relations": [
+      "Arthur Schopenhauer",
       "Georg W. F. Hegel",
-      "Jean-Paul Sartre",
       "Johann Gottfried Herder"
     ],
     "themes": []
@@ -15327,7 +15343,6 @@ const RAW_DATA = [
     "fullName": "Sukarno (Kusno Sosrodihardjo)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Presiden_Sukarno_%28retouched%29.jpg/500px-Presiden_Sukarno_%28retouched%29.jpg",
     "relations": [
-      "Charles de Gaulle",
       "Chế Bồng Nga",
       "Juan José Arévalo",
       "Ngô Đình Diệm"
@@ -15395,6 +15410,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Hồng Phong",
       "Lương Nhữ Hộc",
+      "Phạm Hồng Thái",
       "Đoàn Trần Nghiệp"
     ],
     "themes": [
@@ -15835,9 +15851,9 @@ const RAW_DATA = [
     "fullName": "Jean-Paul Sartre (Jean-Paul Charles Aymard Sartre, Existentialism)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/500px-Jean_Paul_Sartre_1965.jpg",
     "relations": [
-      "August Strindberg",
-      "Hans-Georg Gadamer",
       "Hubert Dreyfus",
+      "Iris Murdoch",
+      "Izydora Dąmbska",
       "Marguerite Duras",
       "Trần Đức Thảo"
     ],
@@ -15960,7 +15976,6 @@ const RAW_DATA = [
     "relations": [
       "Hoàng Quốc Việt",
       "Khorloogiin Choibalsan",
-      "Khúc Hạo",
       "Nguyễn Văn Cừ",
       "Đoàn Trần Nghiệp"
     ],
@@ -16054,8 +16069,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurt_g%C3%B6del.jpg",
     "relations": [
       "Alan Turing",
+      "Alfred Tarski",
       "Bertrand Russell",
-      "Gottfried Wilhelm Leibniz",
       "Paul Erdős"
     ],
     "themes": []
@@ -16118,9 +16133,11 @@ const RAW_DATA = [
     "fullName": "Nhất Linh (Nguyễn Tường Tam)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/H%E1%BB%99i_Ngh%E1%BB%8B_%C4%90%C3%A0_L%E1%BA%A1t_%28cropped%29.jpg",
     "relations": [
+      "Bình Nguyên Lộc",
       "Huy Cận",
+      "Hồ Biểu Chánh",
       "Khái Hưng",
-      "Thế Lữ"
+      "Vũ Khắc Khoan"
     ],
     "themes": []
   },
@@ -16265,8 +16282,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Dương Quảng Hàm",
+      "Hồ Dzếnh",
       "Nguyễn Bính",
-      "Nhất Linh",
       "Tản Đà",
       "Tế Hanh"
     ],
@@ -16336,8 +16353,8 @@ const RAW_DATA = [
     "fullName": "Simone de Beauvoir",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/500px-Simone_De_Beauvoir_%28cropped%29.jpg",
     "relations": [
-      "Henri Bergson",
       "Hélène Cixous",
+      "Iris Murdoch",
       "Kimberle Crenshaw",
       "Trần Đức Thảo",
       "Vittorio Pini"
@@ -16587,8 +16604,8 @@ const RAW_DATA = [
     "fullName": "Akira Kurosawa (Kurosawa Akira, Tenno - The Emperor of cinema)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
     "relations": [
-      "Andrei Tarkovsky",
       "Fujiko Fujio",
+      "Roberto Rossellini",
       "Sen no Rikyū",
       "Theo Angelopoulos",
       "Władysław Szpilman"
@@ -16918,9 +16935,10 @@ const RAW_DATA = [
     "fullName": "Vũ Trọng Phụng (Ông vua phóng sự đất Bắc, Số đỏ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vu_Trong_Phung.jpg",
     "relations": [
+      "Bình Nguyên Lộc",
       "Hàn Mặc Tử",
       "Italo Calvino",
-      "Xuân Diệu"
+      "Vũ Khắc Khoan"
     ],
     "themes": []
   },
@@ -17082,9 +17100,10 @@ const RAW_DATA = [
     "fullName": "Albert Camus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/500px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg",
     "relations": [
+      "Andre Maurois",
       "Federico García Lorca",
       "Franz Kafka",
-      "Fyodor Dostoyevsky",
+      "Izydora Dąmbska",
       "Marguerite Duras"
     ],
     "themes": [
@@ -17428,11 +17447,11 @@ const RAW_DATA = [
     "fullName": "Xuân Diệu (Ngô Xuân Diệu, ông hoàng thơ tình)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Xuandieupoet.jpg",
     "relations": [
-      "Bùi Giáng",
-      "Chế Lan Viên",
+      "Bình Nguyên Lộc",
+      "Hồ Biểu Chánh",
+      "Hồ Dzếnh",
       "Quách Tấn",
-      "Tản Đà",
-      "Vũ Trọng Phụng"
+      "Vũ Khắc Khoan"
     ],
     "themes": [
       "Tho Moi"
@@ -17817,6 +17836,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_of_poet_Huy_C%E1%BA%ADn_%28cropped%29.jpg",
     "relations": [
       "Cù Huy Hà Vũ",
+      "Hồ Dzếnh",
       "Nguyên Hồng",
       "Nhất Linh",
       "Thâm Tâm"
@@ -18420,7 +18440,7 @@ const RAW_DATA = [
       "Literature"
     ],
     "nationality": "French",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rene_Girard_2007.jpg/500px-Rene_Girard_2007.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ren%C3%A9_Girard.jpg/500px-Ren%C3%A9_Girard.jpg",
     "themes": [],
     "relations": [
       "Gilles Deleuze",
@@ -18674,6 +18694,7 @@ const RAW_DATA = [
     "relations": [
       "Anna May Wong",
       "Frank Sinatra",
+      "Ingrid Bergman",
       "John Lennon"
     ],
     "themes": []
@@ -18740,7 +18761,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/41/Buigiang-chandung.jpg",
     "relations": [
       "Nguyễn Bỉnh Khiêm",
-      "Xuân Diệu",
+      "Nguyễn Du",
       "Đặng Đức Siêu"
     ],
     "themes": []
@@ -19313,9 +19334,9 @@ const RAW_DATA = [
     "fullName": "Jean-Luc Godard",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
     "relations": [
+      "Roberto Rossellini",
       "Sergei Parajanov",
       "Theo Angelopoulos",
-      "Yilmaz Güney",
       "Yves Saint-Laurent",
       "Éric Rohmer"
     ],
@@ -19605,7 +19626,6 @@ const RAW_DATA = [
     "fullName": "Andrei Tarkovsky (Andrei Arsenievich Tarkovsky, Андрей Тарковский)",
     "image": "https://d2csxpduxe849s.cloudfront.net/media/7F8951FF-19D4-45D4-B982D6125B7E7BD3/0BE90231-536D-4EBE-9B24BC53C9116824/600D6BB2-2679-4EE1-8AEF4B6EC15C8FB3/web%20hires%20jpg%2072dpi-Andrei%20Arsenyevich%20Tarkovsky.jpg",
     "relations": [
-      "Akira Kurosawa",
       "Alain Resnais",
       "Fujiko Fujio",
       "Sergei Parajanov"
@@ -19937,7 +19957,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Dương Nghiễm Mậu (Dương Nghiêm Mậu, Phí Ích Nghiễm)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/C%E1%BB%9D_Ng%C5%A9_s%E1%BA%AFc_%28Vietnam%27s_five-color_flag%29.png/500px-C%E1%BB%9D_Ng%C5%A9_s%E1%BA%AFc_%28Vietnam%27s_five-color_flag%29.png",
+    "image": "",
     "relations": [
       "Du Tử Lê",
       "Gabriel García Márquez",
@@ -20004,7 +20024,6 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Jack Nicholson",
-      "Jean-Luc Godard",
       "Nuri Bilge Ceylan",
       "Sally Potter"
     ],
@@ -20343,7 +20362,7 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "fullName": "Cao Hành Kiện (Gao Xingjian, 高行健)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cao_Van_Binh.png",
+    "image": "",
     "relations": [
       "Annie Ernaux",
       "Hélène Cixous",
@@ -20488,7 +20507,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Julia_Kristeva_%C3%A0_Paris_en_2008.jpg",
     "relations": [
       "Adam Smith",
-      "Bertrand Russell",
       "Han Byung-chul",
       "Jacques Derrida",
       "Otto Weininger"
@@ -20783,10 +20801,11 @@ const RAW_DATA = [
     "fullName": "Bobby Fischer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/500px-Bobby_Fischer_1972.jpg",
     "relations": [
+      "Akiba Rubinstein",
+      "Alexander Alekhine",
       "Anatoly Karpov",
-      "Garry Kasparov",
-      "Hikaru Nakamura",
-      "Magnus Carlsen"
+      "José Raúl Capablanca",
+      "Judit Polgár"
     ],
     "themes": [
       "Chess"
@@ -21545,7 +21564,7 @@ const RAW_DATA = [
     "relations": [
       "Ernest Hemingway",
       "Marcel Proust",
-      "Virginia Woolf"
+      "Trịnh Hoài Đức"
     ],
     "themes": []
   },
@@ -22593,7 +22612,7 @@ const RAW_DATA = [
     ],
     "nationality": "Chinese",
     "fullName": "Hân Nhiên (Tiết Hân Nhiên, Xinran, 薛欣然)",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hayfestival-2016-Xin-Ran.jpg/500px-Hayfestival-2016-Xin-Ran.jpg",
     "relations": [
       "Bắc Đảo",
       "Mạc Ngôn",
@@ -22796,7 +22815,7 @@ const RAW_DATA = [
       "Ayrton Senna",
       "Garrincha",
       "Graeme Souness",
-      "Mario Kempes",
+      "Osvaldo Ardiles",
       "Pierluigi Collina"
     ],
     "themes": [
@@ -23157,7 +23176,9 @@ const RAW_DATA = [
       "Jack Ma",
       "Todd Boehly"
     ],
-    "themes": []
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1963,
@@ -23245,8 +23266,8 @@ const RAW_DATA = [
       "Alireza Firouzja",
       "Anatoly Karpov",
       "Ayrton Senna",
-      "Bobby Fischer",
-      "Gukesh D"
+      "Gukesh D",
+      "Judit Polgár"
     ],
     "themes": [
       "Chess"
@@ -23334,7 +23355,7 @@ const RAW_DATA = [
     ],
     "nationality": "Japanese",
     "fullName": "Aoyama Gōshō (Gosho Aoyama, 青山 剛昌)",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gosho_Aoyama.jpg/500px-Gosho_Aoyama.jpg",
     "relations": [
       "Hako Yamasaki",
       "Kim Ki-duk",
@@ -23563,7 +23584,9 @@ const RAW_DATA = [
       "Lôi Quân",
       "Todd Boehly"
     ],
-    "themes": []
+    "themes": [
+      "Football"
+    ]
   },
   {
     "title": "Trịnh Xuân Thanh",
@@ -24224,7 +24247,9 @@ const RAW_DATA = [
       "Roman Abramovich",
       "Vitalik Buterin"
     ],
-    "themes": []
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1973,
@@ -24793,7 +24818,6 @@ const RAW_DATA = [
       "Maria Sharapova",
       "Oscar Pistorius",
       "Rafael Nadal",
-      "Serena Williams",
       "Simona Halep"
     ],
     "themes": [
@@ -24815,11 +24839,11 @@ const RAW_DATA = [
     "fullName": "Roger Federer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roger_Federer_2015_%28cropped%29.jpg/500px-Roger_Federer_2015_%28cropped%29.jpg",
     "relations": [
-      "Andy Murray",
       "John McEnroe",
+      "Kim Clijsters",
       "Nick Kyrgios",
       "Pete Sampras",
-      "Steffi Graf"
+      "Petra Kvitova"
     ],
     "themes": [
       "Tennis"
@@ -24840,10 +24864,10 @@ const RAW_DATA = [
     "fullName": "Serena Williams",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg",
     "relations": [
+      "Kim Clijsters",
       "Maria Sharapova",
       "Pete Sampras",
-      "Steffi Graf",
-      "Venus Williams",
+      "Petra Kvitova",
       "Victoria Azarenka"
     ],
     "themes": [
@@ -25062,9 +25086,9 @@ const RAW_DATA = [
     "relations": [
       "Pavel Nedved",
       "Ronaldinho",
-      "Sir Alex Ferguson",
       "Stephen Curry",
-      "Tim Cahill"
+      "Tim Cahill",
+      "Vozinha"
     ],
     "themes": [
       "Football"
@@ -25220,7 +25244,6 @@ const RAW_DATA = [
     "fullName": "Hikaru Nakamura",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nakamura_Hikaru_%2829290269410%29_%28cropped%29_%28cropped%29.jpg",
     "relations": [
-      "Bobby Fischer",
       "IShowSpeed",
       "Ian Nepomniachtchi",
       "Lê Quang Liêm",
@@ -25295,7 +25318,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg/500px-2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg",
     "relations": [
       "Jannik Sinner",
-      "Roger Federer",
       "Rory McIlroy",
       "Simona Halep"
     ],
@@ -25535,9 +25557,9 @@ const RAW_DATA = [
     "relations": [
       "Alireza Firouzja",
       "Anatoly Karpov",
-      "Bobby Fischer",
       "Gukesh D",
-      "Ian Nepomniachtchi"
+      "Ian Nepomniachtchi",
+      "Judit Polgár"
     ],
     "themes": [
       "Chess"
@@ -25763,10 +25785,10 @@ const RAW_DATA = [
     "fullName": "Mohamed Salah",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
     "relations": [
-      "Erling Haaland",
       "Kylian Mbappé",
       "Lamine Yamal",
-      "Sadio Mané"
+      "Sadio Mané",
+      "Vozinha"
     ],
     "themes": [
       "Football"
@@ -25815,7 +25837,8 @@ const RAW_DATA = [
       "Erling Haaland",
       "Kylian Mbappé",
       "Mohamed Salah",
-      "Shohei Ohtani"
+      "Shohei Ohtani",
+      "Vozinha"
     ],
     "themes": [
       "Football"
@@ -26397,7 +26420,7 @@ const RAW_DATA = [
     "relations": [
       "Kylian Mbappé",
       "Luka Doncic",
-      "Mohamed Salah",
+      "Paavo Nurmi",
       "Sadio Mané",
       "s1mple"
     ],
@@ -26729,11 +26752,11 @@ const RAW_DATA = [
     "fullName": "Virginia Woolf (Adeline Virginia Stephen)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/500px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
     "relations": [
-      "Margaret Atwood",
-      "Nguyễn Huy Thiệp",
+      "Iris Murdoch",
       "Nikos Kazantzakis",
       "Phan Kế Bính",
-      "Rosalind Miles"
+      "Rosalind Miles",
+      "Saki"
     ],
     "themes": [
       "Feminism Movement"
@@ -26849,7 +26872,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Hữu Chỉnh (Chim Hải Đông, Điện tiền tướng quân)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vietnam1650.GIF",
+    "image": "",
     "relations": [
       "Lê Chiêu Thống",
       "Nguyễn Cư Trinh",
@@ -27451,7 +27474,7 @@ const RAW_DATA = [
     "born": 1878,
     "died": 1951,
     "desc": "Nhà soạn nhạc, nghệ sĩ dương cầm và nhạc trưởng người Phần Lan.",
-    "nationality": "Finnish",
+    "nationality": "Scandinavian",
     "primary_tag": "Art",
     "tags": [
       "Art"
@@ -27493,7 +27516,7 @@ const RAW_DATA = [
     "born": 1868,
     "died": 1924,
     "desc": "Nhà soạn nhạc, nhà phê bình âm nhạc, nghệ sĩ dương cầm và nghệ sĩ đại phong cầm người Phần Lan.",
-    "nationality": "Finnish",
+    "nationality": "Scandinavian",
     "primary_tag": "Art",
     "tags": [
       "Art"
@@ -27514,7 +27537,7 @@ const RAW_DATA = [
     "born": 1883,
     "died": 1918,
     "desc": "Nhà soạn nhạc và nhạc trưởng người Phần Lan, học trò của Jean Sibelius.",
-    "nationality": "Finnish",
+    "nationality": "Scandinavian",
     "primary_tag": "Art",
     "tags": [
       "Art"
@@ -27737,7 +27760,6 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Cristiano Ronaldo",
       "Graeme Souness",
       "Jari Litmanen",
       "Park Ji-sung",
@@ -28084,6 +28106,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/500px-Gukesh_in_2025_%28cropped%29.jpg",
     "relations": [
       "Alireza Firouzja",
+      "Ernest Rutherford",
       "Garry Kasparov",
       "Magnus Carlsen"
     ]
@@ -28105,9 +28128,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg/500px-Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg",
     "relations": [
       "Boris Becker",
-      "Rafael Nadal",
-      "Roger Federer",
-      "Serena Williams"
+      "Kim Clijsters",
+      "Petra Kvitova",
+      "Rafael Nadal"
     ]
   },
   {
@@ -28127,9 +28150,10 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/500px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
     "relations": [
+      "Dorothy Maud Wrinch",
       "Eugène Ysaÿe",
-      "Joseph John Thomson",
-      "Marie Curie"
+      "Gukesh D",
+      "Joseph John Thomson"
     ]
   },
   {
@@ -28338,6 +28362,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/6/6f/Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg/250px-Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg",
     "relations": [
       "Bùi Bằng Đoàn",
+      "Huy Đức",
       "Phạm Đoan Trang",
       "Trần Độ"
     ]
@@ -28359,6 +28384,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/a/a4/Trung_tuong_Tran_Do.jpg",
     "relations": [
       "Bùi Tín",
+      "Huy Đức",
       "Trần Văn Trà",
       "Võ Nguyên Giáp"
     ]
@@ -28423,7 +28449,8 @@ const RAW_DATA = [
     "relations": [
       "Aung San Suu Kyi",
       "Bùi Tín",
-      "Cù Huy Hà Vũ"
+      "Cù Huy Hà Vũ",
+      "Huy Đức"
     ]
   },
   {
@@ -28461,7 +28488,7 @@ const RAW_DATA = [
       "Bat dong chinh kien VN"
     ],
     "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ph%C3%B9ng_Kh%C3%A1nh_Linh_n%C4%83m_2025.jpg/500px-Ph%C3%B9ng_Kh%C3%A1nh_Linh_n%C4%83m_2025.jpg",
+    "image": "",
     "relations": [
       "Nguyễn Hữu Đang",
       "Phan Khôi",
@@ -28643,6 +28670,8 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Edmund_Husserl_1910s.jpg/500px-Edmund_Husserl_1910s.jpg",
     "relations": [
+      "Alexius Meinong",
+      "Franz Brentano",
       "Martin Heidegger",
       "Tomáš Masaryk",
       "Trần Đức Thảo"
@@ -28858,12 +28887,13 @@ const RAW_DATA = [
     "tags": [
       "Sport"
     ],
-    "nationality": "Other",
+    "nationality": "Scandinavian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg/500px-F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg",
     "relations": [
       "Lewis Hamilton",
       "Max Verstappen",
-      "Michael Schumacher"
+      "Michael Schumacher",
+      "Paavo Nurmi"
     ],
     "themes": []
   },
@@ -29634,7 +29664,8 @@ const RAW_DATA = [
     "relations": [
       "Hoàng Hoa Thám",
       "Phan Bội Châu",
-      "Phan Châu Trinh"
+      "Phan Châu Trinh",
+      "Phạm Hồng Thái"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -29832,7 +29863,7 @@ const RAW_DATA = [
     "fullName": "Joseph John Thomson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J.J_Thomson.jpg/500px-J.J_Thomson.jpg",
     "relations": [
-      "Albert Einstein",
+      "Ada Lovelace",
       "Ernest Rutherford",
       "Niels Bohr"
     ],
@@ -29903,11 +29934,11 @@ const RAW_DATA = [
     "fullName": "Toni Morrison",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toni_Morrison_2008.jpg/500px-Toni_Morrison_2008.jpg",
     "relations": [
+      "Gwendolyn Brooks",
       "Kimberle Crenshaw",
-      "Margaret Atwood",
+      "Maxine Hong Kingston",
       "Rosalind Miles",
-      "Willa Cather",
-      "Winston Churchill"
+      "Willa Cather"
     ],
     "themes": [
       "Giai Nobel"
@@ -30407,6 +30438,7 @@ const RAW_DATA = [
     "fullName": "Giuseppe Tartini",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png/500px-Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png",
     "relations": [
+      "Alexander Rybak",
       "Antonio Vivaldi",
       "Arcangelo Corelli",
       "Johann Sebastian Bach"
@@ -30472,6 +30504,7 @@ const RAW_DATA = [
     "fullName": "Arcangelo Corelli",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg/500px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg",
     "relations": [
+      "Alexander Rybak",
       "Antonio Vivaldi",
       "Claudio Monteverdi",
       "Giuseppe Tartini"
@@ -30540,8 +30573,8 @@ const RAW_DATA = [
     "relations": [
       "Gabriel García Márquez",
       "Kimberle Crenshaw",
-      "Toni Morrison",
-      "Virginia Woolf"
+      "Maxine Hong Kingston",
+      "Theresa Hak Kyung Cha"
     ],
     "themes": [
       "Feminism Movement"
@@ -30613,6 +30646,7 @@ const RAW_DATA = [
     "relations": [
       "Kawabata Yasunari",
       "Mạc Ngôn",
+      "Theresa Hak Kyung Cha",
       "Ōe Kenzaburo"
     ],
     "themes": []
@@ -30632,8 +30666,8 @@ const RAW_DATA = [
     "fullName": "Mario Alberto Kempes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kempes_Valencia_CF.jpg",
     "relations": [
-      "Diego Maradona",
       "Johan Cruyff",
+      "Osvaldo Ardiles",
       "Pelé"
     ],
     "themes": [
@@ -30656,6 +30690,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Di_Stefano_1959.jpg/500px-Di_Stefano_1959.jpg",
     "relations": [
       "Ferenc Puskás",
+      "Osvaldo Ardiles",
       "Pelé",
       "Santiago Bernabéu"
     ],
@@ -30766,7 +30801,7 @@ const RAW_DATA = [
     "tags": [
       "Sport"
     ],
-    "nationality": "European",
+    "nationality": "Scandinavian",
     "fullName": "Michael Laudrup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Michael_Laudrup_2016c_%28cropped%29.jpg/500px-Michael_Laudrup_2016c_%28cropped%29.jpg",
     "relations": [
@@ -30789,10 +30824,11 @@ const RAW_DATA = [
     "tags": [
       "Sport"
     ],
-    "nationality": "European",
+    "nationality": "Scandinavian",
     "fullName": "Brian Laudrup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Brian-Laudrup-Darren-Laver-Lars-Hogh_%28cropped%29.jpg",
     "relations": [
+      "Eidur Gudjohnsen",
       "Michael Laudrup",
       "Ronaldinho",
       "Zinedine Zidane"
@@ -30812,11 +30848,13 @@ const RAW_DATA = [
     "tags": [
       "Sport"
     ],
-    "nationality": "European",
+    "nationality": "Scandinavian",
     "fullName": "Jari Olavi Litmanen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Litmanen_jari.jpg/500px-Litmanen_jari.jpg",
     "relations": [
+      "Eidur Gudjohnsen",
       "Johan Cruyff",
+      "Paavo Nurmi",
       "Sir Alex Ferguson",
       "Zinedine Zidane"
     ],
@@ -30839,6 +30877,7 @@ const RAW_DATA = [
     "fullName": "Park Ji-sung",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Park_Ji-sung_G20_Seoul_Summit_Ambassador_%28cropped%29.jpg",
     "relations": [
+      "Eidur Gudjohnsen",
       "Park Hang-seo",
       "Sir Alex Ferguson",
       "Son Heung-min"
@@ -31119,8 +31158,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Hàn Mặc Tử",
-      "Quách Tấn",
-      "Xuân Diệu"
+      "Hồ Xuân Hương",
+      "Quách Tấn"
     ],
     "themes": [
       "Tho Moi",
@@ -31169,6 +31208,1015 @@ const RAW_DATA = [
       "Hàm Nghi",
       "Nguyễn Duy Hiệu",
       "Phan Châu Trinh"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1816,
+    "died": 1855,
+    "title": "Charlotte Bronte",
+    "desc": "Nhà văn, nhà thơ người Anh, chị cả trong ba chị em nhà Brontë nổi tiếng. Tác phẩm kinh điển nhất của bà là 'Jane Eyre', một kiệt tác văn học thế giới kết hợp giữa phong cách Gothic và hiện thực xã hội.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "British",
+    "fullName": "Charlotte Brontë",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
+    "relations": [
+      "Emily Bronte",
+      "Jane Austen",
+      "Saki"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1818,
+    "died": 1848,
+    "title": "Emily Bronte",
+    "desc": "Nhà văn, nhà thơ người Anh, nổi tiếng với tiểu thuyết duy nhất 'Đồi gió hú' (Wuthering Heights) - một tác phẩm đầy đam mê, thù hận và tính dữ dội được coi là kiệt tác của văn học thời kỳ Victoria.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "British",
+    "fullName": "Emily Jane Brontë",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
+    "relations": [
+      "Charlotte Bronte",
+      "Jane Austen",
+      "William Wordsworth"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1835,
+    "died": 1910,
+    "title": "Mark Twain",
+    "desc": "Được mệnh danh là 'cha đẻ của văn học Mỹ', tác giả của 'Những cuộc phiêu lưu của Tom Sawyer' và 'Những cuộc phiêu lưu của Huckleberry Finn'. Ông nổi tiếng với văn phong trào phúng, hiện thực xã hội sắc bén.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "American",
+    "fullName": "Samuel Langhorne Clemens",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/500px-Mark_Twain_by_AF_Bradley.jpg",
+    "relations": [
+      "Ernest Hemingway",
+      "Gwendolyn Brooks",
+      "Lev Tolstoy"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1951,
+    "died": 1982,
+    "title": "Theresa Hak Kyung Cha",
+    "desc": "Nhà văn, nghệ sĩ đa phương tiện người Mỹ gốc Hàn. Tác phẩm nổi tiếng nhất của bà là cuốn sách thử nghiệm 'Dictee' (1982) kết hợp nhiều thể loại để khám phá căn tính, lịch sử và chấn thương di cư.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Art"
+    ],
+    "nationality": "American",
+    "fullName": "Theresa Hak Kyung Cha",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Theresa_Hak_Kyung_Cha_%28Barnes%2C_1980%29.png",
+    "relations": [
+      "Margaret Atwood",
+      "Maxine Hong Kingston",
+      "Yoko Ogawa"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1986,
+    "died": 1987,
+    "title": "Alexander Rybak",
+    "desc": "Ca sĩ, nghệ sĩ vĩ cầm và nhà soạn nhạc người Na Uy gốc Belarus. Ông nổi tiếng thế giới sau khi giành chiến thắng kỷ lục tại cuộc thi Eurovision Song Contest 2009 với ca khúc 'Fairytale'.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Alexander Igoryevich Rybak",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg/500px-Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg",
+    "relations": [
+      "Arcangelo Corelli",
+      "Edvard Grieg",
+      "Giuseppe Tartini"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1962,
+    "died": 1963,
+    "title": "Huy Đức",
+    "desc": "Nhà báo, nhà văn và nhà hoạt động bất đồng chính kiến nổi tiếng Việt Nam. Ông là tác giả cuốn sách tài liệu lịch sử chính trị 'Bên thắng cuộc' gây tiếng vang lớn trên thế giới.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trương Huy San",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Huy_Duc.JPG/500px-Huy_Duc.JPG",
+    "relations": [
+      "Bùi Tín",
+      "Phạm Đoan Trang",
+      "Trần Độ"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ]
+  },
+  {
+    "born": 1895,
+    "died": 1924,
+    "title": "Phạm Hồng Thái",
+    "desc": "Nhà hoạt động cách mạng yêu nước Việt Nam đời đầu chống Pháp, thành viên Tâm Tâm Xã. Ông nổi tiếng với vụ ám sát hụt Toàn quyền Đông Dương Merlin tại Sa Diện (Quảng Châu) và gieo mình xuống dòng Châu Giang tuẫn tiết.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Hồng Thái",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/PhamHongThai.jpg",
+    "relations": [
+      "Nguyễn Thái Học",
+      "Phan Bội Châu",
+      "Tăng Bạt Hổ"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1978,
+    "died": 1979,
+    "title": "Eidur Gudjohnsen",
+    "desc": "Cựu tiền đạo lừng danh người Iceland, cầu thủ vĩ đại nhất lịch sử nước này. Anh từng khoác áo các CLB hàng đầu như Chelsea, Barcelona và vô địch UEFA Champions League năm 2009.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Eiður Smári Guðjohnsen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg/500px-Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg",
+    "relations": [
+      "Brian Laudrup",
+      "Jari Litmanen",
+      "Park Ji-sung"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1940,
+    "died": 1941,
+    "title": "Maxine Hong Kingston",
+    "desc": "Nữ nhà văn người Mỹ gốc Hoa, nổi tiếng với cuốn tiểu thuyết đầu tay 'The Woman Warrior' (Nữ chiến binh). Bà có đóng góp lớn trong việc định hình văn học Mỹ gốc Á và phong trào nữ quyền.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "American",
+    "fullName": "Maxine Hong Kingston",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Maxine_Hong_Kingston_by_David_Shankbone.jpg/500px-Maxine_Hong_Kingston_by_David_Shankbone.jpg",
+    "relations": [
+      "Margaret Atwood",
+      "Theresa Hak Kyung Cha",
+      "Toni Morrison"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1917,
+    "died": 2000,
+    "title": "Gwendolyn Brooks",
+    "desc": "Nữ nhà thơ nổi tiếng người Mỹ, tác giả da màu đầu tiên trong lịch sử giành giải Pulitzer (1950) cho tập thơ 'Annie Allen'. Các tác phẩm của bà phản ánh sâu sắc đời sống người da màu đô thị.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "American",
+    "fullName": "Gwendolyn Elizabeth Brooks",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gwendolyn_Brooks_ACME_1950.jpg/500px-Gwendolyn_Brooks_ACME_1950.jpg",
+    "relations": [
+      "Edgar Allan Poe",
+      "Mark Twain",
+      "Toni Morrison"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1885,
+    "died": 1967,
+    "title": "Andre Maurois",
+    "desc": "Nhà văn, nhà viết tiểu sử nổi tiếng người Pháp, thành viên Viện Hàn lâm Pháp. Ông được biết đến nhiều nhất với các tác phẩm viết tiểu sử xuất sắc của các danh nhân văn hóa như Marcel Proust, Shelley và Balzac.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "French",
+    "fullName": "Émile Salomon Wilhelm Herzog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Maurois_Harcourt_1936.jpg",
+    "relations": [
+      "Albert Camus",
+      "Jean de La Fontaine",
+      "Marcel Proust"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1870,
+    "died": 1916,
+    "title": "Saki",
+    "desc": "Nhà văn người Anh nổi tiếng dưới bút danh Saki. Ông là bậc thầy truyện ngắn thời kỳ Edward, nổi tiếng với phong cách viết trào phúng, châm biếm và những kết thúc đầy bất ngờ, châm chọc xã hội thượng lưu.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "British",
+    "fullName": "Hector Hugh Munro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg/500px-Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg",
+    "relations": [
+      "Charlotte Bronte",
+      "Oscar Wilde",
+      "Virginia Woolf"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1952,
+    "died": 1953,
+    "title": "Osvaldo Ardiles",
+    "desc": "Cựu tiền vệ bóng đá huyền thoại người Argentina, nhà vô địch World Cup 1978. Ông là một trong những ngôi sao nước ngoài đầu tiên thành công rực rỡ và được yêu mến nồng nhiệt tại giải Ngoại hạng Anh trong màu áo Tottenham Hotspur.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Latin American",
+    "fullName": "Osvaldo César Ardiles",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Osvaldo_Ardiles_%281981%29.jpg/500px-Osvaldo_Ardiles_%281981%29.jpg",
+    "relations": [
+      "Alfredo Di Stefano",
+      "Diego Maradona",
+      "Mario Kempes"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1892,
+    "died": 1946,
+    "title": "Alexander Alekhine",
+    "desc": "Kỳ thủ cờ vua vĩ đại người Nga và Pháp, nhà vô địch cờ vua thế giới thứ 4 (1927–1935, 1937–1946). Ông nổi tiếng với lối chơi tấn công bão táp, đầy tính chiến thuật sáng tạo và là người duy nhất qua đời khi đang giữ vương miện thế giới.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Russian",
+    "fullName": "Alexander Alexandrovich Alekhine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexandre_Alekhine_01.jpg/500px-Alexandre_Alekhine_01.jpg",
+    "relations": [
+      "Akiba Rubinstein",
+      "Bobby Fischer",
+      "José Raúl Capablanca"
+    ],
+    "themes": [
+      "Chess"
+    ]
+  },
+  {
+    "born": 1888,
+    "died": 1942,
+    "title": "José Raúl Capablanca",
+    "desc": "Kỳ thủ cờ vua huyền thoại người Cuba, nhà vô địch cờ vua thế giới thứ 3 (1921–1927). Được mệnh danh là 'Cỗ máy cờ vua' nhờ nhãn quan cờ tàn hoàn hảo và lối chơi tối giản, chuẩn xác cực kỳ hiếm khi mắc sai lầm.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Latin American",
+    "fullName": "José Raúl Capablanca y Graupera",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jos%C3%A9_Ra%C3%BAl_Capablanca_1931.jpg",
+    "relations": [
+      "Akiba Rubinstein",
+      "Alexander Alekhine",
+      "Bobby Fischer"
+    ],
+    "themes": [
+      "Chess"
+    ]
+  },
+  {
+    "born": 1880,
+    "died": 1961,
+    "title": "Akiba Rubinstein",
+    "desc": "Đại kiện tướng cờ vua huyền thoại người Ba Lan. Ông là một trong những kỳ thủ xuất sắc nhất đầu thế kỷ 20, nổi tiếng với những đóng góp nền tảng cho lý thuyết khai cuộc và được coi là một trong những bậc thầy cờ tàn vĩ đại nhất lịch sử.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "fullName": "Akiba Kiwelowicz Rubinstein",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Akiba-RubinsteinC.jpg",
+    "relations": [
+      "Alexander Alekhine",
+      "Bobby Fischer",
+      "José Raúl Capablanca"
+    ],
+    "themes": [
+      "Chess"
+    ]
+  },
+  {
+    "born": 1976,
+    "died": 1977,
+    "title": "Judit Polgár",
+    "desc": "Đại kiện tướng cờ vua người Hungary, được công nhận rộng rãi là nữ kỳ thủ cờ vua vĩ đại nhất mọi thời đại. Bà là người phụ nữ duy nhất từng lọt vào top 10 thế giới và từng đánh bại 11 nhà vô địch cờ vua thế giới trong sự nghiệp.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "fullName": "Judit Polgár",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Judit_Polg%C3%A1r_2013.jpg/500px-Judit_Polg%C3%A1r_2013.jpg",
+    "relations": [
+      "Bobby Fischer",
+      "Garry Kasparov",
+      "Magnus Carlsen"
+    ],
+    "themes": [
+      "Chess"
+    ]
+  },
+  {
+    "born": 1990,
+    "died": 1991,
+    "title": "Petra Kvitova",
+    "fullName": "Petra Kvitová",
+    "desc": "Tay vợt quần vợt chuyên nghiệp người Cộng hòa Séc, nổi tiếng với lối chơi tấn công mạnh mẽ bằng tay trái và cú giao bóng đầy uy lực. Bà đã giành được hai chức vô địch đơn nữ Wimbledon danh giá (2011, 2014) và cúp vô địch Fed Cup nhiều năm.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg/500px-Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg",
+    "relations": [
+      "Roger Federer",
+      "Serena Williams",
+      "Steffi Graf"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1983,
+    "died": 1984,
+    "title": "Kim Clijsters",
+    "fullName": "Kim Clijsters",
+    "desc": "Cựu tay vợt quần vợt chuyên nghiệp người Bỉ, cựu số 1 thế giới ở cả nội dung đánh đơn và đánh đôi. Cô đã giành được 4 chức vô địch Grand Slam đơn nữ (3 US Open, 1 Australian Open) và nổi tiếng với lối chơi bền bỉ cùng tính cách thân thiện, fair-play.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/500px-Kim_Clijsters.jpg",
+    "relations": [
+      "Roger Federer",
+      "Serena Williams",
+      "Steffi Graf"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1915,
+    "died": 1982,
+    "title": "Ingrid Bergman",
+    "fullName": "Ingrid Bergman",
+    "desc": "Nữ diễn viên huyền thoại người Thụy Điển, một trong những minh tinh vĩ đại nhất lịch sử điện ảnh Hollywood và thế giới. Bà nổi tiếng với các vai diễn trong phim Casablanca, Gaslight, Notorious, từng giành được 3 giải Oscar danh giá.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ingrid_Bergman_by_Whitey_Schafer_1940.jpg/500px-Ingrid_Bergman_by_Whitey_Schafer_1940.jpg",
+    "relations": [
+      "Charlie Chaplin",
+      "Marilyn Monroe",
+      "Pablo Picasso",
+      "Roberto Rossellini"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1914,
+    "died": 1987,
+    "title": "Bình Nguyên Lộc",
+    "fullName": "Tô Văn Tuấn",
+    "desc": "Nhà văn, nhà văn hóa, nhà khảo cứu ngôn ngữ học và dân tộc học Nam Bộ lỗi lạc của Việt Nam. Ông là tác giả của nhiều tác phẩm văn chương đặc sắc ghi lại nếp sống, tâm lý con người Nam Bộ như Hương quê, Đò dọc, và công trình khảo cứu Nguồn gốc dung mạo người Việt.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Nhất Linh",
+      "Vũ Trọng Phụng",
+      "Xuân Diệu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1916,
+    "died": 1991,
+    "title": "Hồ Dzếnh",
+    "fullName": "Hà Triệu Anh",
+    "desc": "Nhà thơ, nhà văn Việt Nam gốc Hoa, nổi tiếng với giọng thơ nhẹ nhàng, u sầu, hoài niệm tình quê và tình cảm gia đình đậm đà. Tập thơ Quê ngoại và tập truyện ngắn Chân trời cũ của ông là những tác phẩm bất hủ trong nền văn học hiện đại Việt Nam.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Huy Cận",
+      "Thế Lữ",
+      "Xuân Diệu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1884,
+    "died": 1958,
+    "title": "Hồ Biểu Chánh",
+    "fullName": "Hồ Văn Trung",
+    "desc": "Nhà văn tiên phong đặt nền móng cho tiểu thuyết hiện đại Việt Nam, đặc biệt là văn học Nam Bộ đầu thế kỷ 20. Ông là tác giả cực kỳ sung mãn với hàng chục tiểu thuyết đặc sắc phản ánh sâu sắc đạo đức, đời sống xã hội Nam Bộ như Cay đắng mùi đời, Cha con nghĩa nặng.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png/500px-Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png",
+    "relations": [
+      "Nhất Linh",
+      "Tản Đà",
+      "Xuân Diệu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1917,
+    "died": 1986,
+    "title": "Vũ Khắc Khoan",
+    "fullName": "Vũ Khắc Khoan",
+    "desc": "Nhà viết kịch, nhà văn, nhà biên khảo sân khấu tên tuổi của Việt Nam, giáo sư trường Quốc gia Âm nhạc và Kịch nghệ Sài Gòn. Ông có phong cách sáng tác trí tuệ, đi sâu vào triết lý nhân sinh với các vở kịch kinh điển như Thành Cát Tư Hãn, Thần Tháp Rùa.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Nhất Linh",
+      "Vũ Trọng Phụng",
+      "Xuân Diệu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1718,
+    "died": 1799,
+    "title": "Maria Gaetana Agnesi",
+    "fullName": "Maria Gaetana Agnesi",
+    "desc": "Nhà toán học, triết học và nhà hoạt động nhân đạo người Ý. Bà là người phụ nữ đầu tiên viết sách giáo khoa toán học (giải tích) và là người phụ nữ đầu tiên được bổ nhiệm làm giáo sư toán học tại một trường đại học (Đại học Bologna).",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maria_Gaetana_Agnesi.jpg",
+    "relations": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Leonhard Euler"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1904,
+    "died": 1983,
+    "title": "Izydora Dąmbska",
+    "fullName": "Izydora Dąmbska",
+    "desc": "Nhà triết học, dịch giả và nhà logic học lỗi lạc người Ba Lan, thuộc trường phái Lwów-Warsaw nổi tiếng. Bà đóng góp sâu sắc cho lý thuyết nhận thức, triết học ngôn ngữ và lịch sử triết học, đồng thời là biểu tượng của tinh thần tự do học thuật bất khuất dưới các chế độ độc tài.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "",
+    "relations": [
+      "Albert Camus",
+      "Bertrand Russell",
+      "Jean-Paul Sartre"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1510,
+    "died": 1556,
+    "title": "Tullia d'Aragona",
+    "fullName": "Tullia d'Aragona",
+    "desc": "Nữ thi sĩ, triết gia và tác giả người Ý thời Phục Hưng. Tác phẩm Đối thoại về sự vô tận của tình yêu của bà là một đóng góp triết học độc đáo thảo luận về tình yêu Platon dưới góc nhìn nữ quyền và trí tuệ độc lập, thách thức các chuẩn mực xã hội thời bấy giờ.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Moretto_da_Brescia_-_Portrait_of_Tullia_d%27Aragona_as_Salome_-_WGA16230.jpg",
+    "relations": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Niccolò Machiavelli"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1838,
+    "died": 1917,
+    "title": "Franz Brentano",
+    "fullName": "Franz Clemens Honoratus Hermann Brentano",
+    "desc": "Nhà triết học, tâm lý học người Đức nổi tiếng, người đặt nền móng cho hiện tượng học hiện đại với khái niệm 'tính ý hướng' (intentionality). Những bài giảng của ông tại Đại học Vienna đã ảnh hưởng sâu sắc đến Edmund Husserl, Sigmund Freud và Alexius Meinong.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Franz_Brentano_in_Vienna%2C_1890_%28cropped%29.png",
+    "relations": [
+      "Alexius Meinong",
+      "Edmund Husserl",
+      "Kazimierz Twardowski",
+      "Wilhelm Wundt"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1901,
+    "died": 1983,
+    "title": "Alfred Tarski",
+    "fullName": "Alfred Tarski",
+    "desc": "Nhà logic học, toán học và triết học lỗi lạc người Ba Lan gốc Do Thái, thành viên của trường phái Lwów-Warsaw. Ông được coi là một trong bốn nhà logic học vĩ đại nhất mọi thời đại (cùng với Aristotle, Gottlob Frege và Kurt Gödel), nổi tiếng với định nghĩa ngữ nghĩa về chân lý.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alfred_Tarski_1968_%28as-is%2C_cropped%29_%28cropped%29.jpg",
+    "relations": [
+      "Jan Łukasiewicz",
+      "Kazimierz Twardowski",
+      "Kurt Gödel"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1878,
+    "died": 1956,
+    "title": "Jan Łukasiewicz",
+    "fullName": "Jan Łukasiewicz",
+    "desc": "Nhà logic học và triết học lỗi lạc người Ba Lan, giáo sư trường phái Lwów-Warsaw. Ông nổi tiếng với việc phát minh ra logic đa trị (logic ba trị), ký pháp Ba Lan (Polish notation) không cần dùng dấu ngoặc, và những nghiên cứu tiên phong về lịch sử logic học.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jan_%C5%81ukasiewicz_NAC.jpg",
+    "relations": [
+      "Alfred Tarski",
+      "Kazimierz Twardowski",
+      "Stanisław Leśniewski",
+      "Tadeusz Kotarbiński"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1886,
+    "died": 1939,
+    "title": "Stanisław Leśniewski",
+    "fullName": "Stanisław Leśniewski",
+    "desc": "Nhà logic học và triết học xuất sắc người Ba Lan, giáo sư toán học tại Đại học Warsaw và là thành viên hàng đầu của trường phái Lwów-Warsaw. Ông nổi tiếng với các hệ thống logic hình thức độc đáo bao gồm Đệ nhất học (Protothetic), Bản thể học (Ontology) và Mereology.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stanislaw_Lesniewski_%2869447640%29_%28cropped%29.jpg",
+    "relations": [
+      "Jan Łukasiewicz",
+      "Kazimierz Twardowski",
+      "Tadeusz Kotarbiński"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1866,
+    "died": 1938,
+    "title": "Kazimierz Twardowski",
+    "fullName": "Kazimierz Jerzy Adolf Ritter von Oesinger Twardowski",
+    "desc": "Nhà triết học lỗi lạc người Ba Lan, người sáng lập trường phái logic-triết học Lwów-Warsaw nổi tiếng. Ông là học trò xuất sắc của Franz Brentano và đã đưa tinh thần duy lý, phân tích khoa học và sự chuẩn xác logic vào triết học Ba Lan.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kazimierz_Twardowski_1933.jpg",
+    "relations": [
+      "Alfred Tarski",
+      "Franz Brentano",
+      "Jan Łukasiewicz",
+      "Stanisław Leśniewski",
+      "Tadeusz Kotarbiński"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1886,
+    "died": 1981,
+    "title": "Tadeusz Kotarbiński",
+    "fullName": "Tadeusz Marian Kotarbiński",
+    "desc": "Nhà triết học, logic học lỗi lạc người Ba Lan, một trong những đại diện tiêu biểu nhất của trường phái Lwów-Warsaw. Ông nổi tiếng với chủ nghĩa thực nghiệm duy vật (Reism), lý thuyết hành động hiệu quả (Praxeology) và là một nhà sư phạm vĩ đại.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tadeusz_Kotarbi%C5%84ski.jpg",
+    "relations": [
+      "Jan Łukasiewicz",
+      "Kazimierz Twardowski",
+      "Stanisław Leśniewski"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1853,
+    "died": 1920,
+    "title": "Alexius Meinong",
+    "fullName": "Alexius Meinong Ritter von Handschuchsheim",
+    "desc": "Nhà triết học người Áo, giáo sư tại Đại học Graz, nổi tiếng với việc sáng lập 'Thuyết đối tượng' (Gegenstandstheorie), một nhánh bản thể học nghiên cứu cả các đối tượng không tồn tại trên thực tế (như núi vàng, vòng tròn vuông).",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alexius_Meinong_1900.jpg",
+    "relations": [
+      "Bertrand Russell",
+      "Edmund Husserl",
+      "Franz Brentano"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1721,
+    "died": 1793,
+    "title": "Im Yunjidang",
+    "fullName": "Im Yunjidang",
+    "desc": "Nữ triết gia Nho học nổi bật thời Joseon (Triều Tiên). Trong một xã hội phụ hệ cực kỳ hà khắc, bà đã khẳng định mạnh mẽ rằng phụ nữ có năng lực đạo đức và trí tuệ tương đương nam giới, đồng thời có thể đạt đến cảnh giới thánh nhân thông qua tu dưỡng bản thân.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Others",
+    "image": "",
+    "relations": [
+      "Chu Hi",
+      "Khổng Tử",
+      "Mạnh Tử"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1631,
+    "died": 1679,
+    "title": "Anne Conway",
+    "fullName": "Anne Conway, Viscountess Conway",
+    "desc": "Nữ triết gia người Anh thế kỷ 17 thuộc trường phái Tân Platon Cambridge. Tác phẩm triết học duy nhất của bà, giới thiệu thế giới quan nhất nguyên luận tinh thần độc đáo gồm các thực thể gọi là 'monad' (đơn tử), đã ảnh hưởng trực tiếp đến triết học của Leibniz.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "British",
+    "image": "",
+    "relations": [
+      "Gottfried Wilhelm Leibniz",
+      "John Locke",
+      "René Descartes"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1894,
+    "died": 1976,
+    "title": "Dorothy Maud Wrinch",
+    "fullName": "Dorothy Maud Wrinch",
+    "desc": "Nhà toán học và lý thuyết sinh hóa người Anh, nổi tiếng với mô hình 'cyclol' đột phá về cấu trúc protein dựa trên các liên kết peptide gấp nếp. Bà là người phụ nữ đầu tiên nhận bằng Tiến sĩ Khoa học của Đại học Oxford.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dorothy_Maud_Wrinch_1921.jpg/500px-Dorothy_Maud_Wrinch_1921.jpg",
+    "relations": [
+      "Albert Einstein",
+      "Ernest Rutherford",
+      "Marie Curie"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1906,
+    "died": 1977,
+    "title": "Roberto Rossellini",
+    "fullName": "Roberto Gastone Zeffiro Rossellini",
+    "desc": "Đạo diễn điện ảnh huyền thoại người Ý, một trong những người tiên phong vĩ đại nhất của trào lưu Tân hiện thực Ý (Italian Neorealism). Tác phẩm Rome, Open City (1945) của ông là một kiệt tác kinh điển của lịch sử điện ảnh thế giới.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Roberto_Rossellini.jpg",
+    "relations": [
+      "Akira Kurosawa",
+      "Ingrid Bergman",
+      "Jean-Luc Godard"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1919,
+    "died": 1999,
+    "title": "Iris Murdoch",
+    "fullName": "Dame Jean Iris Murdoch",
+    "desc": "Nữ văn sĩ và triết gia lỗi lạc người Anh-Ireland. Bà nổi tiếng với các tiểu thuyết đi sâu vào các vấn đề đạo đức, cái thiện, cái ác và đời sống nội tâm sâu sắc như Under the Net, The Bell, The Sea, The Sea (đoạt giải Booker).",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "nationality": "British",
+    "image": "",
+    "relations": [
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "Virginia Woolf"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ]
+  },
+  {
+    "born": 1832,
+    "died": 1920,
+    "title": "Wilhelm Wundt",
+    "fullName": "Wilhelm Maximilian Wundt",
+    "desc": "Nhà sinh lý học, triết học và tâm lý học người Đức, được công nhận rộng rãi là 'Cha đẻ của Tâm lý học Thực nghiệm'. Ông là người đầu tiên thành lập phòng thí nghiệm tâm lý học chính thức tại Đại học Leipzig năm 1879.",
+    "color": "#2ec4b6",
+    "position": "bottom",
+    "primary_tag": "Medical",
+    "tags": [
+      "Medical"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wilhelm_Wundt.jpg",
+    "relations": [
+      "Franz Brentano",
+      "Friedrich Nietzsche",
+      "Sigmund Freud"
+    ],
+    "themes": [
+      "Psychoanalysis"
+    ]
+  },
+  {
+    "born": 1867,
+    "died": 1951,
+    "title": "Carl Gustaf Emil Mannerheim",
+    "fullName": "Baron Carl Gustaf Emil Mannerheim",
+    "desc": "Thống chế quân đội, anh hùng dân tộc và Tổng thống thứ 6 của Phần Lan. Ông là tổng tư lệnh tối cao lãnh đạo Phần Lan bảo vệ nền độc lập trước Liên Xô trong Chiến tranh Mùa đông và Chiến tranh Tiếp diễn thời Thế chiến II.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mannerheim1940.jpg",
+    "relations": [
+      "Charles de Gaulle",
+      "Franklin D. Roosevelt",
+      "Winston Churchill"
+    ],
+    "themes": [
+      "World War II"
+    ]
+  },
+  {
+    "born": 1914,
+    "died": 2001,
+    "title": "Tove Jansson",
+    "fullName": "Tove Marika Jansson",
+    "desc": "Nữ nhà văn, họa sĩ và họa sĩ minh họa người Phần Lan nói tiếng Thụy Điển, người sáng tạo ra loạt truyện và truyện tranh kinh điển về gia đình Moomin - biểu tượng văn hóa toàn cầu. Bà được trao huy chương Hans Christian Andersen năm 1966.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tove_Jansson_with_flower_crown_001.tiff/lossy-page1-500px-Tove_Jansson_with_flower_crown_001.tiff.jpg",
+    "relations": [
+      "August Strindberg",
+      "Edvard Munch",
+      "Henrik Ibsen"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1897,
+    "died": 1973,
+    "title": "Paavo Nurmi",
+    "fullName": "Paavo Johannes Nurmi",
+    "desc": "Vận động viên điền kinh huyền thoại người Phần Lan chạy cự ly trung bình và dài, được mệnh danh là 'Người Phần Lan bay'. Ông thống trị điền kinh thế giới thập niên 1920 với 9 huy chương Vàng và 3 huy chương Bạc qua ba kỳ Thế vận hội Olympic.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg",
+    "relations": [
+      "Erling Haaland",
+      "Jari Litmanen",
+      "Kimi Raikkonen"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1986,
+    "died": 1987,
+    "title": "Vozinha",
+    "fullName": "Josimar José Évora Dias",
+    "desc": "Thủ môn bóng đá chuyên nghiệp người Cape Verde, người gác đền kỳ cựu và biểu tượng của đội tuyển quốc gia nước này với hơn 70 lần ra sân. Anh đã đại diện Cape Verde tham dự nhiều kỳ Cúp bóng đá châu Phi (AFCON) và vòng loại World Cup.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "African",
+    "image": "",
+    "relations": [
+      "Cristiano Ronaldo",
+      "Mohamed Salah",
+      "Sadio Mané"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 874,
+    "died": 937,
+    "title": "Dương Đình Nghệ",
+    "fullName": "Dương Đình Nghệ",
+    "desc": "Hào trưởng Ái Châu (Thanh Hóa), vị tướng giành độc lập tự chủ cho Việt Nam thời tự chủ trước nhà Ngô. Năm 931, ông đem quân đánh đuổi quân Nam Hán chiếm thành Đại La và tự xưng là Tiết độ sứ. Ông bị nha tướng Kiều Công Tiễn phản bội ám sát.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Khúc Hạo",
+      "Kiều Công Tiễn",
+      "Ngô Quyền"
+    ],
+    "themes": []
+  },
+  {
+    "born": 870,
+    "died": 938,
+    "title": "Kiều Công Tiễn",
+    "fullName": "Kiều Công Tiễn",
+    "desc": "Nha tướng và con nuôi của Dương Đình Nghệ, người đã phản bội ám sát ông vào năm 937 để đoạt chức Tiết độ sứ Tĩnh Hải quân. Sự phản trắc này dẫn đến việc Ngô Quyền thảo phạt và tiêu diệt ông, châm ngòi cho trận Bạch Đằng năm 938.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Dương Đình Nghệ",
+      "Khúc Hạo",
+      "Ngô Quyền"
     ],
     "themes": []
   }
