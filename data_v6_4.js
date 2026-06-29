@@ -9616,6 +9616,7 @@ const RAW_DATA = [
     "relations": [
       "Florence Nightingale",
       "Gregor Mendel",
+      "Hamma Alloh",
       "William T. G. Morton",
       "Đồ U U"
     ],
@@ -12902,7 +12903,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg",
     "relations": [
       "David Rosenhan",
-      "Lev Vygotsky",
+      "Hamma Alloh",
       "Thomas Hunt Morgan",
       "William Bateson",
       "Đồ U U"
@@ -14661,7 +14662,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lev_Vygotsky_1896-1934.jpg",
     "relations": [
       "Abraham Maslow",
-      "Alexander Fleming",
       "Klaus Fuchs",
       "Melanie Klein"
     ],
@@ -17563,7 +17563,6 @@ const RAW_DATA = [
     "fullName": "Indira Gandhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/500px-IndiraGandhi.png",
     "relations": [
-      "Fidel Castro",
       "Mahatma Gandhi",
       "Margaret Thatcher",
       "Patrice Lumumba",
@@ -17697,9 +17696,11 @@ const RAW_DATA = [
     "fullName": "Nelson Mandela",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg",
     "relations": [
+      "José Mujica",
       "Léopold Sédar Senghor",
       "Rosa Parks",
-      "Salvador Allende"
+      "Salvador Allende",
+      "Thomas Sankara"
     ],
     "themes": [
       "Giai Nobel"
@@ -18580,7 +18581,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Baroness_Thatcher_in_2005.jpg/500px-Baroness_Thatcher_in_2005.jpg",
     "relations": [
       "Elizabeth II",
-      "Fidel Castro",
       "Indira Gandhi",
       "Pol Pot"
     ],
@@ -18693,6 +18693,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monroecirca1953.jpg",
     "relations": [
       "Anna May Wong",
+      "Asia Argento",
       "Frank Sinatra",
       "Ingrid Bergman",
       "John Lennon"
@@ -18827,11 +18828,11 @@ const RAW_DATA = [
     "fullName": "Fidel Castro",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fidel_Castro_1950s.jpg",
     "relations": [
-      "Indira Gandhi",
-      "Margaret Thatcher",
+      "José Mujica",
       "Martin Luther King Jr.",
       "Pol Pot",
-      "Raul Castro"
+      "Raul Castro",
+      "Thomas Sankara"
     ],
     "themes": []
   },
@@ -18967,7 +18968,6 @@ const RAW_DATA = [
     "relations": [
       "Alfredo Di Stefano",
       "Otto Rehhagel",
-      "Park Hang-seo",
       "Santiago Bernabéu",
       "Thân Nhân Trung"
     ],
@@ -19113,9 +19113,10 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
     "relations": [
       "Ali Shariati",
-      "Muammar Gaddafi",
+      "José Mujica",
       "Pol Pot",
-      "Raul Castro"
+      "Raul Castro",
+      "Thomas Sankara"
     ],
     "themes": []
   },
@@ -20157,7 +20158,6 @@ const RAW_DATA = [
     "fullName": "Alberto Fujimori",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg",
     "relations": [
-      "Donald Trump",
       "Isabel Perón",
       "Jaime Roldós Aguilera",
       "Jorge Rafael Videla",
@@ -20439,7 +20439,6 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Alberto Fujimori",
-      "Donald Trump",
       "Isabel Perón",
       "Saddam Hussein"
     ]
@@ -20711,7 +20710,6 @@ const RAW_DATA = [
     "nationality": "African",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg",
     "relations": [
-      "Che Guevara",
       "Hossein Mousavi",
       "Hugo Chávez",
       "Raul Castro"
@@ -21094,9 +21092,9 @@ const RAW_DATA = [
     "fullName": "Donald Trump",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg",
     "relations": [
-      "Alberto Fujimori",
-      "Barack Obama",
-      "Jaime Roldós Aguilera",
+      "Jimmy Fallon",
+      "Jimmy Kimmel",
+      "Kim Kardashian",
       "Silvio Berlusconi",
       "Ted Kennedy"
     ],
@@ -21691,6 +21689,7 @@ const RAW_DATA = [
     "fullName": "Harvey Weinstein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Harvey_Weinstein_2011_Shankbone.JPG/500px-Harvey_Weinstein_2011_Shankbone.JPG",
     "relations": [
+      "Asia Argento",
       "Dung Hà",
       "Jeffrey Epstein",
       "Osama bin Laden"
@@ -22208,6 +22207,7 @@ const RAW_DATA = [
     "relations": [
       "Alexandre Dumas con",
       "Béla Bartók",
+      "Hamma Alloh",
       "Shimon Sakaguchi"
     ],
     "themes": []
@@ -22453,8 +22453,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Park_Hang-seo_1_%28cropped%29.JPG",
     "relations": [
       "Ange Postecoglou",
-      "Ferenc Puskás",
       "Henrique Calisto",
+      "Lê Công Vinh",
+      "Lê Thụy Hải",
       "Park Ji-sung"
     ],
     "themes": [
@@ -22977,7 +22978,6 @@ const RAW_DATA = [
       "Antonio Guterres",
       "Ban Ki-moon",
       "Dmitry Medvedev",
-      "Donald Trump",
       "Thái Anh Văn"
     ],
     "themes": [
@@ -24005,6 +24005,7 @@ const RAW_DATA = [
     "relations": [
       "Ariane de Rothschild",
       "Edward Snowden",
+      "Kim Kardashian",
       "Lôi Quân",
       "Todd Boehly"
     ],
@@ -24356,9 +24357,10 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hoang_Xuan_Vinh.jpg/500px-Hoang_Xuan_Vinh.jpg",
     "relations": [
       "Lance Armstrong",
-      "Lee Chong Wei",
       "Lê Bá Khánh Trình",
-      "Michael Phelps"
+      "Michael Phelps",
+      "Nguyễn Trần Duy Nhất",
+      "Phạm Văn Mách"
     ],
     "themes": []
   },
@@ -24933,7 +24935,6 @@ const RAW_DATA = [
     "fullName": "Lee Chong Wei",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lee_Chong_Wei%2C_SEA_Games_2017_%28cropped%29.jpg",
     "relations": [
-      "Hoàng Xuân Vinh",
       "Lance Armstrong",
       "Lin Dan",
       "Michael Phelps",
@@ -25246,7 +25247,6 @@ const RAW_DATA = [
     "relations": [
       "IShowSpeed",
       "Ian Nepomniachtchi",
-      "Lê Quang Liêm",
       "Nguyễn Ngọc Trường Sơn"
     ],
     "themes": [
@@ -25691,9 +25691,10 @@ const RAW_DATA = [
     "fullName": "Lê Quang Liêm",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Le_Quang_Liem_%2830055222482%29.jpg/500px-Le_Quang_Liem_%2830055222482%29.jpg",
     "relations": [
-      "Hikaru Nakamura",
       "Nguyễn Ngọc Trường Sơn",
+      "Nguyễn Trần Duy Nhất",
       "Phùng Thanh Độ",
+      "Phạm Văn Mách",
       "Đinh Lập Nhân"
     ],
     "themes": [
@@ -25811,7 +25812,6 @@ const RAW_DATA = [
     "relations": [
       "Danny Blanchflower",
       "Igor Akinfeev",
-      "Nguyễn Quang Hải",
       "Nguyễn Xuân Son",
       "Park Ji-sung"
     ],
@@ -26103,7 +26103,9 @@ const RAW_DATA = [
     "relations": [
       "Anna Shcherbakova",
       "Michael Phelps",
-      "Nguyễn Ngọc Trường Sơn"
+      "Nguyễn Ngọc Trường Sơn",
+      "Nguyễn Trần Duy Nhất",
+      "Phạm Văn Mách"
     ],
     "themes": []
   },
@@ -26192,9 +26194,9 @@ const RAW_DATA = [
     "relations": [
       "Igor Akinfeev",
       "Khvicha Kvaratskhelia",
-      "Mickey van de Ven",
-      "Nguyễn Xuân Son",
-      "Son Heung-min"
+      "Lê Công Vinh",
+      "Lê Thụy Hải",
+      "Nguyễn Xuân Son"
     ],
     "themes": [
       "Football"
@@ -26511,8 +26513,7 @@ const RAW_DATA = [
     "relations": [
       "Khvicha Kvaratskhelia",
       "Lamine Yamal",
-      "Luka Doncic",
-      "Nguyễn Quang Hải"
+      "Luka Doncic"
     ],
     "themes": [
       "Football"
@@ -29500,7 +29501,7 @@ const RAW_DATA = [
       "Political"
     ],
     "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/b/b9/L%C3%AA_Minh_H%C6%B0ng_02052026.jpg/500px-L%C3%AA_Minh_H%C6%B0ng_02052026.jpg",
+    "image": "",
     "relations": [
       "Nguyễn Xuân Phúc",
       "Phạm Minh Chính",
@@ -32035,6 +32036,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Roberto_Rossellini.jpg",
     "relations": [
       "Akira Kurosawa",
+      "Asia Argento",
       "Ingrid Bergman",
       "Jean-Luc Godard"
     ],
@@ -32217,6 +32219,244 @@ const RAW_DATA = [
       "Dương Đình Nghệ",
       "Khúc Hạo",
       "Ngô Quyền"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1985,
+    "died": 1986,
+    "title": "Lê Công Vinh",
+    "fullName": "Lê Công Vinh",
+    "desc": "Cựu cầu thủ bóng đá chuyên nghiệp người Việt Nam, được đánh giá là một trong những tiền đạo xuất sắc nhất lịch sử bóng đá Đông Nam Á. Anh giữ kỷ lục ghi nhiều bàn thắng nhất cho Đội tuyển quốc gia Việt Nam (51 bàn thắng).",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cong_Vinh.png",
+    "relations": [
+      "Lê Thụy Hải",
+      "Nguyễn Quang Hải",
+      "Park Hang-seo"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1946,
+    "died": 2021,
+    "title": "Lê Thụy Hải",
+    "fullName": "Lê Thụy Hải",
+    "desc": "Cựu cầu thủ và huấn luyện viên bóng đá chuyên nghiệp người Việt Nam. Ông là một trong những chiến lược gia thành công nhất V.League với 3 chức vô địch cùng CLB Becamex Bình Dương và cá tính bộc trực, mạnh mẽ đặc trưng.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Le_Thuy_Hai.png",
+    "relations": [
+      "Lê Công Vinh",
+      "Nguyễn Quang Hải",
+      "Park Hang-seo"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1976,
+    "died": 1977,
+    "title": "Phạm Văn Mách",
+    "fullName": "Phạm Văn Mách",
+    "desc": "Vận động viên thể hình chuyên nghiệp hàng đầu của Việt Nam. Anh là huyền thoại của thể hình Việt Nam với 5 lần vô địch thế giới và nhiều lần vô địch châu Á ở hạng cân 55kg, đồng thời tích cực tham gia các hoạt động giải trí.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Hoàng Xuân Vinh",
+      "Lê Quang Liêm",
+      "Nguyễn Thị Ánh Viên"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1989,
+    "died": 1990,
+    "title": "Nguyễn Trần Duy Nhất",
+    "fullName": "Nguyễn Trần Duy Nhất",
+    "desc": "Vận động viên võ thuật chuyên nghiệp người Việt Nam, được mệnh danh là 'Độc cô cầu bại' của làng Muay Thái Việt Nam. Anh đã giành nhiều chức vô địch thế giới nghiệp dư thế giới và huy chương vàng SEA Games danh giá.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/NGUY%E1%BB%84N_TR%E1%BA%A6N_DUY_NH%E1%BA%A4T_%E2%80%93_CALL_ME_BY_FIRE_VIETNAM_%E2%80%93_P2.jpg",
+    "relations": [
+      "Hoàng Xuân Vinh",
+      "Lê Quang Liêm",
+      "Nguyễn Thị Ánh Viên"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1980,
+    "died": 1981,
+    "title": "Kim Kardashian",
+    "fullName": "Kimberly Noel Kardashian",
+    "desc": "Ngôi sao truyền hình thực tế, doanh nhân và biểu tượng truyền thông nổi tiếng người Mỹ. Cô trở nên nổi tiếng toàn cầu thông qua chương trình truyền hình Keeping Up with the Kardashians và là người sáng lập thương hiệu nội y Skims trị giá hàng tỷ USD.",
+    "color": "#aaaaaa",
+    "position": "bottom",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kim_Kardashian_West_2014.jpg",
+    "relations": [
+      "Donald Trump",
+      "Elon Musk",
+      "Jimmy Fallon",
+      "Jimmy Kimmel"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1967,
+    "died": 1968,
+    "title": "Jimmy Kimmel",
+    "fullName": "James Christian Kimmel",
+    "desc": "Người dẫn chương trình truyền hình, diễn viên hài và nhà sản xuất người Mỹ. Ông là người dẫn chương trình và sáng lập talkshow đêm muộn ăn khách Jimmy Kimmel Live! của đài ABC, đồng thời nhiều lần vinh dự dẫn chương trình lễ trao giải Oscar.",
+    "color": "#aaaaaa",
+    "position": "bottom",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jimmy_Kimmel_June_2022.jpg",
+    "relations": [
+      "Donald Trump",
+      "Jimmy Fallon",
+      "Kim Kardashian"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1974,
+    "died": 1975,
+    "title": "Jimmy Fallon",
+    "fullName": "James Thomas Fallon",
+    "desc": "Người dẫn chương trình truyền hình, diễn viên hài và diễn viên người Mỹ. Ông nổi tiếng toàn cầu với vai trò người dẫn chương trình talkshow đêm muộn huyền thoại The Tonight Show Starring Jimmy Fallon của đài NBC và từng là thành viên của Saturday Night Live.",
+    "color": "#aaaaaa",
+    "position": "bottom",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg",
+    "relations": [
+      "Donald Trump",
+      "Jimmy Kimmel",
+      "Kim Kardashian"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1975,
+    "died": 1976,
+    "title": "Asia Argento",
+    "fullName": "Asia Aria Maria Vittoria Rossa Argento",
+    "desc": "Nữ diễn viên, đạo diễn và ca sĩ người Ý. Cô nổi tiếng với các bộ phim độc lập gai góc, hoạt động nghệ thuật đa diện và là một trong những nhà hoạt động tiên phong hàng đầu thúc đẩy phong trào MeToo trên toàn thế giới.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Asia_Argento_in_2019.jpg",
+    "relations": [
+      "Harvey Weinstein",
+      "Marilyn Monroe",
+      "Roberto Rossellini"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1949,
+    "died": 1987,
+    "title": "Thomas Sankara",
+    "fullName": "Thomas Isidore Noël Sankara",
+    "desc": "Nhà cách mạng Marxist, sĩ quan quân đội kiêm Tổng thống Burkina Faso từ 1983 đến 1987. Được ví như 'Che Guevara của châu Phi', ông đã thực hiện các chương trình cải cách xã hội, kinh tế và nữ quyền quy mô lớn trước khi bị ám sát.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "African",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png",
+    "relations": [
+      "Che Guevara",
+      "Fidel Castro",
+      "Nelson Mandela"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1987,
+    "died": 2023,
+    "title": "Hamma Alloh",
+    "fullName": "Hammam Alloh",
+    "desc": "Bác sĩ chuyên khoa thận người Palestine tại Bệnh viện Al-Shifa ở Gaza. Anh đã dũng cảm từ chối di tản để ở lại chăm sóc bệnh nhân trong cuộc xung đột năm 2023, trở thành biểu tượng quốc tế về lòng tận tụy với y đức trước khi qua đời trong một đợt không kích.",
+    "color": "#2ec4b6",
+    "position": "bottom",
+    "primary_tag": "Medical",
+    "tags": [
+      "Medical"
+    ],
+    "nationality": "Arab",
+    "image": "",
+    "relations": [
+      "Alexander Fleming",
+      "Katalin Karikó",
+      "Louis Pasteur"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1935,
+    "died": 1936,
+    "title": "José Mujica",
+    "fullName": "José Alberto Mujica Cordano",
+    "desc": "Cựu tổng thống Uruguay, cựu chiến binh du kích Tupamaros, nổi tiếng toàn cầu là 'vị tổng thống nghèo nhất thế giới'. Ông đã quyên góp phần lớn tiền lương của mình cho tổ chức từ thiện và duy trì lối sống giản dị, khắc kỷ tại trang trại của mình.",
+    "color": "#858ae3",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Latin American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mujica.jpg",
+    "relations": [
+      "Che Guevara",
+      "Fidel Castro",
+      "Nelson Mandela"
     ],
     "themes": []
   }
