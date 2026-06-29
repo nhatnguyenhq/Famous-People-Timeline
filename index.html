@@ -5665,7 +5665,8 @@
         let desc = q.desc || '';
         const stopWords = new Set([
           'of', 'the', 'de', 'da', 'di', 'von', 'der', 'and', 'del', 'du', 'la', 'le',
-          'i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x'
+          'i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x',
+          'nam', 'việt'
         ]);
 
         const rawTokens = [];
@@ -5681,10 +5682,20 @@
         const tokensToHide = [];
         const seen = new Set();
 
+        const isVietnamese = q.nationality === 'Vietnamese';
+        let firstWord = '';
+        if (isVietnamese) {
+          const parts = q.title.trim().split(/[\s\-,\(\)]+/);
+          if (parts.length > 0) {
+            firstWord = parts[0].trim().toLowerCase();
+          }
+        }
+
         // Add full names first so they are replaced before individual words
         [q.title, q.fullName].forEach(name => {
           if (name && name.trim() && name.trim().length > 2) {
             const val = name.trim();
+            if (isVietnamese) return;
             if (!seen.has(val.toLowerCase())) {
               tokensToHide.push(val);
               seen.add(val.toLowerCase());
@@ -5696,6 +5707,7 @@
           const lower = tok.toLowerCase();
           if (lower.length < 2) return;
           if (stopWords.has(lower)) return;
+          if (isVietnamese && lower === firstWord) return;
           if (seen.has(lower)) return;
           tokensToHide.push(tok);
           seen.add(lower);
@@ -5708,7 +5720,11 @@
         tokensToHide.forEach(tok => {
           const escaped = tok.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
           const regex = new RegExp(`(?<=^|[^a-zA-Z0-9\\u00C0-\\u017F\\u1EA0-\\u1EF9])${escaped}(?=$|[^a-zA-Z0-9\\u00C0-\\u017F\\u1EA0-\\u1EF9])`, 'gi');
-          desc = desc.replace(regex, '___');
+          desc = desc.replace(regex, (match) => {
+            const firstChar = match.charAt(0);
+            const isCapitalized = firstChar === firstChar.toUpperCase() && firstChar !== firstChar.toLowerCase();
+            return isCapitalized ? '___' : match;
+          });
         });
 
         document.getElementById('quiz-desc').textContent = desc;

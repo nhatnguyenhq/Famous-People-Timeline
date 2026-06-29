@@ -160,8 +160,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg/500px-F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
     "relations": [
       "Thương Ưởng",
-      "Marianne Bachmeier",
-      "Zarathustra"
+      "Montesquieu",
+      "Flora Tristan"
     ],
     "themes": []
   },
@@ -181,8 +181,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/King_Tang_of_Shang.jpg",
     "relations": [
       "Y Doãn",
-      "Khuất Nguyên",
-      "Hạng Vũ"
+      "Trụ Vương",
+      "Khuất Nguyên"
     ],
     "themes": []
   },
@@ -222,9 +222,9 @@ const RAW_DATA = [
     "fullName": "Tutankhamun",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
     "relations": [
-      "Anders Celsius",
-      "Nikola Tesla",
-      "Phan Châu Trinh"
+      "Lý Thái Tổ",
+      "Patrick Gordon",
+      "Anders Celsius"
     ],
     "themes": []
   },
@@ -253,7 +253,7 @@ const RAW_DATA = [
     "born": -1105,
     "died": -1046,
     "title": "Trụ Vương",
-    "desc": "Vị vua cuối cùng của triều đại nhà Thương của Trung Quốc cổ đại.",
+    "desc": "Vị vua cuối cùng của triều đại nhà Thương thời Trung Quốc cổ đại, khét tiếng trong lịch sử và tác phẩm dân gian \"Phong thần diễn nghĩa\" bởi tính cách bạo ngược và cuộc sống hoang dâm vô độ bên mỹ nhân Đát Kỷ. Sự cai trị tàn độc của ông đã dẫn đến việc Chu Vũ Vương dấy binh lật đổ nhà Thương và thành lập nhà Chu.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -264,9 +264,9 @@ const RAW_DATA = [
     "fullName": "Trụ Vương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg",
     "relations": [
-      "Khương Tử Nha",
-      "Y Doãn",
-      "Thành Thang"
+      "Quan Vũ",
+      "Lý Bạch",
+      "Hoàng Phủ Tung"
     ],
     "themes": []
   },
@@ -963,7 +963,7 @@ const RAW_DATA = [
     "born": -356,
     "died": -323,
     "title": "Alexander Đại Đế",
-    "desc": "Nhà cai trị và lãnh đạo quân sự Macedonia cổ đại, người đã tạo ra một trong những đế chế lớn nhất trong lịch sử.",
+    "desc": "Vua của vương quốc Macedonia cổ đại, người đã kiến tạo một trong những đế chế lớn nhất lịch sử cổ đại trải dài từ Hy Lạp đến Tây Bắc Ấn Độ khi mới 30 tuổi. Là học trò của Aristotle, ông nổi danh với thiên tài quân sự bất bại qua các chiến dịch phạt Ba Tư và Ai Cập, đặt nền móng cho thời kỳ Hy Lạp hóa đầy rực rỡ.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -975,8 +975,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/500px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
     "relations": [
       "Aristotle",
-      "Trương Nghi",
-      "Bạch Khởi"
+      "Tăng Khánh Hồng",
+      "Liêm Pha"
     ],
     "themes": []
   },
@@ -1200,8 +1200,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg",
     "relations": [
       "Euclid",
-      "Galileo Galilei",
-      "Samuel Colt"
+      "Tổ Xung Chi",
+      "Galileo Galilei"
     ],
     "themes": []
   },
@@ -1356,8 +1356,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/500px-Sima_Qian_%28painted_portrait%29.jpg",
     "relations": [
       "Tôn Tẫn",
-      "Trương Nghi",
-      "Quan Vũ"
+      "Trụ Vương",
+      "Trương Nghi"
     ],
     "themes": []
   },
@@ -1420,7 +1420,7 @@ const RAW_DATA = [
     "relations": [
       "Julius Caesar",
       "Ô Mã Nhi",
-      "Trần Xuân Soạn"
+      "Flora Tristan"
     ],
     "themes": []
   },
@@ -1623,7 +1623,7 @@ const RAW_DATA = [
     "born": 76,
     "died": 138,
     "title": "Hadrianus",
-    "desc": "Hoàng đế La Mã, người đã củng cố biên giới của đế chế và xây dựng Bức tường Hadrian ở Anh.",
+    "desc": "Hoàng đế La Mã kiệt xuất trị vì từ năm 117 đến 138, một trong \"Ngũ hiền đế\" của thời kỳ Pax Romana thịnh vượng. Ông nổi danh với việc tái thiết đền Pantheon, củng cố biên giới đế chế thông qua công trình \"Bức tường Hadrian\" đồ sộ tại Anh và tình yêu mãnh liệt dành cho văn hóa nghệ thuật Hy Lạp cổ đại.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -1634,9 +1634,9 @@ const RAW_DATA = [
     "fullName": "Hadrianus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bust_Hadrian_Musei_Capitolini_MC817.jpg",
     "relations": [
+      "Tôn Sách",
       "Trần Anh Tông",
-      "Lưu Bị",
-      "Tacitus"
+      "Càn Long"
     ],
     "themes": []
   },
@@ -1701,7 +1701,7 @@ const RAW_DATA = [
     "relations": [
       "Đổng Trác",
       "Tư Mã Ý",
-      "Quan Vũ"
+      "Lã Bố"
     ],
     "themes": [
       "Tam Quoc"
@@ -1769,8 +1769,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dian_Wei_Qing_illustration.jpg/500px-Dian_Wei_Qing_illustration.jpg",
     "relations": [
       "Tào Tháo",
-      "Hứa Chử",
-      "Quan Vũ"
+      "Lã Bố",
+      "Hứa Chử"
     ],
     "themes": [
       "Tam Quoc"
@@ -1851,7 +1851,7 @@ const RAW_DATA = [
     "died": 199,
     "title": "Lã Bố",
     "fullName": "Lã Bố (Lữ Bố, Lu Bu, 呂布, Phụng Tiên, Fengxian, mãnh tướng số 1 Tam Quốc)",
-    "desc": "Vị tướng và lãnh chúa nổi tiếng của triều đại cuối Đông Hán, huyền thoại về võ công nhưng khét tiếng vì sự phản bội của ông đối với các lãnh chúa của mình.",
+    "desc": "Mãnh tướng và lãnh chúa cuối thời Đông Hán, nổi tiếng với võ nghệ siêu quần và ngựa Xích Thố với câu nói kinh điển \"Nhân trung Lã Bố, mã trung Xích Thố\". Dù dũng mãnh vô song nhưng ông bị lịch sử phê phán vì lòng phản trắc, từng giết hại hai cha nuôi là Đinh Nguyên và Đổng Trác trước khi bị Tào Tháo bắt sống và xử tử tại lầu Bạch Môn.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -1861,9 +1861,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/L%C3%BC_Bu_Portrait.jpg",
     "relations": [
+      "Tào Tháo",
       "Điển Vi",
-      "Quan Vũ",
-      "Trương Phi"
+      "Quan Vũ"
     ],
     "themes": [
       "Tam Quoc"
@@ -2380,7 +2380,7 @@ const RAW_DATA = [
     "born": 429,
     "died": 500,
     "title": "Tổ Xung Chi",
-    "desc": "Nhà toán học và thiên văn học Trung Quốc đã tính toán số π với độ chính xác cao.",
+    "desc": "Nhà toán học, thiên văn học và nhà phát minh lỗi lạc thời Nam-Bắc triều của Trung Quốc. Ông nổi tiếng toàn cầu khi tính toán chính xác trị số Pi (π) đến 7 chữ số thập phân (giữa 3.1415926 và 3.1415927), một kỷ lục vô tiền khoáng hậu được giữ vững trong suốt hơn 800 năm lịch sử toán học thế giới.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -2392,8 +2392,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Võ Tắc Thiên",
-      "Đỗ Phủ",
-      "Hải Thụy"
+      "Tào Tháo",
+      "Vương An Thạch"
     ],
     "themes": []
   },
@@ -2402,7 +2402,7 @@ const RAW_DATA = [
     "fullName": "Saint Benedict of Nursia",
     "born": 480,
     "died": 547,
-    "desc": "Một người sáng lập tu viện Kitô giáo phương Tây.",
+    "desc": "Vị thánh của Giáo hội Công giáo, người sáng lập dòng tu Biển Đức và được tôn vinh là cha đẻ của đời sống tu trì phương Tây. Ông đã biên soạn \"Luật Thánh Biển Đức\" (Rule of Saint Benedict), thiết lập các quy tắc nghiêm ngặt về kỷ luật, lao động và cầu nguyện, định hình sâu sắc văn hóa tu viện châu Âu thời Trung cổ.",
     "color": "#8b5cf6",
     "position": "bottom",
     "primary_tag": "Religious",
@@ -2411,9 +2411,9 @@ const RAW_DATA = [
     ],
     "nationality": "Roman",
     "relations": [
+      "Pope Gregory I",
       "Plotinus",
-      "Pythagoras",
-      "Lão Tử"
+      "Lương Thế Vinh"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Statue_of_Queen_Mother_%E1%BB%B6_Lan%2C_2013.png/500px-Statue_of_Queen_Mother_%E1%BB%B6_Lan%2C_2013.png"
@@ -2434,8 +2434,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Emperor_Ly_Nam_De.jpg",
     "relations": [
       "Nguyễn Thiên Tích",
-      "An Dương Vương",
-      "Trần Dụ Tông"
+      "Lý Thái Tổ",
+      "An Dương Vương"
     ],
     "themes": []
   },
@@ -2475,9 +2475,9 @@ const RAW_DATA = [
     "fullName": "Pope Gregory I",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg",
     "relations": [
+      "Thánh Biển Đức",
       "Đường Tam Tạng",
-      "Tư Mã Viêm",
-      "Trần Anh Tông"
+      "Tư Mã Viêm"
     ],
     "themes": []
   },
@@ -2499,6 +2499,27 @@ const RAW_DATA = [
       "Hồng y Mazarin",
       "Minh Mạng",
       "Thái tử Shotoku"
+    ],
+    "themes": []
+  },
+  {
+    "born": 571,
+    "died": 659,
+    "title": "Lý Tĩnh",
+    "desc": "Danh tướng và khai quốc công thần nhà Đường thời Đường Thái Tông, biểu tự Dược Sư. Ông là một trong 24 công thần được thờ tại Lăng Yên Các nhờ chiến công đánh dẹp các thế lực phản loạn và bình định biên cương Đông Đột Quyết.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Li Jing",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%E6%9D%8E%E9%9D%96.jpg/500px-%E6%9D%8E%E9%9D%96.jpg",
+    "relations": [
+      "Nguyễn Chích",
+      "Quách Tử Nghi",
+      "Nguyễn Cư Trinh"
     ],
     "themes": []
   },
@@ -2539,8 +2560,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sh%C5%8Dtoku_Taishi_Sh%C5%8Dmanky%C5%8D_K%C5%8Dsan.jpg",
     "relations": [
       "Đường Cao Tổ",
-      "Hồng y Richelieu",
-      "Võ Tắc Thiên"
+      "Vương An Thạch",
+      "Hồng y Richelieu"
     ],
     "themes": []
   },
@@ -2601,9 +2622,9 @@ const RAW_DATA = [
     "fullName": "Đường Tam Tạng",
     "image": "",
     "relations": [
-      "Hạng Vũ",
-      "Bạch Khởi",
-      "Mạnh Tử"
+      "Thang Duy",
+      "Oa Khoát Đài",
+      "Hạng Vũ"
     ],
     "themes": []
   },
@@ -2623,8 +2644,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/A_Tang_Dynasty_Empress_Wu_Zetian.JPG",
     "relations": [
       "Bạch Cư Dị",
-      "Tào Tháo",
-      "Trương Nghi"
+      "Tổ Xung Chi",
+      "Tào Tháo"
     ],
     "themes": []
   },
@@ -2653,7 +2674,7 @@ const RAW_DATA = [
     "born": 650,
     "died": 676,
     "title": "Vương Bột",
-    "desc": "Nhà thơ Trung Quốc thời nhà Đường.",
+    "desc": "Thần đồng thi ca thời Sơ Đường của Trung Quốc, đứng đầu nhóm \"Sơ Đường tứ kiệt\". Ông là tác giả của kiệt tác văn học cổ điển bất hủ \"Đằng Vương các tự\" với những câu thơ tuyệt mỹ ca ngợi thiên nhiên và nhân sinh. Ông không may qua đời sớm do đuối nước trên đường đi thăm cha ở tuổi 26.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -2664,9 +2685,9 @@ const RAW_DATA = [
     "fullName": "Vương Bột",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wang_Bo.jpg",
     "relations": [
-      "Đỗ Phủ",
-      "Bạch Cư Dị",
-      "Lý Bạch"
+      "Lý Bạch",
+      "Tô Đông Pha",
+      "Tăng Khánh Hồng"
     ],
     "themes": []
   },
@@ -2727,9 +2748,9 @@ const RAW_DATA = [
     "fullName": "Sử Tư Minh",
     "image": "",
     "relations": [
+      "Quách Tử Nghi",
       "An Lộc Sơn",
-      "Mai Hắc Đế",
-      "Đậu Kiến Đức"
+      "Mai Hắc Đế"
     ],
     "themes": []
   },
@@ -2779,7 +2800,7 @@ const RAW_DATA = [
     "born": 697,
     "died": 781,
     "title": "Quách Tử Nghi",
-    "desc": "Đại tướng nhà Đường có công trấn áp nổi loạn An Lộc Sơn và khôi phục chính quyền trung ương.",
+    "desc": "Đại danh tướng kiệt xuất và trung thần triều nhà Đường. Ông là người lập công lớn nhất trong việc trấn áp cuộc loạn An Lộc Sơn - Sử Tư Minh, khôi phục hai kinh đô Trường An và Lạc Dương cứu nhà Đường khỏi bờ vực sụp đổ. Ông được phong tước Phần Dương quận vương và là biểu tượng của sự trung trinh và thọ khảo.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -2791,8 +2812,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/%E5%94%90%E5%B0%9A%E7%88%B6%E6%B1%BE%E9%98%B3%E5%BF%A0%E6%AD%A6%E7%8E%8B%E5%83%8F.jpg",
     "relations": [
       "An Lộc Sơn",
-      "Lý Quang Bật",
-      "Sử Tư Minh"
+      "Sử Tư Minh",
+      "Trần Quang Diệu"
     ],
     "themes": []
   },
@@ -2813,7 +2834,7 @@ const RAW_DATA = [
     "relations": [
       "Bạch Cư Dị",
       "Đỗ Phủ",
-      "Hồ Chí Minh"
+      "Trụ Vương"
     ],
     "themes": []
   },
@@ -3001,8 +3022,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/1983_CPA_5426_%281%29.png/500px-1983_CPA_5426_%281%29.png",
     "relations": [
       "Immanuel Kant",
-      "Gilles Deleuze",
-      "Diophantus"
+      "Paul Erdős",
+      "Gilles Deleuze"
     ],
     "themes": []
   },
@@ -3071,6 +3092,50 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 870,
+    "died": 938,
+    "title": "Kiều Công Tiễn",
+    "fullName": "Kiều Công Tiễn",
+    "desc": "Nha tướng và con nuôi của Dương Đình Nghệ, người đã phản bội ám sát ông vào năm 937 để đoạt chức Tiết độ sứ Tĩnh Hải quân. Sự phản trắc này dẫn đến việc Ngô Quyền thảo phạt và tiêu diệt ông, châm ngòi cho trận Bạch Đằng năm 938.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Dương Đình Nghệ",
+      "Ngô Quyền",
+      "Ngô Xương Ngập"
+    ],
+    "themes": []
+  },
+  {
+    "born": 874,
+    "died": 937,
+    "title": "Dương Đình Nghệ",
+    "fullName": "Dương Đình Nghệ",
+    "desc": "Hào trưởng Ái Châu (Thanh Hóa), vị tướng giành độc lập tự chủ cho Việt Nam thời tự chủ trước nhà Ngô. Năm 931, ông đem quân đánh đuổi quân Nam Hán chiếm thành Đại La và tự xưng là Tiết độ sứ. Ông bị nha tướng Kiều Công Tiễn phản bội ám sát.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Kiều Công Tiễn",
+      "Ngô Quyền",
+      "Ngô Xương Ngập"
+    ],
+    "themes": []
+  },
+  {
     "born": 898,
     "died": 944,
     "title": "Ngô Quyền",
@@ -3108,7 +3173,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Hoàng",
       "Tào Tháo",
-      "Bạch Khởi"
+      "Lã Bố"
     ],
     "themes": []
   },
@@ -3137,7 +3202,7 @@ const RAW_DATA = [
     "born": 924,
     "died": 979,
     "title": "Nguyễn Bặc",
-    "desc": "Tướng Việt, quan sáng lập nhà Đinh, sau này bị xử tử vì phản loạn Lê Hoàn.",
+    "desc": "Khai quốc công thần bậc nhất triều Đinh, bạn thuở hàn vi và cánh tay đắc lực của Đinh Bộ Lĩnh trong sự nghiệp dẹp loạn 12 sứ quân thống nhất đất nước. Được phong chức Định Quốc công, ông đã dũng cảm dấy binh chống lại quyền thần Lê Hoàn để bảo vệ ngôi báu nhà Đinh sau khi Đinh Tiên Hoàng bị ám sát nhưng bất thành.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -3149,8 +3214,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Đinh Tiên Hoàng",
-      "Phạm Ngũ Lão",
-      "Tô Hiến Thành"
+      "Phạm Văn Nghị",
+      "Lê Đại Hành"
     ],
     "themes": []
   },
@@ -3221,7 +3286,7 @@ const RAW_DATA = [
     "born": 941,
     "died": 1005,
     "title": "Lê Đại Hành",
-    "desc": "Vua Việt Nam, người cai trị thứ ba của vương quốc Đại Việt, trị vì từ năm 981 đến 1005.",
+    "desc": "Hoàng đế sáng lập nhà Tiền Lê trong lịch sử Việt Nam, lên ngôi năm 980 sau khi được Thái hậu Dương Vân Nga nhường long bào trong hoàn cảnh đất nước bị đe dọa xâm lược. Ông là nhà quân sự thiên tài trực tiếp chỉ huy đánh tan quân xâm lược nhà Tống (981) và bình định Chiêm Thành, giữ vững độc lập nước Đại Cồ Việt.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -3232,9 +3297,9 @@ const RAW_DATA = [
     "fullName": "Lê Đại Hành (Lê Hoàn, Le Dai Hanh, Le Hoan, kháng Tống phạt Chiêm)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_Dai_Hanh.jpg",
     "relations": [
-      "Mai Hắc Đế",
-      "Mạc Thái Tổ",
-      "Ô Mã Nhi"
+      "Lý Thái Tổ",
+      "Trần Nhân Tông",
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -3254,8 +3319,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Nicolaus Copernicus",
-      "Galileo Galilei",
-      "Minh Mạng"
+      "Gerolamo Cardano",
+      "Galileo Galilei"
     ],
     "themes": []
   },
@@ -3285,7 +3350,7 @@ const RAW_DATA = [
     "died": 1028,
     "title": "Lý Thái Tổ",
     "fullName": "Lý Thái Tổ (Lý Công Uẩn, Ly Cong Uan, dời đô về Thăng Long)",
-    "desc": "Người sáng lập nhà Lý của Việt Nam, dời đô về Thăng Long (Hà Nội ngày nay).",
+    "desc": "Hoàng đế sáng lập nhà Lý trong lịch sử Việt Nam, lên ngôi năm 1009 sau khi triều Tiền Lê suy vong. Ông là người đưa ra quyết định lịch sử ban hành Chiếu dời đô vào năm 1010, chuyển thủ đô từ vùng núi Hoa Lư về thành Đại La và đổi tên thành Thăng Long, mở ra kỷ nguyên độc lập và phát triển thịnh trị lâu dài cho nước Đại Việt.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -3295,9 +3360,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpeg/500px-T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpeg",
     "relations": [
-      "Lý Thái Tông",
       "Lý Nhân Tông",
-      "Tô Hiến Thành"
+      "Tô Hiến Thành",
+      "Lý Thái Tông"
     ],
     "themes": []
   },
@@ -3316,9 +3381,9 @@ const RAW_DATA = [
     "fullName": "Lê Long Đĩnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lelongdinh.jpg/500px-Lelongdinh.jpg",
     "relations": [
+      "Lý Thái Tổ",
       "Lý Thái Tông",
-      "Napoleon Bonaparte",
-      "Lý Thái Tổ"
+      "Lê Đại Hành"
     ],
     "themes": []
   },
@@ -3337,9 +3402,9 @@ const RAW_DATA = [
     "fullName": "Lý Thái Tông (Lý Phật Mã, Ly Thai Tong)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/L%C3%BDTh%C3%A1iT%C3%B4ng.jpg",
     "relations": [
+      "Lý Thái Tổ",
       "Lý Nhân Tông",
-      "Tô Hiến Thành",
-      "Lý Thái Tổ"
+      "Tô Hiến Thành"
     ],
     "themes": []
   },
@@ -3358,9 +3423,9 @@ const RAW_DATA = [
     "fullName": "Lý Thường Kiệt (Ngô Tuấn, Ly Thuong Kiet, đánh Tống bình Chiêm)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t.png",
     "relations": [
+      "Lý Thái Tổ",
       "Tô Hiến Thành",
-      "Lý Nhân Tông",
-      "Lý Thái Tông"
+      "Lý Nhân Tông"
     ],
     "themes": []
   },
@@ -3368,7 +3433,7 @@ const RAW_DATA = [
     "born": 1021,
     "died": 1086,
     "title": "Vương An Thạch",
-    "desc": "Nhà kinh tế và nhà cải cách Trung Quốc thời nhà Tống.",
+    "desc": "Tể tướng, nhà kinh tế và triết gia lỗi lạc thời Bắc Tống. Ông nổi tiếng lịch sử với việc khởi xướng \"Biến pháp Hy Ninh\" (hay Tân pháp Vương An Thạch) nhằm cải cách toàn diện tài chính, nông nghiệp, quân sự và giáo dục để cứu vãn triều đại, gây ra cuộc tranh luận kéo dài hàng thế kỷ giữa phe tân pháp và bảo thủ.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -3379,9 +3444,9 @@ const RAW_DATA = [
     "fullName": "Vương An Thạch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wang_Anshi.jpg",
     "relations": [
-      "Tần Cối",
-      "Nhạc Phi",
-      "Viên Sùng Hoán"
+      "Thương Ưởng",
+      "Hồng y Richelieu",
+      "Chu Hi"
     ],
     "themes": []
   },
@@ -3402,7 +3467,7 @@ const RAW_DATA = [
     "relations": [
       "Đinh Núp",
       "Trần Hưng Đạo",
-      "Trần Nhân Tông"
+      "Trần Nguyên Hãn"
     ],
     "themes": []
   },
@@ -3431,7 +3496,7 @@ const RAW_DATA = [
     "born": 1037,
     "died": 1101,
     "title": "Tô Đông Pha",
-    "desc": "Học giả Trung Quốc: nhà thơ, họa sĩ, nhà thư pháp và quan chức chính phủ.",
+    "desc": "Nhà văn, nhà thơ, họa sĩ và thư pháp gia thiên tài thời Bắc Tống, một trong \"Đường Tống bát đại gia\". Với phong cách nghệ thuật phóng khoáng, giàu triết lý nhân sinh và cuộc đời chìm nổi nhiều lần bị giáng chức lưu đày, ông đã để lại di sản văn hóa đồ sộ và tinh thần tự tại tuyệt vời qua các tác phẩm thơ, phú bất hủ.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -3442,9 +3507,9 @@ const RAW_DATA = [
     "fullName": "Tô Đông Pha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Su_shi.jpg",
     "relations": [
-      "Tần Cối",
-      "Hải Thụy",
-      "Chu Vĩnh Khang"
+      "Lý Bạch",
+      "Vương Bột",
+      "Sandro Botticelli"
     ],
     "themes": []
   },
@@ -3452,7 +3517,7 @@ const RAW_DATA = [
     "born": 1038,
     "died": 1096,
     "title": "Lê Văn Thịnh",
-    "desc": "Trạng thái đầu tiên của Đại Việt, quan chức cấp cao và học giả dưới thời Lý Nhân Tông.",
+    "desc": "Trạng nguyên đầu tiên trong lịch sử khoa bảng Việt Nam, đỗ đầu khoa thi năm 1075 dưới thời Lý Nhân Tông và thăng đến chức Thái sư. Ông lập công lớn khi dùng tài biện bác ngoại giao đòi lại thành công đất biên giới từ nhà Tống (1084), trước khi chịu oan khuất trong vụ án hồ Dâm Đàm bí ẩn.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -3463,9 +3528,31 @@ const RAW_DATA = [
     "fullName": "Lê Văn Thịnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Le_Van_Thinh.JPG",
     "relations": [
+      "Lương Thế Vinh",
       "Lý Nhân Tông",
-      "Vũ Trinh",
-      "Phan Thanh Giản"
+      "Ngô Thì Sĩ"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1058,
+    "died": 1111,
+    "title": "Al-Ghazali",
+    "desc": "Triết gia, nhà thần học, luật gia và nhà thần bí người Ba Tư. Ông là một trong những học giả có ảnh hưởng sâu sắc nhất trong Lịch sử Hồi giáo và Kỷ nguyên vàng của Hồi giáo, nổi tiếng với tác phẩm chống lại triết học Hy Lạp cổ đại.",
+    "color": "#5e239d",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Religious"
+    ],
+    "nationality": "Arab",
+    "fullName": "Abū Ḥāmid Al-Ghazali",
+    "image": "",
+    "relations": [
+      "Anne Conway",
+      "Phan Đình Phùng",
+      "Georg W. F. Hegel"
     ],
     "themes": []
   },
@@ -3483,9 +3570,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Lý Thái Tổ",
       "Lý Thái Tông",
-      "Tô Hiến Thành",
-      "Lý Thường Kiệt"
+      "Tô Hiến Thành"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/L%C3%BD_Nh%C3%A2n_T%C3%B4ng.JPG/500px-L%C3%BD_Nh%C3%A2n_T%C3%B4ng.JPG"
@@ -3507,7 +3594,7 @@ const RAW_DATA = [
     "relations": [
       "Nhạc Phi",
       "Tô Hiến Thành",
-      "Tư Mã Ý"
+      "Vương An Thạch"
     ],
     "themes": []
   },
@@ -3526,9 +3613,9 @@ const RAW_DATA = [
     "fullName": "Tô Hiến Thành",
     "image": "",
     "relations": [
+      "Lý Thái Tổ",
       "Lý Thường Kiệt",
-      "Lý Thái Tông",
-      "Lý Nhân Tông"
+      "Lý Thái Tông"
     ],
     "themes": []
   },
@@ -3549,7 +3636,7 @@ const RAW_DATA = [
     "relations": [
       "Tần Cối",
       "Tư Mã Ý",
-      "Thành Cát Tư Hãn"
+      "Châu Văn Tiếp"
     ],
     "themes": []
   },
@@ -3557,7 +3644,7 @@ const RAW_DATA = [
     "born": 1130,
     "died": 1200,
     "title": "Chu Hi",
-    "desc": "Nhà triết học Tân Nho giáo hàng đầu, người hệ thống hóa tư tưởng Nho giáo thời Tống.",
+    "desc": "Nhà triết học, nhà giáo dục vĩ đại thời Nam Tống và là người hệ thống hóa xuất sắc nhất trào lưu Tân Nho giáo (Lý học). Việc ông tuyển chọn và chú giải bộ \"Tứ Thư\" đã định hình nền tảng tư tưởng học thuật, đạo đức và trở thành tài liệu thi cử bắt buộc của các triều đại phong kiến Đông Á suốt hàng trăm năm.",
     "color": "#5e239d",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -3569,8 +3656,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chuhai_Japanese_Hard_Seltzer.jpg",
     "relations": [
       "Khổng Tử",
-      "Lão Tử",
-      "Stanisław Leśniewski"
+      "Stanisław Leśniewski",
+      "Vương An Thạch"
     ],
     "themes": []
   },
@@ -3591,7 +3678,7 @@ const RAW_DATA = [
     "relations": [
       "Baldwin IV",
       "Richard Sư Tử Tâm",
-      "Cao Bá Quát"
+      "Peter Paul Rubens"
     ],
     "themes": []
   },
@@ -3610,11 +3697,33 @@ const RAW_DATA = [
     "fullName": "Richard Sư Tử Tâm",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Richard_coeur_de_lion.jpg/500px-Richard_coeur_de_lion.jpg",
     "relations": [
+      "Tôn Thất Thuyết",
       "Jeanne d'Arc",
-      "Fedor von Bock",
-      "Mao Trạch Đông"
+      "Fedor von Bock"
     ],
     "themes": []
+  },
+  {
+    "born": 1161,
+    "died": 1185,
+    "title": "Baldwin IV",
+    "fullName": "Baldwin IV (Baldwin the Leper, Baudouin le Lépreux, King of Jerusalem)",
+    "desc": "Vua của Jerusalem từ 1174 đến 1185, nổi tiếng với biệt danh 'Vua hủi'. Mặc dù mắc bệnh phong cùi tàn phế từ nhỏ, ông đã thể hiện ý chí phi thường và tài năng quân sự kiệt xuất khi đánh bại danh tướng Saladin trong trận Montgisard lịch sử để bảo vệ vương quốc.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Other",
+    "relations": [
+      "Trương Liêu",
+      "Saladin",
+      "Nguyễn Chích"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/King_Baldwin_IV.png"
   },
   {
     "born": 1162,
@@ -3631,9 +3740,30 @@ const RAW_DATA = [
     "fullName": "Thành Cát Tư Hãn (Genghis Khan, Temüjin, 成吉思汗)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
     "relations": [
-      "Nỗ Nhĩ Cáp Xích",
-      "Otto von Bismarck",
-      "Mao Trạch Đông"
+      "Oa Khoát Đài",
+      "Babur",
+      "Sát Hợp Đài"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1172,
+    "died": 1216,
+    "title": "Shota Rustaveli",
+    "desc": "Nhà thơ kiệt xuất thời Trung cổ người Gruzia. Ông được coi là nhà thơ tiêu biểu của Kỷ nguyên Vàng Gruzia, tác giả của tác phẩm sử thi vĩ đại 'Chàng hiệp sĩ khoác da cọp' - một kiệt tác của văn học Gruzia và thế giới.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "European",
+    "fullName": "Shota Rustaveli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jerusalem-Monastery-of-the-Cross-689.jpg/500px-Jerusalem-Monastery-of-the-Cross-689.jpg",
+    "relations": [
+      "Fanny Mendelssohn",
+      "J. Robert Oppenheimer",
+      "Chu Nguyên Chương"
     ],
     "themes": []
   },
@@ -3641,7 +3771,7 @@ const RAW_DATA = [
     "born": 1183,
     "died": 1242,
     "title": "Sát Hợp Đài",
-    "desc": "Con trai thứ hai của Thành Cát Tư Hãn, người cai trị Hãn quốc Chagatai ở Trung Á.",
+    "desc": "Con trai thứ hai của Thành Cát Tư Hãn và là người sáng lập vương triều Hãn quốc Sát Hợp Đài cai trị vùng Trung Á rộng lớn. Ông được cha giao nhiệm vụ giám sát và thực thi bộ luật pháp lý tối cao Yassa của đế quốc Mông Cổ, nổi tiếng là người nghiêm minh giữ gìn gia quy và luật lệ.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -3654,7 +3784,7 @@ const RAW_DATA = [
     "relations": [
       "Oa Khoát Đài",
       "Thành Cát Tư Hãn",
-      "Trịnh Kinh"
+      "Chu Nguyên Chương"
     ],
     "themes": []
   },
@@ -3662,7 +3792,7 @@ const RAW_DATA = [
     "born": 1186,
     "died": 1241,
     "title": "Oa Khoát Đài",
-    "desc": "Đại hãn thứ hai của Đế quốc Mông Cổ, con trai của Thành Cát Tư Hãn, đã mở rộng đế chế về phía tây.",
+    "desc": "Đại hãn thứ hai của Đế quốc Mông Cổ, người kế vị xuất sắc của Thành Cát Tư Hãn. Ông đã lãnh đạo việc mở rộng đế chế về phía Tây và Nam, chinh phục hoàn toàn nhà Kim ở miền Bắc Trung Quốc, mở đầu cuộc xâm lăng châu Âu và xây dựng Karakorum thành thủ đô hành chính kiên cố của đế quốc.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -3673,9 +3803,9 @@ const RAW_DATA = [
     "fullName": "Oa Khoát Đài",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/500px-YuanEmperorAlbumOgedeiPortrait.jpg",
     "relations": [
-      "Sát Hợp Đài",
       "Thành Cát Tư Hãn",
-      "Hải Thụy"
+      "Sát Hợp Đài",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -3696,7 +3826,7 @@ const RAW_DATA = [
     "relations": [
       "Võ Nguyên Giáp",
       "Trần Quang Khải",
-      "Trần Nhân Tông"
+      "Trần Nhật Duật"
     ],
     "themes": []
   },
@@ -3705,7 +3835,7 @@ const RAW_DATA = [
     "fullName": "Hàn Thuyên (Nguyễn Thuyên)",
     "born": 1229,
     "died": 1290,
-    "desc": "Danh sĩ thời Trần, người đi tiên phong trong việc phát triển chữ Nôm và dùng thơ Nôm để làm văn tế.",
+    "desc": "Danh sĩ lỗi lạc thời nhà Trần dưới triều Trần Nhân Tông, người đi tiên phong đặt nền móng cho nền văn học chữ Nôm của người Việt. Ông nổi tiếng lịch sử với bài \"Văn tế cá sấu\" bằng chữ Nôm đuổi cá dữ trên sông Hồng, mở đầu cho thể thơ Nôm luật Đường mà hậu thế tôn kính gọi là Hàn luật.",
     "color": "#4a7c5a",
     "position": "top",
     "primary_tag": "Literature",
@@ -3714,8 +3844,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Tôn Thất Tùng",
-      "Jan Łukasiewicz",
+      "Trần Nhân Tông",
+      "Nguyễn Khoái",
       "Trần Anh Tông"
     ],
     "themes": []
@@ -3756,9 +3886,53 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hiền",
     "image": "",
     "relations": [
+      "Tô Ngọc Vân",
       "Vũ Khắc Khoan",
-      "Niccolò Paganini",
-      "Simo Häyhä"
+      "Niccolò Paganini"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1240,
+    "died": 1308,
+    "title": "Nguyễn Khoái",
+    "fullName": "Nguyễn Khoái",
+    "desc": "Danh tướng nhà Trần trong lịch sử Việt Nam, chỉ huy quân Thánh Dực lập công lớn đánh tan quân Nguyên Mông tại trận Chương Dương và trận Bạch Đằng năm 1288.",
+    "color": "#d32f2f",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Trần Quang Khải",
+      "Trần Nhật Duật",
+      "Trần Nhân Tông"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1240,
+    "died": 1339,
+    "title": "Trần Khánh Dư",
+    "desc": "Chính khách, danh tướng Đại Việt thời Trần, hiệu Nhân Huệ vương. Ông nổi bật với chiến công tiêu diệt đoàn thuyền lương của quân Nguyên - Mông do Trương Văn Hổ chỉ huy tại Vân Đồn, góp công lớn quyết định chiến thắng Bạch Đằng năm 1288.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political",
+      "Business"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trần Khánh Dư",
+    "image": "",
+    "relations": [
+      "Nguyễn Khoái",
+      "Ô Mã Nhi",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
   },
@@ -3780,6 +3954,27 @@ const RAW_DATA = [
       "Trần Nhật Duật",
       "Nguyễn Khoái",
       "Trần Hưng Đạo"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1250,
+    "died": 1288,
+    "title": "Ô Mã Nhi",
+    "desc": "Đô đốc thủy quân xuất sắc và đáng gờm nhất của đế quốc Nguyên Mông, chỉ huy lực lượng hải quân hùng mạnh trong cuộc xâm lược Đại Việt lần thứ ba năm 1287-1288. Từng gieo rắc kinh hoàng cho dải đất ven biển Đại Việt, ông đã nếm trải thất bại thảm khốc và bị bắt sống trong trận Bạch Đằng giang lịch sử năm 1288 — nơi Hưng Đạo Đại Vương Trần Quốc Tuấn đã bày trận cọc ngàn thu, nhấn chìm toàn bộ hạm đội Nguyên và kết thúc tham vọng bành trướng của đế quốc Mông Cổ xuống phương Nam mãi mãi.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Ô Mã Nhi (Omar, Umar, 烏馬兒)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_TP_%28Ch%E1%BA%A1m_n%E1%BB%95i_Tr%E1%BA%A7n_Qu%E1%BB%91c_To%E1%BA%A3n_b%C3%B3p_cam%29_%283%29.jpg/500px-B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_TP_%28Ch%E1%BA%A1m_n%E1%BB%95i_Tr%E1%BA%A7n_Qu%E1%BB%91c_To%E1%BA%A3n_b%C3%B3p_cam%29_%283%29.jpg",
+    "relations": [
+      "Thoát Hoan",
+      "Nguyễn Khoái",
+      "Trần Khánh Dư"
     ],
     "themes": []
   },
@@ -3850,7 +4045,7 @@ const RAW_DATA = [
     "born": 1258,
     "died": 1308,
     "title": "Trần Nhân Tông",
-    "desc": "Vua Việt Nam và tu sĩ Phật giáo; lãnh đạo cuộc kháng chiến chống quân Mông Cổ.",
+    "desc": "Vị hoàng đế thứ ba triều Trần, nhà quân sự kiệt xuất đã cùng Thái thượng hoàng Trần Thánh Tông lãnh đạo quân dân Đại Việt hai lần đánh bại giặc xâm lược Nguyên Mông (1285 & 1288). Sau khi nhường ngôi, ông lên núi Yên Tử tu hành, sáng lập Thiền phái Trúc Lâm và được tôn vinh là Phật hoàng Trần Nhân Tông.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -3861,9 +4056,31 @@ const RAW_DATA = [
     "fullName": "Trần Nhân Tông (Trần Khâm, Tran Nhan Tong, Phật hoàng Trần Nhân Tông)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg/500px-Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg",
     "relations": [
-      "Trần Hưng Đạo",
-      "Trần Nhật Duật",
-      "Trần Anh Tông"
+      "Hàn Thuyên",
+      "Trần Anh Tông",
+      "Nguyễn Khoái"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1263,
+    "died": 1301,
+    "title": "Thoát Hoan",
+    "desc": "Thân vương nhà Đại Nguyên, con thứ của Hốt Tất Liệt, được phong Trấn Nam Vương — tước hiệu mang ý nghĩa khuất phục phương Nam. Ông hai lần thống lĩnh đại quân hàng trăm nghìn người tràn xuống xâm lược Đại Việt (1285 và 1287-1288), tự tin vào sức mạnh đế quốc từng làm cả thế giới khiếp vía. Nhưng cả hai lần đều bị quân dân Đại Việt dưới ngọn cờ của Hưng Đạo Đại Vương đánh tan, phải tháo chạy về nước trong sự nhục nhã ê chề — một trong những thất bại cay đắng nhất của đế quốc Mông Cổ trong lịch sử.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Thoát Hoan (Toghan, Toghon, Trấn Nam Vương, 脱歡)",
+    "image": "",
+    "relations": [
+      "Ô Mã Nhi",
+      "Chu Nguyên Chương",
+      "Lê Chiêu Thống"
     ],
     "themes": []
   },
@@ -3871,7 +4088,7 @@ const RAW_DATA = [
     "born": 1265,
     "died": 1307,
     "title": "Thiết Mộc Nhĩ",
-    "desc": "Hoàng đế thứ hai nhà Nguyên ở Trung Quốc, hậu duệ của Ögedei Khan.",
+    "desc": "Hoàng đế thứ hai của triều đại nhà Nguyên và là Khả hãn thứ sáu của đế quốc Mông Cổ, cháu nội trực hệ kế vị Nguyên Thế Tổ Hốt Tất Liệt. Triều đại của ông nổi bật với các cải cách bãi bỏ chiến tranh chinh phạt tốn kém (trong đó có Đại Việt), củng cố bộ máy hành chính nội trị và hòa giải các hãn quốc.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -3882,9 +4099,31 @@ const RAW_DATA = [
     "fullName": "Thiết Mộc Nhĩ",
     "image": "",
     "relations": [
-      "Mạc Đĩnh Chi",
+      "Trần Nhân Tông",
       "Trần Anh Tông",
-      "Đoàn Nhữ Hài"
+      "Chu Nguyên Chương"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1266,
+    "died": 1308,
+    "title": "John Duns Scotus",
+    "fullName": "John Duns Scotus",
+    "desc": "Nhà thần học và triết học dòng Phan Sinh người Scotland. Ông là một trong ba triết gia-thần học gia quan trọng nhất của Hậu kỳ Trung Cổ.",
+    "color": "#5e239d",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Religious"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/500px-Scoto_%28Duns_Scoto%29.jpg",
+    "relations": [
+      "Mạnh Tử",
+      "Anne Conway",
+      "Klemens von Metternich"
     ],
     "themes": []
   },
@@ -3905,7 +4144,28 @@ const RAW_DATA = [
     "relations": [
       "Đoàn Nhữ Hài",
       "Thiết Mộc Nhĩ",
-      "Nguyễn Chí Vịnh"
+      "Trần Nhân Tông"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1276,
+    "died": 1320,
+    "title": "Trần Anh Tông",
+    "desc": "Vị hoàng đế thứ tư của nhà Trần nước Đại Việt, trị vì từ 1293 đến 1314. Thời kỳ của ông được lịch sử đánh giá cao về sự thái bình thịnh trị, ổn định chính trị, củng cố biên giới vững chắc, đồng thời thúc đẩy sự phát triển của Nho giáo và Phật giáo Trúc Lâm.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trần Anh Tông",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/9/9e/Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg",
+    "relations": [
+      "Đoàn Nhữ Hài",
+      "Trần Nhân Tông",
+      "Trần Dụ Tông"
     ],
     "themes": []
   },
@@ -3924,8 +4184,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Trần Anh Tông",
-      "Trần Dụ Tông",
-      "Trần Nhật Duật"
+      "Trần Nhân Tông",
+      "Trần Dụ Tông"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%C4%90o%C3%A0n_Nh%E1%BB%AF_H%C3%A0i.jpg/500px-%C4%90o%C3%A0n_Nh%E1%BB%AF_H%C3%A0i.jpg"
@@ -3947,7 +4207,7 @@ const RAW_DATA = [
     "relations": [
       "Trần Anh Tông",
       "Trần Dụ Tông",
-      "Trần Quang Khải"
+      "Hàn Thuyên"
     ],
     "themes": []
   },
@@ -3967,8 +4227,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Statue_of_Shi_Naian.jpg",
     "relations": [
       "La Quán Trung",
-      "Thành Thang",
-      "Mạc Ngôn"
+      "Đặng Đức Siêu",
+      "Thành Thang"
     ],
     "themes": []
   },
@@ -3988,8 +4248,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Chu Văn An",
-      "Nguyễn Thiên Tích",
-      "Nguyễn Hy"
+      "Hồ Nguyên Trừng",
+      "Nguyễn Thiên Tích"
     ],
     "themes": []
   },
@@ -4011,7 +4271,7 @@ const RAW_DATA = [
     "relations": [
       "Chu Nguyên Chương",
       "Cao Bá Quát",
-      "Trịnh Doanh"
+      "Trương Phúc Loan"
     ],
     "themes": []
   },
@@ -4055,7 +4315,7 @@ const RAW_DATA = [
     "relations": [
       "Hồ Quý Ly",
       "Trần Nguyên Hãn",
-      "Trần Nhân Tông"
+      "Văn Tiến Dũng"
     ],
     "themes": []
   },
@@ -4181,8 +4441,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/500px-Timur_reconstruction03.jpg",
     "relations": [
       "Chu Nguyên Chương",
-      "Trương Sĩ Thành",
-      "Hồ Quý Ly"
+      "Thiết Mộc Nhĩ",
+      "Trương Sĩ Thành"
     ],
     "themes": []
   },
@@ -4222,9 +4482,9 @@ const RAW_DATA = [
     "fullName": "Lê Lai",
     "image": "",
     "relations": [
-      "Lê Thái Tổ",
       "Nguyễn Chích",
-      "Lê Sát"
+      "Lê Thái Tổ",
+      "Lê Ngân"
     ],
     "themes": []
   },
@@ -4246,7 +4506,7 @@ const RAW_DATA = [
     "relations": [
       "Trần Dụ Tông",
       "Khang Hi",
-      "Đường Tam Tạng"
+      "Quách Tử Nghi"
     ],
     "themes": []
   },
@@ -4287,8 +4547,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Trần Khát Chân",
-      "Trần Quang Diệu",
-      "Tokugawa Yoshinobu"
+      "Nguyễn Chích",
+      "Võ Tánh"
     ],
     "themes": []
   },
@@ -4297,7 +4557,7 @@ const RAW_DATA = [
     "died": 1446,
     "title": "Hồ Nguyên Trừng",
     "fullName": "Hồ Nguyên Trừng (Lê Trừng)",
-    "desc": "Hoàng tử Việt Nam, kỹ sư quân sự, chuyên gia về vũ khí thuốc súng nhà Hồ.",
+    "desc": "Hoàng tử nhà Hồ và là nhà khoa học, kỹ sư quân sự kiệt xuất hàng đầu lịch sử Việt Nam, người phát minh ra súng Thần cơ và thuyền chiến hai tầng cải tiến. Sau khi bị bắt sang Trung Quốc, ông được triều Minh trọng dụng phong tới chức Thượng thư Bộ Công nhờ tài chế tạo hỏa khí và viết tập ký sự \"Nam Ông mộng lục\".",
     "color": "#2ec4b6",
     "position": "top",
     "primary_tag": "Military",
@@ -4318,7 +4578,7 @@ const RAW_DATA = [
     "born": 1382,
     "died": 1448,
     "title": "Nguyễn Chích",
-    "desc": "Tướng quân Việt Nam và cố vấn của Lê Lợi, hoàng đế sáng lập triều đại Hậu Lê.",
+    "desc": "Danh tướng kiệt xuất của nghĩa quân Lam Sơn và là khai quốc công thần nhà Hậu Lê. Ông nổi tiếng lịch sử với việc dâng mưu kế chiến lược bước ngoặt \"chuyển quân vào Nghệ An\" làm bàn đạp vững chắc, giúp nghĩa quân thoát khỏi thế bao vây cô lập tại Thanh Hóa và tiến lên giành thắng lợi quyết định.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -4330,8 +4590,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Lê Thái Tổ",
-      "Lê Sát",
-      "Mạc Thái Tổ"
+      "Lê Ngân",
+      "Lê Lai"
     ],
     "themes": []
   },
@@ -4350,9 +4610,9 @@ const RAW_DATA = [
     "fullName": "Lê Thái Tổ (Lê Lợi, Le Loi, Le Thai To, Bình Ngô)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Le_Loi_statue.JPG",
     "relations": [
-      "Lê Sát",
-      "Nguyễn Chích",
-      "Mạc Thái Tổ"
+      "Lê Ngân",
+      "Lê Thánh Tông",
+      "Nguyễn Chích"
     ],
     "themes": []
   },
@@ -4381,7 +4641,7 @@ const RAW_DATA = [
     "born": 1392,
     "died": 1437,
     "title": "Lê Ngân",
-    "desc": "Tướng quân và quan chức khởi nghĩa Lam Sơn; Không rõ năm sinh, mất 1437.",
+    "desc": "Danh tướng tham gia khởi nghĩa Lam Sơn từ hội thề Lũng Nhai, lập nhiều chiến công giải phóng đất nước và làm đến chức Tư khấu phụ chính đại thần triều Lê sơ. Về sau, ông chịu kết cục bi thảm khi bị khép tội tổ chức cầu cúng phù thủy trong phủ và bị vua Lê Thái Tông ban cái chết tự tử vào năm 1437.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -4394,7 +4654,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Sát",
       "Lê Thái Tổ",
-      "Nguyễn Thiên Tích"
+      "Nguyễn Chích"
     ],
     "themes": []
   },
@@ -4413,9 +4673,9 @@ const RAW_DATA = [
     "fullName": "Lê Sát",
     "image": "",
     "relations": [
+      "Lê Ngân",
       "Lê Thái Tổ",
-      "Lê Thánh Tông",
-      "Nguyễn Chích"
+      "Lê Thánh Tông"
     ],
     "themes": []
   },
@@ -4435,8 +4695,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Lê Sát",
-      "Chu Văn An",
-      "Phan Thanh Giản"
+      "Lê Ngân",
+      "Chu Văn An"
     ],
     "themes": []
   },
@@ -4477,8 +4737,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg/500px-Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg",
     "relations": [
       "Marianne Bachmeier",
-      "Ngô Sĩ Liên",
-      "Lê Thái Tổ"
+      "Otto Weininger",
+      "Ngô Sĩ Liên"
     ],
     "themes": []
   },
@@ -4518,9 +4778,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Frank Sinatra",
-      "Ferenc Puskás",
-      "Tăng Khánh Hồng"
+      "Lương Thế Vinh",
+      "Đặng Đức Siêu",
+      "Ngô Tùng Châu"
     ],
     "themes": [],
     "image": ""
@@ -4529,7 +4789,7 @@ const RAW_DATA = [
     "born": 1420,
     "died": 1501,
     "title": "Lương Nhữ Hộc",
-    "desc": "Thợ in Việt Nam thời kỳ đầu, học giả, có công phát triển nghề in khắc gỗ.",
+    "desc": "Danh sĩ và ngoại giao quan thời Lê sơ, người có công hai lần đi sứ nhà Minh học hỏi và truyền dạy nghề khắc bản gỗ in cho dân làng Liễu Tràng, Hồng Lục (Hải Dương). Ông được tôn vinh là ông tổ nghề khắc ván in và in ấn của Việt Nam.",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Political",
@@ -4540,9 +4800,9 @@ const RAW_DATA = [
     "fullName": "Lương Nhữ Hộc",
     "image": "",
     "relations": [
-      "Trần Anh Tông",
+      "Nguyễn Thiên Tích",
       "Lê Thánh Tông",
-      "Ngô Thị Ngọc Dao"
+      "Ngô Thì Sĩ"
     ],
     "themes": []
   },
@@ -4550,7 +4810,7 @@ const RAW_DATA = [
     "born": 1421,
     "died": 1496,
     "title": "Ngô Thị Ngọc Dao",
-    "desc": "Hoàng hậu nhà Lê, mẹ của Lê Thánh Tông, có ảnh hưởng trong dòng dõi hoàng gia.",
+    "desc": "Quang Thục Hoàng thái hậu triều Lê sơ, phi tần của hoàng đế Lê Thái Tông và là mẹ đẻ của hoàng đế Lê Thánh Tông. Bà có công lớn bảo vệ và dưỡng dục con trai vượt qua biến loạn cung đình tại chùa Huy Văn trước khi ông lên ngôi hoàng đế.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -4562,8 +4822,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Lê Thánh Tông",
-      "Mạc Thái Tổ",
-      "Lê Thái Tổ"
+      "Lê Ngân",
+      "Mạc Thái Tổ"
     ],
     "themes": []
   },
@@ -4592,7 +4852,7 @@ const RAW_DATA = [
     "born": 1441,
     "died": 1496,
     "title": "Lương Thế Vinh",
-    "desc": "Học giả và nhà toán học Việt Nam thế kỷ XV.",
+    "desc": "Trạng nguyên lẫy lường thời Lê sơ dưới triều Lê Thánh Tông, nổi danh dân gian với tên gọi \"Trạng Lường\". Ông là nhà toán học xuất sắc biên soạn cuốn \"Đại thành toán pháp\" dùng trong giáo dục, đồng thời là nhà ngoại giao, nhà Phật học và âm nhạc học tài hoa.",
     "color": "#247ba0",
     "position": "top",
     "primary_tag": "Science",
@@ -4603,9 +4863,9 @@ const RAW_DATA = [
     "fullName": "Lương Thế Vinh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Luong_The_Vinh.jpg",
     "relations": [
-      "Christopher Columbus",
-      "Ngô Sĩ Liên",
-      "Nicolaus Copernicus"
+      "Lê Thánh Tông",
+      "Ngô Thị Ngọc Dao",
+      "Lê Ngân"
     ],
     "themes": []
   },
@@ -4613,7 +4873,7 @@ const RAW_DATA = [
     "born": 1442,
     "died": 1497,
     "title": "Lê Thánh Tông",
-    "desc": "Hoàng đế Đại Việt, nổi tiếng về cải cách hành chính, mở rộng và phát triển văn hóa.",
+    "desc": "Vị hoàng đế anh minh trị vì lâu dài nhất thời Hậu Lê, đưa Đại Việt đạt đến thời kỳ hoàng kim rực rỡ \"Hồng Đức thịnh thế\". Ông nổi danh với các cuộc cải cách hành chính triệt để, ban hành bộ luật Hồng Đức vĩ đại và sáng lập hội Tao đàn Nhị thập bát tú.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -4625,8 +4885,29 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/L%C3%AA_Th%C3%A1nh_T%C3%B4ng.jpg",
     "relations": [
       "Ngô Thị Ngọc Dao",
-      "Mạc Thái Tổ",
-      "Lê Sát"
+      "Lương Thế Vinh",
+      "Lê Thái Tổ"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1445,
+    "died": 1510,
+    "title": "Sandro Botticelli",
+    "fullName": "Sandro Botticelli",
+    "desc": "Họa sĩ kiệt xuất thuộc trường phái Florence thời Phục hưng Ý, dưới sự bảo trợ nghệ thuật của gia tộc quyền lực Medici. Ông là tác giả của các kiệt tác bất hủ mang tính biểu tượng cao như \"Sự ra đời của thần Vệ Nữ\" (The Birth of Venus) và \"Mùa xuân\" (Primavera), nổi bật với nét vẽ thanh thoát, giàu chất thơ và tính triết mỹ tinh tế.",
+    "color": "#e91e63",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/500px-Sandro_Botticelli_083.jpg",
+    "relations": [
+      "Izydora Dąmbska",
+      "Leonardo da Vinci",
+      "Michelangelo"
     ],
     "themes": []
   },
@@ -4688,8 +4969,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
     "relations": [
       "Christopher Columbus",
-      "Mạc Cửu",
-      "Marco Polo"
+      "Hermann Gmeiner",
+      "Jeff Bezos"
     ],
     "themes": []
   },
@@ -4708,9 +4989,9 @@ const RAW_DATA = [
     "fullName": "Niccolò Machiavelli",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg",
     "relations": [
+      "Babur",
       "Mạc Thái Tổ",
-      "Toyotomi Hideyoshi",
-      "Otto von Bismarck"
+      "Toyotomi Hideyoshi"
     ],
     "themes": []
   },
@@ -4729,9 +5010,9 @@ const RAW_DATA = [
     "fullName": "Nicolaus Copernicus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/500px-Nikolaus_Kopernikus_MOT.jpg",
     "relations": [
+      "Gerolamo Cardano",
       "Raphael",
-      "Karen Horney",
-      "Sandro Botticelli"
+      "Karen Horney"
     ],
     "themes": []
   },
@@ -4752,7 +5033,7 @@ const RAW_DATA = [
     "relations": [
       "Raphael",
       "El Greco",
-      "Ludwig van Beethoven"
+      "Sandro Botticelli"
     ],
     "themes": []
   },
@@ -4816,7 +5097,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Uy Mục",
       "Lê Tương Dực",
-      "Lê Thái Tổ"
+      "Lê Thánh Tông"
     ],
     "themes": []
   },
@@ -4824,7 +5105,7 @@ const RAW_DATA = [
     "born": 1483,
     "died": 1530,
     "title": "Babur",
-    "desc": "Người sáng lập Đế quốc Mughal ở Ấn Độ, hậu duệ của Timur và Thành Cát Tư Hãn.",
+    "desc": "Hoàng đế sáng lập Đế quốc Mughal ở Ấn Độ sau chiến thắng oanh liệt tại trận Panipat (1526). Là hậu duệ trực hệ của Timur bên nội và Thành Cát Tư Hãn bên ngoại, ông không chỉ có tài quân sự kiệt xuất mà còn để lại tập hồi ký giá trị \"Baburnama\".",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -4835,9 +5116,9 @@ const RAW_DATA = [
     "fullName": "Babur",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg/500px-Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg",
     "relations": [
-      "Mạc Thái Tổ",
       "Thành Cát Tư Hãn",
-      "Thomas More"
+      "Mạc Thái Tổ",
+      "Mikhail Kutuzov"
     ],
     "themes": []
   },
@@ -4962,7 +5243,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Uy Mục",
       "Mạc Thái Tổ",
-      "Lê Thái Tổ"
+      "Ngô Thị Ngọc Dao"
     ],
     "themes": []
   },
@@ -4970,7 +5251,7 @@ const RAW_DATA = [
     "born": 1501,
     "died": 1576,
     "title": "Gerolamo Cardano",
-    "desc": "Nhà toán học người Ý nổi tiếng với công việc về đại số và xác suất.",
+    "desc": "Nhà bách khoa, toán học và vật lý học vĩ đại người Ý thời Phục hưng. Ông nổi tiếng lịch sử với kiệt tác \"Ars Magna\", công trình đầu tiên công bố cách giải phương trình bậc ba và bậc bốn, đồng thời là người đặt nền móng cho lý thuyết xác suất hiện đại.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -4981,9 +5262,9 @@ const RAW_DATA = [
     "fullName": "Gerolamo Cardano",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Girolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg",
     "relations": [
-      "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
-      "Jacob Bernoulli"
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -5026,6 +5307,28 @@ const RAW_DATA = [
       "Nguyễn Hoàng",
       "Trịnh Tùng",
       "Đào Duy Từ"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1510,
+    "died": 1556,
+    "title": "Tullia d'Aragona",
+    "fullName": "Tullia d'Aragona",
+    "desc": "Nữ thi sĩ, triết gia và tác giả người Ý thời Phục Hưng. Tác phẩm Đối thoại về sự vô tận của tình yêu của bà là một đóng góp triết học độc đáo thảo luận về tình yêu Platon dưới góc nhìn nữ quyền và trí tuệ độc lập, thách thức các chuẩn mực xã hội thời bấy giờ.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Literature"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Moretto_da_Brescia_-_Portrait_of_Tullia_d%27Aragona_as_Salome_-_WGA16230.jpg",
+    "relations": [
+      "Sandro Botticelli",
+      "Nicolaus Copernicus",
+      "Raphael"
     ],
     "themes": []
   },
@@ -5088,7 +5391,7 @@ const RAW_DATA = [
     "relations": [
       "Claudio Monteverdi",
       "John Cage",
-      "Antonio Vivaldi"
+      "Sandro Botticelli"
     ],
     "themes": []
   },
@@ -5128,9 +5431,9 @@ const RAW_DATA = [
     "fullName": "Sen no Rikyū",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sen_no_Rikyu_JPN_%28cropped%29.jpg",
     "relations": [
+      "Georg W. F. Hegel",
       "Virginia Woolf",
-      "Toyotomi Hideyoshi",
-      "Galileo Galilei"
+      "Toyotomi Hideyoshi"
     ],
     "themes": []
   },
@@ -5256,7 +5559,7 @@ const RAW_DATA = [
     "relations": [
       "Toyotomi Hideyoshi",
       "Ivan Bạo Chúa",
-      "Elizabeth I"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": []
   },
@@ -5298,7 +5601,7 @@ const RAW_DATA = [
     "relations": [
       "Michelangelo",
       "Raphael",
-      "Alain Resnais"
+      "Peter Paul Rubens"
     ],
     "themes": []
   },
@@ -5445,9 +5748,9 @@ const RAW_DATA = [
     "fullName": "Galileo Galilei (Galileo di Vincenzo Bonaiuti de' Galilei, Father of modern science)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
     "relations": [
+      "Johannes Kepler",
       "Bernhard Riemann",
-      "Toyotomi Hideyoshi",
-      "Francis Bacon"
+      "Toyotomi Hideyoshi"
     ],
     "themes": []
   },
@@ -5499,7 +5802,7 @@ const RAW_DATA = [
     "born": 1571,
     "died": 1630,
     "title": "Johannes Kepler",
-    "desc": "Nhà thiên văn học người Đức đã xây dựng các định luật về chuyển động của hành tinh.",
+    "desc": "Nhà thiên văn học và toán học lỗi lạc người Đức, nhân vật then chốt của cuộc cách mạng khoa học thế kỷ 17. Ông nổi tiếng toàn cầu với việc thiết lập ba \"Định luật Kepler về chuyển động thiên thể\", làm tiền đề quan trọng giúp Isaac Newton phát triển thuyết vạn vật hấp dẫn.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -5510,9 +5813,9 @@ const RAW_DATA = [
     "fullName": "Johannes Kepler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
     "relations": [
-      "Galileo Galilei",
       "Isaac Newton",
-      "J. Edgar Hoover"
+      "Galileo Galilei",
+      "Bernhard Riemann"
     ],
     "themes": []
   },
@@ -5583,7 +5886,7 @@ const RAW_DATA = [
     "born": 1577,
     "died": 1640,
     "title": "Peter Paul Rubens",
-    "desc": "Họa sĩ người Flemish Baroque nổi tiếng với phong cách hoa mỹ và những tác phẩm ấn tượng.",
+    "desc": "Họa sĩ người Flemish kiệt xuất, đại biểu hàng đầu của phong cách hội họa Baroque đầy kịch tính, năng động và giàu tính gợi cảm. Bên cạnh di sản hội họa khổng lồ về chủ đề tôn giáo và thần thoại, ông còn là một nhà ngoại giao tài giỏi được cả hai vương triều Anh và Tây Ban Nha phong hiệp sĩ.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -5594,9 +5897,9 @@ const RAW_DATA = [
     "fullName": "Peter Paul Rubens",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg",
     "relations": [
-      "Caravaggio",
-      "Claudio Monteverdi",
-      "Carlo Dolci"
+      "Luca Giordano",
+      "Tôn Thất Thuyết",
+      "Rama V"
     ],
     "themes": []
   },
@@ -5615,9 +5918,9 @@ const RAW_DATA = [
     "fullName": "Miyamoto Musashi (宮本武蔵, Shinmen Takezō, Book of Five Rings)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Miyamoto_Musashi_Self-Portrait.jpg",
     "relations": [
-      "Oda Nobunaga",
-      "Mikhail Kutuzov",
-      "Đặng Thùy Trâm"
+      "Erich von Manstein",
+      "Albert Camus",
+      "Massimo Stanzione"
     ],
     "themes": []
   },
@@ -5638,7 +5941,7 @@ const RAW_DATA = [
     "relations": [
       "Gustav II Adolf",
       "Friedrich II",
-      "Fyodor Matveyevich Apraksin"
+      "Nikolai II"
     ],
     "themes": []
   },
@@ -5646,7 +5949,7 @@ const RAW_DATA = [
     "born": 1585,
     "died": 1656,
     "title": "Massimo Stanzione",
-    "desc": "Họa sĩ người Ý thời kỳ Baroque pha trộn chủ nghĩa hiện thực của Caravaggio với sự cân bằng cổ điển.",
+    "desc": "Họa sĩ Baroque người Ý nổi tiếng, được mệnh danh là \"Guido Reni của Naples\". Ông đi vào lịch sử nghệ thuật nhờ sự dung hợp tài tình giữa hiệu ứng ánh sáng tối đầy hiện thực của Caravaggio với phong cách hội họa cân bằng, thanh nhã cổ điển của trường phái Bologna.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -5658,8 +5961,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Massimo_Stanzione.jpg",
     "relations": [
       "Caravaggio",
-      "Diego Velázquez",
-      "Agnès Varda"
+      "Agnès Varda",
+      "Diego Velázquez"
     ],
     "themes": []
   },
@@ -5930,9 +6233,9 @@ const RAW_DATA = [
     "fullName": "Carlo Dolci",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carlo_Dolci_002.jpg",
     "relations": [
+      "Massimo Stanzione",
       "Peter Paul Rubens",
-      "Molière",
-      "Luca Giordano"
+      "Molière"
     ],
     "themes": []
   },
@@ -5952,8 +6255,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ch%C3%A2teau_de_Bussy-Rabutin_-_Anne%2C_dite_Ninon_de_Lenclos_%28bgw19_0345%29.jpg/500px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Anne%2C_dite_Ninon_de_Lenclos_%28bgw19_0345%29.jpg",
     "relations": [
       "Charles Perrault",
-      "Jean de La Fontaine",
-      "Margaret Cavendish"
+      "Marina Abramovic",
+      "Jean de La Fontaine"
     ],
     "themes": []
   },
@@ -5994,8 +6297,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pierre_Mignard_-_Portrait_de_Jean-Baptiste_Poquelin_dit_Moli%C3%A8re_%281622-1673%29_-_Google_Art_Project_%28cropped%29.jpg",
     "relations": [
       "Johannes Vermeer",
-      "Andre Maurois",
-      "Éric-Emmanuel Schmitt"
+      "Voltaire",
+      "Andre Maurois"
     ],
     "themes": []
   },
@@ -6015,8 +6318,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Margaret_cavendish_from_Luminarium.jpg",
     "relations": [
       "Lưu Từ Hân",
-      "John Locke",
-      "Lev Tolstoy"
+      "H. G. Wells",
+      "John Locke"
     ],
     "themes": []
   },
@@ -6058,7 +6361,7 @@ const RAW_DATA = [
     "relations": [
       "Trịnh Kinh",
       "Hạng Vũ",
-      "Trần Xuân Soạn"
+      "Tưởng Giới Thạch"
     ],
     "themes": []
   },
@@ -6088,7 +6391,7 @@ const RAW_DATA = [
     "born": 1629,
     "died": 1696,
     "title": "Jan III Sobieski",
-    "desc": "Vua Ba Lan và chỉ huy quân sự nổi tiếng vì đã đánh bại quân Thổ Ottoman trong trận Vienna (1683).",
+    "desc": "Hoàng đế Ba Lan và chỉ huy quân sự vĩ đại bậc nhất thế kỷ 17. Ông được tôn vinh là vị cứu tinh của thế giới Kitô giáo phương Tây sau khi dẫn đầu liên quân đánh bại hoàn toàn quân xâm lược Ottoman trong trận Vienna lịch sử năm 1683.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -6099,9 +6402,30 @@ const RAW_DATA = [
     "fullName": "Jan III Sobieski",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coques_John_III_Sobieski.jpg",
     "relations": [
-      "Trịnh Thành Công",
-      "Patrick Gordon",
-      "Trịnh Kinh"
+      "Ô Mã Nhi",
+      "Thoát Hoan",
+      "Patrick Gordon"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1631,
+    "died": 1679,
+    "title": "Anne Conway",
+    "fullName": "Anne Conway, Viscountess Conway",
+    "desc": "Nữ triết gia người Anh thế kỷ 17 thuộc trường phái Tân Platon Cambridge. Tác phẩm triết học duy nhất của bà, giới thiệu thế giới quan nhất nguyên luận tinh thần độc đáo gồm các thực thể gọi là 'monad' (đơn tử), đã ảnh hưởng trực tiếp đến triết học của Leibniz.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "British",
+    "image": "",
+    "relations": [
+      "John Locke",
+      "Edmund Husserl",
+      "Izydora Dąmbska"
     ],
     "themes": []
   },
@@ -6183,9 +6507,9 @@ const RAW_DATA = [
     "fullName": "Luca Giordano",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Luca_Giordano_Fapresto.jpg",
     "relations": [
+      "Peter Paul Rubens",
       "Johannes Vermeer",
-      "Molière",
-      "Carlo Dolci"
+      "Molière"
     ],
     "themes": []
   },
@@ -6193,7 +6517,7 @@ const RAW_DATA = [
     "born": 1635,
     "died": 1699,
     "title": "Patrick Gordon",
-    "desc": "Tướng Scotland từng phục vụ trong quân đội Nga, cố vấn thân cận của Peter Đại đế.",
+    "desc": "Tướng quân người Scotland phục vụ dưới triều Sa hoàng Peter Đại đế của Nga. Ông có đóng góp to lớn trong việc hiện đại hóa quân đội Nga theo chuẩn Tây Âu, dập tắt các cuộc nổi loạn của cựu binh Streltsy và là người bạn, cố vấn chiến lược đáng tin cậy của Sa hoàng.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -6204,9 +6528,9 @@ const RAW_DATA = [
     "fullName": "Patrick Gordon",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FotoGordon.jpg/500px-FotoGordon.jpg",
     "relations": [
-      "Jan III Sobieski",
-      "Trịnh Kinh",
-      "Trịnh Thành Công"
+      "Phạm Ngũ Lão",
+      "Trần Quang Khải",
+      "Jan III Sobieski"
     ],
     "themes": []
   },
@@ -6227,7 +6551,7 @@ const RAW_DATA = [
     "relations": [
       "Louis XIV",
       "Madame de Montespan",
-      "Anne Conway"
+      "Phan Đình Phùng"
     ],
     "themes": []
   },
@@ -6274,6 +6598,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1638,
+    "died": 1715,
+    "title": "Nicolas Malebranche",
+    "fullName": "Nicolas Malebranche",
+    "desc": "Nhà triết học và thần học người Pháp dòng Oratory. Ông cố gắng tích hợp triết học của René Descartes với thần học của Augustine xứ Hippo, nổi bật với học thuyết Vô cảm chủ nghĩa (Occasionalism).",
+    "color": "#5e239d",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Religious"
+    ],
+    "nationality": "French",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Portret_van_Nicolas_Malebranche%2C_RP-P-OB-72.656_%28cropped%29.jpg/500px-Portret_van_Nicolas_Malebranche%2C_RP-P-OB-72.656_%28cropped%29.jpg",
+    "relations": [
+      "René Descartes",
+      "John Locke",
+      "Baruch Spinoza"
+    ],
+    "themes": []
+  },
+  {
     "born": 1640,
     "died": 1707,
     "title": "Madame de Montespan",
@@ -6311,7 +6657,7 @@ const RAW_DATA = [
     "relations": [
       "Trịnh Thành Công",
       "Tưởng Kinh Quốc",
-      "Gustav II Adolf"
+      "Sát Hợp Đài"
     ],
     "themes": []
   },
@@ -6330,9 +6676,9 @@ const RAW_DATA = [
     "fullName": "Isaac Newton (Sir Isaac Newton, Philosophiae Naturalis Principia Mathematica)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg",
     "relations": [
+      "Johannes Kepler",
       "Gottfried Wilhelm Leibniz",
-      "Anders Celsius",
-      "Robert Hooke"
+      "Anders Celsius"
     ],
     "themes": []
   },
@@ -6394,8 +6740,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/500px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
     "relations": [
       "Isaac Newton",
-      "Edmund Halley",
-      "Otto von Bismarck"
+      "Johannes Kepler",
+      "Edmund Halley"
     ],
     "themes": []
   },
@@ -6414,11 +6760,76 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hữu Cảnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ch%C3%A2n_dung_Nguy%E1%BB%85n_H%E1%BB%AFu_C%E1%BA%A3nh.jpg",
     "relations": [
-      "Huỳnh Mẫn Đạt",
       "Lê Văn Duyệt",
-      "Nguyễn Khánh"
+      "Nguyễn Khánh",
+      "Nguyễn Hoàng"
     ],
     "themes": []
+  },
+  {
+    "born": 1652,
+    "died": 1719,
+    "title": "Boris Petrovich Sheremetev",
+    "fullName": "Boris Petrovich Sheremetev (Russian Field Marshal & Diplomat)",
+    "desc": "Thống chế và nhà ngoại giao Nga dưới thời Peter Đại đế. Ông đóng vai trò chỉ huy chủ chốt trong Đại chiến Bắc Âu, đặc biệt nổi tiếng với việc đánh bại quân Thụy Điển trong chiến dịch Poltava và là người Nga đầu tiên được phong tước Bá tước.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Russian",
+    "relations": [
+      "Fyodor Matveyevich Apraksin",
+      "Michel Ney",
+      "Toyotomi Hideyoshi"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Boris_Sheremetyev_by_I.Argunov_%281768%2C_Kuskovo%29.jpg/500px-Boris_Sheremetyev_by_I.Argunov_%281768%2C_Kuskovo%29.jpg"
+  },
+  {
+    "title": "Johann Pachelbel",
+    "born": 1653,
+    "died": 1706,
+    "desc": "Nhà soạn nhạc và nghệ sĩ đại phong cầm người Đức thời kỳ Baroque, nổi tiếng toàn cầu với bản nhạc bất hủ 'Canon cung Trưởng' (Pachelbel's Canon).",
+    "nationality": "German",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "",
+    "relations": [
+      "Arcangelo Corelli",
+      "Felix Mendelssohn",
+      "Antonio Vivaldi"
+    ]
+  },
+  {
+    "born": 1653,
+    "died": 1713,
+    "title": "Arcangelo Corelli",
+    "desc": "Nhà soạn nhạc kiêm nghệ sĩ violin vĩ đại người Ý thời Baroque. Ông có đóng góp to lớn vào sự phát triển của thể loại nhạc không lời, đặc biệt là Concerto Grosso, đồng thời là người đặt nền móng cho kỹ thuật chơi violin hiện đại.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "fullName": "Arcangelo Corelli",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg/500px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg",
+    "relations": [
+      "Antonio Vivaldi",
+      "Johann Pachelbel",
+      "Giuseppe Tartini"
+    ],
+    "themes": [
+      "Classical Music"
+    ]
   },
   {
     "born": 1654,
@@ -6438,6 +6849,27 @@ const RAW_DATA = [
       "Càn Long",
       "Madame de Montespan",
       "Hoàng Thái Cực"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1654,
+    "died": 1705,
+    "title": "Jacob Bernoulli",
+    "fullName": "Jacob Bernoulli",
+    "desc": "Nhà toán học Thụy Sĩ, anh trai của Johann Bernoulli. Ông là người tiên phong trong giải tích toán học và lý thuyết xác suất, phát hiện ra hằng số e và định luật số lớn.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Swiss",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jakob_Bernoulli.jpg/500px-Jakob_Bernoulli.jpg",
+    "relations": [
+      "Johann Bernoulli",
+      "Isaac Newton",
+      "Johannes Kepler"
     ],
     "themes": []
   },
@@ -6505,6 +6937,48 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1661,
+    "died": 1728,
+    "title": "Fyodor Matveyevich Apraksin",
+    "fullName": "Fyodor Matveyevich Apraksin (Russian Admiral)",
+    "desc": "Đô đốc Thống chế Nga, người đồng sáng lập Hải quân Đế quốc Nga cùng với Peter Đại đế. Ông chỉ huy hạm đội Baltic giành chiến thắng chói lọi trước Thụy Điển trong trận hải chiến Gangut năm 1714, khẳng định vị thế cường quốc biển của Nga.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Russian",
+    "relations": [
+      "Boris Petrovich Sheremetev",
+      "Mikhail Kutuzov",
+      "Gustav II Adolf"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Apraxin.jpg"
+  },
+  {
+    "born": 1667,
+    "died": 1748,
+    "title": "Johann Bernoulli",
+    "fullName": "Johann Bernoulli",
+    "desc": "Nhà toán học Thụy Sĩ nổi tiếng thuộc gia tộc Bernoulli, có nhiều đóng góp quan trọng trong sự phát triển của giải tích toán học, đặc biệt là phép tính biến phân và quy tắc L'Hôpital.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Swiss",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Bernoulli2.jpg",
+    "relations": [
+      "Jacob Bernoulli",
+      "Bernhard Riemann",
+      "Hendrik Lorentz"
+    ],
+    "themes": []
+  },
+  {
     "born": 1672,
     "died": 1725,
     "title": "Pyotr Đại đế",
@@ -6549,6 +7023,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "title": "Georg Philipp Telemann",
+    "born": 1681,
+    "died": 1767,
+    "desc": "Nhà soạn nhạc người Đức thời kỳ Baroque, một trong những nhà soạn nhạc có nhiều tác phẩm nhất trong lịch sử.",
+    "nationality": "German",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Telemann.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Antonio Vivaldi",
+      "Giuseppe Tartini",
+      "Johann Sebastian Bach"
+    ]
+  },
+  {
     "born": 1682,
     "died": 1718,
     "title": "Karl XII của Thụy Điển",
@@ -6584,9 +7079,9 @@ const RAW_DATA = [
     "fullName": "Jean-Antoine Watteau",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg",
     "relations": [
+      "Tô Đông Pha",
       "Antonio Vivaldi",
-      "Paul Gauguin",
-      "Gustav Klimt"
+      "Paul Gauguin"
     ],
     "themes": []
   },
@@ -6628,8 +7123,8 @@ const RAW_DATA = [
     "fullName": "George Berkeley",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg/500px-John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg",
     "relations": [
-      "Montesquieu",
       "Immanuel Kant",
+      "Montesquieu",
       "Izydora Dąmbska"
     ],
     "themes": []
@@ -6661,7 +7156,7 @@ const RAW_DATA = [
     "born": 1689,
     "died": 1755,
     "title": "Montesquieu",
-    "desc": "Triết gia chính trị người Pháp nổi tiếng với việc đưa ra lý thuyết phân chia quyền lực trong chính phủ.",
+    "desc": "Triết gia chính trị lỗi lạc của triều đại Khai sáng Pháp. Ông nổi tiếng toàn cầu với kiệt tác \"Tinh thần Pháp luật\" (De l'esprit des lois, 1748), nơi ông đề xuất hệ thống \"Tam quyền phân lập\" (Lập pháp, Hành pháp và Tư pháp) độc lập và kiềm chế lẫn nhau, trở thành nền tảng pháp lý cốt lõi cho các hiến pháp dân chủ hiện đại trên thế giới.",
     "color": "#5e239d",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -6672,17 +7167,40 @@ const RAW_DATA = [
     "fullName": "Montesquieu (Charles-Louis de Secondat, Baron de La Brède et de Montesquieu)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Montesquieu.jpg/500px-Charles_Montesquieu.jpg",
     "relations": [
-      "Michel Foucault",
-      "George Berkeley",
+      "Nguyễn Tri Phương",
+      "Chu Nguyên Chương",
       "Marquis de Condorcet"
     ],
     "themes": []
   },
   {
+    "born": 1692,
+    "died": 1770,
+    "title": "Giuseppe Tartini",
+    "desc": "Nhà soạn nhạc và nghệ sĩ violin bậc thầy người Ý thời kỳ Baroque. Ông nổi tiếng nhất với bản sonata dành cho violin mang tên 'Bản sonata ý của Quỷ' (Devil's Trill Sonata) đầy kỹ thuật và giai điệu huyền bí.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "fullName": "Giuseppe Tartini",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png/500px-Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png",
+    "relations": [
+      "Antonio Vivaldi",
+      "Niccolò Paganini",
+      "Georg Philipp Telemann"
+    ],
+    "themes": [
+      "Classical Music"
+    ]
+  },
+  {
     "born": 1694,
     "died": 1778,
     "title": "Voltaire",
-    "desc": "Nhà văn Khai sáng Pháp nổi tiếng với việc ủng hộ quyền tự do dân sự và phê phán tôn giáo.",
+    "desc": "Nhà văn, triết gia và sử gia vĩ đại thời Khai sáng Pháp, chiến sĩ tiên phong đấu tranh cho quyền tự do ngôn luận, tự do tôn giáo và quyền được xét xử công bằng. Với giọng văn châm biếm sâu cay đả kích giáo hội và chế độ chuyên chế, ông để lại di sản đồ sộ gồm các vở kịch, tác phẩm triết học kiệt xuất như truyện vừa \"Candide\" và \"Thư triết học\".",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -6693,9 +7211,9 @@ const RAW_DATA = [
     "fullName": "Voltaire (François-Marie Arouet)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg/500px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg",
     "relations": [
-      "Marquis de Condorcet",
-      "Phan Khôi",
-      "Hồng y Richelieu"
+      "Virginia Woolf",
+      "Agnès Varda",
+      "Phan Khôi"
     ],
     "themes": []
   },
@@ -6714,9 +7232,9 @@ const RAW_DATA = [
     "fullName": "Jean-Baptiste-Siméon Chardin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chardin_pastel_selfportrait.jpg/500px-Chardin_pastel_selfportrait.jpg",
     "relations": [
+      "Victor Hugo",
       "Jean-Antoine Watteau",
-      "Giuseppe Tartini",
-      "Caravaggio"
+      "Giuseppe Tartini"
     ],
     "themes": []
   },
@@ -6755,9 +7273,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Lê Ngân",
       "Lê Thái Tổ",
-      "Lê Lai",
-      "Nguyễn Chích"
+      "Lương Thế Vinh"
     ],
     "themes": [],
     "image": ""
@@ -6800,7 +7318,7 @@ const RAW_DATA = [
     "relations": [
       "Louis XVI",
       "Georges Danton",
-      "Càn Long"
+      "Trương Phúc Loan"
     ],
     "themes": []
   },
@@ -6809,7 +7327,7 @@ const RAW_DATA = [
     "fullName": "Trương Phúc Loan",
     "born": 1710,
     "died": 1776,
-    "desc": "Quyền thần Đàng Trong, người thu thập quyền lực gây ra khởi nghĩa Tây Sơn.",
+    "desc": "Quyền thần lộng hành triều Nguyễn ở Đàng Trong, được dân gian gọi là \"Trương Tần Cối\" vì thói tham tàn độc hại. Việc ông thâu tóm quyền lực bất chính và cai trị hà khắc đã đẩy đời sống nhân dân vào cùng cực, là nguyên nhân trực tiếp châm ngòi cho cuộc khởi nghĩa Tây Sơn bùng nổ.",
     "color": "#2a6fdb",
     "position": "top",
     "primary_tag": "Political",
@@ -6818,9 +7336,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lê Chiêu Thống",
-      "Nguyễn Nhạc",
-      "Trần Quang Diệu"
+      "Cao Bá Quát",
+      "Đỗ Thúc Tịnh",
+      "Minh Mạng"
     ],
     "themes": []
   },
@@ -6904,8 +7422,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/500px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg",
     "relations": [
       "Alexis de Tocqueville",
-      "Im Yunjidang",
-      "Immanuel Kant"
+      "Georg W. F. Hegel",
+      "Im Yunjidang"
     ],
     "themes": []
   },
@@ -6925,8 +7443,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/500px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
     "relations": [
       "Càn Long",
-      "George Washington",
-      "Viên Sùng Hoán"
+      "Winston Churchill",
+      "George Washington"
     ],
     "themes": []
   },
@@ -6947,7 +7465,7 @@ const RAW_DATA = [
     "relations": [
       "David Hume",
       "Agnès Varda",
-      "Maria Gaetana Agnesi"
+      "Montesquieu"
     ],
     "themes": []
   },
@@ -6955,7 +7473,7 @@ const RAW_DATA = [
     "born": 1716,
     "died": 1767,
     "title": "Nguyễn Cư Trinh",
-    "desc": "Nhà thơ, học giả và chỉ huy quân sự người Việt Nam, phục vụ chúa Nguyễn một cách xuất sắc trong các chiến dịch mở rộng miền Nam.",
+    "desc": "Danh thần, nhà thơ kiêm chỉ huy quân sự xuất sắc thời chúa Nguyễn. Ông có công lớn trong việc ổn định biên giới phía Nam, khai khẩn vùng đất Nam Bộ và dẹp loạn ở Hà Tiên. Về văn học, ông nổi tiếng với tác phẩm chữ Nôm \"Sãi Vãi\" mang đậm giá trị châm biếm xã hội và khuyên răn người đời.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -6966,9 +7484,31 @@ const RAW_DATA = [
     "fullName": "Nguyễn Cư Trinh",
     "image": "",
     "relations": [
-      "Nguyễn Hữu Chỉnh",
-      "Trần Quang Diệu",
-      "Đào Duy Từ"
+      "Châu Văn Tiếp",
+      "Võ Tánh",
+      "Nguyễn Huy Tự"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1718,
+    "died": 1799,
+    "title": "Maria Gaetana Agnesi",
+    "fullName": "Maria Gaetana Agnesi",
+    "desc": "Nhà toán học, triết học và nhà hoạt động nhân đạo người Ý. Bà là người phụ nữ đầu tiên viết sách giáo khoa toán học (giải tích) và là người phụ nữ đầu tiên được bổ nhiệm làm giáo sư toán học tại một trường đại học (Đại học Bologna).",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maria_Gaetana_Agnesi.jpg",
+    "relations": [
+      "Gottfried Wilhelm Leibniz",
+      "Lê Quý Đôn",
+      "Leonhard Euler"
     ],
     "themes": []
   },
@@ -6993,6 +7533,27 @@ const RAW_DATA = [
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tr%E1%BB%8Bnh_Doanh.png"
+  },
+  {
+    "born": 1721,
+    "died": 1793,
+    "title": "Im Yunjidang",
+    "fullName": "Im Yunjidang",
+    "desc": "Nữ triết gia Nho học nổi bật thời Joseon (Triều Tiên). Trong một xã hội phụ hệ cực kỳ hà khắc, bà đã khẳng định mạnh mẽ rằng phụ nữ có năng lực đạo đức và trí tuệ tương đương nam giới, đồng thời có thể đạt đến cảnh giới thánh nhân thông qua tu dưỡng bản thân.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Others",
+    "image": "",
+    "relations": [
+      "Karen Horney",
+      "Kim Jong-un",
+      "Immanuel Kant"
+    ],
+    "themes": []
   },
   {
     "born": 1723,
@@ -7083,7 +7644,7 @@ const RAW_DATA = [
     "died": 1780,
     "title": "Ngô Thì Sĩ",
     "fullName": "Ngô Thì Sĩ (Ngô Sĩ, Ngô Thì Sỹ, Ngọ Phong)",
-    "desc": "Học giả, sử gia, nhà thơ Việt Nam thời Hậu Lê, cha của Ngô Thì Nhậm.",
+    "desc": "Danh sĩ, sử gia và nhà thơ lỗi lạc thời Hậu Lê, người đặt nền móng cho dòng họ văn khoa \"Ngô gia văn phái\" lẫy lừng. Ông đỗ Tiến sĩ năm 1766, làm quan Đốc trấn Lạng Sơn và lập nhiều công trạng canh tân biên giới. Ông là tác giả của bộ sử giá trị \"Đại Việt sử ký tiền biên\" và là cha đẻ của nhà ngoại giao kiệt xuất Ngô Thì Nhậm.",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Literature",
@@ -7093,9 +7654,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Vũ Trinh",
-      "Vũ Tông Phan",
-      "Huỳnh Mẫn Đạt"
+      "Lê Văn Thịnh",
+      "Nguyễn Chí Vịnh",
+      "Lương Thế Vinh"
     ],
     "themes": []
   },
@@ -7253,7 +7814,7 @@ const RAW_DATA = [
     "fullName": "Châu Văn Tiếp (Châu Doãn Ngạnh)",
     "born": 1738,
     "died": 1784,
-    "desc": "Danh tướng nổi tiếng cuối thế kỷ 18, một trong Gia Định tam hùng, công thần khai quốc nhà Nguyễn.",
+    "desc": "Danh tướng kiệt xuất cuối thế kỷ 18, một trong \"Gia Định tam hùng\" và là công thần khai quốc hàng đầu của triều Nguyễn. Ông từng lập lực lượng riêng cát cứ tại Phú Yên trước khi dốc lòng phò tá chúa Nguyễn Ánh chống lại quân Tây Sơn. Ông tử trận anh dũng vào năm 1784 trong trận thủy chiến lớn tại sông Mang Thít (Vĩnh Long).",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -7262,9 +7823,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Ngô Tùng Châu",
-      "Tôn Thất Đạm",
-      "Hoàng Kế Viêm"
+      "Võ Tánh",
+      "Nguyễn Tri Phương",
+      "Lê Đình Lý"
     ],
     "themes": []
   },
@@ -7285,10 +7846,33 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Huy Tự",
       "Ngô Tùng Châu",
-      "Đào Duy Từ"
+      "Võ Tánh"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tr%E1%BB%8Bnh_S%C3%A2m.png"
+  },
+  {
+    "born": 1741,
+    "died": 1787,
+    "title": "Nguyễn Hữu Chỉnh",
+    "desc": "Nhân vật tài năng kiệt xuất nhưng đầy mâu thuẫn và bi kịch, được mệnh danh là 'Chim Hải Đông'. Ông là nhà quân sự đại tài, nhà thơ có giọng điệu riêng, nhưng cũng là kẻ cơ hội lịch sử. Từng phục vụ chúa Trịnh, rồi theo Tây Sơn, rồi lại mưu đồ riêng — cả đời nương thân nhiều chủ, cuối cùng bị chính Tây Sơn tiêu diệt. Cuộc đời ông là bài học cay đắng về tài năng không đi cùng phẩm cách.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Nguyễn Hữu Chỉnh (Chim Hải Đông, Điện tiền tướng quân)",
+    "image": "",
+    "relations": [
+      "Trần Quang Diệu",
+      "Nguyễn Lữ",
+      "Lê Chiêu Thống"
+    ],
+    "themes": []
   },
   {
     "born": 1743,
@@ -7305,9 +7889,9 @@ const RAW_DATA = [
     "fullName": "Marquis de Condorcet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nicolas_de_Condorcet.PNG/500px-Nicolas_de_Condorcet.PNG",
     "relations": [
+      "Montesquieu",
       "John Locke",
-      "Johann Gottfried Herder",
-      "Michel Foucault"
+      "Johann Gottfried Herder"
     ],
     "themes": []
   },
@@ -7328,7 +7912,7 @@ const RAW_DATA = [
     "relations": [
       "Charles-Augustin de Coulomb",
       "Albert Einstein",
-      "James Watt"
+      "Johannes Kepler"
     ],
     "themes": []
   },
@@ -7349,10 +7933,33 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Hữu Chỉnh",
       "Nguyễn Lữ",
-      "Bùi Thị Xuân"
+      "Trần Quang Diệu"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/NguyenNhac.jpg"
+  },
+  {
+    "born": 1743,
+    "died": 1790,
+    "title": "Nguyễn Huy Tự",
+    "desc": "Nhà thơ, nhà quân sự và quan lại thời Hậu Lê. Ông nổi danh với 'Hoa Tiên truyện' — truyện thơ Nôm xuất sắc, một trong những đỉnh cao của văn học chữ Nôm Việt Nam trước Truyện Kiều của Nguyễn Du. Vừa là tác giả văn chương tinh tế, vừa là vị quan liêm khiết và nhà quân sự tài ba, cuộc đời ông là minh chứng hiếm có cho sự hội tụ của văn và võ trong thời loạn lạc.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Nguyễn Huy Tự (hiệu Hạo Hiên)",
+    "image": "",
+    "relations": [
+      "Nguyễn Du",
+      "Ngô Tùng Châu",
+      "Nguyễn Cư Trinh"
+    ],
+    "themes": []
   },
   {
     "born": 1744,
@@ -7372,8 +7979,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Marquis de Condorcet",
-      "Mary Wollstonecraft",
-      "Denis Diderot"
+      "Montesquieu",
+      "Mary Wollstonecraft"
     ]
   },
   {
@@ -7396,6 +8003,27 @@ const RAW_DATA = [
       "Antonio Meucci"
     ],
     "themes": []
+  },
+  {
+    "born": 1745,
+    "died": 1813,
+    "title": "Mikhail Kutuzov",
+    "fullName": "Mikhail Illarionovich Golenishchev-Kutuzov (Russian Field Marshal)",
+    "desc": "Thống chế Đế quốc Nga, người đã đập tan cuộc xâm lược Nga của hoàng đế Napoleon vào năm 1812. Bằng chiến thuật rút lui chiến lược vườn không nhà trống và trận ác chiến Borodino, ông đã bảo vệ thành công tổ quốc trước đại quân Pháp.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Russian",
+    "relations": [
+      "Châu Văn Tiếp",
+      "Trần Quang Diệu",
+      "Michel Ney"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kutuzov_by_Volkov.jpg/500px-Kutuzov_by_Volkov.jpg"
   },
   {
     "born": 1749,
@@ -7435,7 +8063,29 @@ const RAW_DATA = [
     "relations": [
       "Joseph-Louis Lagrange",
       "James Watt",
-      "Carl Friedrich Gauss"
+      "Johannes Kepler"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1750,
+    "died": 1822,
+    "title": "Phan Huy Ích",
+    "desc": "Nhà thơ, nhà văn và học giả uyên bác người Việt, phục vụ qua nhiều triều đại Hậu Lê, Tây Sơn và Nguyễn. Ông nổi tiếng với tài thơ văn chữ Hán và chữ Nôm tinh tế, đặc biệt trong thể loại từ khúc và thơ trữ tình. Là thân phụ của nhà bác học Phan Huy Chú — tác giả bộ bách khoa thư lịch sử đồ sộ 'Lịch triều hiến chương loại chí', ông để lại một gia tộc khoa bảng lừng danh cho hậu thế.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phan Huy Ích (hiệu Dụ Am, Hối Hiên)",
+    "image": "",
+    "relations": [
+      "Phan Huy Chú",
+      "Trần Quang Diệu",
+      "Nguyễn Hữu Chỉnh"
     ],
     "themes": []
   },
@@ -7444,7 +8094,7 @@ const RAW_DATA = [
     "fullName": "Đặng Đức Siêu",
     "born": 1751,
     "died": 1810,
-    "desc": "Danh thần, danh sĩ dưới thời chúa Nguyễn và nhà Nguyễn.",
+    "desc": "Đại danh thần triều Nguyễn, người giữ lòng trung trinh theo phò tá chúa Nguyễn Ánh từ những ngày gian khó ở Gia Định. Sau khi vương triều thành lập, ông thăng đến chức Thượng thư bộ Lễ, lập công lớn xây dựng hệ thống nghi lễ, điển chế quốc gia và soạn các áng văn tế công thần bất hủ.",
     "color": "#4a7c5a",
     "position": "top",
     "primary_tag": "Literature",
@@ -7454,8 +8104,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Trịnh Hoài Đức",
-      "Huỳnh Mẫn Đạt",
-      "Cao Bá Quát"
+      "Châu Văn Tiếp",
+      "Ngô Tùng Châu"
     ],
     "themes": [],
     "image": ""
@@ -7464,7 +8114,7 @@ const RAW_DATA = [
     "born": 1752,
     "died": 1802,
     "title": "Bùi Thị Xuân",
-    "desc": "Tướng Việt dưới triều Tây Sơn, nữ chiến binh nổi tiếng bị xử tử sau khi triều đại sụp đổ.",
+    "desc": "Nữ đô đốc kiệt xuất của triều đại Tây Sơn, vợ của Thái phó Trần Quang Diệu. Bà nổi tiếng lịch sử với tài nghệ huấn luyện voi chiến lừng lẫy và sự quả cảm kiên cường bảo vệ vương triều trước khi bị nhà Nguyễn bắt sống, chịu hình phạt voi giày khốc liệt nhưng vẫn hiên ngang bất khuất.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -7475,9 +8125,9 @@ const RAW_DATA = [
     "fullName": "Bùi Thị Xuân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/B%C3%B9i_Th%E1%BB%8B_Xu%C3%A2n.jpg",
     "relations": [
-      "Trần Quang Diệu",
-      "Nguyễn Lữ",
-      "Nguyễn Nhạc"
+      "Châu Văn Tiếp",
+      "Võ Tánh",
+      "Tôn Thất Thuyết"
     ],
     "themes": []
   },
@@ -7486,7 +8136,7 @@ const RAW_DATA = [
     "fullName": "Ngô Tùng Châu",
     "born": 1752,
     "died": 1801,
-    "desc": "Công thần khai quốc của nhà Nguyễn, tử tiết tại thành Bình Định.",
+    "desc": "Khai quốc công thần trung nghĩa của nhà Nguyễn. Ông được giao trọng trách cùng danh tướng Võ Tánh trấn thủ thành Bình Định chống lại đại quân Tây Sơn. Khi thành cạn lương thảo năm 1801, ông đã uống thuốc độc tự tiết để bảo toàn khí tiết của một trung thần trước khi thành thất thủ.",
     "color": "#2a6fdb",
     "position": "top",
     "primary_tag": "Political",
@@ -7495,9 +8145,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Võ Tánh",
       "Châu Văn Tiếp",
-      "Gia Long",
-      "Trịnh Hoài Đức"
+      "Nguyễn Tri Phương"
     ],
     "themes": [],
     "image": ""
@@ -7631,6 +8281,49 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1759,
+    "died": 1828,
+    "title": "Vũ Trinh",
+    "desc": "Nhà văn, nhà thơ và quan lại người Việt phục vụ dưới cả hai triều Hậu Lê và Nguyễn sơ. Ông nổi tiếng nhất với tác phẩm 'Lan Trì kiến văn lục' — tập truyện ký bằng chữ Hán ghi lại những sự kiện kỳ lạ, chuyện ma quái và giai thoại nhân vật đương thời, là một trong những nguồn tư liệu văn hóa và xã hội quý giá của thế kỷ 18-19. Ông còn là người thầy, nhà thơ cổ điển uyên thâm được trọng dụng qua nhiều triều đại.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Vũ Trinh (Vũ Dự Chi, hiệu Lai Sơn)",
+    "image": "",
+    "relations": [
+      "Phan Huy Ích",
+      "Nguyễn Du",
+      "Thụy An"
+    ],
+    "themes": []
+  },
+  {
+    "title": "Mary Wollstonecraft",
+    "born": 1759,
+    "died": 1797,
+    "desc": "Nhà triết học và văn sĩ người Anh thế kỷ 18, người đặt nền móng lý luận đầu tiên cho phong trào nữ quyền thế giới với tác phẩm kinh điển 'Biện hộ cho quyền của phụ nữ' (1792).",
+    "nationality": "British",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/500px-Mary_Wollstonecraft_Portrait.jpg",
+    "relations": [
+      "Agnès Varda",
+      "Julia Kristeva",
+      "Kimberle Crenshaw"
+    ]
+  },
+  {
     "born": 1760,
     "died": 1825,
     "title": "Henri de Saint Simon",
@@ -7645,9 +8338,9 @@ const RAW_DATA = [
     "fullName": "Henri de Saint Simon",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_de_Claude-Henri_de_Rouvroy%2C_comte_de_Saint-Simon.jpg/500px-Portrait_de_Claude-Henri_de_Rouvroy%2C_comte_de_Saint-Simon.jpg",
     "relations": [
+      "Georg W. F. Hegel",
       "Simone de Beauvoir",
-      "Mary Wollstonecraft",
-      "Marquis de Condorcet"
+      "Mary Wollstonecraft"
     ],
     "themes": []
   },
@@ -7670,6 +8363,28 @@ const RAW_DATA = [
       "Georges Danton",
       "Louis XVI",
       "Klemens von Metternich"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1760,
+    "died": 1802,
+    "title": "Trần Quang Diệu",
+    "desc": "Danh tướng kiệt xuất và trung nghĩa bậc nhất của triều Tây Sơn, phu quân của nữ tướng huyền thoại Bùi Thị Xuân. Ông lập nhiều chiến công lừng lẫy, trấn thủ các thành trì chiến lược, là một trong những cánh tay đắc lực nhất của vua Quang Trung. Sau khi nhà Tây Sơn sụp đổ, không hàng phục, ông cùng người vợ anh hùng bị Nguyễn Ánh xử tử — để lại tấm gương ngời sáng về khí tiết và lòng trung nghĩa hiếm có trong lịch sử.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trần Quang Diệu",
+    "image": "",
+    "relations": [
+      "Nguyễn Hữu Chỉnh",
+      "Lê Chiêu Thống",
+      "Phan Huy Ích"
     ],
     "themes": []
   },
@@ -7710,8 +8425,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/T%C6%B0%E1%BB%A3ng_T%E1%BA%A3_Qu%C3%A2n_nh%C3%ACn_th%E1%BA%B3ng.jpg",
     "relations": [
       "Gia Long",
-      "Nguyễn Tri Phương",
-      "Phan Thanh Giản"
+      "Võ Tánh",
+      "Châu Văn Tiếp"
     ],
     "themes": []
   },
@@ -7752,11 +8467,33 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Đặng Đức Siêu",
-      "Cao Bá Quát",
-      "Ngô Tùng Châu"
+      "Phạm Văn Nghị",
+      "Nguyễn Tri Phương"
     ],
     "themes": [],
     "image": ""
+  },
+  {
+    "born": 1765,
+    "died": 1793,
+    "title": "Lê Chiêu Thống",
+    "desc": "Vị hoàng đế cuối cùng của triều Hậu Lê — triều đại kéo dài gần 360 năm. Trước cơn sóng gió của phong trào Tây Sơn, ông đã đưa ra quyết định bi kịch là cầu viện 20 vạn quân Thanh sang đánh Tây Sơn, bị vua Quang Trung đại phá tan tành chỉ trong 5 ngày xuân Kỷ Dậu 1789. Sau thất bại, ông phải bỏ nước lưu vong sang đất Trung Hoa, mang theo nỗi nhục mất nước cho đến khi mất tại đó, trở thành một trong những nhân vật bi kịch nhất lịch sử Việt Nam.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Lê Chiêu Thống (Lê Duy Khiêm, Lê Mẫn Đế, Chiêu Thống Đế, Duy Khiêm Đế)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_King_of_Annam_at_Chengde_Mountain_Resort.jpg/500px-The_King_of_Annam_at_Chengde_Mountain_Resort.jpg",
+    "relations": [
+      "Trần Quang Diệu",
+      "Nguyễn Hữu Chỉnh",
+      "Nguyễn Lữ"
+    ],
+    "themes": []
   },
   {
     "born": 1766,
@@ -7770,7 +8507,7 @@ const RAW_DATA = [
       "Literature"
     ],
     "nationality": "Vietnamese",
-    "fullName": "Nguyễn Du (Tố Như, Thanh Hiên, Đoạn trường tân thanh, Truyện Kiều)",
+    "fullName": "Nguyễn Du (Tố Như, Thanh Hiên, Đoạn trường tân thanh, Hồng Sơn lạp hộ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_c%E1%BB%A5_Nguy%E1%BB%85n_Du.jpg",
     "relations": [
       "Nguyễn Huy Tự",
@@ -7805,7 +8542,7 @@ const RAW_DATA = [
     "fullName": "Võ Tánh",
     "born": 1768,
     "died": 1801,
-    "desc": "Tướng lĩnh vực nổi tiếng của Nguyễn Ánh, tự vẫn trong trận thành Quy Nhon.",
+    "desc": "Danh tướng kiệt xuất thời nhà Nguyễn, một trong \"Gia Định tam hùng\" bên cạnh Đỗ Thanh Nhơn và Châu Văn Tiếp. Ông lập Kiến Hòa quân nổi danh tại Gò Công trước khi phò tá chúa Nguyễn Ánh chống Tây Sơn. Khi trấn thủ thành Quy Nhơn (Bình Định) và bị vây hãm ngặt nghèo, ông đã viết thư xin Trần Quang Diệu không sát hại hàng binh rồi tự thiêu bằng thuốc súng trên lầu bát giác để Nguyễn Ánh rảnh tay tấn công Phú Xuân.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -7814,9 +8551,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lê Văn Duyệt",
-      "Trần Quang Diệu",
-      "Carl von Clausewitz"
+      "Châu Văn Tiếp",
+      "Ngô Tùng Châu",
+      "Nguyễn Tri Phương"
     ],
     "themes": [],
     "image": ""
@@ -7841,6 +8578,27 @@ const RAW_DATA = [
       "Otto von Bismarck"
     ],
     "themes": []
+  },
+  {
+    "born": 1769,
+    "died": 1815,
+    "title": "Michel Ney",
+    "fullName": "Michel Ney (Marshal Ney, 1st Duc d'Elchingen, 1st Prince de la Moskowa)",
+    "desc": "Thống chế Đế chế Pháp dưới thời Napoleon Bonaparte, được hoàng đế ca ngợi là 'Người dũng cảm nhất trong những người dũng cảm'. Ông đóng vai trò tiên phong kiệt xuất trong các chiến dịch Ulm, Jena-Auerstedt, Borodino và trận Waterloo lịch sử.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Napoleon Bonaparte",
+      "Trần Quang Diệu",
+      "Mikhail Kutuzov"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marechal_Ney.jpg/500px-Marechal_Ney.jpg"
   },
   {
     "born": 1770,
@@ -7869,7 +8627,7 @@ const RAW_DATA = [
     "born": 1770,
     "died": 1831,
     "title": "Georg W. F. Hegel",
-    "desc": "Triết gia người Đức xuyên suốt toàn bộ các chủ đề triết học đương đại.",
+    "desc": "Triết gia lỗi lạc người Đức, đại biểu vĩ đại nhất của chủ nghĩa duy tâm Đức. Hệ thống triết học đồ sộ của ông dựa trên phép biên chứng duy tâm về lịch sử và \"Tinh thần Tuyệt đối\" đã tạo nên cuộc cách mạng tư tưởng sâu sắc, đặt nền móng và ảnh hưởng mạnh mẽ tới triết học Marx và tư tưởng hiện đại.",
     "color": "#5e239d",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -7880,9 +8638,9 @@ const RAW_DATA = [
     "fullName": "Georg W. F. Hegel (Georg Wilhelm Friedrich Hegel)",
     "image": "",
     "relations": [
-      "Mary Wollstonecraft",
-      "Henri de Saint Simon",
-      "Han Byung-chul"
+      "Virginia Woolf",
+      "Karl Marx",
+      "Thương Ưởng"
     ],
     "themes": []
   },
@@ -7903,8 +8661,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Clemens Brentano",
-      "Achim von Arnim",
-      "Vũ Trinh"
+      "Vũ Trinh",
+      "Achim von Arnim"
     ]
   },
   {
@@ -7925,6 +8683,27 @@ const RAW_DATA = [
       "Nguyễn Du",
       "Vũ Trinh",
       "Jane Austen"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1773,
+    "died": 1859,
+    "title": "Klemens von Metternich",
+    "fullName": "Klemens Wenzel Nepomuk Lothar, Fürst von Metternich-Winneburg zu Beilstein",
+    "desc": "Nhà ngoại giao và chính trị gia người Áo, một trong những nhân vật quan trọng nhất của châu Âu thế kỷ 19. Ông đóng vai trò trung tâm tại Hội nghị Vienna (1815) và thiết lập nên Hệ thống Metternich nhằm duy trì hòa bình và sự cân bằng quyền lực ở châu Âu.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Austrian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Prince_Metternich_by_Lawrence.jpeg/500px-Prince_Metternich_by_Lawrence.jpeg",
+    "relations": [
+      "Tống Mỹ Linh",
+      "Gia Long",
+      "Flora Tristan"
     ],
     "themes": []
   },
@@ -8049,8 +8828,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Clausewitz.jpg/500px-Clausewitz.jpg",
     "relations": [
       "Napoleon Bonaparte",
-      "Trần Quang Diệu",
-      "Heinz Guderian"
+      "Võ Tánh",
+      "Trần Quang Diệu"
     ],
     "themes": []
   },
@@ -8115,7 +8894,7 @@ const RAW_DATA = [
     "relations": [
       "Phan Huy Ích",
       "Lê Chiêu Thống",
-      "Bùi Thị Xuân"
+      "Trần Quang Diệu"
     ],
     "themes": []
   },
@@ -8225,10 +9004,31 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "title": "Gioacchino Rossini",
+    "born": 1792,
+    "died": 1868,
+    "desc": "Nhà soạn nhạc người Ý lỗi lạc thuộc thời kỳ Lãng mạn đầu tiên, tác giả của các vở nhạc kịch (opera buffa) kinh điển như 'Người thợ cạo thành Seville' và 'William Tell'.",
+    "nationality": "Italian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rossini_young-circa-1815.jpg",
+    "relations": [
+      "Richard Strauss",
+      "Franz Schubert",
+      "Georges Bizet"
+    ]
+  },
+  {
     "born": 1795,
     "died": 1849,
     "title": "James K. Polk",
-    "desc": "Tổng thống thứ 11 của Hoa Kỳ, giám sát việc mở rộng lãnh thổ bao gồm việc sáp nhập Texas và Oregon.",
+    "desc": "Tổng thống thứ 11 của Hoa Kỳ (1845-1849), người dẫn dắt công cuộc mở rộng lãnh thổ vĩ đại bậc nhất lịch sử nước Mỹ. Ông đã sáp nhập thành công bang Texas, đàm phán vùng Oregon và lãnh đạo chiến thắng trong chiến tranh Mỹ-Mexico để sáp nhập bang California và vùng Tây Nam ngày nay.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -8240,7 +9040,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Polk_crop.jpg/500px-Polk_crop.jpg",
     "relations": [
       "Abraham Lincoln",
-      "Minh Mạng",
+      "Hồ Chí Minh",
       "Benito Juárez"
     ],
     "themes": []
@@ -8262,7 +9062,7 @@ const RAW_DATA = [
     "relations": [
       "Lord Byron",
       "Heinrich Heine",
-      "Achim von Arnim"
+      "Victor Hugo"
     ],
     "themes": []
   },
@@ -8281,9 +9081,9 @@ const RAW_DATA = [
     "fullName": "Phan Thanh Giản",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Phan_Thanh_Gian.jpg",
     "relations": [
-      "Minh Mạng",
-      "Tự Đức",
-      "Lê Văn Duyệt"
+      "Phạm Phú Thứ",
+      "Huỳnh Mẫn Đạt",
+      "Minh Mạng"
     ],
     "themes": []
   },
@@ -8390,7 +9190,7 @@ const RAW_DATA = [
     "relations": [
       "Vincent van Gogh",
       "Frédéric Chopin",
-      "Gustav Klimt"
+      "Fanny Mendelssohn"
     ],
     "themes": []
   },
@@ -8431,8 +9231,30 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%A5%A5%C2%B7%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B.png/500px-%E5%A5%A5%C2%B7%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B.png",
     "relations": [
       "Alexandre Dumas cha",
-      "Alexandre Dumas con",
-      "Jules Verne"
+      "Victor Hugo",
+      "Alexandre Dumas con"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1799,
+    "died": 1872,
+    "title": "Nguyễn Văn Siêu",
+    "desc": "Được đời sau tôn xưng là 'Thần Siêu' — một trong 'Song hùng' nổi danh nhất của thi đàn chữ Hán Việt Nam thế kỷ 19, sánh vai cùng 'Thánh Quát' Cao Bá Quát. Là nhà thơ, nhà văn xuôi và học giả uyên thâm, ông để lại gia tài văn chương đồ sộ. Ông còn có công lớn trong việc trùng tu và xây dựng tháp Bút — Đài Nghiên tại Đền Ngọc Sơn, Hà Nội — biểu tượng văn hóa bất hủ của Thủ đô.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Nguyễn Văn Siêu (Thần Siêu, hiệu Phương Đình)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/12_Su_quan.jpg/500px-12_Su_quan.jpg",
+    "relations": [
+      "Cao Bá Quát",
+      "Vũ Tông Phan",
+      "Quách Tử Nghi"
     ],
     "themes": []
   },
@@ -8441,7 +9263,7 @@ const RAW_DATA = [
     "died": 1851,
     "title": "Vũ Tông Phan",
     "fullName": "Vũ Tông Phan (Lỗ Am)",
-    "desc": "Học giả, nhà thơ, nhà giáo dục lỗi lạc người Việt thời Nguyễn.",
+    "desc": "Nhà giáo triết mỹ và danh sĩ kiệt xuất thời Nguyễn, đỗ Tiến sĩ năm 1826. Sau khi rời quan trường, ông mở trường Hồ Đình dạy học ngay bên hồ Hoàn Kiếm, đào tạo nhiều sĩ phu yêu nước cho Thăng Long. Ông có đóng góp to lớn trong việc trùng tu đền Ngọc Sơn và xây dựng biểu tượng văn hóa cho thủ đô giữa thế kỷ 19.",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Literature",
@@ -8451,8 +9273,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Portrait_of_V%C5%A9_T%C3%B4ng_Phan_%28%E6%AD%A6%E5%AE%97%E7%92%A0%29.jpg/500px-Portrait_of_V%C5%A9_T%C3%B4ng_Phan_%28%E6%AD%A6%E5%AE%97%E7%92%A0%29.jpg",
     "relations": [
+      "Nguyễn Văn Siêu",
       "Huỳnh Mẫn Đạt",
-      "Cao Bá Quát",
       "Phạm Văn Nghị"
     ],
     "themes": []
@@ -8462,7 +9284,7 @@ const RAW_DATA = [
     "died": 1873,
     "title": "Nguyễn Tri Phương",
     "fullName": "Nguyễn Tri Phương (Nguyễn Văn Chương)",
-    "desc": "Vị tướng huyền thoại triều Nguyễn, người đã chỉ huy quân đội Việt Nam chống Pháp xâm lược tại Đà Nẵng, Sài Gòn và Hà Nội.",
+    "desc": "Đại danh thần và thống soái quân sự kiệt xuất triều Nguyễn. Ông là tổng chỉ huy quân đội chống thực dân Pháp trên cả ba mặt trận huyết mạch: Đà Nẵng (1858), Gia Định (1861) và Hà Nội (1873). Khi thành Hà Nội thất thủ năm 1873, ông bị thương nặng và bị bắt, nhưng đã cự tuyệt sự cứu chữa của giặc, tuyệt thực để bảo toàn khí tiết anh dũng.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -8473,9 +9295,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_of_Nguyen_Tri_Phuong_in_Da_Nang_in_2015.jpg/500px-Statue_of_Nguyen_Tri_Phuong_in_Da_Nang_in_2015.jpg",
     "relations": [
+      "Hoàng Diệu",
       "Lê Đình Lý",
-      "Tôn Thất Thuyết",
-      "Đỗ Thúc Tịnh"
+      "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -8496,9 +9318,9 @@ const RAW_DATA = [
     "fullName": "Alexandre Dumas cha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nadar_-_Alexander_Dumas_p%C3%A8re_%281802-1870%29_-_Google_Art_Project_2.jpg/500px-Nadar_-_Alexander_Dumas_p%C3%A8re_%281802-1870%29_-_Google_Art_Project_2.jpg",
     "relations": [
+      "Victor Hugo",
       "Honoré de Balzac",
-      "Charlotte Bronte",
-      "Alexandre Dumas con"
+      "Charlotte Bronte"
     ],
     "themes": []
   },
@@ -8506,7 +9328,7 @@ const RAW_DATA = [
     "born": 1802,
     "died": 1885,
     "title": "Victor Hugo",
-    "desc": "Nhà văn và nhà thơ người Pháp, nổi tiếng với các tác phẩm như \"Les Misérables\" và \"The Hunchback of Notre-Dame\".",
+    "desc": "Đại văn hào và nhà thơ vĩ đại thuộc trào lưu lãng mạn Pháp, một trong những tác gia có ảnh hưởng sâu rộng nhất văn học thế giới. Ông là cha đẻ của các kiệt tác bất hủ như tiểu thuyết \"Những người khốn khổ\" và \"Nhà thờ Đức Bà Paris\". Không chỉ hoạt động nghệ thuật, ông còn là chính trị gia nhiệt thành đấu tranh cho công lý xã hội và quyền con người.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -8518,8 +9340,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/500px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
     "relations": [
       "Alexandre Dumas cha",
-      "Honoré de Balzac",
-      "Alexander Pushkin"
+      "Flora Tristan",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -8527,7 +9349,7 @@ const RAW_DATA = [
     "born": 1803,
     "died": 1844,
     "title": "Flora Tristan",
-    "desc": "Nhà văn xã hội chủ nghĩa người Pháp gốc Peru và nhà hoạt động nữ quyền, được coi là một trong những người sáng lập chủ nghĩa nữ quyền hiện đại.",
+    "desc": "Nhà văn xã hội chủ nghĩa và nhà hoạt động nữ quyền tiên phong người Pháp gốc Peru. Bà là một trong những người đầu tiên đề xuất ý tưởng thành lập một liên đoàn công nhân quốc tế thống nhất (L'Union Ouvrière, 1843) trước cả Karl Marx. Bà đấu tranh không mệt mỏi cho sự bình đẳng giới và là bà ngoại của họa sĩ huyền thoại Paul Gauguin.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -8538,9 +9360,9 @@ const RAW_DATA = [
     "fullName": "Flora Tristan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flora_Tristan_par_Jules_Laure.jpg/500px-Flora_Tristan_par_Jules_Laure.jpg",
     "relations": [
-      "Simone de Beauvoir",
-      "Agnès Varda",
-      "Kimberle Crenshaw"
+      "Julia Kristeva",
+      "Karen Horney",
+      "Simone de Beauvoir"
     ],
     "themes": [
       "Feminism Movement"
@@ -8635,6 +9457,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "title": "Fanny Mendelssohn",
+    "born": 1805,
+    "died": 1847,
+    "desc": "Nữ nhà soạn nhạc kiêm nghệ sĩ dương cầm kiệt xuất người Đức thời kỳ đầu Lãng mạn, chị gái của Felix Mendelssohn. Bà đã vượt qua rào cản định kiến giới tính thời đại để chắp sáng tác hơn 460 tác phẩm âm nhạc thăng hoa và giàu cảm xúc.",
+    "nationality": "German",
+    "primary_tag": "Art",
+    "tags": [
+      "Art",
+      "Women"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fanny_Mendelssohn.jpg/500px-Fanny_Mendelssohn.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Felix Mendelssohn",
+      "Clara Schumann",
+      "Frédéric Chopin"
+    ]
+  },
+  {
     "born": 1806,
     "died": 1873,
     "title": "John Stuart Mill",
@@ -8651,7 +9495,7 @@ const RAW_DATA = [
     "relations": [
       "Alexis de Tocqueville",
       "John Locke",
-      "Arthur Schopenhauer"
+      "Georg W. F. Hegel"
     ],
     "themes": []
   },
@@ -8671,8 +9515,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Photograph_of_Benito_Juarez.jpg",
     "relations": [
       "Hồ Chí Minh",
-      "Germán Busch",
-      "Charles de Gaulle"
+      "James K. Polk",
+      "Germán Busch"
     ],
     "themes": []
   },
@@ -8680,7 +9524,7 @@ const RAW_DATA = [
     "born": 1807,
     "died": 1882,
     "title": "Huỳnh Mẫn Đạt",
-    "desc": "Nhà thơ và quan chức cấp cao Việt Nam thời nhà Nguyễn. Ông được nhớ đến với nền văn học yêu nước và vai trò của ông trong chính quyền địa phương miền Nam Việt Nam.",
+    "desc": "Nhà thơ yêu nước nổi tiếng và là quan chức cấp cao thời nhà Nguyễn ở Nam Kỳ. Ông nổi bật với phong cách thơ ca trữ tình, giàu lòng yêu nước, đặc biệt là những vần thơ đối đáp, xướng họa sắc sảo với các sĩ phu cùng thời như Nguyễn Đình Chiểu, Phan Thanh Giản và bài điếu ca ngợi anh hùng Nguyễn Trung Trực.",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Literature",
@@ -8691,9 +9535,9 @@ const RAW_DATA = [
     "fullName": "Huỳnh Mẫn Đạt",
     "image": "",
     "relations": [
-      "Cao Bá Quát",
       "Phan Thanh Giản",
-      "Minh Mạng"
+      "Phạm Phú Thứ",
+      "Phạm Văn Nghị"
     ],
     "themes": []
   },
@@ -8714,7 +9558,7 @@ const RAW_DATA = [
     "relations": [
       "Ulysses S. Grant",
       "Otto von Bismarck",
-      "Trương Định"
+      "Heinz Guderian"
     ],
     "themes": []
   },
@@ -8733,9 +9577,9 @@ const RAW_DATA = [
     "fullName": "Giuseppe Garibaldi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Garibaldi_%281866%29.jpg",
     "relations": [
+      "Flora Tristan",
       "Abraham Lincoln",
-      "Tôn Trung Sơn",
-      "Trần Quang Diệu"
+      "James K. Polk"
     ],
     "themes": []
   },
@@ -8756,9 +9600,32 @@ const RAW_DATA = [
     "relations": [
       "Minh Mạng",
       "Đỗ Thúc Tịnh",
-      "Phan Thanh Giản"
+      "Phạm Phú Thứ"
     ],
     "themes": []
+  },
+  {
+    "born": 1807,
+    "died": 1873,
+    "title": "Rigault de Genouilly",
+    "fullName": "Charles Rigault de Genouilly",
+    "desc": "Đô đốc hải quân Pháp, người đã chỉ huy liên quân Pháp - Tây Ban Nha tấn công Đà Nẵng năm 1858 và đánh chiếm Gia Định năm 1859, mở đầu cho quá trình xâm lược Việt Nam của thực dân Pháp.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Nguyễn Tri Phương",
+      "Trương Định",
+      "Võ Nguyên Giáp"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/500px-de-genouilly.jpg"
   },
   {
     "born": 1808,
@@ -8776,8 +9643,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/500px-Alexandre_Cabanel_002.jpg",
     "relations": [
       "Flora Tristan",
-      "Napoleon Bonaparte",
-      "Richard Nixon"
+      "James K. Polk",
+      "Phạm Phú Thứ"
     ],
     "themes": []
   },
@@ -8817,8 +9684,8 @@ const RAW_DATA = [
     "fullName": "Edgar Allan Poe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
     "relations": [
-      "Fyodor Dostoyevsky",
       "Huỳnh Mẫn Đạt",
+      "Fyodor Dostoyevsky",
       "Alexandre Dumas cha"
     ],
     "themes": []
@@ -8838,9 +9705,9 @@ const RAW_DATA = [
     "fullName": "Cao Bá Quát (Thần Siêu, Cao Chu Thần)",
     "image": "",
     "relations": [
+      "Phạm Văn Nghị",
       "Đỗ Thúc Tịnh",
-      "Huỳnh Mẫn Đạt",
-      "Minh Mạng"
+      "Trương Phúc Loan"
     ],
     "themes": []
   },
@@ -8859,9 +9726,9 @@ const RAW_DATA = [
     "fullName": "Abraham Lincoln",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/500px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
     "relations": [
+      "James K. Polk",
       "Hồ Chí Minh",
-      "Woodrow Wilson",
-      "George Washington"
+      "Flora Tristan"
     ],
     "themes": []
   },
@@ -8958,6 +9825,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1811,
+    "died": 1868,
+    "title": "Carlo Matteucci",
+    "desc": "Nhà vật lý và sinh lý học thần kinh người Ý. Ông là một trong những người tiên phong nghiên cứu về điện sinh học, khám phá ra dòng điện sinh học trong cơ bắp (dòng điện tổn thương) tiền đề cho điện tâm đồ và điện não đồ.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Italian",
+    "fullName": "Carlo Matteucci",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/L%27Illustration_1862_gravure_ministre_Matteucci.jpg/500px-L%27Illustration_1862_gravure_ministre_Matteucci.jpg",
+    "relations": [
+      "Antonio Meucci",
+      "David Cronenberg",
+      "Karen Horney"
+    ],
+    "themes": []
+  },
+  {
     "born": 1813,
     "died": 1883,
     "title": "Richard Wagner",
@@ -9026,6 +9914,28 @@ const RAW_DATA = [
       "Frédéric Chopin",
       "Robert Schumann"
     ]
+  },
+  {
+    "born": 1813,
+    "died": 1884,
+    "title": "Phạm Văn Nghị",
+    "desc": "Nhà nho yêu nước, nhà thơ và thủ lĩnh nghĩa binh chống Pháp nổi tiếng thời nhà Nguyễn. Khi thực dân Pháp nổ súng tấn công Đà Nẵng năm 1858, ông dù đang làm Đốc học Nam Định đã chủ động chiêu mộ hàng trăm nghĩa dũng lập tức lên đường Nam tiến đánh giặc, trở thành tấm gương sáng về tinh thần trượng nghĩa, ái quốc của giới sĩ phu Bắc Hà.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Văn Nghị",
+    "image": "",
+    "relations": [
+      "Nguyễn Tri Phương",
+      "Cao Bá Quát",
+      "Đỗ Thúc Tịnh"
+    ],
+    "themes": []
   },
   {
     "born": 1814,
@@ -9112,6 +10022,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1816,
+    "died": 1855,
+    "title": "Charlotte Bronte",
+    "desc": "Nhà văn, nhà thơ người Anh, chị cả trong ba chị em nhà Brontë nổi tiếng. Tác phẩm kinh điển nhất của bà là 'Jane Eyre', một kiệt tác văn học thế giới kết hợp giữa phong cách Gothic và hiện thực xã hội.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "British",
+    "fullName": "Charlotte Brontë",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
+    "relations": [
+      "Gustave Flaubert",
+      "Roberto Rossellini",
+      "Alexandre Dumas cha"
+    ],
+    "themes": []
+  },
+  {
     "born": 1818,
     "died": 1883,
     "title": "Ivan Turgenev",
@@ -9148,8 +10079,52 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png/500px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png",
     "relations": [
       "Jürgen Habermas",
-      "Virginia Woolf",
-      "Friedrich Nietzsche"
+      "Flora Tristan",
+      "Georg W. F. Hegel"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1818,
+    "died": 1861,
+    "title": "Đỗ Thúc Tịnh",
+    "fullName": "Đỗ Thúc Tịnh",
+    "desc": "Quan viên triều Nguyễn, chí sĩ kháng Pháp. Ông nổi tiếng thanh liêm, chính trực và tinh thần yêu nước khi lãnh đạo nghĩa binh chống Pháp tại Nam Kỳ.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Tôn Thất Thuyết",
+      "Trương Định",
+      "Phạm Phú Thứ"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1818,
+    "died": 1848,
+    "title": "Emily Bronte",
+    "desc": "Nhà văn, nhà thơ người Anh, nổi tiếng với tiểu thuyết duy nhất 'Đồi gió hú' (Wuthering Heights) - một tác phẩm đầy đam mê, thù hận và tính dữ dội được coi là kiệt tác của văn học thời kỳ Victoria.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "British",
+    "fullName": "Emily Jane Brontë",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
+    "relations": [
+      "Gustave Flaubert",
+      "Alexandre Dumas con",
+      "Lev Tolstoy"
     ],
     "themes": []
   },
@@ -9191,9 +10166,9 @@ const RAW_DATA = [
     "fullName": "William T. G. Morton",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/WTG_Morton.jpg/500px-WTG_Morton.jpg",
     "relations": [
+      "Louis Pasteur",
       "Wilhelm Wundt",
-      "William Bateson",
-      "Alfred Nobel"
+      "William Bateson"
     ],
     "themes": []
   },
@@ -9201,7 +10176,7 @@ const RAW_DATA = [
     "born": 1820,
     "died": 1864,
     "title": "Trương Định",
-    "desc": "Nhà lãnh đạo quân sự Việt Nam đã lãnh đạo cuộc kháng chiến chống thực dân Pháp ở miền Nam Việt Nam.",
+    "desc": "Thủ lĩnh nghĩa quân chống thực dân Pháp oanh liệt tại Nam Kỳ giữa thế kỷ 19. Ông dũng cảm từ chối lệnh bãi binh của triều đình Tự Đức để phò tá nhân dân kháng chiến, được tôn phong làm \"Bình Tây Đại nguyên soái\" trước khi hy sinh anh dũng cứu quốc vào năm 1864.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -9212,9 +10187,9 @@ const RAW_DATA = [
     "fullName": "Trương Định",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Truong_Dinh.JPG",
     "relations": [
-      "Hoàng Hoa Thám",
       "Tôn Thất Thuyết",
-      "Nguyễn Trung Trực"
+      "Hoàng Diệu",
+      "Nguyễn Tri Phương"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9234,9 +10209,9 @@ const RAW_DATA = [
     ],
     "nationality": "British",
     "relations": [
+      "Louis Pasteur",
       "Gregor Mendel",
-      "Carlos Finlay",
-      "William T. G. Morton"
+      "Carlos Finlay"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_Colorized.jpg/500px-Florence_Nightingale_Colorized.jpg"
@@ -9246,7 +10221,7 @@ const RAW_DATA = [
     "fullName": "Hoàng Kế Viêm",
     "born": 1820,
     "died": 1909,
-    "desc": "Danh tướng triều Nguyễn, có công lớn trong việc phối hợp với quân Cờ Đen đánh bại quân Pháp tại trận Cầu Giấy (1873 và 1883).",
+    "desc": "Danh tướng kiêm đại thần triều Nguyễn, người có công chỉ huy quân dân phối hợp với quân Cờ Đen của Lưu Vĩnh Phúc đánh bại quân Pháp tại trận Cầu Giấy lần thứ nhất (1873) tiêu diệt Francis Garnier và lần thứ hai (1883) tiêu diệt Henri Rivière. Ông là một sĩ phu kiên cường, giữ vững tinh thần kháng Pháp đến cùng dù triều đình Huế đã đầu hàng.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -9255,9 +10230,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Hoàng Diệu",
       "Lê Đình Lý",
-      "Tôn Thất Thuyết",
-      "Nguyễn Tri Phương"
+      "Châu Văn Tiếp"
     ],
     "themes": [],
     "image": ""
@@ -9278,8 +10253,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "relations": [
       "Franz Kafka",
-      "Friedrich Nietzsche",
-      "Martin Heidegger"
+      "Albert Camus",
+      "Friedrich Nietzsche"
     ],
     "themes": [
       null,
@@ -9287,10 +10262,53 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1821,
+    "died": 1880,
+    "title": "Gustave Flaubert",
+    "desc": "Tiểu thuyết gia kiệt xuất người Pháp, người tiên phong của trường phái văn học hiện thực phương Tây. Tác phẩm đầu tay của ông - 'Bà Bovary' (Madame Bovary) là một kiệt tác văn học kinh điển khắc họa sâu sắc tâm lý con người.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "French",
+    "fullName": "Gustave Flaubert",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Flaubert.jpg/500px-Gustave_Flaubert.jpg",
+    "relations": [
+      "Charlotte Bronte",
+      "Agnès Varda",
+      "Roberto Rossellini"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1821,
+    "died": 1882,
+    "title": "Phạm Phú Thứ",
+    "desc": "Đại thần triều Nguyễn, nhà trí thức có tư tưởng canh tân đất nước kiệt xuất vào thế kỷ 19. Sau chuyến đi sứ sang Pháp năm 1863 trong phái bộ của Phan Thanh Giản, ông đã biên soạn các tác phẩm ghi chép về sự văn minh phương Tây và liên tục dâng sớ đề xuất triều đình cải cách giáo dục, khai mở công thương nghiệp và hiện đại hóa quân đội.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Phú Thứ",
+    "image": "",
+    "relations": [
+      "Đỗ Thúc Tịnh",
+      "Phan Thanh Giản",
+      "Tôn Thất Thuyết"
+    ],
+    "themes": []
+  },
+  {
     "born": 1822,
     "died": 1895,
     "title": "Louis Pasteur",
-    "desc": "Nhà hóa học và vi trùng học người Pháp nổi tiếng vì đã khám phá ra vắc xin.",
+    "desc": "Nhà hóa học và vi sinh vật học vĩ đại người Pháp, cha đẻ của ngành vi sinh học y học. Ông nổi tiếng thế giới với việc phát minh ra quy trình tiệt trùng (pasteurization), thuyết vi trùng gây bệnh và phát triển thành công vắc-xin phòng bệnh dại và bệnh than, cứu sống hàng triệu sinh mạng.",
     "color": "#2ec4b6",
     "position": "bottom",
     "primary_tag": "Medical",
@@ -9301,9 +10319,9 @@ const RAW_DATA = [
     "fullName": "Louis Pasteur (pasteurization, vaccines)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
     "relations": [
-      "Gregor Mendel",
-      "Florence Nightingale",
-      "William T. G. Morton"
+      "Đồ U U",
+      "Wilhelm Wundt",
+      "Alexandre Dumas con"
     ],
     "themes": []
   },
@@ -9322,8 +10340,8 @@ const RAW_DATA = [
     "fullName": "Ulysses S. Grant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
     "relations": [
+      "Văn Tiến Dũng",
       "Robert E. Lee",
-      "Trương Định",
       "Otto von Bismarck"
     ],
     "themes": []
@@ -9369,6 +10387,50 @@ const RAW_DATA = [
       "E. M. Forster"
     ],
     "themes": []
+  },
+  {
+    "born": 1826,
+    "died": 1866,
+    "title": "Bernhard Riemann",
+    "fullName": "Georg Friedrich Bernhard Riemann",
+    "desc": "Nhà toán học người Đức vĩ đại, người có đóng góp mang tính cách mạng cho giải tích toán học, lý thuyết số và hình học vi phân. Hình học Riemann do ông phát triển đã thay đổi hoàn toàn quan niệm về không gian, cung cấp nền tảng toán học quan trọng nhất cho Thuyết tương đối rộng của Albert Einstein.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/500px-Georg_Friedrich_Bernhard_Riemann.jpeg",
+    "relations": [
+      "Albert Einstein",
+      "Hendrik Lorentz",
+      "Johannes Kepler"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1827,
+    "died": 1883,
+    "title": "Henri Rivière",
+    "fullName": "Henri Rivière",
+    "desc": "Sĩ quan hải quân và nhà văn Pháp, người chỉ huy quân Pháp đánh chiếm thành Hà Nội lần thứ hai (1882) và sau đó bị quân cờ đen phục kích tiêu diệt tại trận Cầu Giấy năm 1883.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Francis Garnier",
+      "Hoàng Kế Viêm",
+      "Hoàng Diệu"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Rivi%C3%A8re_by_Nadar.jpg/500px-Henri_Rivi%C3%A8re_by_Nadar.jpg"
   },
   {
     "born": 1828,
@@ -9429,7 +10491,7 @@ const RAW_DATA = [
     "relations": [
       "Cù Huy Hà Vũ",
       "Phạm Đoan Trang",
-      "Flora Tristan"
+      "Hermann Gmeiner"
     ],
     "themes": []
   },
@@ -9458,7 +10520,7 @@ const RAW_DATA = [
     "born": 1829,
     "died": 1882,
     "title": "Hoàng Diệu",
-    "desc": "Phó vương và tướng nhà Nguyễn, được ghi nhớ vì đã kiên cường bảo vệ Hà Nội.",
+    "desc": "Tổng đốc Hà Ninh kiên trung triều Nguyễn. Khi thực dân Pháp bất ngờ nổ súng tấn công thành Hà Nội năm 1882, ông đã anh dũng chỉ huy quân sĩ kháng cự đến cùng và thắt cổ tự tiết tại Võ Miếu để bảo toàn khí tiết trung thần khi thành trì thất thủ.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -9470,9 +10532,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Diệu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ho%C3%A0ng_Di%E1%BB%87u.jpg/500px-Ho%C3%A0ng_Di%E1%BB%87u.jpg",
     "relations": [
-      "Tôn Thất Thuyết",
       "Nguyễn Tri Phương",
-      "Lê Đình Lý"
+      "Tôn Thất Thuyết",
+      "Trương Định"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9494,8 +10556,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Vua_T%E1%BB%B1_%C4%90%E1%BB%A9c.jpg",
     "relations": [
       "Minh Mạng",
-      "Lê Khiết",
-      "Thành Thái"
+      "Trương Định",
+      "Lê Khiết"
     ],
     "themes": []
   },
@@ -9600,7 +10662,7 @@ const RAW_DATA = [
     "relations": [
       "Paul Cézanne",
       "Hồ Chí Minh",
-      "Claude Monet"
+      "Pierre-Auguste Renoir"
     ],
     "themes": []
   },
@@ -9620,10 +10682,33 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Paul Verlaine",
-      "Tôn Thất Thuyết",
-      "Trần Xuân Soạn"
+      "Trần Xuân Soạn",
+      "Hàm Nghi"
     ],
     "themes": []
+  },
+  {
+    "born": 1832,
+    "died": 1920,
+    "title": "Wilhelm Wundt",
+    "fullName": "Wilhelm Maximilian Wundt",
+    "desc": "Nhà sinh lý học, triết học và tâm lý học người Đức, được công nhận rộng rãi là 'Cha đẻ của Tâm lý học Thực nghiệm'. Ông là người đầu tiên thành lập phòng thí nghiệm tâm lý học chính thức tại Đại học Leipzig năm 1879.",
+    "color": "#2ec4b6",
+    "position": "bottom",
+    "primary_tag": "Medical",
+    "tags": [
+      "Medical"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wilhelm_Wundt.jpg",
+    "relations": [
+      "Alfred Adler",
+      "Karen Horney",
+      "Michel Foucault"
+    ],
+    "themes": [
+      "Psychoanalysis"
+    ]
   },
   {
     "born": 1833,
@@ -9641,8 +10726,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Finlay_Carlos_1833-1915.jpg",
     "relations": [
       "Phạm Ngọc Thạch",
-      "Gregor Mendel",
-      "Thánh Damien đảo Molokai"
+      "Louis Pasteur",
+      "Gregor Mendel"
     ],
     "themes": []
   },
@@ -9661,9 +10746,9 @@ const RAW_DATA = [
     "fullName": "Alfred Nobel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/500px-Alfred_Nobel3.jpg",
     "relations": [
+      "Pavel Alekseyevich Cherenkov",
       "Wilhelm Röntgen",
-      "Joseph John Thomson",
-      "Ernest Rutherford"
+      "Joseph John Thomson"
     ],
     "themes": [
       "Giai Nobel"
@@ -9674,7 +10759,7 @@ const RAW_DATA = [
     "died": 1858,
     "title": "Lê Đình Lý",
     "fullName": "Lê Đình Lý",
-    "desc": "Vị tướng dũng cảm của triều Nguyễn cùng Nguyễn Tri Phương chống quân xâm lược Pháp và Tây Ban Nha.",
+    "desc": "Danh tướng triều Nguyễn, người tham gia chỉ huy mặt trận Đà Nẵng chống liên quân Pháp - Tây Ban Nha xâm lược vào năm 1858. Sát cánh cùng Nguyễn Tri Phương, ông dũng cảm xây dựng chiến lũy chặn giặc trước khi bị trúng đạn trọng thương và hy sinh anh dũng tại đồn Thạc Gián.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -9685,8 +10770,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95_2.jpg/500px-T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95_2.jpg",
     "relations": [
       "Nguyễn Tri Phương",
-      "Hoàng Kế Viêm",
-      "Tôn Thất Thuyết"
+      "Trương Định",
+      "Châu Văn Tiếp"
     ],
     "themes": []
   },
@@ -9711,6 +10796,27 @@ const RAW_DATA = [
       "Clara Schumann",
       "Camille Saint-Saëns",
       "Franz Liszt"
+    ]
+  },
+  {
+    "title": "Alexander Borodin",
+    "born": 1833,
+    "died": 1887,
+    "desc": "Nhà soạn nhạc thời kỳ Lãng mạn kiêm nhà hóa học nổi tiếng người Nga, một thành viên của nhóm 'The Five' chuyên kiến tạo bản sắc âm nhạc cổ điển đặc trưng của Nga.",
+    "nationality": "Russian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Borodin.jpg/500px-Borodin.jpg",
+    "relations": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Johannes Brahms",
+      "Camille Saint-Saëns"
     ]
   },
   {
@@ -9749,8 +10855,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Tự Đức",
-      "Tôn Thất Đạm",
-      "Đặng Đức Siêu"
+      "Huỳnh Mẫn Đạt",
+      "Phạm Phú Thứ"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Pham_Hy_Luong_-_chan_dung.gif"
@@ -9780,7 +10886,7 @@ const RAW_DATA = [
     "born": 1835,
     "died": 1913,
     "title": "Tôn Thất Thuyết",
-    "desc": "Quan Việt, tướng nhà Nguyễn, lãnh đạo phong trào Cần Vương chống thực dân Pháp.",
+    "desc": "Phụ chính đại thần và thống soái quân sự triều Nguyễn, thủ lĩnh kiệt xuất của phe chủ chiến. Sau cuộc tấn công đồn Mang Cá năm 1885 thất bại, ông đã rước vua Hàm Nghi ra căn cứ Tân Sở (Quảng Trị) hạ Chiếu Cần Vương, phát động phong trào kháng Pháp sôi nổi khắp cả nước.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -9793,8 +10899,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ph%E1%BB%A5_ch%C3%ADnh_%C4%91%E1%BA%A1i_th%E1%BA%A7n_T%C3%B4n_Th%E1%BA%A5t_Thuy%E1%BA%BFt.jpg",
     "relations": [
       "Tôn Thất Đạm",
-      "Hoàng Diệu",
-      "Trần Xuân Soạn"
+      "Trương Định",
+      "Nguyễn Tri Phương"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9815,9 +10921,9 @@ const RAW_DATA = [
     "fullName": "Hijikata Toshizō",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Photo-Hijikata-Toshizo-c1869.png",
     "relations": [
+      "Hoàng Diệu",
       "Enomoto Takeaki",
-      "Francis Garnier",
-      "Henri Rivière"
+      "Francis Garnier"
     ],
     "themes": []
   },
@@ -9845,6 +10951,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1835,
+    "died": 1910,
+    "title": "Mark Twain",
+    "desc": "Được mệnh danh là 'cha đẻ của văn học Mỹ', tác giả của 'Những cuộc phiêu lưu của Tom Sawyer' và 'Những cuộc phiêu lưu của Huckleberry Finn'. Ông nổi tiếng với văn phong trào phúng, hiện thực xã hội sắc bén.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "American",
+    "fullName": "Samuel Langhorne Clemens",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/500px-Mark_Twain_by_AF_Bradley.jpg",
+    "relations": [
+      "Gustave Flaubert",
+      "Heinrich Heine",
+      "Nguyễn Quang Bích"
+    ],
+    "themes": []
+  },
+  {
     "born": 1836,
     "died": 1913,
     "title": "Hoàng Hoa Thám",
@@ -9860,8 +10987,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%C4%90%E1%BB%81_Th%C3%A1m.jpg/500px-%C4%90%E1%BB%81_Th%C3%A1m.jpg",
     "relations": [
       "Nguyễn Trung Trực",
-      "Trương Định",
-      "Tôn Thất Thuyết"
+      "Đinh Công Tráng",
+      "Phan Đình Phùng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9883,8 +11010,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Enomoto_Takeaki.jpg",
     "relations": [
       "Henri Rivière",
-      "Otto von Bismarck",
-      "Tôn Thất Thuyết"
+      "Phan Đình Phùng",
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -9949,9 +11076,9 @@ const RAW_DATA = [
       "Khang chien chong Phap"
     ],
     "relations": [
-      "Tôn Thất Thuyết",
-      "Hoàng Hoa Thám",
-      "Đinh Công Tráng"
+      "Đinh Công Tráng",
+      "Phan Đình Phùng",
+      "Tôn Thất Thuyết"
     ]
   },
   {
@@ -9970,12 +11097,54 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nguyen_Trung_Truc_portrait.jpg/500px-Nguyen_Trung_Truc_portrait.jpg",
     "relations": [
       "Hoàng Hoa Thám",
-      "Trương Định",
+      "Đinh Công Tráng",
       "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
     ]
+  },
+  {
+    "title": "Georges Bizet",
+    "born": 1838,
+    "died": 1875,
+    "desc": "Nhà soạn nhạc người Pháp thuộc thời kỳ Lãng mạn, nổi tiếng toàn cầu qua kiệt tác nhạc kịch 'Carmen' - một trong những vở opera được biểu diễn nhiều nhất lịch sử điện ảnh và âm nhạc.",
+    "nationality": "French",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Georges_bizet.jpg/500px-Georges_bizet.jpg",
+    "relations": [
+      "Camille Saint-Saëns",
+      "Gioacchino Rossini",
+      "Johannes Brahms"
+    ]
+  },
+  {
+    "born": 1838,
+    "died": 1917,
+    "title": "Franz Brentano",
+    "fullName": "Franz Clemens Honoratus Hermann Brentano",
+    "desc": "Nhà triết học, tâm lý học người Đức nổi tiếng, người đặt nền móng cho hiện tượng học hiện đại với khái niệm 'tính ý hướng' (intentionality). Những bài giảng của ông tại Đại học Vienna đã ảnh hưởng sâu sắc đến Edmund Husserl, Sigmund Freud và Alexius Meinong.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Franz_Brentano_in_Vienna%2C_1890_%28cropped%29.png",
+    "relations": [
+      "Alexius Meinong",
+      "Edmund Husserl",
+      "Otto Weininger"
+    ],
+    "themes": []
   },
   {
     "born": 1839,
@@ -9993,8 +11162,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg",
     "relations": [
       "Édouard Manet",
-      "Claude Monet",
-      "Pierre-Auguste Renoir"
+      "Pierre-Auguste Renoir",
+      "Claude Monet"
     ],
     "themes": []
   },
@@ -10034,8 +11203,8 @@ const RAW_DATA = [
     "nationality": "French",
     "relations": [
       "Henri Rivière",
-      "Nguyễn Trung Trực",
-      "Tôn Thất Thuyết"
+      "Hoàng Kế Viêm",
+      "Phan Đình Phùng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10058,8 +11227,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Claude_Monet_1899_Nadar_crop.jpg",
     "relations": [
       "Gustav Klimt",
-      "Paul Gauguin",
-      "Vincent van Gogh"
+      "Pierre-Auguste Renoir",
+      "Paul Gauguin"
     ],
     "themes": []
   },
@@ -10078,9 +11247,9 @@ const RAW_DATA = [
     "fullName": "Pyotr Ilyich Tchaikovsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
     "relations": [
+      "Selim Palmgren",
       "Antonín Dvořák",
-      "Robert Schumann",
-      "Maurice Ravel"
+      "Anton Arensky"
     ],
     "themes": [
       "Classical Music"
@@ -10134,7 +11303,7 @@ const RAW_DATA = [
     "born": 1841,
     "died": 1919,
     "title": "Pierre-Auguste Renoir",
-    "desc": "Họa sĩ người Pháp là họa sĩ hàng đầu trong việc phát triển phong cách Ấn tượng.",
+    "desc": "Họa sĩ người Pháp lỗi lạc, một trong những trụ cột sáng lập trường phái hội họa Ấn tượng. Tác phẩm của ông tôn vinh vẻ đẹp con người, tình yêu cuộc sống và ánh sáng rực rỡ qua nét vẽ mềm mại, nổi tiếng với kiệt tác bức tranh sinh hoạt Paris \"Bal du moulin de la Galette\".",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -10145,9 +11314,9 @@ const RAW_DATA = [
     "fullName": "Pierre-Auguste Renoir",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/500px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
     "relations": [
-      "Paul Gauguin",
       "Claude Monet",
-      "Paul Cézanne"
+      "Vincent van Gogh",
+      "Édouard Manet"
     ],
     "themes": []
   },
@@ -10179,7 +11348,7 @@ const RAW_DATA = [
     "fullName": "Đinh Công Tráng",
     "born": 1842,
     "died": 1887,
-    "desc": "Lãnh tụ của phong trào Cần Vương chống thực dân Pháp cuối thế kỷ XIX.",
+    "desc": "Lãnh tụ anh hùng của cuộc khởi nghĩa Ba Đình thuộc phong trào Cần Vương chống Pháp. Ông là người kiến thiết hệ thống phòng ngự công sự Ba Đình độc đáo bằng bùn đất và tre rơm, kiên trì bẻ gãy nhiều đợt càn quét ác liệt của giặc Pháp trước khi hy sinh năm 1887.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -10189,8 +11358,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Phan Đình Phùng",
-      "Tôn Thất Thuyết",
-      "Tống Duy Tân"
+      "Tống Duy Tân",
+      "Hoàng Hoa Thám"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10237,7 +11406,7 @@ const RAW_DATA = [
     "relations": [
       "Pyotr Ilyich Tchaikovsky",
       "Eugène Ysaÿe",
-      "Dmitri Shostakovich"
+      "Anton Arensky"
     ],
     "themes": [
       "Classical Music"
@@ -10260,7 +11429,7 @@ const RAW_DATA = [
     "relations": [
       "Martin Heidegger",
       "Franz Kafka",
-      "Søren Kierkegaard"
+      "Albert Camus"
     ],
     "themes": [
       null,
@@ -10311,6 +11480,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1844,
+    "died": 1917,
+    "title": "Phạm Như Xương",
+    "desc": "Nhà khoa bảng, sĩ phu yêu nước và là một trong những thủ lĩnh hàng đầu của phong trào Cần Vương chống Pháp ở Quảng Nam, cùng thời với Nguyễn Duy Hiệu.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Như Xương",
+    "image": "",
+    "relations": [
+      "Nguyễn Duy Hiệu",
+      "Lê Khiết",
+      "Tôn Thất Thuyết"
+    ],
+    "themes": []
+  },
+  {
     "born": 1845,
     "died": 1918,
     "title": "Georg Cantor",
@@ -10325,17 +11516,39 @@ const RAW_DATA = [
     "fullName": "Georg Cantor",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Georg_Cantor_%28Portr%C3%A4t%29.jpg/500px-Georg_Cantor_%28Portr%C3%A4t%29.jpg",
     "relations": [
+      "Johannes Kepler",
       "Alfred Nobel",
-      "Karen Horney",
-      "Hendrik Lorentz"
+      "Karen Horney"
     ],
     "themes": []
+  },
+  {
+    "title": "Wilhelm Röntgen",
+    "born": 1845,
+    "died": 1923,
+    "desc": "Nhà vật lý thực nghiệm người Đức, người đầu tiên phát hiện ra bức xạ điện từ có bước sóng X-quang (tia X), mang lại cho ông giải Nobel Vật lý đầu tiên trong lịch sử năm 1901.",
+    "nationality": "German",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "themes": [
+      "Quantum Physics",
+      "Giai Nobel"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg/500px-Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg",
+    "relations": [
+      "Hendrik Lorentz",
+      "Max Planck",
+      "Albert Einstein"
+    ]
   },
   {
     "born": 1847,
     "died": 1896,
     "title": "Phan Đình Phùng",
-    "desc": "Lãnh tụ cách mạng Việt Nam, người lãnh đạo phong trào Cần Vương chống thực dân Pháp.",
+    "desc": "Đình nguyên Tiến sĩ, nhà thơ và lãnh tụ tối cao của cuộc khởi nghĩa Hương Khê - phong trào chống Pháp bền bỉ và quy mô nhất của Cần Vương. Ông nổi tiếng lịch sử với tinh thần yêu nước bất khuất, kỷ luật quân đội nghiêm minh và tự chế tạo thành công súng trường theo mẫu của Pháp.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -10346,9 +11559,9 @@ const RAW_DATA = [
     "fullName": "Phan Đình Phùng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Phan_%C4%90%C3%ACnh_Ph%C3%B9ng.png/500px-Portrait_of_Phan_%C4%90%C3%ACnh_Ph%C3%B9ng.png",
     "relations": [
-      "Tôn Thất Thuyết",
       "Đinh Công Tráng",
-      "Cao Thắng"
+      "Tống Duy Tân",
+      "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10399,6 +11612,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1847,
+    "died": 1887,
+    "title": "Nguyễn Duy Hiệu",
+    "desc": "Sĩ phu yêu nước, thủ lĩnh phong trào Cần Vương chống Pháp tại tỉnh Quảng Nam (Nghĩa hội Quảng Nam). Khi bị bắt, ông nhận hết trách nhiệm về mình để bảo vệ đồng đội và hiên ngang lên máy chém.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Nguyễn Duy Hiệu",
+    "image": "",
+    "relations": [
+      "Phạm Như Xương",
+      "Tống Duy Tân",
+      "Phan Đình Phùng"
+    ],
+    "themes": []
+  },
+  {
     "born": 1848,
     "died": 1903,
     "title": "Paul Gauguin",
@@ -10415,7 +11650,7 @@ const RAW_DATA = [
     "relations": [
       "Claude Monet",
       "Gustav Klimt",
-      "Pierre-Auguste Renoir"
+      "Claude Debussy"
     ],
     "themes": []
   },
@@ -10444,7 +11679,7 @@ const RAW_DATA = [
     "born": 1849,
     "died": 1936,
     "title": "Ivan Pavlov",
-    "desc": "Nhà sinh lý học người Nga nổi tiếng với công trình tiên phong về điều hòa cổ điển trong tâm lý học.",
+    "desc": "Nhà sinh lý học vĩ đại người Nga, được trao giải Nobel Y học năm 1904 cho công trình nghiên cứu hệ tiêu hóa. Ông nổi tiếng toàn cầu qua thí nghiệm kinh điển phản xạ có điều kiện ở chó (\"con chó của Pavlov\"), đặt nền móng khoa học vững chắc cho tâm lý học hành vi hiện đại.",
     "color": "#2ec4b6",
     "position": "bottom",
     "primary_tag": "Medical",
@@ -10455,13 +11690,34 @@ const RAW_DATA = [
     "fullName": "Ivan Pavlov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg",
     "relations": [
-      "Alexander Fleming",
       "Đồ U U",
-      "Thomas Hunt Morgan"
+      "Thomas Hunt Morgan",
+      "Albert Camus"
     ],
     "themes": [
       "Giai Nobel"
     ]
+  },
+  {
+    "born": 1849,
+    "died": 1923,
+    "title": "Trần Xuân Soạn",
+    "desc": "Tướng lĩnh nhà Nguyễn và là thủ lĩnh phong trào Cần Vương chống Pháp ở khu vực Thanh Hóa. Sau khi phong trào thất bại, ông trốn sang Trung Quốc tiếp tục hoạt động cách mạng cho đến khi mất.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trần Xuân Soạn",
+    "image": "",
+    "relations": [
+      "Tôn Thất Đạm",
+      "Tôn Thất Thuyết",
+      "Trương Định"
+    ],
+    "themes": []
   },
   {
     "born": 1850,
@@ -10527,6 +11783,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1850,
+    "died": 1937,
+    "title": "Tomáš Masaryk",
+    "fullName": "Tomáš Garrigue Masaryk",
+    "desc": "Nhà triết học, xã hội học và chính trị gia lỗi lạc người Tiệp Khắc. Ông là người sáng lập và giữ chức Tổng thống đầu tiên của Cộng hòa Tiệp Khắc từ năm 1918 đến năm 1935. Ông được tôn vinh là cha già dân tộc Tiệp Khắc, người bảo vệ nền dân chủ tự do xã hội và nhân quyền.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Philosophy"
+    ],
+    "nationality": "Czech",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG/500px-Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG",
+    "relations": [
+      "Tomas Masaryk",
+      "Paul von Hindenburg",
+      "Paul Doumer"
+    ],
+    "themes": []
+  },
+  {
     "born": 1852,
     "died": 1912,
     "title": "Thiên hoàng Minh Trị",
@@ -10564,7 +11842,7 @@ const RAW_DATA = [
     "relations": [
       "Gustav Klimt",
       "Edvard Munch",
-      "Eugène Delacroix"
+      "Pierre-Auguste Renoir"
     ],
     "themes": []
   },
@@ -10593,6 +11871,48 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1853,
+    "died": 1910,
+    "title": "Rama V",
+    "fullName": "Chulalongkorn",
+    "desc": "Vua thứ năm của vương triều Chakri nước Xiêm (Thái Lan). Ông là nhà cải cách kiệt xuất, đã hiện đại hóa đất nước và khéo léo dùng chính sách ngoại giao độc lập để tránh ách thực dân phương Tây.",
+    "color": "#8d6e63",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chulalongkorn_LoC.jpg/500px-Chulalongkorn_LoC.jpg",
+    "relations": [
+      "Theodore Roosevelt",
+      "Phạm Phú Thứ",
+      "Trần Cao Vân"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1853,
+    "died": 1920,
+    "title": "Alexius Meinong",
+    "fullName": "Alexius Meinong Ritter von Handschuchsheim",
+    "desc": "Nhà triết học người Áo, giáo sư tại Đại học Graz, nổi tiếng với việc sáng lập 'Thuyết đối tượng' (Gegenstandstheorie), một nhánh bản thể học nghiên cứu cả các đối tượng không tồn tại trên thực tế (như núi vàng, vòng tròn vuông).",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alexius_Meinong_1900.jpg",
+    "relations": [
+      "Franz Brentano",
+      "Henri Bergson",
+      "Edmund Husserl"
+    ],
+    "themes": []
+  },
+  {
     "born": 1854,
     "died": 1900,
     "title": "Oscar Wilde",
@@ -10608,8 +11928,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg/500px-Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg",
     "relations": [
       "Bernard Shaw",
-      "Rabindranath Tagore",
-      "H. G. Wells"
+      "H. G. Wells",
+      "Rabindranath Tagore"
     ],
     "themes": []
   },
@@ -10719,7 +12039,7 @@ const RAW_DATA = [
     "relations": [
       "Alexander Graham Bell",
       "Joseph John Thomson",
-      "Max Planck"
+      "Hendrik Lorentz"
     ],
     "themes": []
   },
@@ -10743,8 +12063,31 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
     "relations": [
       "Paul von Hindenburg",
-      "Georges Clemenceau",
-      "Kaiser Wilhelm II"
+      "Nikolai II",
+      "Georges Clemenceau"
+    ]
+  },
+  {
+    "born": 1856,
+    "died": 1940,
+    "title": "Joseph John Thomson",
+    "desc": "Nhà vật lý người Anh, người đã phát hiện ra hạt electron (điện tử), hạt cơ bản đầu tiên được tìm ra, mở đường cho ngành vật lý hiện đại. Ông được trao giải Nobel Vật lý năm 1906 và cũng là người phát triển phương pháp phổ khối lượng.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "British",
+    "fullName": "Joseph John Thomson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J.J_Thomson.jpg/500px-J.J_Thomson.jpg",
+    "relations": [
+      "Wilhelm Röntgen",
+      "Albert Einstein",
+      "Hendrik Lorentz"
+    ],
+    "themes": [
+      "Giai Nobel"
     ]
   },
   {
@@ -10764,9 +12107,53 @@ const RAW_DATA = [
     "relations": [
       "Đỗ Thúc Tịnh",
       "Tự Đức",
-      "Thành Thái"
+      "Tôn Thất Thuyết"
     ],
     "themes": []
+  },
+  {
+    "born": 1857,
+    "died": 1932,
+    "title": "Paul Doumer",
+    "fullName": "Joseph Athanase Paul Doumer",
+    "desc": "Toàn quyền Đông Dương (1897-1902), người đã thiết lập bộ máy khai thác thuộc địa triệt để và xây dựng nhiều công trình hạ tầng lớn tại Việt Nam (cầu Long Biên, cầu Tràng Tiền, đường sắt...). Sau này ông trở thành Tổng thống Pháp.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Phạm Hồng Thái",
+      "Lê Hồng Phong",
+      "Hàm Nghi"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Sir Edward Elgar",
+    "born": 1857,
+    "died": 1934,
+    "desc": "Nhà soạn nhạc người Anh, tác giả của nhiều tác phẩm kinh điển như Pomp and Circumstance Marches và Enigma Variations.",
+    "nationality": "British",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Richard Strauss",
+      "Jean Sibelius",
+      "Anton Arensky"
+    ]
   },
   {
     "born": 1858,
@@ -10793,7 +12180,7 @@ const RAW_DATA = [
     "born": 1858,
     "died": 1947,
     "title": "Max Planck",
-    "desc": "Nhà vật lý lý thuyết người Đức, được biết đến với vai trò trong việc phát triển lý thuyết lượng tử.",
+    "desc": "Nhà vật lý lý thuyết kiệt xuất người Đức, người khai sinh ra cơ học lượng tử thông qua việc tìm ra hằng số Planck (h). Khám phá vĩ đại này đã mang lại cho ông giải Nobel Vật lý năm 1918, cách mạng hóa toàn bộ nhận thức con người về thế giới vi mô bên cạnh thuyết tương đối.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -10805,8 +12192,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/500px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
     "relations": [
       "Albert Einstein",
-      "Hendrik Lorentz",
-      "Wilhelm Röntgen"
+      "Max Born",
+      "Hendrik Lorentz"
     ],
     "themes": [
       "Quantum Physics",
@@ -10830,9 +12217,9 @@ const RAW_DATA = [
     "image": "",
     "themes": [],
     "relations": [
+      "Phan Đình Phùng",
       "Tôn Thất Đạm",
-      "Trần Xuân Soạn",
-      "Nguyễn Duy Hiệu"
+      "Trần Xuân Soạn"
     ]
   },
   {
@@ -10856,6 +12243,50 @@ const RAW_DATA = [
       "Gustav Mahler",
       "Claude Debussy",
       "Richard Strauss"
+    ]
+  },
+  {
+    "title": "Eugène Ysaÿe",
+    "born": 1858,
+    "died": 1931,
+    "desc": "Nghệ sĩ vĩ cầm, nhà soạn nhạc và nhạc trưởng người Bỉ, được tôn vinh là 'Vua vĩ cầm' với phong cách biểu diễn lãng mạn đầy cá tính và sức ảnh hưởng to lớn.",
+    "nationality": "Others",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eug%C3%A8ne_Ysa%C3%BFe.jpg/500px-Eug%C3%A8ne_Ysa%C3%BFe.jpg",
+    "relations": [
+      "Anton Arensky",
+      "Gustav Mahler",
+      "Richard Strauss"
+    ]
+  },
+  {
+    "born": 1858,
+    "died": 1906,
+    "title": "Tăng Bạt Hổ",
+    "fullName": "Tăng Bạt Hổ",
+    "desc": "Chí sĩ yêu nước Việt Nam, một trong những người tham gia tích cực trong phong trào Cần Vương và phong trào Đông Du cùng Phan Bội Châu.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Phan Bội Châu",
+      "Phan Châu Trinh",
+      "Hàm Nghi"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
     ]
   },
   {
@@ -10896,8 +12327,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Simone de Beauvoir",
-      "Hoàng Minh Chính",
-      "Michel Foucault"
+      "Flora Tristan",
+      "Hoàng Minh Chính"
     ]
   },
   {
@@ -10949,6 +12380,28 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1859,
+    "died": 1938,
+    "title": "Edmund Husserl",
+    "fullName": "Edmund Husserl",
+    "desc": "Triết gia và nhà toán học người Áo-Đức, người sáng lập trường phái Hiện tượng học — một trong những trào lưu triết học quan trọng nhất thế kỷ 20. Tác phẩm của ông đặt nền tảng phương pháp luận mới cho nhận thức luận và cấu trúc ý thức, ảnh hưởng sâu sắc đến Martin Heidegger, Jean-Paul Sartre, Maurice Merleau-Ponty và triết gia Việt Nam Trần Đức Thảo.",
+    "color": "#5e239d",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Edmund_Husserl_1910s.jpg/500px-Edmund_Husserl_1910s.jpg",
+    "relations": [
+      "Martin Heidegger",
+      "Jean-Paul Sartre",
+      "Trần Đức Thảo"
+    ],
+    "themes": []
+  },
+  {
     "born": 1860,
     "died": 1904,
     "title": "Anton Chekhov",
@@ -10988,8 +12441,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg/500px-Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg",
     "relations": [
       "Richard Strauss",
-      "Eugène Ysaÿe",
-      "Jean Sibelius"
+      "Anton Arensky",
+      "Eugène Ysaÿe"
     ]
   },
   {
@@ -11059,6 +12512,27 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bateson2.jpg"
   },
   {
+    "title": "Anton Arensky",
+    "born": 1861,
+    "died": 1906,
+    "desc": "Nhà soạn nhạc kiêm nhạc trưởng người Nga thời kỳ Lãng mạn muộn, học trò của Rimsky-Korsakov và là người thầy của Rachmaninoff. Tác phẩm của ông nổi danh nhờ phong cách trữ tình tinh tế cùng những giai điệu mượt mà, sâu lắng chịu ảnh hưởng từ Tchaikovsky.",
+    "nationality": "Russian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Arensky_Anton_Postcard-1910.jpg/500px-Arensky_Anton_Postcard-1910.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Eugène Ysaÿe",
+      "Richard Strauss",
+      "Jean Sibelius"
+    ]
+  },
+  {
     "born": 1862,
     "died": 1918,
     "title": "Claude Debussy",
@@ -11074,8 +12548,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg",
     "relations": [
       "Maurice Ravel",
-      "Gustav Mahler",
-      "Richard Strauss"
+      "Oskar Merikanto",
+      "Anton Arensky"
     ],
     "themes": [
       "Classical Music"
@@ -11124,6 +12598,46 @@ const RAW_DATA = [
     "themes": [
       "Giai Nobel"
     ]
+  },
+  {
+    "title": "Joseph Merrick",
+    "born": 1862,
+    "died": 1890,
+    "desc": "Người đàn ông người Anh nổi tiếng với những biến dạng thể chất cực kỳ nghiêm trọng, được biết đến rộng rãi trong văn hóa với biệt danh 'Người Voi' (The Elephant Man).",
+    "nationality": "British",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "themes": [],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg/500px-Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg",
+    "relations": [
+      "Oskar Schindler",
+      "Aleister Crowley",
+      "Phan Thị Bích Hằng"
+    ]
+  },
+  {
+    "born": 1862,
+    "died": 1918,
+    "title": "Niko Pirosmani",
+    "desc": "Họa sĩ theo trường phái chất phác (naive art) nổi tiếng người Gruzia. Ông dành phần lớn cuộc đời trong cảnh nghèo khó, tự học vẽ và trang trí cho các quán rượu. Cuộc đời ông là cảm hứng cho bài hát huyền thoại 'Triệu bông hồng'.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "European",
+    "fullName": "Niko Pirosmanashvili",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Niko_Pirosmani_1916.jpg/500px-Niko_Pirosmani_1916.jpg",
+    "relations": [
+      "Gustav Klimt",
+      "Vincent van Gogh",
+      "Claude Debussy"
+    ],
+    "themes": []
   },
   {
     "born": 1863,
@@ -11184,7 +12698,7 @@ const RAW_DATA = [
     "relations": [
       "Archduke Franz Ferdinand",
       "Gavrilo Princip",
-      "Kaiser Wilhelm II"
+      "Nikolai II"
     ],
     "themes": [
       "World War I"
@@ -11209,8 +12723,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ferdinand_Schmutzer_-_Franz_Ferdinand_von_%C3%96sterreich-Este%2C_um_1914_%28cropped%29.jpg",
     "relations": [
       "Franz Ferdinand",
-      "Gavrilo Princip",
-      "Woodrow Wilson"
+      "Nikolai II",
+      "Gavrilo Princip"
     ]
   },
   {
@@ -11229,8 +12743,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cao_Th%E1%BA%AFng.jpg/500px-Cao_Th%E1%BA%AFng.jpg",
     "relations": [
       "Tôn Đức Thắng",
-      "Phan Đình Phùng",
-      "Hoàng Hoa Thám"
+      "Hoàng Hoa Thám",
+      "Hàm Nghi"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -11283,7 +12797,7 @@ const RAW_DATA = [
     "fullName": "Vũ Phạm Hàm",
     "born": 1864,
     "died": 1906,
-    "desc": "Danh sĩ đời Nguyễn đỗ Tam nguyên, nổi tiếng là người có tài học xuất chúng, từng giữ chức Đốc học Hà Nội và để lại nhiều thơ văn giá trị.",
+    "desc": "Danh sĩ, nhà thơ và nhà giáo xuất sắc thời Nguyễn. Ông là người duy nhất đỗ đầu cả ba kỳ thi Giải nguyên (thi Hương), Hội nguyên (thi Hội) và Thám hoa (thi Đình - thủ khoa khoa thi năm 1894), được tôn vinh là Tam nguyên Yên Đổ thứ hai sau Nguyễn Khuyến. Ông từng giữ chức Đốc học Hà Nội và để lại nhiều tác phẩm văn học chữ Hán và chữ Nôm có giá trị cao.",
     "color": "#4a7c5a",
     "position": "top",
     "primary_tag": "Literature",
@@ -11292,12 +12806,54 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Thượng Hiền",
-      "Saki",
-      "E. M. Forster"
+      "H. G. Wells",
+      "E. M. Forster",
+      "Vũ Tông Phan"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/%E6%AD%A6%E7%AF%84%E8%AB%B4.jpg"
+  },
+  {
+    "title": "Richard Strauss",
+    "born": 1864,
+    "died": 1949,
+    "desc": "Nhà soạn nhạc và nhạc trưởng vĩ đại người Đức thời kỳ Lãng mạn muộn và Hiện đại đầu tiên, nổi tiếng với các bản thơ giao hưởng đồ sộ như 'Also sprach Zarathustra' và các vở opera kinh điển.",
+    "nationality": "German",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1904_Richard_Strauss_%28cropped%29.jpg/500px-1904_Richard_Strauss_%28cropped%29.jpg",
+    "relations": [
+      "Anton Arensky",
+      "Gustav Mahler",
+      "Gioacchino Rossini"
+    ]
+  },
+  {
+    "born": 1864,
+    "died": 1888,
+    "title": "Tôn Thất Đạm",
+    "desc": "Danh tướng triều Nguyễn, con trai trưởng của đại thần Tôn Thất Thuyết. Ông là một trong những thủ lĩnh kiệt xuất chỉ huy phong trào Cần Vương bảo vệ vua Hàm Nghi chống lại thực dân Pháp.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Tôn Thất Đạm",
+    "image": "",
+    "relations": [
+      "Tôn Thất Thuyết",
+      "Trần Xuân Soạn",
+      "Nguyễn Tri Phương"
+    ],
+    "themes": []
   },
   {
     "born": 1865,
@@ -11315,8 +12871,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jean_Sibelius_circa_1898-1900_%283x4_cropped%29.jpg",
     "relations": [
       "Toivo Kuula",
-      "Richard Strauss",
-      "Gustav Mahler"
+      "Anton Arensky",
+      "Selim Palmgren"
     ],
     "themes": [
       "Classical Music"
@@ -11350,7 +12906,7 @@ const RAW_DATA = [
     "born": 1866,
     "died": 1916,
     "title": "Trần Cao Vân",
-    "desc": "Nhà yêu nước, nhân vật cách mạng chống lại ách thống trị của thực dân Pháp ở Việt Nam.",
+    "desc": "Chí sĩ yêu nước quả cảm đầu thế kỷ 20 và tác giả của thuyết \"Trung thiên Dịch học\". Ông đã cùng nhà cách mạng Thái Phiên tổ chức cuộc khởi nghĩa Duy Tân năm 1916, rước vua Duy Tân ra ngoài chống Pháp nhưng bất thành, cuối cùng bị thực dân Pháp bắt và xử chém tại Huế.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -11361,8 +12917,8 @@ const RAW_DATA = [
     "fullName": "Trần Cao Vân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tr%E1%BA%A7n_Cao_V%C3%A2n.JPG?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
+      "Nguyễn Thái Học",
       "Hồ Chí Minh",
-      "Hàm Nghi",
       "Lê Khiết"
     ],
     "themes": []
@@ -11383,8 +12939,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg/500px-%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
     "relations": [
       "Tống Khánh Linh",
-      "Nguyễn Hải Thần",
-      "Vladimir Lenin"
+      "Trần Cao Vân",
+      "Nguyễn Hải Thần"
     ],
     "themes": []
   },
@@ -11393,7 +12949,7 @@ const RAW_DATA = [
     "died": 1946,
     "title": "H. G. Wells",
     "fullName": "H. G. Wells (Herbert George Wells)",
-    "desc": "Nhà văn người Anh viết nhiều thể loại, nổi tiếng với tiểu thuyết khoa học viễn tưởng.",
+    "desc": "Nhà văn lỗi lạc người Anh, được tôn vinh là một trong những \"cha đẻ của tiểu thuyết khoa học viễn tưởng\". Tên tuổi của ông gắn liền với các tác phẩm bất hủ đi trước thời đại như \"Cỗ máy thời gian\" (The Time Machine), \"Chiến tranh giữa các thế giới\" và \"Người vô hình\".",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -11403,9 +12959,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/500px-H.G._Wells_by_Beresford.jpg",
     "relations": [
-      "Jules Verne",
-      "W. Somerset Maugham",
-      "E. M. Forster"
+      "Lưu Từ Hân",
+      "Marcel Proust",
+      "William Somerset Maugham"
     ],
     "themes": []
   },
@@ -11466,13 +13022,34 @@ const RAW_DATA = [
     "nationality": "American",
     "relations": [
       "Alexander Fleming",
-      "Đồ U U",
-      "Wilhelm Röntgen"
+      "Ivan Pavlov",
+      "Đồ U U"
     ],
     "themes": [
       "Giai Nobel"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Thomas_Hunt_Morgan.jpg/500px-Thomas_Hunt_Morgan.jpg"
+  },
+  {
+    "born": 1866,
+    "died": 1938,
+    "title": "Kazimierz Twardowski",
+    "fullName": "Kazimierz Jerzy Adolf Ritter von Oesinger Twardowski",
+    "desc": "Nhà triết học lỗi lạc người Ba Lan, người sáng lập trường phái logic-triết học Lwów-Warsaw nổi tiếng. Ông là học trò xuất sắc của Franz Brentano và đã đưa tinh thần duy lý, phân tích khoa học và sự chuẩn xác logic vào triết học Ba Lan.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kazimierz_Twardowski_1933.jpg",
+    "relations": [
+      "Jan Łukasiewicz",
+      "Izydora Dąmbska",
+      "Otto Weininger"
+    ],
+    "themes": []
   },
   {
     "born": 1867,
@@ -11489,9 +13066,9 @@ const RAW_DATA = [
     "fullName": "Natsume Sōseki (夏目漱石, Natsume Kinnosuke)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Natsume_Soseki_photo.jpg",
     "relations": [
+      "H. G. Wells",
       "Marcel Proust",
-      "Willa Cather",
-      "William Somerset Maugham"
+      "Willa Cather"
     ],
     "themes": []
   },
@@ -11543,10 +13120,34 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1867,
+    "died": 1951,
+    "title": "Carl Gustaf Emil Mannerheim",
+    "fullName": "Baron Carl Gustaf Emil Mannerheim",
+    "desc": "Thống chế quân đội, anh hùng dân tộc và Tổng thống thứ 6 của Phần Lan. Ông là tổng tư lệnh tối cao lãnh đạo Phần Lan bảo vệ nền độc lập trước Liên Xô trong Chiến tranh Mùa đông và Chiến tranh Tiếp diễn thời Thế chiến II.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mannerheim1940.jpg",
+    "relations": [
+      "Ion Antonescu",
+      "Jean de Lattre de Tassigny",
+      "Gerd von Rundstedt"
+    ],
+    "themes": [
+      "World War II"
+    ]
+  },
+  {
     "born": 1868,
     "died": 1918,
     "title": "Nikolai II",
-    "desc": "Hoàng đế cuối cùng của Nga, người thoái vị đã chấm dứt triều đại Romanov và dẫn đến Cách mạng Nga.",
+    "desc": "Sa hoàng cuối cùng của Đế quốc Nga, trị vì từ năm 1894 cho đến khi thoái vị trong Cách mạng Tháng Hai (1917). Những thất bại quân sự trong Thế chiến thứ nhất và bất ổn xã hội dưới thời ông cai trị đã chấm dứt triều đại Romanov 300 năm lịch sử trước khi gia đình ông bị sát hại vào năm 1918.",
     "color": "#9b2cbf",
     "position": "bottom",
     "primary_tag": "Political",
@@ -11558,8 +13159,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mikola_II_%28cropped%29-2.jpg",
     "relations": [
       "Kaiser Wilhelm II",
-      "Vladimir Lenin",
-      "Leon Trotsky"
+      "Leon Trotsky",
+      "Franz Ferdinand"
     ],
     "themes": [
       "World War I"
@@ -11582,10 +13183,31 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Hữu Cầu",
       "Saki",
-      "Lương Văn Can"
+      "Nguyễn Chí Diểu"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nguyen_Thuong_Hien.jpg"
+  },
+  {
+    "title": "Oskar Merikanto",
+    "born": 1868,
+    "died": 1924,
+    "desc": "Nhà soạn nhạc, nghệ sĩ đại phong cầm và nhà phê bình âm nhạc tiên phong người Phần Lan. Ông là người viết nên vở nhạc kịch đầu tiên bằng tiếng Phần Lan và sáng tác nhiều ca khúc nghệ thuật mang giai điệu dân ca trong trẻo được người dân vô cùng yêu mến.",
+    "nationality": "Scandinavian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/OMerikanto_1920s.jpg/500px-OMerikanto_1920s.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Selim Palmgren",
+      "Arnold Schönberg",
+      "Anton Arensky"
+    ]
   },
   {
     "born": 1869,
@@ -11625,7 +13247,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Thiên Tích",
       "Đổng Trác",
-      "Phạm Công Tắc"
+      "Nikolai II"
     ],
     "themes": []
   },
@@ -11649,6 +13271,25 @@ const RAW_DATA = [
       "Pablo Picasso"
     ],
     "themes": []
+  },
+  {
+    "title": "Nguyễn Hải Thần",
+    "born": 1869,
+    "died": 1959,
+    "desc": "Chính khách và nhà cách mạng Việt Nam, cựu Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa, đồng sáng lập kiêm lãnh đạo Việt Nam Cách mệnh Đồng minh Hội (Việt Cách).",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nguyen_hai_than.jpg",
+    "relations": [
+      "Huỳnh Thúc Kháng",
+      "Hồ Chí Minh",
+      "Tôn Trung Sơn"
+    ]
   },
   {
     "born": 1870,
@@ -11698,6 +13339,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1870,
+    "died": 1916,
+    "title": "Saki",
+    "desc": "Nhà văn người Anh nổi tiếng dưới bút danh Saki. Ông là bậc thầy truyện ngắn thời kỳ Edward, nổi tiếng với phong cách viết trào phúng, châm biếm và những kết thúc đầy bất ngờ, châm chọc xã hội thượng lưu.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "British",
+    "fullName": "Hector Hugh Munro",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg/500px-Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg",
+    "relations": [
+      "Nguyễn Thượng Hiền",
+      "Heinrich Heine",
+      "W. Somerset Maugham"
+    ],
+    "themes": []
+  },
+  {
     "born": 1871,
     "died": 1922,
     "title": "Marcel Proust",
@@ -11733,12 +13395,34 @@ const RAW_DATA = [
     "fullName": "Hàm Nghi (Nguyễn Phúc Ưng Lịch, Ham Nghi, vua yêu nước)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg/500px-Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
+      "Tôn Thất Thuyết",
       "Tôn Đức Thắng",
-      "Duy Tân",
-      "Cao Thắng"
+      "Duy Tân"
     ],
     "themes": [
       "Khang chien chong Phap"
+    ]
+  },
+  {
+    "title": "Ernest Rutherford",
+    "born": 1871,
+    "died": 1937,
+    "desc": "Nhà vật lý và hóa học người New Zealand được mệnh danh là 'Cha đẻ của vật lý hạt nhân', người tiên phong khám phá cấu trúc hạt nhân nguyên tử và đạt giải Nobel Hóa học năm 1908.",
+    "nationality": "Others",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "themes": [
+      "Quantum Physics",
+      "Giai Nobel"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/500px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
+    "relations": [
+      "Marie Curie",
+      "Max Planck",
+      "Peter Debye"
     ]
   },
   {
@@ -11756,9 +13440,9 @@ const RAW_DATA = [
     "fullName": "Bertrand Russell (Bertrand Arthur William Russell)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bertrand_Russell_smoking_in_1936.jpg/500px-Bertrand_Russell_smoking_in_1936.jpg",
     "relations": [
+      "Otto Weininger",
       "Edmund Husserl",
-      "Kazimierz Twardowski",
-      "Gilles Deleuze"
+      "Kazimierz Twardowski"
     ],
     "themes": []
   },
@@ -11800,9 +13484,9 @@ const RAW_DATA = [
     "fullName": "Sergei Rachmaninoff",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg",
     "relations": [
+      "Anton Arensky",
       "Johannes Brahms",
-      "Frédéric Chopin",
-      "Igor Stravinsky"
+      "Frédéric Chopin"
     ],
     "themes": []
   },
@@ -11831,6 +13515,28 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1873,
+    "died": 1947,
+    "title": "Willa Cather",
+    "desc": "Nhà văn nữ nổi tiếng người Mỹ. Bà nổi tiếng với các tiểu thuyết mô tả đời sống khai hoang trên các vùng đồng bằng lớn của Bắc Mỹ như O Pioneers! và My Ántonia. Bà được trao giải Pulitzer cho tác phẩm One of Ours năm 1923.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Women"
+    ],
+    "nationality": "American",
+    "fullName": "Willa Sibert Cather",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cather_Van_Vechten.jpg/500px-Cather_Van_Vechten.jpg",
+    "relations": [
+      "Jack London",
+      "Virginia Woolf",
+      "William Somerset Maugham"
+    ],
+    "themes": []
+  },
+  {
     "born": 1874,
     "died": 1920,
     "title": "Aleksandr Vasilyevich Kolchak",
@@ -11857,7 +13563,7 @@ const RAW_DATA = [
     "born": 1874,
     "died": 1965,
     "title": "Winston Churchill",
-    "desc": "Chính khách, nhà lãnh đạo quân sự và Thủ tướng Anh trong Thế chiến thứ hai.",
+    "desc": "Thủ tướng kiệt xuất của Vương quốc Anh, nhà lãnh đạo quân sự vĩ đại đã dẫn dắt nước Anh và phe Đồng minh đi đến chiến thắng trước phát-xít Đức trong Thế chiến thứ hai. Ông còn là nhà hùng biện lỗi lạc, nhà chép sử tài hoa được trao giải Nobel Văn học năm 1953.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -11868,9 +13574,9 @@ const RAW_DATA = [
     "fullName": "Winston Churchill",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg",
     "relations": [
-      "Mustafa Kemal Atatürk",
       "Benito Mussolini",
-      "Franklin D. Roosevelt"
+      "Franklin D. Roosevelt",
+      "Kurt von Schleicher"
     ],
     "themes": [
       "World War II",
@@ -11934,11 +13640,53 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Lee Byung-chul",
-      "Phan Khôi",
-      "Vũ Khắc Khoan"
+      "Quách Tử Nghi",
+      "Phan Khôi"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/vi/7/76/B%E1%BA%A1ch_Th%C3%A1i_B%C6%B0%E1%BB%9Fi.jpg"
+  },
+  {
+    "title": "Charles Ives",
+    "born": 1874,
+    "died": 1954,
+    "desc": "Nhà soạn nhạc người Mỹ, một trong những nhà soạn nhạc người Mỹ đầu tiên đạt được danh tiếng quốc tế.",
+    "nationality": "American",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Charles_Edward_Ives_-_National_Portrait_Gallery%2C_Smithsonian_Institution_%28NPG.82.185%29.jpg/500px-Charles_Edward_Ives_-_National_Portrait_Gallery%2C_Smithsonian_Institution_%28NPG.82.185%29.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Arnold Schönberg",
+      "Feliks Nowowiejski",
+      "Oskar Merikanto"
+    ]
+  },
+  {
+    "title": "Arnold Schönberg",
+    "born": 1874,
+    "died": 1951,
+    "desc": "Nhà soạn nhạc người Áo, người tiên phong trong âm nhạc vô điệu tính (Atonality) và phát minh ra kỹ thuật 12 âm (Twelve-tone technique).",
+    "nationality": "Austrian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%E9%98%BF%E8%AF%BA%E5%BE%B7%C2%B7%E5%8B%8B%E4%BC%AF%E6%A0%BC%E8%82%96%E5%83%8F.jpg/500px-%E9%98%BF%E8%AF%BA%E5%BE%B7%C2%B7%E5%8B%8B%E4%BC%AF%E6%A0%BC%E8%82%96%E5%83%8F.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Oskar Merikanto",
+      "Feliks Nowowiejski",
+      "Anton Arensky"
+    ]
   },
   {
     "born": 1875,
@@ -12003,7 +13751,7 @@ const RAW_DATA = [
     "relations": [
       "Fedor von Bock",
       "Bernard Montgomery",
-      "Carl Gustaf Emil Mannerheim"
+      "Erich von Manstein"
     ],
     "themes": [
       "World War II"
@@ -12024,9 +13772,9 @@ const RAW_DATA = [
     "fullName": "Aleister Crowley",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aleister_Crowley%2C_thinker.jpg/500px-Aleister_Crowley%2C_thinker.jpg",
     "relations": [
+      "Neil Armstrong",
       "Maria Gaetana Agnesi",
-      "Simo Häyhä",
-      "Mother Teresa"
+      "Simo Häyhä"
     ],
     "themes": []
   },
@@ -12139,6 +13887,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "title": "Feliks Nowowiejski",
+    "born": 1877,
+    "died": 1946,
+    "desc": "Nhà soạn nhạc và nghệ sĩ đại phong cầm người Ba Lan, tác giả bản thánh ca yêu nước \"Rota\" và vở nhạc kịch \"Quo Vadis\" vang danh thế giới. Âm nhạc của ông kết hợp tính tôn giáo trang nghiêm với niềm tự hào dân tộc Ba Lan sâu sắc.",
+    "nationality": "Polish",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Feliks_Nowowiejski_foto_%28cropped%29.jpg/500px-Feliks_Nowowiejski_foto_%28cropped%29.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Oskar Merikanto",
+      "Arnold Schönberg",
+      "Selim Palmgren"
+    ]
+  },
+  {
     "born": 1878,
     "died": 1968,
     "title": "Lise Meitner",
@@ -12185,6 +13954,48 @@ const RAW_DATA = [
       "Leon Trotsky",
       "Adolf Hitler"
     ]
+  },
+  {
+    "title": "Selim Palmgren",
+    "born": 1878,
+    "died": 1951,
+    "desc": "Nhà soạn nhạc, nghệ sĩ dương cầm xuất chúng người Phần Lan, được tôn vinh là \"Chopin của phương Bắc\". Tác phẩm của ông kết hợp hài hòa giai điệu lãng mạn trữ tình với âm hưởng thiên nhiên Bắc Âu, nổi bật với 5 bản concerto viết cho đàn dương cầm.",
+    "nationality": "Scandinavian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/SPalmgren_sig_%28cropped%29.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Sergei Prokofiev",
+      "Oskar Merikanto",
+      "Pyotr Ilyich Tchaikovsky"
+    ]
+  },
+  {
+    "born": 1878,
+    "died": 1956,
+    "title": "Jan Łukasiewicz",
+    "fullName": "Jan Łukasiewicz",
+    "desc": "Nhà logic học và triết học lỗi lạc người Ba Lan, giáo sư trường phái Lwów-Warsaw. Ông nổi tiếng với việc phát minh ra logic đa trị (logic ba trị), ký pháp Ba Lan (Polish notation) không cần dùng dấu ngoặc, và những nghiên cứu tiên phong về lịch sử logic học.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jan_%C5%81ukasiewicz_NAC.jpg",
+    "relations": [
+      "Stanisław Leśniewski",
+      "Tadeusz Kotarbiński",
+      "Kazimierz Twardowski"
+    ],
+    "themes": []
   },
   {
     "born": 1879,
@@ -12267,8 +14078,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/500px-Albert_Einstein_Head_cleaned.jpg",
     "relations": [
       "J. Robert Oppenheimer",
-      "Niels Bohr",
-      "Max Planck"
+      "Max Planck",
+      "Niels Bohr"
     ],
     "themes": [
       "Quantum Physics",
@@ -12362,6 +14173,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "title": "John Ireland",
+    "born": 1879,
+    "died": 1962,
+    "desc": "Nhà soạn nhạc và giáo viên âm nhạc người Anh, nổi tiếng với các tiểu phẩm và ca khúc dành cho piano.",
+    "nationality": "British",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/John_Nicholson_Ireland_%28circa_1920%29.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Igor Stravinsky",
+      "Selim Palmgren",
+      "Feliks Nowowiejski"
+    ]
+  },
+  {
     "born": 1880,
     "died": 1964,
     "title": "Douglas MacArthur",
@@ -12412,7 +14244,7 @@ const RAW_DATA = [
     "died": 1903,
     "title": "Otto Weininger",
     "fullName": "Otto Weininger",
-    "desc": "Triết gia người Áo sống ở Đế quốc Áo-Hung. Ông trở nên nổi tiếng sau khi tự sát ở tuổi 23.",
+    "desc": "Triết gia người Áo gốc Do Thái nổi danh với tác phẩm mang tính đột phá và đầy tranh cãi \"Giới tính và Tính cách\" (Sex and Character, 1903). Cuốn sách tìm cách phân tích mối liên hệ phức tạp giữa giới tính, tâm lý học đạo đức và thiên tài, gây ảnh hưởng mạnh mẽ đến Ludwig Wittgenstein, Franz Kafka và Sigmund Freud. Ông kết liễu đời mình bằng súng tại Vienna ở tuổi 23 ngay sau khi sách xuất bản.",
     "color": "#8b5cf6",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -12423,9 +14255,32 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Otto_Weininger.jpg",
     "themes": [],
     "relations": [
-      "Jan Łukasiewicz",
-      "Stanisław Leśniewski",
-      "Tadeusz Kotarbiński"
+      "Bertrand Russell",
+      "Martin Heidegger",
+      "Kazimierz Twardowski"
+    ]
+  },
+  {
+    "born": 1880,
+    "died": 1961,
+    "title": "Akiba Rubinstein",
+    "desc": "Đại kiện tướng cờ vua huyền thoại người Ba Lan. Ông là một trong những kỳ thủ xuất sắc nhất đầu thế kỷ 20, nổi tiếng với những đóng góp nền tảng cho lý thuyết khai cuộc và được coi là một trong những bậc thầy cờ tàn vĩ đại nhất lịch sử.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "fullName": "Akiba Kiwelowicz Rubinstein",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Akiba-RubinsteinC.jpg",
+    "relations": [
+      "Nguyễn Ngọc Trường Sơn",
+      "José Raúl Capablanca",
+      "Gukesh D"
+    ],
+    "themes": [
+      "Chess"
     ]
   },
   {
@@ -12466,7 +14321,7 @@ const RAW_DATA = [
     "relations": [
       "Đồ U U",
       "Thomas Hunt Morgan",
-      "Wilhelm Röntgen"
+      "Max Planck"
     ],
     "themes": [
       "Giai Nobel"
@@ -12488,8 +14343,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Erwin_v._Witzleben_%283x4_cropped%29.jpg",
     "relations": [
       "Günther von Kluge",
-      "Gerd von Rundstedt",
-      "Erich von Manstein"
+      "Erich von Manstein",
+      "Gerd von Rundstedt"
     ],
     "themes": [
       "World War II"
@@ -12540,8 +14395,29 @@ const RAW_DATA = [
     "relations": [
       "Harry Truman",
       "Charles de Gaulle",
-      "Winston Churchill"
+      "Ion Antonescu"
     ]
+  },
+  {
+    "born": 1881,
+    "died": 1950,
+    "title": "Nikolai Myaskovsky",
+    "desc": "Nhà soạn nhạc danh tiếng người Nga gốc Ba Lan, được mệnh danh là 'Cha đẻ của thể loại giao hưởng Liên Xô' với di sản đồ sộ gồm 27 bản giao hưởng, phản ánh sâu sắc tâm lý xã hội thời kỳ biến động.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Soviet",
+    "fullName": "Nikolai Yakovlevich Myaskovsky",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikolai_Myaskovsky.jpg",
+    "relations": [
+      "Sergei Prokofiev",
+      "Dmitri Shostakovich",
+      "Igor Stravinsky"
+    ],
+    "themes": []
   },
   {
     "born": 1882,
@@ -12770,6 +14646,52 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mr._Ng%C3%B4_T%E1%BB%AD_H%E1%BA%A1.jpg"
   },
   {
+    "born": 1882,
+    "died": 1941,
+    "title": "Virginia Woolf",
+    "desc": "Nhà văn, nhà luận văn và tác giả người Anh, một trong những ngòi bút có tầm ảnh hưởng lớn nhất của chủ nghĩa hiện đại (Modernism) thế kỷ 20. Bà đã cách mạng hóa ngôn ngữ tiểu thuyết bằng kỹ thuật 'dòng ý thức' (stream of consciousness) xuất thần và ngân bút trữ tình đầy ma lực trong những tác phẩm kiệt xuất như 'Mrs Dalloway' và 'To the Lighthouse'. Là một trong những giọi nữ đầu tiên mạnh dạn văn bản hóa một phê bình toàn diện về nữ quyền trong văn học và xã hội qua bút ký lịch sử 'A Room of One's Own'.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "nationality": "British",
+    "fullName": "Virginia Woolf (Adeline Virginia Stephen)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/500px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
+    "relations": [
+      "Karen Horney",
+      "E. M. Forster",
+      "Marcel Proust"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ]
+  },
+  {
+    "title": "Max Born",
+    "born": 1882,
+    "died": 1970,
+    "desc": "Nhà vật lý lý thuyết người Đức gốc Anh đóng vai trò then chốt trong việc đặt nền móng cho cơ học lượng tử, nổi tiếng với cách giải thích xác suất của hàm sóng (Quy tắc Born) mang lại giải Nobel Vật lý 1954.",
+    "nationality": "German",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "themes": [
+      "Quantum Physics",
+      "Giai Nobel"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Max_Born.jpg/500px-Max_Born.jpg",
+    "relations": [
+      "Albert Einstein",
+      "Max Planck",
+      "Niels Bohr"
+    ]
+  },
+  {
     "born": 1883,
     "died": 1946,
     "title": "John Maynard Keynes",
@@ -12806,8 +14728,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/500px-Franz_Kafka%2C_1923.jpg",
     "relations": [
       "Martin Heidegger",
-      "Friedrich Nietzsche",
-      "Fyodor Dostoyevsky"
+      "Albert Camus",
+      "Friedrich Nietzsche"
     ],
     "themes": [
       null,
@@ -12852,7 +14774,7 @@ const RAW_DATA = [
     "relations": [
       "Franz von Papen",
       "Adolf Hitler",
-      "Ngô Tử Hạ"
+      "Nikolai II"
     ],
     "themes": []
   },
@@ -12878,6 +14800,69 @@ const RAW_DATA = [
     "themes": [
       "World War II"
     ]
+  },
+  {
+    "title": "Toivo Kuula",
+    "born": 1883,
+    "died": 1918,
+    "desc": "Nhà soạn nhạc và nhạc trưởng người Phần Lan, học trò của Jean Sibelius. Âm nhạc của ông thấm đẫm chủ nghĩa dân tộc hào hùng cùng cảm xúc lãng mạn sâu lắng, nổi tiếng với các tác phẩm hợp xướng trước khi cuộc đời ông kết thúc bi thảm trong nội chiến.",
+    "nationality": "Scandinavian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/KuulaT.jpg/500px-KuulaT.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Jean Sibelius",
+      "Selim Palmgren",
+      "Igor Stravinsky"
+    ]
+  },
+  {
+    "title": "Anton Webern",
+    "born": 1883,
+    "died": 1945,
+    "desc": "Nhà soạn nhạc người Áo, học trò của Arnold Schoenberg và là thành viên cốt cán của Trường phái Vienna thứ hai.",
+    "nationality": "Austrian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Anton_Webern_in_Stettin%2C_October_1912.jpg/500px-Anton_Webern_in_Stettin%2C_October_1912.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Alban Berg",
+      "John Ireland",
+      "Maurice Ravel"
+    ]
+  },
+  {
+    "born": 1883,
+    "died": 1924,
+    "title": "Phạm Duy Tốn",
+    "desc": "Nhà văn xã hội tiên phong của nền văn học mới Việt Nam đầu thế kỷ 20. Tác phẩm tiêu biểu 'Sống chết mặc bay' của ông được coi là truyện ngắn hiện đại đầu tiên viết bằng chữ Quốc ngữ theo lối Tây phương, phê phán sâu sắc thói vô trách nhiệm của quan lại phong kiến.",
+    "color": "#2f5233",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Duy Tốn",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg/500px-Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg",
+    "relations": [
+      "Hồ Biểu Chánh",
+      "Nguyễn Nguyên Phước",
+      "Phan Khôi"
+    ],
+    "themes": []
   },
   {
     "born": 1884,
@@ -12945,8 +14930,8 @@ const RAW_DATA = [
     ],
     "relations": [
       "Wilhelm Keitel",
-      "Erich von Manstein",
-      "Erwin Rommel"
+      "Erwin Rommel",
+      "Aleksandr Mikhailovich Vasilevsky"
     ]
   },
   {
@@ -12999,6 +14984,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1884,
+    "died": 1958,
+    "title": "Hồ Biểu Chánh",
+    "fullName": "Hồ Văn Trung",
+    "desc": "Nhà văn tiên phong đặt nền móng cho tiểu thuyết hiện đại Việt Nam, đặc biệt là văn học Nam Bộ đầu thế kỷ 20. Ông là tác giả cực kỳ sung mãn với hàng chục tiểu thuyết đặc sắc phản ánh sâu sắc đạo đức, đời sống xã hội Nam Bộ như Cay đắng mùi đời, Cha con nghĩa nặng.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png/500px-Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png",
+    "relations": [
+      "Phạm Duy Tốn",
+      "Hoàng Ngọc Phách",
+      "Virginia Woolf"
+    ],
+    "themes": []
+  },
+  {
     "born": 1885,
     "died": 1962,
     "title": "Niels Bohr",
@@ -13028,7 +15034,7 @@ const RAW_DATA = [
     "died": 1919,
     "title": "Lê Đình Dương",
     "fullName": "Lê Đình Dương",
-    "desc": "Bác sĩ yêu nước, nhà lãnh đạo trí thức tham gia phong trào Duy Tân và nổi dậy chống thực dân Pháp.",
+    "desc": "Bác sĩ y khoa yêu nước đầu thế kỷ 20, một trong những thủ lĩnh chủ chốt chỉ huy cuộc khởi nghĩa Duy Tân (1916) nhằm lật đổ ách thống trị của thực dân Pháp. Sau khi khởi nghĩa thất bại, ông bị giam lỏng ở Tây Nguyên và bị sát hại bằng độc dược vào năm 1919.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -13040,8 +15046,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Duy Tân",
-      "Tôn Đức Thắng",
-      "Hàm Nghi"
+      "Hồ Chí Minh",
+      "Mao Trạch Đông"
     ],
     "themes": []
   },
@@ -13084,9 +15090,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/General_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg",
     "relations": [
+      "Erich von Manstein",
       "Heinz Guderian",
-      "Douglas MacArthur",
-      "Claire Lee Chennault"
+      "Douglas MacArthur"
     ]
   },
   {
@@ -13115,10 +15121,94 @@ const RAW_DATA = [
     ]
   },
   {
+    "title": "Alban Berg",
+    "born": 1885,
+    "died": 1935,
+    "desc": "Nhà soạn nhạc người Áo thuộc Trường phái Vienna thứ hai, nổi tiếng với việc kết hợp chủ nghĩa lãng mạn với kỹ thuật 12 âm.",
+    "nationality": "Austrian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg/500px-Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg",
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "relations": [
+      "Anton Webern",
+      "Toivo Kuula",
+      "Arnold Schönberg"
+    ]
+  },
+  {
+    "born": 1885,
+    "died": 1967,
+    "title": "Andre Maurois",
+    "desc": "Nhà văn, nhà viết tiểu sử nổi tiếng người Pháp, thành viên Viện Hàn lâm Pháp. Ông được biết đến nhiều nhất với các tác phẩm viết tiểu sử xuất sắc của các danh nhân văn hóa như Marcel Proust, Shelley và Balzac.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "French",
+    "fullName": "Émile Salomon Wilhelm Herzog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Maurois_Harcourt_1936.jpg",
+    "relations": [
+      "Marcel Proust",
+      "E. M. Forster",
+      "Virginia Woolf"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1886,
+    "died": 1939,
+    "title": "Stanisław Leśniewski",
+    "fullName": "Stanisław Leśniewski",
+    "desc": "Nhà logic học và triết học xuất sắc người Ba Lan, giáo sư toán học tại Đại học Warsaw và là thành viên hàng đầu của trường phái Lwów-Warsaw. Ông nổi tiếng với các hệ thống logic hình thức độc đáo bao gồm Đệ nhất học (Protothetic), Bản thể học (Ontology) và Mereology.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stanislaw_Lesniewski_%2869447640%29_%28cropped%29.jpg",
+    "relations": [
+      "Alfred Tarski",
+      "Tadeusz Kotarbiński",
+      "Jan Łukasiewicz"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1886,
+    "died": 1981,
+    "title": "Tadeusz Kotarbiński",
+    "fullName": "Tadeusz Marian Kotarbiński",
+    "desc": "Nhà triết học, logic học lỗi lạc người Ba Lan, một trong những đại diện tiêu biểu nhất của trường phái Lwów-Warsaw. Ông nổi tiếng với chủ nghĩa thực nghiệm duy vật (Reism), lý thuyết hành động hiệu quả (Praxeology) và là một nhà sư phạm vĩ đại.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tadeusz_Kotarbi%C5%84ski.jpg",
+    "relations": [
+      "Alfred Tarski",
+      "Stanisław Leśniewski",
+      "Jan Łukasiewicz"
+    ],
+    "themes": []
+  },
+  {
     "born": 1887,
     "died": 1973,
     "title": "Erich von Manstein",
-    "desc": "Tướng Đức (Nguyên soái) trong Quân đội Đức Quốc xã trong Thế chiến thứ hai.",
+    "desc": "Thống chế quân đội Đức Quốc xã, một trong những nhà chiến lược quân sự xuất sắc nhất của Wehrmacht trong Thế chiến thứ hai. Ông là tác giả của kế hoạch tiến công \"Lưỡi hái\" hạ gục nước Pháp chớp nhoáng (1940) và trận phản công Kharkov kinh điển (1943).",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -13129,9 +15219,9 @@ const RAW_DATA = [
     "fullName": "Erich von Manstein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bundesarchiv_Bild_183-H01757%2C_Erich_von_Manstein.jpg",
     "relations": [
-      "Erwin Rommel",
-      "Yamamoto Isoroku",
-      "Claire Lee Chennault"
+      "Walter Model",
+      "Gerd von Rundstedt",
+      "Heinz Guderian"
     ],
     "themes": [
       "World War II"
@@ -13141,7 +15231,7 @@ const RAW_DATA = [
     "born": 1887,
     "died": 1975,
     "title": "Tưởng Giới Thạch",
-    "desc": "Lãnh đạo quân sự và chính trị Trung Quốc từng là lãnh đạo của Trung Hoa Dân Quốc.",
+    "desc": "Nhà lãnh đạo quân sự và chính trị tối cao của Trung Hoa Dân Quốc thế kỷ 20. Ông dẫn dắt Quốc dân đảng thực hiện Bắc phạt thống nhất đất nước, kháng chiến chống Nhật trong Thế chiến thứ hai, trước khi thất thủ phải rút lui chính phủ ra xây dựng đảo Đài Loan từ năm 1949.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -13153,7 +15243,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
     "relations": [
       "Tống Mỹ Linh",
-      "Tưởng Kinh Quốc",
+      "Hồ Chí Minh",
       "Mao Trạch Đông"
     ],
     "themes": []
@@ -13243,11 +15333,36 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arthur_Rubinstein.jpg/500px-Arthur_Rubinstein.jpg",
     "relations": [
       "Frédéric Chopin",
-      "Igor Stravinsky",
-      "Béla Bartók"
+      "Selim Palmgren",
+      "Igor Stravinsky"
     ],
     "themes": [
       "Classical Music"
+    ]
+  },
+  {
+    "born": 1887,
+    "died": 1959,
+    "title": "Phan Khôi",
+    "fullName": "Phan Khôi",
+    "desc": "Nhà báo, nhà văn, dịch giả và học giả lỗi lạc người Việt, thủ lĩnh tinh thần của phong trào Nhân Văn – Giai Phẩm đòi hỏi tự do ngôn luận và tự do sáng tác nghệ thuật. Ông cũng là người khai phong trào Thơ mới với bài thơ nổi tiếng 'Tình già' (1932). Do lập trường thẳng thắn chỉ trích sự can thiệp chính trị vào nghệ thuật, ông bị chính quyền cô lập và phê phán gay gắt.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/b/b1/Chan_dung_Phan_Khoi.jpg",
+    "relations": [
+      "Trần Dần",
+      "Phùng Quán",
+      "Nguyễn Hữu Đang"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN",
+      "Tho Moi"
     ]
   },
   {
@@ -13265,9 +15380,9 @@ const RAW_DATA = [
     "fullName": "Heinz Guderian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Heinz_Guderian_portrait.jpg",
     "relations": [
+      "Erich von Manstein",
       "George S. Patton",
-      "Hideki Tojo",
-      "Douglas MacArthur"
+      "Hideki Tojo"
     ],
     "themes": [
       "World War II"
@@ -13316,6 +15431,55 @@ const RAW_DATA = [
       "Dorothy Maud Wrinch"
     ],
     "themes": []
+  },
+  {
+    "born": 1888,
+    "died": 1980,
+    "title": "Tôn Đức Thắng",
+    "fullName": "Tôn Đức Thắng (Bác Tôn)",
+    "desc": "Nhà cách mạng lỗi lạc của Việt Nam, Chủ tịch thứ hai của nước Việt Nam Dân chủ Cộng hòa và sau đó là nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. Ông tích cực tham gia phong trào công nhân và lãnh đạo kháng chiến chống Pháp và chống Mỹ.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Tonducthang.jpg/250px-Tonducthang.jpg",
+    "relations": [
+      "Phạm Hùng",
+      "Võ Chí Công",
+      "Hồ Chí Minh"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1888,
+    "died": 1942,
+    "title": "José Raúl Capablanca",
+    "desc": "Kỳ thủ cờ vua huyền thoại người Cuba, nhà vô địch cờ vua thế giới thứ 3 (1921–1927). Được mệnh danh là 'Cỗ máy cờ vua' nhờ nhãn quan cờ tàn hoàn hảo và lối chơi tối giản, chuẩn xác cực kỳ hiếm khi mắc sai lầm.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Latin American",
+    "fullName": "José Raúl Capablanca y Graupera",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jos%C3%A9_Ra%C3%BAl_Capablanca_1931.jpg",
+    "relations": [
+      "Alexander Alekhine",
+      "Magnus Carlsen",
+      "Akiba Rubinstein"
+    ],
+    "themes": [
+      "Chess"
+    ]
   },
   {
     "born": 1889,
@@ -13454,6 +15618,46 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Jean_de_Lattre_de_Tassigny_%281946%29.jpg/500px-Jean_de_Lattre_de_Tassigny_%281946%29.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "title": "Bùi Bằng Đoàn",
+    "born": 1889,
+    "died": 1955,
+    "desc": "Nhân sĩ yêu nước, Thượng thư Bộ Hình triều Nguyễn, sau cách mạng giữ chức Trưởng ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa đầu tiên (1946–1955).",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mr._Bui_Bang_Doan.jpg/250px-Mr._Bui_Bang_Doan.jpg",
+    "relations": [
+      "Thành Thái",
+      "Nguyễn Hy",
+      "Khải Định"
+    ]
+  },
+  {
+    "born": 1889,
+    "died": 1973,
+    "title": "Tống Ái Linh",
+    "fullName": "Soong Ai-ling",
+    "desc": "Chị cả trong ba chị em họ Tống có tầm ảnh hưởng lớn tại Trung Quốc thế kỷ 20. Bà kết hôn với Khổng Tường Hy, một trong những người giàu nhất Trung Quốc thời đó, và đóng vai trò cố vấn tài chính quyền lực phía sau hậu trường.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Soong_Ai-ling.jpg",
+    "relations": [
+      "Mao Trạch Đông",
+      "Tống Khánh Linh",
+      "Tống Mỹ Linh"
+    ],
+    "themes": []
+  },
+  {
     "born": 1890,
     "died": 1945,
     "title": "Robert Ley",
@@ -13493,7 +15697,7 @@ const RAW_DATA = [
     "relations": [
       "E. M. Forster",
       "Andre Maurois",
-      "Khái Hưng"
+      "Hồ Biểu Chánh"
     ],
     "themes": []
   },
@@ -13565,8 +15769,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/De_Gaulle-OWI.jpg",
     "relations": [
       "Hồ Chí Minh",
-      "Adolf Hitler",
-      "Tôn Đức Thắng"
+      "Lê Hồng Phong",
+      "Adolf Hitler"
     ]
   },
   {
@@ -13607,8 +15811,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
     "relations": [
       "Dmitri Shostakovich",
-      "Igor Stravinsky",
-      "Clara Schumann"
+      "Selim Palmgren",
+      "Igor Stravinsky"
     ],
     "themes": [
       "Classical Music"
@@ -13629,9 +15833,9 @@ const RAW_DATA = [
     "fullName": "Erwin Rommel (The Desert Fox, Con cáo sa mạc, Johannes Erwin Eugen Rommel)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erwin-Rommel-1941_%282%29.jpg/500px-Erwin-Rommel-1941_%282%29.jpg",
     "relations": [
-      "Erich von Manstein",
       "Wilhelm Keitel",
-      "Yamamoto Isoroku"
+      "Yamamoto Isoroku",
+      "Erich von Manstein"
     ],
     "themes": [
       "World War II"
@@ -13652,9 +15856,9 @@ const RAW_DATA = [
     "fullName": "Walter Model",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Walther_Model_on_the_front_%28b%29_%28cropped%29.jpg",
     "relations": [
+      "Erich von Manstein",
       "Fedor von Bock",
-      "Simo Häyhä",
-      "Aleksandr Mikhailovich Vasilevsky"
+      "Simo Häyhä"
     ],
     "themes": [
       "World War II"
@@ -13697,8 +15901,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/500px-J._R._R._Tolkien%2C_ca._1925.jpg",
     "relations": [
       "Phan Khôi",
-      "Virginia Woolf",
-      "Ernest Hemingway"
+      "Nguyễn Cư Trinh",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -13718,8 +15922,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Francisco_Franco_posed_portrait_photograph.jpg",
     "relations": [
       "Charles de Gaulle",
-      "Benito Mussolini",
-      "Mao Trạch Đông"
+      "Tưởng Giới Thạch",
+      "Benito Mussolini"
     ],
     "themes": []
   },
@@ -13785,11 +15989,34 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nguy%E1%BB%85n_Hy%2C_Souverains_et_notabilites_d%27Indochine_%28cropped%29.jpg",
     "relations": [
+      "Phạm Phú Thứ",
       "Đỗ Thúc Tịnh",
-      "Bùi Bằng Đoàn",
-      "Khải Định"
+      "Bùi Bằng Đoàn"
     ],
     "themes": []
+  },
+  {
+    "born": 1892,
+    "died": 1946,
+    "title": "Alexander Alekhine",
+    "desc": "Kỳ thủ cờ vua vĩ đại người Nga và Pháp, nhà vô địch cờ vua thế giới thứ 4 (1927–1935, 1937–1946). Ông nổi tiếng với lối chơi tấn công bão táp, đầy tính chiến thuật sáng tạo và là người duy nhất qua đời khi đang giữ vương miện thế giới.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Russian",
+    "fullName": "Alexander Alexandrovich Alekhine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexandre_Alekhine_01.jpg/500px-Alexandre_Alekhine_01.jpg",
+    "relations": [
+      "José Raúl Capablanca",
+      "Magnus Carlsen",
+      "Garry Kasparov"
+    ],
+    "themes": [
+      "Chess"
+    ]
   },
   {
     "born": 1893,
@@ -13883,6 +16110,50 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mikhail_Tukhachevsky.jpg/500px-Mikhail_Tukhachevsky.jpg"
   },
   {
+    "born": 1893,
+    "died": 1981,
+    "title": "Tống Khánh Linh",
+    "fullName": "Soong Ching-ling",
+    "desc": "Nhà chính trị Trung Quốc, phu nhân của Tôn Trung Sơn. Bà là Phó Chủ tịch rồi Phó Chủ tịch danh dự của Cộng hòa Nhân dân Trung Hoa, một trong ba chị em họ Tống có ảnh hưởng lớn đến lịch sử Trung Quốc thế kỷ 20.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%E5%AE%8B%E5%BA%86%E9%BE%84%E6%A0%87%E5%87%86%E5%83%8F.jpg/500px-%E5%AE%8B%E5%BA%86%E9%BE%84%E6%A0%87%E5%87%86%E5%83%8F.jpg",
+    "relations": [
+      "Tôn Trung Sơn",
+      "Mao Trạch Đông",
+      "Lưu Thiếu Kỳ"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1893,
+    "died": 1958,
+    "title": "Claire Lee Chennault",
+    "fullName": "Claire Lee Chennault",
+    "desc": "Trung tướng không quân Mỹ, người tổ chức và chỉ huy phi đội bay tình nguyện 'Flying Tigers' (Phi Hổ) tại Trung Quốc trong Thế chiến thứ hai.",
+    "color": "#d32f2f",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Claire_L._Chennault.jpg/500px-Claire_L._Chennault.jpg",
+    "relations": [
+      "Hermann Göring",
+      "George S. Patton",
+      "Douglas MacArthur"
+    ],
+    "themes": [
+      "World War II"
+    ]
+  },
+  {
     "born": 1894,
     "died": 1987,
     "title": "Rudolf Hess",
@@ -13926,7 +16197,7 @@ const RAW_DATA = [
     "relations": [
       "Franz Ferdinand",
       "Archduke Franz Ferdinand",
-      "Manfred von Richthofen"
+      "Nikolai II"
     ]
   },
   {
@@ -13943,12 +16214,33 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Hải Thần",
-      "Trần Văn Trà",
-      "Trần Độ"
+      "Lê Hồng Phong",
+      "Hoàng Tích Trí",
+      "Nguyễn Hải Thần"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nguy%E1%BB%85n_S%C6%A1n_H%C3%A0_%281894_-_1980%29.jpg/500px-Nguy%E1%BB%85n_S%C6%A1n_H%C3%A0_%281894_-_1980%29.jpg"
+  },
+  {
+    "born": 1894,
+    "died": 1976,
+    "title": "Dorothy Maud Wrinch",
+    "fullName": "Dorothy Maud Wrinch",
+    "desc": "Nhà toán học và lý thuyết sinh hóa người Anh, nổi tiếng với mô hình 'cyclol' đột phá về cấu trúc protein dựa trên các liên kết peptide gấp nếp. Bà là người phụ nữ đầu tiên nhận bằng Tiến sĩ Khoa học của Đại học Oxford.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dorothy_Maud_Wrinch_1921.jpg/500px-Dorothy_Maud_Wrinch_1921.jpg",
+    "relations": [
+      "John von Neumann",
+      "Arthur Eddington",
+      "Werner Heisenberg"
+    ],
+    "themes": []
   },
   {
     "born": 1895,
@@ -13986,9 +16278,9 @@ const RAW_DATA = [
     "fullName": "J. Edgar Hoover",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hoover-JEdgar-LOC.jpg/500px-Hoover-JEdgar-LOC.jpg",
     "relations": [
+      "Al Capone",
       "Robert Ley",
-      "Michel Foucault",
-      "Otto von Bismarck"
+      "Michel Foucault"
     ],
     "themes": []
   },
@@ -14107,6 +16399,30 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1895,
+    "died": 1924,
+    "title": "Phạm Hồng Thái",
+    "desc": "Nhà hoạt động cách mạng yêu nước Việt Nam đời đầu chống Pháp, thành viên Tâm Tâm Xã. Ông nổi tiếng với vụ ám sát hụt Toàn quyền Đông Dương Merlin tại Sa Diện (Quảng Châu) và gieo mình xuống dòng Châu Giang tuẫn tiết.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Hồng Thái",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/PhamHongThai.jpg",
+    "relations": [
+      "Nguyễn Thái Học",
+      "Hồ Chí Minh",
+      "Hoàng Văn Thụ"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
     "born": 1896,
     "died": 1973,
     "title": "Hoàng Ngọc Phách",
@@ -14188,7 +16504,7 @@ const RAW_DATA = [
     "relations": [
       "Aleksandr Mikhailovich Vasilevsky",
       "Walter Model",
-      "Simo Häyhä"
+      "Erich von Manstein"
     ],
     "themes": [
       "World War II"
@@ -14256,6 +16572,29 @@ const RAW_DATA = [
       "William Somerset Maugham"
     ],
     "themes": []
+  },
+  {
+    "born": 1896,
+    "died": 1964,
+    "title": "Paulino Alcantara",
+    "fullName": "Paulino Alcántara Riestra",
+    "desc": "Cầu thủ bóng đá và huấn luyện viên người Tây Ban Nha - Philippines. Ông dành phần lớn sự nghiệp thi đấu cho FC Barcelona và là một trong những chân sút vĩ đại nhất lịch sử câu lạc bộ với 395 bàn thắng sau 399 trận đấu. Alcántara là cầu thủ châu Á đầu tiên thi đấu tại châu Âu.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "ASEAN",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Paulino_alcantara_barca_%28cropped%29.jpg",
+    "relations": [
+      "Sir Bobby Robson",
+      "Lê Thụy Hải",
+      "Johan Cruyff"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1897,
@@ -14375,6 +16714,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1897,
+    "died": 1973,
+    "title": "Paavo Nurmi",
+    "fullName": "Paavo Johannes Nurmi",
+    "desc": "Vận động viên điền kinh huyền thoại người Phần Lan chạy cự ly trung bình và dài, được mệnh danh là 'Người Phần Lan bay'. Ông thống trị điền kinh thế giới thập niên 1920 với 9 huy chương Vàng và 3 huy chương Bạc qua ba kỳ Thế vận hội Olympic.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg",
+    "relations": [
+      "José Raúl Capablanca",
+      "Nguyễn Trần Duy Nhất",
+      "Alexandra Trusova"
+    ],
+    "themes": []
+  },
+  {
     "born": 1898,
     "died": 1946,
     "title": "Dương Quảng Hàm",
@@ -14446,7 +16806,7 @@ const RAW_DATA = [
     "died": 1936,
     "title": "Federico García Lorca",
     "fullName": "Federico García Lorca",
-    "desc": "Nhà thơ, nhà viết kịch và đạo diễn sân khấu người Tây Ban Nha, thành viên của Thế hệ '27.",
+    "desc": "Nhà thơ và nhà viết kịch lỗi lạc người Tây Ban Nha, linh hồn của nhóm văn học \"Thế hệ 27\". Tác phẩm của ông dung hợp sâu sắc văn hóa dân gian Andalusia với tinh thần hiện đại, trước khi ông bị lực lượng phát-xít Franco sát hại dã man trong Nội chiến Tây Ban Nha năm 1936.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -14456,9 +16816,95 @@ const RAW_DATA = [
     "nationality": "Spanish",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg",
     "relations": [
-      "Andre Maurois",
-      "Ernest Hemingway",
-      "Khái Hưng"
+      "Kawabata Yasunari",
+      "Phan Khôi",
+      "Phạm Duy Tốn"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1898,
+    "died": 1983,
+    "title": "Henri Navarre",
+    "fullName": "Henri Navarre",
+    "desc": "Đại tướng Pháp, Tổng chỉ huy quân đội viễn chinh Pháp ở Đông Dương (1953-1954). Ông là người vạch ra kế hoạch quân sự Navarre nổi tiếng và chỉ huy quân Pháp trong Chiến dịch Điện Biên Phủ.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Philippe Leclerc",
+      "Jean de Lattre de Tassigny",
+      "Christian de Castries"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/500px-Henri_Navarre_of_Indochina.png"
+  },
+  {
+    "born": 1898,
+    "died": 1978,
+    "title": "Hồng y Trịnh Như Khuê",
+    "fullName": "Giuse Maria Trịnh Như Khuê",
+    "desc": "Vị Hồng y tiên khởi (đầu tiên) của Giáo hội Công giáo Việt Nam, nguyên Tổng Giám mục Tổng giáo phận Hà Nội. Ông nổi tiếng với đời sống mục vụ kiên cường và củng cố đức tin trong những giai đoạn lịch sử đầy thử thách.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Religious",
+    "tags": [
+      "Religious"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/1/18/H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_Nh%C6%B0_Khu%C3%AA.jpg",
+    "relations": [
+      "Hồng y Trịnh Văn Căn",
+      "Hồng y Phạm Minh Mẫn",
+      "Nguyễn Chí Diểu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1898,
+    "died": 2003,
+    "title": "Tống Mỹ Linh",
+    "fullName": "Soong Mei-ling",
+    "desc": "Phu nhân của Tưởng Giới Thạch, Đệ nhất Phu nhân Trung Hoa Dân Quốc. Bà đóng vai trò chính trị và ngoại giao quan trọng trong Chiến tranh Trung-Nhật và Chiến tranh Lạnh, là em út trong ba chị em họ Tống.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Madame_Chiang_Kai-shek%2C_seated_portrait_%28cropped%29.jpg/500px-Madame_Chiang_Kai-shek%2C_seated_portrait_%28cropped%29.jpg",
+    "relations": [
+      "Tưởng Giới Thạch",
+      "Mao Trạch Đông",
+      "Xuân Thủy"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1898,
+    "died": 1969,
+    "title": "Lưu Thiếu Kỳ",
+    "fullName": "Liu Shaoqi",
+    "desc": "Nhà cách mạng và chính trị gia Trung Quốc, Chủ tịch nước Cộng hòa Nhân dân Trung Hoa từ năm 1959 đến 1968. Ông từng được coi là người kế vị Mao Trạch Đông trước khi bị thanh trừng trong Cách mạng Văn hóa.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/USIA_66-1476.jpg/500px-USIA_66-1476.jpg",
+    "relations": [
+      "Mao Trạch Đông",
+      "Hồ Chí Minh",
+      "Lâm Bưu"
     ],
     "themes": []
   },
@@ -14466,7 +16912,7 @@ const RAW_DATA = [
     "born": 1899,
     "died": 1947,
     "title": "Al Capone",
-    "desc": "Xã hội đen người Mỹ đã lãnh đạo một tập đoàn tội phạm thời kỳ Cấm ở Chicago.",
+    "desc": "Ông trùm thế giới ngầm khét tiếng nhất nước Mỹ thời kỳ Cấm rượu, thống trị băng đảng mafia Chicago bằng bạo lực tàn nhẫn và các vụ thanh trừng đẫm máu. Với biệt danh \"Scarface\", ông cai trị đế chế tội phạm khổng lồ cho đến khi bị sa lưới pháp luật vì tội trốn thuế.",
     "color": "#000000",
     "position": "bottom",
     "primary_tag": "Criminal",
@@ -14477,9 +16923,9 @@ const RAW_DATA = [
     "fullName": "Al Capone",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/500px-Al_Capone_in_1930_%28manually_dusted%29.jpg",
     "relations": [
-      "Bảy Viễn",
-      "J. Edgar Hoover",
-      "Alfred Rosenberg"
+      "Nemesio Oseguera Cervantes",
+      "Marianne Bachmeier",
+      "Dung Hà"
     ],
     "themes": []
   },
@@ -14551,6 +16997,27 @@ const RAW_DATA = [
     "themes": [
       "World War II"
     ]
+  },
+  {
+    "born": 1899,
+    "died": 1977,
+    "title": "Vladimir Nabokov",
+    "fullName": "Vladimir Vladimirovich Nabokov",
+    "desc": "Nhà văn và nhà côn trùng học người Nga-Mỹ. Tiểu thuyết Lolita của ông là một kiệt tác của văn học thế kỷ 20.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Russian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vladimir_Nabokov_1973.jpg/500px-Vladimir_Nabokov_1973.jpg",
+    "relations": [
+      "Ernest Hemingway",
+      "Kawabata Yasunari",
+      "Louis Aragon"
+    ],
+    "themes": []
   },
   {
     "born": 1900,
@@ -14871,10 +17338,55 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1901,
+    "died": 1994,
+    "title": "Linus Pauling",
+    "desc": "Nhà hóa học, hóa sinh và hoạt động hòa bình người Mỹ. Ông là một trong những nhà khoa học ảnh hưởng nhất thế kỷ 20, nổi tiếng với công trình về bản chất liên kết hóa học. Pauling là một trong số rất ít người đoạt hai giải Nobel độc lập (Nobel Hóa học năm 1954 và Nobel Hòa bình năm 1962).",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "American",
+    "fullName": "Linus Carl Pauling",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pauling.jpg/500px-Pauling.jpg",
+    "relations": [
+      "Lev Landau",
+      "Paul Dirac",
+      "Pavel Alekseyevich Cherenkov"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1901,
+    "died": 1983,
+    "title": "Alfred Tarski",
+    "fullName": "Alfred Tarski",
+    "desc": "Nhà logic học, toán học và triết học lỗi lạc người Ba Lan gốc Do Thái, thành viên của trường phái Lwów-Warsaw. Ông được coi là một trong bốn nhà logic học vĩ đại nhất mọi thời đại (cùng với Aristotle, Gottlob Frege và Kurt Gödel), nổi tiếng với định nghĩa ngữ nghĩa về chân lý.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alfred_Tarski_1968_%28as-is%2C_cropped%29_%28cropped%29.jpg",
+    "relations": [
+      "Stanisław Leśniewski",
+      "Tadeusz Kotarbiński",
+      "Izydora Dąmbska"
+    ],
+    "themes": []
+  },
+  {
     "born": 1902,
     "died": 1930,
     "title": "Nguyễn Thái Học",
-    "desc": "Nhà cách mạng Việt Nam, lãnh đạo Việt Nam Quốc Dân Đảng, bị xử tử sau cuộc nổi dậy Yên Bái.",
+    "desc": "Nhà cách mạng yêu nước quả cảm, người sáng lập và lãnh đạo Việt Nam Quốc Dân Đảng phát động cuộc khởi nghĩa Yên Bái (1930) lừng lẫy chống thực dân Pháp. Khi đại sự bất thành, ông hiên ngang bước lên máy chém cùng câu nói bất hủ truyền đời: \"Không thành công cũng thành nhân\".",
     "color": "#9b2cbf",
     "position": "top",
     "primary_tag": "Political",
@@ -14885,9 +17397,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thái Học",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc.jpg/500px-Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc.jpg",
     "relations": [
-      "Lê Hồng Phong",
-      "Lê Duẩn",
-      "Trường Chinh"
+      "Hồ Chí Minh",
+      "Tôn Đức Thắng",
+      "Phạm Hồng Thái"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -14922,7 +17434,7 @@ const RAW_DATA = [
     "died": 1942,
     "title": "Lê Hồng Phong",
     "fullName": "Lê Hồng Phong (Lê Huy Doãn)",
-    "desc": "Lãnh đạo cao nhất của Đảng Cộng sản Việt Nam, liệt sĩ cách mạng hy sinh tại nhà tù Côn Đảo.",
+    "desc": "Tổng Bí thư thứ hai của Đảng Cộng sản Đông Dương, chiến sĩ cách mạng quốc tế tiên phong xuất sắc của Việt Nam và là bạn đời của chí sĩ Nguyễn Thị Minh Khai. Ông bị thực dân Pháp đày ải, tra tấn dã man và hy sinh anh dũng tại nhà tù Côn Đảo vào năm 1942.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -14932,9 +17444,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Le_Hong_Phong.gif",
     "relations": [
-      "Lê Duẩn",
-      "Trường Chinh",
-      "Hoàng Văn Thụ"
+      "Nguyễn Thị Minh Khai",
+      "Hoàng Văn Thụ",
+      "Nguyễn Văn Cừ"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -14975,12 +17487,58 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Nguyễn Chí Diểu",
       "Hoàng Văn Thụ",
-      "Nguyễn Văn Cừ",
-      "Nguyễn Thị Minh Khai"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_Nguy%E1%BB%85n_Phong_S%E1%BA%AFc_%281902-1931%29.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "born": 1902,
+    "died": 1947,
+    "title": "Philippe Leclerc",
+    "fullName": "Philippe Leclerc de Hauteclocque",
+    "desc": "Đại tướng Thống chế Pháp, người chỉ huy quân đội Pháp trở lại Đông Dương sau Thế chiến thứ hai (1945-1946) để tái lập quyền kiểm soát của Pháp ở Nam Bộ trước khi kêu gọi giải pháp đàm phán.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Henri Navarre",
+      "Jean de Lattre de Tassigny",
+      "Võ Nguyên Giáp"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/G%C3%A9n%C3%A9ral_Leclerc.jpg/500px-G%C3%A9n%C3%A9ral_Leclerc.jpg"
+  },
+  {
+    "born": 1902,
+    "died": 1991,
+    "title": "Christian de Castries",
+    "fullName": "Christian Marie Ferdinand de la Croix de Castries",
+    "desc": "Chỉ huy trưởng tập đoàn cứ điểm Điện Biên Phủ của quân đội Pháp. Ông bị lực lượng Việt Minh bắt sống khi Điện Biên Phủ thất thủ ngày 7 tháng 5 năm 1954.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "French",
+    "relations": [
+      "Henri Navarre",
+      "Võ Nguyên Giáp",
+      "Phan Đình Giót"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/500px-Dien_Bien_Phu001.jpg"
   },
   {
     "born": 1903,
@@ -15031,7 +17589,7 @@ const RAW_DATA = [
     "fullName": "Hoàng Tích Trí (Hoàng Tích Trý)",
     "born": 1903,
     "died": 1958,
-    "desc": "Giáo sư, bác sĩ, nhà vi sinh vật học, Bộ trưởng Bộ Y tế đầu tiên của Việt Nam (1946-1958).",
+    "desc": "Giáo sư, bác sĩ và nhà vi sinh vật học hàng đầu của Việt Nam, giữ chức Bộ trưởng Bộ Y tế từ năm 1946 đến 1958. Ông là người đặt nền móng y học kháng chiến nước nhà, tổ chức sản xuất vắc-xin tự lực và xây dựng hệ thống y tế nhân dân vượt qua những năm tháng chiến tranh gian khổ.",
     "color": "#2ec4b6",
     "position": "top",
     "primary_tag": "Medical",
@@ -15041,11 +17599,56 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Hồ Đắc Di",
-      "Phạm Ngọc Thạch",
-      "Đặng Văn Ngữ"
+      "Văn Tiến Dũng",
+      "Jacques Lacan"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/48/HoangTichTri.jpg"
+  },
+  {
+    "born": 1903,
+    "died": 1957,
+    "title": "John von Neumann",
+    "fullName": "John von Neumann",
+    "desc": "Nhà toán học và đa khoa học người Mỹ gốc Hungary, người đóng góp nền tảng cho cơ học lượng tử, lý thuyết trò chơi, khoa học máy tính (kiến trúc máy tính Von Neumann) và dự án Manhattan.",
+    "color": "#64b5f6",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif",
+    "relations": [
+      "J. Robert Oppenheimer",
+      "Richard Feynman",
+      "Enrico Fermi"
+    ],
+    "themes": [
+      "Quantum Physics",
+      "World War II"
+    ]
+  },
+  {
+    "born": 1903,
+    "died": 1978,
+    "title": "Aram Khachaturian",
+    "desc": "Nhà soạn nhạc và chỉ huy dàn nhạc huyền thoại người Armenia thuộc Liên Xô. Âm nhạc của ông mang đậm âm hưởng dân gian Kavkaz, nổi tiếng toàn cầu qua vũ kịch Spartacus và 'Vũ điệu kiếm' (Sabre Dance).",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Soviet",
+    "fullName": "Aram Ilyich Khachaturian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aram_Khachaturian%2C_Pic%2C_17.jpg/500px-Aram_Khachaturian%2C_Pic%2C_17.jpg",
+    "relations": [
+      "Louis Armstrong",
+      "Dmitri Shostakovich",
+      "John Cage"
+    ],
+    "themes": []
   },
   {
     "born": 1904,
@@ -15064,7 +17667,7 @@ const RAW_DATA = [
     "relations": [
       "Dung Hà",
       "Reinhard Heydrich",
-      "Robert Ley"
+      "Al Capone"
     ],
     "themes": []
   },
@@ -15084,8 +17687,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tran_Phu.gif/500px-Tran_Phu.gif",
     "relations": [
       "Lê Duẩn",
-      "Trường Chinh",
-      "Nguyễn Văn Cừ"
+      "Lê Hồng Phong",
+      "Trường Chinh"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -15142,7 +17745,7 @@ const RAW_DATA = [
     "born": 1904,
     "died": 1990,
     "title": "Pavel Alekseyevich Cherenkov",
-    "desc": "Nhà vật lý người Nga đã phát hiện ra hiệu ứng bức xạ Cherenkov, được trao giải Nobel năm 1958.",
+    "desc": "Nhà vật lý học lỗi lạc người Liên Xô, người phát hiện ra hiệu ứng phát xạ ánh sáng xanh đặc trưng khi các hạt mang điện vượt tốc độ ánh sáng trong môi trường điện môi. Công trình \"Bức xạ Cherenkov\" vĩ đại này đã mang lại cho ông giải thưởng Nobel Vật lý danh giá vào năm 1958.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -15153,9 +17756,9 @@ const RAW_DATA = [
     "fullName": "Pavel Alekseyevich Cherenkov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cerenkov.jpg",
     "relations": [
-      "Enrico Fermi",
-      "Joseph John Thomson",
-      "Lev Landau"
+      "Albert Einstein",
+      "Wilhelm Röntgen",
+      "Alfred Nobel"
     ],
     "themes": [
       "Giai Nobel"
@@ -15202,7 +17805,7 @@ const RAW_DATA = [
     "relations": [
       "Jacobo Árbenz",
       "Sukarno",
-      "Nguyễn Chí Diểu"
+      "Hoàng Văn Thụ"
     ],
     "themes": []
   },
@@ -15228,6 +17831,51 @@ const RAW_DATA = [
       "VN Modern Communism"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Nguyenluongbang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "born": 1904,
+    "died": 1995,
+    "title": "Hoàng Minh Giám",
+    "desc": "Nhà ngoại giao xuất sắc, cựu Bộ trưởng Bộ Ngoại giao và Bộ trưởng Bộ Văn hóa Việt Nam Dân chủ Cộng hòa. Ông là một trí thức uyên bác đóng vai trò then chốt trong các cuộc đàm phán ngoại giao thời kỳ đầu kháng chiến.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Hoàng Minh Giám",
+    "image": "",
+    "relations": [
+      "Phạm Hùng",
+      "Lê Duẩn",
+      "Võ Chí Công"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1904,
+    "died": 1983,
+    "title": "Izydora Dąmbska",
+    "fullName": "Izydora Dąmbska",
+    "desc": "Nhà triết học, dịch giả và nhà logic học lỗi lạc người Ba Lan, thuộc trường phái Lwów-Warsaw nổi tiếng. Bà đóng góp sâu sắc cho lý thuyết nhận thức, triết học ngôn ngữ và lịch sử triết học, đồng thời là biểu tượng của tinh thần tự do học thuật bất khuất dưới các chế độ độc tài.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Other",
+    "image": "",
+    "relations": [
+      "Sandro Botticelli",
+      "Alfred Tarski",
+      "Tadeusz Kotarbiński"
+    ],
+    "themes": []
   },
   {
     "born": 1905,
@@ -15265,7 +17913,7 @@ const RAW_DATA = [
     "fullName": "Ayn Rand (Alisa Zinovyevna Rosenbaum, Atlas Shrugged)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/500px-Ayn_Rand_%281943_Talbot_portrait%29.jpg",
     "relations": [
-      "Nguyên Hồng",
+      "Albert Camus",
       "Marguerite Duras",
       "Iris Murdoch"
     ],
@@ -15309,8 +17957,8 @@ const RAW_DATA = [
     "fullName": "Jean-Paul Sartre (Jean-Paul Charles Aymard Sartre, Existentialism)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/500px-Jean_Paul_Sartre_1965.jpg",
     "relations": [
-      "Simone de Beauvoir",
       "Albert Camus",
+      "Simone de Beauvoir",
       "Martin Heidegger"
     ],
     "themes": [
@@ -15427,9 +18075,9 @@ const RAW_DATA = [
     "fullName": "Hà Huy Tập",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ha_Huy_Tap.jpg/500px-Ha_Huy_Tap.jpg",
     "relations": [
+      "Nguyễn Đức Cảnh",
       "Trường Chinh",
-      "Hoàng Văn Thụ",
-      "Nguyễn Văn Cừ"
+      "Hoàng Văn Thụ"
     ],
     "themes": []
   },
@@ -15450,7 +18098,7 @@ const RAW_DATA = [
     "relations": [
       "Phan Châu Trinh",
       "Hoàng Văn Thụ",
-      "Tôn Đức Thắng"
+      "Nguyễn Thái Học"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -15542,7 +18190,7 @@ const RAW_DATA = [
     "relations": [
       "Tạ Thu Thâu",
       "Nelson Mandela",
-      "Mao Trạch Đông"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": []
   },
@@ -15550,7 +18198,7 @@ const RAW_DATA = [
     "born": 1906,
     "died": 1954,
     "title": "Tô Ngọc Vân",
-    "desc": "Họa sĩ Việt Nam. Ở Việt Nam, ông được coi là người tiên phong của nghệ thuật Việt Nam hiện đại.",
+    "desc": "Họa sĩ bậc thầy và là cánh chim đầu đàn của mỹ thuật hiện đại Việt Nam, thành viên trong bộ tứ huyền thoại \"Trí - Vân - Lân - Cẩn\". Tốt nghiệp Cao đẳng Mỹ thuật Đông Dương, ông nổi tiếng với các kiệt tác tranh sơn dầu như \"Thiếu nữ bên hoa huệ\" và \"Hai thiếu nữ và em bé\" (Bảo vật quốc gia). Ông hy sinh tại đèo Lũng Lô trong chiến dịch Điện Biên Phủ năm 1954 khi đang tham gia kháng chiến.",
     "color": "#e46a6a",
     "position": "top",
     "primary_tag": "Art",
@@ -15561,9 +18209,9 @@ const RAW_DATA = [
     "fullName": "Tô Ngọc Vân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Portrait_of_T%C3%B4_Ng%E1%BB%8Dc_V%C3%A2n.png/500px-Portrait_of_T%C3%B4_Ng%E1%BB%8Dc_V%C3%A2n.png",
     "relations": [
-      "John Cage",
-      "Út Trà Ôn",
-      "Dmitri Shostakovich"
+      "Abbas Kiarostami",
+      "Roberto Rossellini",
+      "Tăng Khánh Hồng"
     ],
     "themes": []
   },
@@ -15613,6 +18261,48 @@ const RAW_DATA = [
       "VN Modern Communism"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng_1972.jpg/500px-Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng_1972.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "born": 1906,
+    "died": 1982,
+    "title": "Leonid Ilyich Brezhnev",
+    "fullName": "Leonid Ilyich Brezhnev",
+    "desc": "Nhà lãnh đạo Liên Xô, người giữ chức Tổng Bí thư Đảng Cộng sản Liên Xô từ năm 1964 đến khi qua đời vào năm 1982. Nhiệm kỳ 18 năm của ông dài thứ hai chỉ sau Joseph Stalin, gắn liền với thời kỳ ổn định chính trị, gia tăng sức mạnh quân sự và ảnh hưởng quốc tế của Liên Xô nhưng cũng chứng kiến sự trì trệ kinh tế.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Soviet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/500px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg",
+    "relations": [
+      "Park Chung-hee",
+      "Nguyễn Xuân Oánh",
+      "Trường Chinh"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1906,
+    "died": 1977,
+    "title": "Roberto Rossellini",
+    "fullName": "Roberto Gastone Zeffiro Rossellini",
+    "desc": "Đạo diễn điện ảnh huyền thoại người Ý, một trong những người tiên phong vĩ đại nhất của trào lưu Tân hiện thực Ý (Italian Neorealism). Tác phẩm Rome, Open City (1945) của ông là một kiệt tác kinh điển của lịch sử điện ảnh thế giới.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Roberto_Rossellini.jpg",
+    "relations": [
+      "Ingrid Bergman",
+      "Agnès Varda",
+      "Abbas Kiarostami"
+    ],
+    "themes": []
   },
   {
     "born": 1907,
@@ -15771,8 +18461,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schindler%2C_Oskar_%283x4_cropped%29.jpg/500px-Schindler%2C_Oskar_%283x4_cropped%29.jpg",
     "relations": [
       "Anne Frank",
-      "Klaus Fuchs",
-      "Heinrich Himmler"
+      "Hermann Gmeiner",
+      "Klaus Fuchs"
     ],
     "themes": [
       "World War II"
@@ -15875,7 +18565,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Chí Diểu",
     "born": 1908,
     "died": 1939,
-    "desc": "Nhà hoạt động mạng Việt Nam thời kỳ trước năm 1945.",
+    "desc": "Nhà hoạt động cách mạng kiệt xuất giai đoạn tiền khởi nghĩa, một trong những đảng viên đầu tiên của Đảng Cộng sản Đông Dương. Ông từng giữ chức Bí thư Thành ủy Sài Gòn - Chợ Lớn (1930) và kiên cường tổ chức phong trào đấu tranh bất chấp bệnh tật hiểm nghèo do tù đày.",
     "color": "#2a6fdb",
     "position": "top",
     "primary_tag": "Political",
@@ -15885,8 +18575,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Hoàng Văn Thụ",
-      "Lê Thanh Nghị",
-      "Phạm Hồng Thái"
+      "Lê Hồng Phong",
+      "Nguyễn Phong Sắc"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg/500px-Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg"
@@ -15896,7 +18586,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Đức Cảnh",
     "born": 1908,
     "died": 1932,
-    "desc": "Bí thư đầu tiên của Thành Hóa Hải Phòng, người tham gia sáng lập Đảng.",
+    "desc": "Nhà cách mạng lỗi lạc, đồng sáng lập Đảng Cộng sản Việt Nam và là người khai sinh ra Tổng Liên đoàn Lao động Việt Nam ngày nay. Trên cương vị Bí thư đầu tiên của Hải Phòng, ông lãnh đạo phong trào công nhân sôi nổi trước khi bị thực dân Pháp bắt giữ và xử tử hình vào năm 1932.",
     "color": "#2a6fdb",
     "position": "top",
     "primary_tag": "Political",
@@ -15905,9 +18595,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Thị Minh Khai",
-      "Hoàng Quốc Việt",
-      "Trần Phú"
+      "Lê Hồng Phong",
+      "Hoàng Văn Thụ",
+      "Nguyễn Thái Học"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nguyen_Duc_Canh.jpg/500px-Nguyen_Duc_Canh.jpg"
@@ -15927,12 +18617,36 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hoàng Văn Thụ",
-      "Hà Huy Tập",
-      "Nguyễn Thị Minh Khai"
+      "Nguyễn Thái Học",
+      "Nguyễn Đức Cảnh",
+      "Hoàng Văn Thụ"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/K%C3%BD_Con.jpg/500px-K%C3%BD_Con.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "born": 1908,
+    "died": 1968,
+    "title": "Lev Landau",
+    "fullName": "Lev Davidovich Landau",
+    "desc": "Nhà vật lý lý thuyết lỗi lạc người Liên Xô, đoạt giải Nobel Vật lý năm 1962 nhờ những đóng góp tiên phong trong lý thuyết vật chất ngưng tụ, đặc biệt là heli lỏng siêu lỏng.",
+    "color": "#64b5f6",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Russian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/500px-Landau.jpg",
+    "relations": [
+      "Paul Dirac",
+      "Enrico Fermi",
+      "Werner Heisenberg"
+    ],
+    "themes": [
+      "Quantum Physics",
+      "Giai Nobel"
+    ]
   },
   {
     "born": 1909,
@@ -15973,7 +18687,7 @@ const RAW_DATA = [
     "relations": [
       "Đặng Văn Ngữ",
       "Hồ Đắc Di",
-      "Phạm Hùng"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": []
   },
@@ -15996,7 +18710,7 @@ const RAW_DATA = [
     "relations": [
       "Trường Chinh",
       "Võ Chí Công",
-      "Nguyễn Hữu Thọ"
+      "Nguyễn Chí Diểu"
     ]
   },
   {
@@ -16013,12 +18727,36 @@ const RAW_DATA = [
     ],
     "nationality": "Laotian",
     "relations": [
-      "Léopold Sédar Senghor",
-      "Nguyễn Lương Bằng",
-      "Nguyễn Phong Sắc"
+      "Nguyễn Đức Cảnh",
+      "Nguyễn Chí Diểu",
+      "Léopold Sédar Senghor"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Souphanouvong1978.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "born": 1909,
+    "died": 1944,
+    "title": "Hoàng Văn Thụ",
+    "desc": "Nhà lãnh đạo cách mạng Việt Nam, Ủy viên Ban Thường vụ Trung ương Đảng Cộng sản Đông Dương. Ông là người có đóng góp to lớn vào phong trào cách mạng trước năm 1945 và bị thực dân Pháp xử bắn.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Hoàng Văn Thụ",
+    "image": "",
+    "relations": [
+      "Lê Hồng Phong",
+      "Nguyễn Thị Minh Khai",
+      "Nguyễn Văn Cừ"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
   },
   {
     "born": 1910,
@@ -16056,9 +18794,9 @@ const RAW_DATA = [
     "fullName": "Lee Byung-chul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Lee_Byung-chul_%28cropped%29.jpg",
     "relations": [
-      "Bạch Thái Bưởi",
-      "Jack Ma",
-      "Mao Trạch Đông"
+      "Jeff Bezos",
+      "Hermann Gmeiner",
+      "Bạch Thái Bưởi"
     ],
     "themes": []
   },
@@ -16079,7 +18817,7 @@ const RAW_DATA = [
     "relations": [
       "Phạm Ngọc Thạch",
       "Tôn Thất Tùng",
-      "Hoàng Tích Trí"
+      "Hồ Đắc Di"
     ],
     "themes": []
   },
@@ -16176,6 +18914,73 @@ const RAW_DATA = [
       "VN Modern Communism"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/NguyenDuyTrinh1973.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "born": 1910,
+    "died": 1941,
+    "title": "Nguyễn Thị Minh Khai",
+    "fullName": "Nguyễn Thị Minh Khai",
+    "desc": "Nhà cách mạng nữ kiệt và là một trong những nhà lãnh đạo thời kỳ đầu của Đảng Cộng sản Đông Dương. Bà là Bí thư Thành ủy Sài Gòn - Chợ Lớn và bị thực dân Pháp hành quyết vào năm 1941.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Nguyen_Thi_Minh_Khai.jpg",
+    "relations": [
+      "Lê Hồng Phong",
+      "Hoàng Văn Thụ",
+      "Nguyễn Văn Cừ"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1910,
+    "died": 1988,
+    "title": "Tưởng Kinh Quốc",
+    "fullName": "Chiang Ching-kuo",
+    "desc": "Nhà lãnh đạo chính trị, Tổng thống Trung Hoa Dân Quốc (Đài Loan) từ năm 1978 đến 1988. Ông là con trai của Tưởng Giới Thạch và đã có những cải cách mở cửa đáng kể.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg/500px-%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg",
+    "relations": [
+      "Tưởng Giới Thạch",
+      "Tống Mỹ Linh",
+      "Đặng Tiểu Bình"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1910,
+    "died": 1992,
+    "title": "Quách Tấn",
+    "desc": "Nhà thơ nổi tiếng của Việt Nam, một trong 'Bàn thành tứ hữu' (Bốn người bạn thành Đồ Bàn) của đất Bình Định. Ông nổi tiếng với phong cách thơ Đường luật điêu luyện và các tập hồi ký giá trị.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Quách Tấn",
+    "image": "",
+    "relations": [
+      "Chế Lan Viên",
+      "Thế Lữ",
+      "Xuân Diệu"
+    ],
+    "themes": [
+      "Tho Moi"
+    ]
   },
   {
     "born": 1911,
@@ -16275,7 +19080,7 @@ const RAW_DATA = [
     "born": 1911,
     "died": 2004,
     "title": "Ronald Reagan",
-    "desc": "Chính trị gia và diễn viên người Mỹ, từng là Tổng thống thứ 40 của Hoa Kỳ từ năm 1981 đến năm 1989.",
+    "desc": "Tổng thống thứ 40 của Hoa Kỳ (1981-1989), người chuyển mình ngoạn mục từ ngôi sao điện ảnh Hollywood sang chính trị gia. Ông nổi tiếng lịch sử với chính sách kinh tế tự do \"Reaganomics\", lập trường đối ngoại cứng rắn làm suy yếu Liên Xô và tài hùng biện lôi cuốn nhân dân.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -16286,9 +19091,9 @@ const RAW_DATA = [
     "fullName": "Ronald Reagan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/500px-Official_Portrait_of_President_Reagan_1981.jpg",
     "relations": [
-      "John F. Kennedy",
-      "Tưởng Kinh Quốc",
-      "Jacobo Árbenz"
+      "Donald Trump",
+      "Park Chung-hee",
+      "Henry Kissinger"
     ],
     "themes": []
   },
@@ -16496,10 +19301,60 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1912,
+    "died": 1988,
+    "title": "Phạm Hùng",
+    "desc": "Chủ tịch Hội đồng Bộ trưởng Việt Nam, một trong những nhà lãnh đạo kiệt xuất của cách mạng Việt Nam. Ông có vai trò vô cùng quan trọng trong cuộc kháng chiến chống Mỹ ở miền Nam và thời kỳ đổi mới đất nước.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phạm Hùng",
+    "image": "",
+    "relations": [
+      "Võ Chí Công",
+      "Huỳnh Tấn Phát",
+      "Tôn Đức Thắng"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1912,
+    "died": 2011,
+    "title": "Võ Chí Công",
+    "desc": "Chủ tịch Hội đồng Nhà nước nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (1987-1992), một trong những nhà lãnh đạo chủ chốt của cuộc kháng chiến chống Mỹ tại chiến trường Khu V miền Trung.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Võ Chí Công",
+    "image": "",
+    "relations": [
+      "Phạm Hùng",
+      "Tôn Đức Thắng",
+      "Lê Duẩn"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
     "born": 1913,
     "died": 1960,
     "title": "Albert Camus",
-    "desc": "Triết gia, tác giả, nhà viết kịch, nhà báo và nhà hoạt động chính trị người Pháp.",
+    "desc": "Nhà văn và triết gia hiện sinh vĩ đại người Pháp gốc Algeria, chủ nhân giải Nobel Văn học năm 1957. Tác phẩm của ông, bao gồm các cuốn sách kinh điển như \"Dịch hạch\", \"Kẻ xa lạ\" và \"Huyền thoại Sisyphus\", tập trung khám phá sâu sắc chủ nghĩa phi lý và lòng nhân ái của con người.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -16510,9 +19365,9 @@ const RAW_DATA = [
     "fullName": "Albert Camus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/500px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg",
     "relations": [
+      "Martin Heidegger",
       "Jean-Paul Sartre",
-      "Franz Kafka",
-      "Fyodor Dostoyevsky"
+      "Franz Kafka"
     ],
     "themes": [
       null,
@@ -16566,7 +19421,7 @@ const RAW_DATA = [
     "born": 1913,
     "died": 1996,
     "title": "Paul Erdős",
-    "desc": "Nhà toán học nổi tiếng người Hungary, được biết đến với sự cộng tác sâu rộng và đóng góp về tổ hợp.",
+    "desc": "Nhà toán học lập dị và có hiệu suất nghiên cứu khổng lồ bậc nhất thế kỷ 20. Ông sống cuộc đời lữ hành không nhà cửa, cộng tác với hàng trăm nhà khoa học để xuất bản hơn 1.500 bài báo toán học giá trị, khai sinh ra lý thuyết đồ thị hiện đại và khái niệm \"Số Erdős\" nổi tiếng.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -16577,9 +19432,9 @@ const RAW_DATA = [
     "fullName": "Paul Erdős",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Erdos_budapest_fall_1992_%28cropped%29.jpg",
     "relations": [
-      "Alan Turing",
-      "Kurt Gödel",
-      "John von Neumann"
+      "J. Robert Oppenheimer",
+      "John von Neumann",
+      "Werner Heisenberg"
     ],
     "themes": []
   },
@@ -16628,6 +19483,75 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1913,
+    "died": 1994,
+    "title": "Richard Nixon",
+    "fullName": "Richard Milhous Nixon",
+    "desc": "Tổng thống thứ 37 của Hoa Kỳ. Ông đã lãnh đạo nước Mỹ trong giai đoạn cao trào của Chiến tranh Việt Nam, thực hiện chiến lược 'Việt Nam hóa chiến tranh' và ký Hiệp định Hòa bình Paris năm 1973 để rút quân Mỹ khỏi Việt Nam.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "relations": [
+      "Nguyễn Thị Bình",
+      "Lê Đức Thọ",
+      "Lê Duẩn"
+    ],
+    "themes": [
+      "Khang chien chong My"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg"
+  },
+  {
+    "title": "Nguyễn Hữu Đang",
+    "born": 1913,
+    "died": 2007,
+    "desc": "Nhà báo và nhà hoạt động chính trị Việt Nam, cựu Thứ trưởng Bộ Tuyên truyền, người tổ chức và lãnh đạo chủ chốt của phong trào Nhân Văn – Giai Phẩm. Ông bị kết án 15 năm tù và chịu nhiều năm quản thúc.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/ea/Nguyenhuudang.jpg/250px-Nguyenhuudang.jpg",
+    "relations": [
+      "Hoàng Minh Chính",
+      "Bùi Tín",
+      "Trần Dần"
+    ]
+  },
+  {
+    "born": 1913,
+    "died": 1989,
+    "title": "Huỳnh Tấn Phát",
+    "desc": "Chủ tịch Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Phó Thủ tướng kiêm Bộ trưởng Bộ Xây dựng. Ông đồng thời là một kiến trúc sư tài hoa với nhiều công trình di sản lớn.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Huỳnh Tấn Phát",
+    "image": "",
+    "relations": [
+      "Phạm Hùng",
+      "Võ Văn Kiệt",
+      "Võ Chí Công"
+    ],
+    "themes": [
+      "Khang chien chong Phap",
+      "Khang chien chong My",
+      "VN Modern Communism"
+    ]
+  },
+  {
     "born": 1914,
     "died": 1998,
     "title": "Octavio Paz",
@@ -16643,8 +19567,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Octavio_Paz_-_1988_Malm%C3%B6.jpg",
     "relations": [
       "Gabriel García Márquez",
-      "Kawabata Yasunari",
-      "Wisława Szymborska"
+      "Albert Camus",
+      "Kawabata Yasunari"
     ],
     "themes": [
       "Giai Nobel"
@@ -16665,9 +19589,9 @@ const RAW_DATA = [
     "fullName": "Lê Trọng Tấn",
     "image": "",
     "relations": [
+      "Văn Tiến Dũng",
       "Hoàng Minh Thảo",
-      "Hoàng Đan",
-      "Hoàng Văn Thái"
+      "Hoàng Đan"
     ],
     "themes": [
       "Khang chien chong My"
@@ -16742,6 +19666,72 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Nguyen-nhuoc-phap-vietnamnet.jpg"
   },
   {
+    "born": 1914,
+    "died": 1996,
+    "title": "Marguerite Duras",
+    "desc": "Tiểu thuyết gia, kịch tác gia và nhà làm phim Pháp vĩ đại thế kỷ 20. Bà được biết đến rộng rãi qua tiểu thuyết tự truyện 'Người tình' (L'Amant) lấy bối cảnh Đông Dương thời kỳ thuộc địa, đạt giải Goncourt danh giá năm 1984.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Women"
+    ],
+    "nationality": "French",
+    "fullName": "Marguerite Germaine Marie Donnadieu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Marguerite_Duras_1993.jpg",
+    "relations": [
+      "Iris Murdoch",
+      "Milan Kundera",
+      "Kawabata Yasunari"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ]
+  },
+  {
+    "born": 1914,
+    "died": 1987,
+    "title": "Bình Nguyên Lộc",
+    "fullName": "Tô Văn Tuấn",
+    "desc": "Nhà văn, nhà văn hóa, nhà khảo cứu ngôn ngữ học và dân tộc học Nam Bộ lỗi lạc của Việt Nam. Ông là tác giả của nhiều tác phẩm văn chương đặc sắc ghi lại nếp sống, tâm lý con người Nam Bộ như Hương quê, Đò dọc, và công trình khảo cứu Nguồn gốc dung mạo người Việt.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Bùi Giáng",
+      "Hàn Mặc Tử",
+      "Vũ Trọng Phụng"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1914,
+    "died": 2001,
+    "title": "Tove Jansson",
+    "fullName": "Tove Marika Jansson",
+    "desc": "Nữ nhà văn, họa sĩ và họa sĩ minh họa người Phần Lan nói tiếng Thụy Điển, người sáng tạo ra loạt truyện và truyện tranh kinh điển về gia đình Moomin - biểu tượng văn hóa toàn cầu. Bà được trao huy chương Hans Christian Andersen năm 1966.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tove_Jansson_with_flower_crown_001.tiff/lossy-page1-500px-Tove_Jansson_with_flower_crown_001.tiff.jpg",
+    "relations": [
+      "Ernest Hemingway",
+      "Vũ Khắc Khoan",
+      "René Goscinny"
+    ],
+    "themes": []
+  },
+  {
     "born": 1915,
     "died": 1998,
     "title": "Frank Sinatra",
@@ -16777,9 +19767,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Văn Thái",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%C4%90%E1%BA%A1i_t%C6%B0%E1%BB%9Bng_Ho%C3%A0ng_V%C4%83n_Th%C3%A1i.jpg/500px-%C4%90%E1%BA%A1i_t%C6%B0%E1%BB%9Bng_Ho%C3%A0ng_V%C4%83n_Th%C3%A1i.jpg",
     "relations": [
+      "Văn Tiến Dũng",
       "Võ Nguyên Giáp",
-      "Hoàng Minh Thảo",
-      "Lê Trọng Tấn"
+      "Hoàng Minh Thảo"
     ],
     "themes": [
       "Khang chien chong My"
@@ -16823,9 +19813,53 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Robert McNamara",
-      "Trần Văn Trà",
-      "Salvador Allende"
+      "Văn Tiến Dũng",
+      "Trần Văn Trà"
     ]
+  },
+  {
+    "born": 1915,
+    "died": 1998,
+    "title": "Nguyễn Văn Linh",
+    "fullName": "Nguyễn Văn Linh",
+    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1986–1991). Ông là kiến trúc sư trưởng của công cuộc Đổi Mới đất nước.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/4/45/Nguy%E1%BB%85n_V%C4%83n_Linh.jpg",
+    "relations": [
+      "Đỗ Mười",
+      "Tô Lâm",
+      "Lê Duẩn"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1915,
+    "died": 1982,
+    "title": "Ingrid Bergman",
+    "fullName": "Ingrid Bergman",
+    "desc": "Nữ diễn viên huyền thoại người Thụy Điển, một trong những minh tinh vĩ đại nhất lịch sử điện ảnh Hollywood và thế giới. Bà nổi tiếng với các vai diễn trong phim Casablanca, Gaslight, Notorious, từng giành được 3 giải Oscar danh giá.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ingrid_Bergman_by_Whitey_Schafer_1940.jpg/500px-Ingrid_Bergman_by_Whitey_Schafer_1940.jpg",
+    "relations": [
+      "Roberto Rossellini",
+      "Agnès Varda",
+      "Tilda Swinton"
+    ],
+    "themes": []
   },
   {
     "born": 1916,
@@ -16865,9 +19899,9 @@ const RAW_DATA = [
     "fullName": "Dương Văn Minh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Portrait_of_D%C6%B0%C6%A1ng_V%C4%83n_Minh%2C_Vietnam_Fights_and_Builds_No.1%2C_July_1964.jpg/500px-Portrait_of_D%C6%B0%C6%A1ng_V%C4%83n_Minh%2C_Vietnam_Fights_and_Builds_No.1%2C_July_1964.jpg",
     "relations": [
+      "Văn Tiến Dũng",
       "Cao Văn Viên",
-      "Trần Thiện Khiêm",
-      "Trần Văn Hương"
+      "Trần Thiện Khiêm"
     ],
     "themes": [
       "Khang chien chong My"
@@ -16888,12 +19922,99 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Lê Hồng Phong",
       "Rosa Parks",
-      "Đinh Núp",
-      "Phạm Hùng"
+      "Thâm Tâm"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Thaivanlung.jpg/500px-Thaivanlung.jpg"
+  },
+  {
+    "born": 1916,
+    "died": 2009,
+    "title": "Robert McNamara",
+    "fullName": "Robert Strange McNamara",
+    "desc": "Bộ trưởng Quốc phòng Hoa Kỳ dưới thời Tổng thống John F. Kennedy và Lyndon B. Johnson. Ông đóng vai trò kiến trúc sư trưởng và đưa ra các quyết định leo thang quân sự lớn của Mỹ trong Chiến tranh Việt Nam.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "American",
+    "relations": [
+      "Văn Tiến Dũng",
+      "Henry Kissinger",
+      "Hoàng Văn Thái"
+    ],
+    "themes": [
+      "Khang chien chong My"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Robert_McNamara_official_portrait.jpg/500px-Robert_McNamara_official_portrait.jpg"
+  },
+  {
+    "title": "Thụy An",
+    "born": 1916,
+    "died": 1989,
+    "desc": "Nhà văn, nhà báo nữ nổi tiếng của Việt Nam trước 1975, người duy nhất không phải đảng viên nhưng đóng vai trò quan trọng trong Nhân Văn – Giai Phẩm. Bà bị kết án 15 năm tù giam.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "",
+    "relations": [
+      "Phùng Cung",
+      "Trần Dần",
+      "Lê Đạt"
+    ]
+  },
+  {
+    "born": 1916,
+    "died": 1985,
+    "title": "Emil Gilels",
+    "desc": "Nghệ sĩ dương cầm lỗi lạc người Liên Xô, được vinh danh là một trong những nghệ sĩ piano vĩ đại nhất thế kỷ 20 với kỹ thuật điêu luyện, âm sắc ấm áp và sự diễn cảm sâu sắc đối với các tác phẩm cổ điển.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Soviet",
+    "fullName": "Emil Grigoryevich Gilels",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Emil_Gilels_by_Aram_Alban.jpg/500px-Emil_Gilels_by_Aram_Alban.jpg",
+    "relations": [
+      "Agnès Varda",
+      "John Cage",
+      "Niccolò Paganini"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1916,
+    "died": 1991,
+    "title": "Hồ Dzếnh",
+    "fullName": "Hà Triệu Anh",
+    "desc": "Nhà thơ, nhà văn Việt Nam gốc Hoa, nổi tiếng với giọng thơ nhẹ nhàng, u sầu, hoài niệm tình quê và tình cảm gia đình đậm đà. Tập thơ Quê ngoại và tập truyện ngắn Chân trời cũ của ông là những tác phẩm bất hủ trong nền văn học hiện đại Việt Nam.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Xuân Diệu",
+      "Hàn Mặc Tử",
+      "Phùng Cung"
+    ],
+    "themes": []
   },
   {
     "born": 1917,
@@ -16920,7 +20041,7 @@ const RAW_DATA = [
     "born": 1917,
     "died": 2002,
     "title": "Văn Tiến Dũng",
-    "desc": "Tướng Việt Nam trong Quân đội Nhân dân Việt Nam.",
+    "desc": "Đại tướng lỗi lạc của Quân đội nhân dân Việt Nam, người giữ chức Tổng Tham mưu trưởng suốt 25 năm chiến tranh. Ông là nhà chỉ huy tài ba trực tiếp lãnh đạo Chiến dịch Tây Nguyên bước ngoặt và là Tư lệnh chiến dịch Hồ Chí Minh lịch sử giải phóng miền Nam thống nhất đất nước năm 1975.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -16931,9 +20052,9 @@ const RAW_DATA = [
     "fullName": "Văn Tiến Dũng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Van_Tien_Dung_1954.jpg",
     "relations": [
-      "Hoàng Văn Thái",
-      "Võ Nguyên Giáp",
-      "Hoàng Minh Thảo"
+      "Trần Văn Trà",
+      "Hồ Chí Minh",
+      "Dương Văn Minh"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17032,7 +20153,7 @@ const RAW_DATA = [
     "died": 1950,
     "title": "Thâm Tâm",
     "fullName": "Thâm Tâm (Nguyễn Tuấn Trình)",
-    "desc": "Nhà thơ Việt Nam tiêu biểu của phong trào Thơ Mới, nổi tiếng với bài thơ 'Tống đặc hành'.",
+    "desc": "Nhà thơ, chiến sĩ tiêu biểu của phong trào Thơ Mới, tác giả của thi phẩm bất hủ \"Tống biệt hành\" đầy khí phách hào hùng và lãng mạn. Sau cách mạng, ông hăng hái đầu quân kháng chiến chống Pháp với tư cách nhà báo quân đội trước khi hy sinh anh dũng trên chiến trường Việt Bắc năm 1950.",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Literature",
@@ -17042,8 +20163,73 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nh%C3%A0_th%C6%A1_Th%C3%A2m_T%C3%A2m_%281917%E2%80%931950%29.JPG/500px-Nh%C3%A0_th%C6%A1_Th%C3%A2m_T%C3%A2m_%281917%E2%80%931950%29.JPG",
     "relations": [
-      "Tế Hanh",
-      "Huy Cận",
+      "Đinh Núp",
+      "Phùng Quán",
+      "Nguyễn Đức Cảnh"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1917,
+    "died": 2018,
+    "title": "Đỗ Mười",
+    "fullName": "Đỗ Mười",
+    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1991–1997), nguyên Chủ tịch Hội đồng Bộ trưởng (Thủ tướng Chính phủ).",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Do_Muoi_cropped.jpg/500px-Do_Muoi_cropped.jpg",
+    "relations": [
+      "Nguyễn Văn Linh",
+      "Lê Khả Phiêu",
+      "Tô Lâm"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1917,
+    "died": 2000,
+    "title": "Gwendolyn Brooks",
+    "desc": "Nữ nhà thơ nổi tiếng người Mỹ, tác giả da màu đầu tiên trong lịch sử giành giải Pulitzer (1950) cho tập thơ 'Annie Allen'. Các tác phẩm của bà phản ánh sâu sắc đời sống người da màu đô thị.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "American",
+    "fullName": "Gwendolyn Elizabeth Brooks",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gwendolyn_Brooks_ACME_1950.jpg/500px-Gwendolyn_Brooks_ACME_1950.jpg",
+    "relations": [
+      "Toni Morrison",
+      "Thâm Tâm",
+      "Xuân Diệu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1917,
+    "died": 1986,
+    "title": "Vũ Khắc Khoan",
+    "fullName": "Vũ Khắc Khoan",
+    "desc": "Nhà viết kịch, nhà văn, nhà biên khảo sân khấu tên tuổi của Việt Nam, giáo sư trường Quốc gia Âm nhạc và Kịch nghệ Sài Gòn. Ông có phong cách sáng tác trí tuệ, đi sâu vào triết lý nhân sinh với các vở kịch kinh điển như Thành Cát Tư Hãn, Thần Tháp Rùa.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Spike Jonze",
+      "Thâm Tâm",
       "Chế Lan Viên"
     ],
     "themes": []
@@ -17052,7 +20238,7 @@ const RAW_DATA = [
     "born": 1918,
     "died": 1982,
     "title": "Nguyên Hồng",
-    "desc": "Tiểu thuyết gia và nhà báo Việt Nam được tôn vinh vì miêu tả đầy cảm thông về người nghèo và người bị áp bức, trở thành một nhân vật quan trọng trong văn học Việt Nam thế kỷ 20.",
+    "desc": "Tiểu thuyết gia vĩ đại của văn học hiện thực Việt Nam thế kỷ 20, được mệnh danh là \"nhà văn của những người cùng khổ\" nhờ sự thấu cảm sâu sắc dành cho tầng lớp đáy xã hội. Ông khẳng định văn tài qua tiểu thuyết đầu tay kiệt xuất \"Bỉ vỏ\" (1938) viết về giới trộm cướp Hải Phòng, tập hồi ký tự truyện xúc động \"Những ngày thơ ấu\", và bộ tiểu thuyết sử thi đồ sộ \"Cửa biển\".",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Literature",
@@ -17063,9 +20249,9 @@ const RAW_DATA = [
     "fullName": "Nguyên Hồng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nguy%E1%BB%85n_Nguy%C3%AAn_H%E1%BB%93ng.jpg",
     "relations": [
-      "Thụy An",
       "Italo Calvino",
-      "Ayn Rand"
+      "Gabriel García Márquez",
+      "Lê Đạt"
     ],
     "themes": []
   },
@@ -17109,7 +20295,7 @@ const RAW_DATA = [
     "relations": [
       "Giang Trạch Dân",
       "Leonid Ilyich Brezhnev",
-      "Triệu Tử Dương"
+      "Đỗ Mười"
     ],
     "themes": []
   },
@@ -17158,6 +20344,29 @@ const RAW_DATA = [
     ],
     "themes": [
       "Tho Moi"
+    ]
+  },
+  {
+    "born": 1918,
+    "died": 1981,
+    "title": "Anwar Al-Sadad",
+    "desc": "Tổng thống thứ 3 của Ai Cập, tại nhiệm từ năm 1970 cho đến khi bị ám sát vào năm 1981. Ông có vai trò lịch sử quan trọng khi ký Hiệp định Hòa bình Ai Cập - Israel năm 1979 (Hiệp định Camp David), giúp ông nhận giải Nobel Hòa bình năm 1978.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Arab",
+    "fullName": "Anwar Al-Sadad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/500px-Anwar_Sadat_cropped.jpg",
+    "relations": [
+      "Barack Obama",
+      "Lê Đức Thọ",
+      "Nelson Mandela"
+    ],
+    "themes": [
+      "Giai Nobel"
     ]
   },
   {
@@ -17241,8 +20450,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kalashnikov_Mikhail_%281%29.jpg",
     "relations": [
       "Trần Văn Trà",
-      "Lê Trọng Tấn",
-      "Võ Nguyên Giáp"
+      "Văn Tiến Dũng",
+      "Lê Trọng Tấn"
     ],
     "themes": []
   },
@@ -17271,7 +20480,7 @@ const RAW_DATA = [
     "born": 1919,
     "died": 1986,
     "title": "Hermann Gmeiner",
-    "desc": "Người Áo là người sáng lập Làng trẻ em SOS, một tổ chức toàn cầu chuyên giúp đỡ trẻ mồ côi.",
+    "desc": "Nhà hoạt động xã hội nhân đạo người Áo, người sáng lập tổ chức Làng trẻ em SOS toàn cầu. Từ ngôi làng đầu tiên xây dựng tại Áo năm 1949 để cưu mang trẻ mồ côi sau Thế chiến thứ hai, ông đã nhân rộng mô hình gia đình thay thế giàu tình thương này tới hàng trăm quốc gia trên thế giới.",
     "color": "#aaaaaa",
     "position": "bottom",
     "primary_tag": "Others",
@@ -17282,8 +20491,8 @@ const RAW_DATA = [
     "fullName": "Hermann Gmeiner",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herman_Gmeiner_cropped.jpg/500px-Herman_Gmeiner_cropped.jpg",
     "relations": [
-      "Edmund Hillary",
-      "Anne Frank",
+      "Donald Trump",
+      "Kim Kardashian",
       "Oskar Schindler"
     ],
     "themes": []
@@ -17337,7 +20546,7 @@ const RAW_DATA = [
     "died": 1980,
     "title": "Mohammad Reza Pahlavi",
     "fullName": "Mohammad Reza Pahlavi (Last Shah of Iran)",
-    "desc": "Vị vua cuối cùng của Iran từ năm 1941 cho đến khi bị lật đổ trong Cách mạng Hồi giáo năm 1979.",
+    "desc": "Vị Sa hoàng (Shah) cuối cùng của Iran, trị vì vương triều Pahlavi từ năm 1941 đến khi bị lật đổ bởi Cách mạng Hồi giáo (1979). Dù nỗ lực hiện đại hóa đất nước qua cuộc \"Cách mạng Trắng\", sự cai trị độc tài và đàn áp chính trị của ông đã châm ngòi cho sự sụp đổ của chế độ quan chủ.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -17347,9 +20556,9 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mohammad_Reza_Pahlavi_portrait_%281%29.jpg",
     "relations": [
-      "Ali Shariati",
-      "Nguyễn Thị Minh Khai",
-      "Nam Phương Hoàng hậu"
+      "Phạm Hùng",
+      "Lê Duẩn",
+      "Ali Shariati"
     ],
     "themes": []
   },
@@ -17374,6 +20583,54 @@ const RAW_DATA = [
     ],
     "themes": [
       "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1919,
+    "died": 1996,
+    "title": "Trần Văn Trà",
+    "fullName": "Trần Văn Trà (Nguyễn Vy Thanh)",
+    "desc": "Thượng tướng Quân đội nhân dân Việt Nam, cựu Tư lệnh Quân giải phóng miền Nam, cựu Thứ trưởng Bộ Quốc phòng. Ông là nhà chỉ huy quân sự tài ba trong chiến dịch Hồ Chí Minh 1975. Năm 1982, ông công bố cuốn hồi ký thẳng thắn chỉ trích các sai lầm chiến thuật của Bộ Chính trị sau khi đất nước thống nhất, dẫn đến việc ông bị tước các chức vụ chính trị và bị quản thúc tại gia.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tranvantra.jpg",
+    "relations": [
+      "Văn Tiến Dũng",
+      "Võ Nguyên Giáp",
+      "Bùi Thiện Ngộ"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1919,
+    "died": 1999,
+    "title": "Iris Murdoch",
+    "fullName": "Dame Jean Iris Murdoch",
+    "desc": "Nữ văn sĩ và triết gia lỗi lạc người Anh-Ireland. Bà nổi tiếng với các tiểu thuyết đi sâu vào các vấn đề đạo đức, cái thiện, cái ác và đời sống nội tâm sâu sắc như Under the Net, The Bell, The Sea, The Sea (đoạt giải Booker).",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Philosophy"
+    ],
+    "nationality": "British",
+    "image": "",
+    "relations": [
+      "Marguerite Duras",
+      "Virginia Woolf",
+      "Margaret Atwood"
+    ],
+    "themes": [
+      "Feminism Movement"
     ]
   },
   {
@@ -17435,8 +20692,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Jacobo Árbenz",
-      "Park Chung-hee",
-      "Nguyễn Văn Thiệu"
+      "Isabel Perón",
+      "Park Chung-hee"
     ]
   },
   {
@@ -17460,6 +20717,53 @@ const RAW_DATA = [
       "Jean-Luc Godard",
       "François Truffaut",
       "Chris Marker"
+    ]
+  },
+  {
+    "born": 1920,
+    "died": 1958,
+    "title": "Rosalind Franklin",
+    "desc": "Nhà lý sinh học và tinh thể học tia X người Anh. Những đóng góp của bà vô cùng quan trọng đối với sự hiểu biết về cấu trúc phân tử của DNA, RNA, virus, than đá và than chì, đặc biệt là bức ảnh nhiễu xạ tia X 'Photo 51' làm tiền đề tìm ra cấu trúc chuỗi xoắn kép DNA.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science",
+      "Women"
+    ],
+    "nationality": "British",
+    "fullName": "Rosalind Elsie Franklin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rosalind_Franklin_%28retouched%29.jpg",
+    "relations": [
+      "Dương Chấn Ninh",
+      "Claude Lévi-Strauss",
+      "Alan Turing"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1920,
+    "died": 1989,
+    "title": "Chế Lan Viên",
+    "desc": "Nhà thơ, nhà văn hiện đại xuất sắc của Việt Nam, thành viên nổi bật của phong trào Thơ Mới với tập thơ đầu tay 'Điêu tàn' đầy bí ẩn. Thơ ông giàu chất triết lý, suy tưởng và tính thời sự cách mạng.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Phan Ngọc Hoan",
+    "image": "",
+    "relations": [
+      "Phạm Hùng",
+      "Hồ Chí Minh",
+      "Tôn Đức Thắng"
+    ],
+    "themes": [
+      "Tho Moi",
+      "Khang chien chong Phap",
+      "Khang chien chong My"
     ]
   },
   {
@@ -17498,9 +20802,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Minh Thảo",
     "image": "https://upload.wikimedia.org/wikipedia/vi/0/00/Hoangminhthao.gif",
     "relations": [
+      "Văn Tiến Dũng",
       "Hoàng Văn Thái",
-      "Lê Trọng Tấn",
-      "Hoàng Đan"
+      "Lê Trọng Tấn"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17542,9 +20846,9 @@ const RAW_DATA = [
     "fullName": "Cao Văn Viên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Cao_V%C4%83n_Vi%C3%AAn%2C_Commander_of_the_Vietnamese_Armed_Forces_General_Staff.jpg/500px-Portrait_of_Cao_V%C4%83n_Vi%C3%AAn%2C_Commander_of_the_Vietnamese_Armed_Forces_General_Staff.jpg",
     "relations": [
+      "Văn Tiến Dũng",
       "Trần Thiện Khiêm",
-      "Dương Văn Minh",
-      "Nguyễn Chánh Thi"
+      "Dương Văn Minh"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17595,6 +20899,27 @@ const RAW_DATA = [
     "themes": [
       "French New Wave"
     ]
+  },
+  {
+    "born": 1921,
+    "died": 1990,
+    "title": "Hồng y Trịnh Văn Căn",
+    "fullName": "Giuse Maria Trịnh Văn Căn",
+    "desc": "Vị Hồng y thứ hai của Giáo hội Công giáo Việt Nam, nguyên Tổng Giám mục Tổng giáo phận Hà Nội và Chủ tịch tiên khởi của Hội đồng Giám mục Việt Nam. Ông có đóng góp to lớn trong việc dịch thuật Kinh Thánh sang tiếng Việt.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Religious",
+    "tags": [
+      "Religious"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/7f/H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_V%C4%83n_C%C4%83n_-_AD_LIMA_1980.jpg/500px-H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_V%C4%83n_C%C4%83n_-_AD_LIMA_1980.jpg",
+    "relations": [
+      "Hồng y Phạm Minh Mẫn",
+      "Hồng y Trịnh Như Khuê",
+      "Thích Nhất Hạnh"
+    ],
+    "themes": []
   },
   {
     "born": 1922,
@@ -17669,6 +20994,73 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1922,
+    "died": 1954,
+    "title": "Phan Đình Giót",
+    "fullName": "Phan Đình Giót",
+    "desc": "Chiến sĩ Quân đội Nhân dân Việt Nam, anh hùng lực lượng vũ trang nhân dân. Trong Chiến dịch Điện Biên Phủ, ông đã lấy thân mình lấp lỗ châu mai của địch để đồng đội xông lên.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Timbre_Phan_dinh_giot.jpg",
+    "relations": [
+      "Bế Văn Đàn",
+      "Tô Vĩnh Diện",
+      "Võ Thị Sáu"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "title": "Hoàng Minh Chính",
+    "born": 1922,
+    "died": 2008,
+    "desc": "Chính trị gia và nhà lý luận Marx-Lenin người Việt Nam, nguyên Viện trưởng Viện Triết học, Tổng thư ký Đảng Dân chủ Việt Nam. Ông là nhân vật trung tâm trong Vụ án Xét lại Chống Đảng và sau này tiếp tục hoạt động bất đồng chính kiến.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/6/6e/HoangMinhChinh150.jpg",
+    "relations": [
+      "Bùi Tín",
+      "Nguyễn Hữu Đang",
+      "Trần Độ"
+    ]
+  },
+  {
+    "born": 1922,
+    "died": 2025,
+    "title": "Dương Chấn Ninh",
+    "desc": "Nhà vật lý lý thuyết người Mỹ gốc Hoa. Ông nổi tiếng với những đóng góp quan trọng trong cơ học thống kê và vật lý hạt, đặc biệt là lý thuyết trường Yang-Mills. Ông cùng Lý Chính Đạo được trao giải Nobel Vật lý năm 1957 cho công trình về sự không bảo toàn tính chẵn lẻ của tương tác yếu.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Chen-Ning Yang",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg/500px-HD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg",
+    "relations": [
+      "Lý Chính Đạo",
+      "Steven Weinberg",
+      "Albert Einstein"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
+  },
+  {
     "born": 1923,
     "died": 1985,
     "title": "Italo Calvino",
@@ -17685,7 +21077,7 @@ const RAW_DATA = [
     "relations": [
       "Gabriel García Márquez",
       "Chế Lan Viên",
-      "Ernest Hemingway"
+      "Nguyên Hồng"
     ],
     "themes": []
   },
@@ -17804,6 +21196,50 @@ const RAW_DATA = [
     ]
   },
   {
+    "title": "Trần Độ",
+    "born": 1923,
+    "died": 2002,
+    "desc": "Trung tướng Quân đội nhân dân Việt Nam, cựu Ủy viên Trung ương Đảng, Phó Chủ tịch Quốc hội. Ông nổi tiếng vì tinh thần phê bình độc lập, ủng hộ đổi mới chính trị toàn diện và dân chủ hóa đất nước, dẫn đến việc bị khai trừ khỏi Đảng năm 1999.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/a/a4/Trung_tuong_Tran_Do.jpg",
+    "relations": [
+      "Hoàng Minh Chính",
+      "Bùi Tín",
+      "Lê Khả Phiêu"
+    ]
+  },
+  {
+    "born": 1923,
+    "died": 2012,
+    "title": "Wisława Szymborska",
+    "fullName": "Maria Wisława Anna Szymborska",
+    "desc": "Nữ nhà thơ lỗi lạc người Ba Lan, chủ nhân giải thưởng Nobel Văn học năm 1996. Được ca tụng là \"Mozart của thơ ca\", tác phẩm của bà chinh phục người đọc bằng ngôn từ giản dị, sự châm biếm thông tuệ và những chiêm nghiệm triết học sâu sắc.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "European",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wis%C5%82awa_Szymborska_2009.10.23_%281%29.jpg",
+    "relations": [
+      "Albert Camus",
+      "Toni Morrison",
+      "Octavio Paz"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
+  },
+  {
     "born": 1924,
     "died": 2011,
     "title": "Trần Lệ Xuân",
@@ -17825,6 +21261,50 @@ const RAW_DATA = [
     "themes": [
       "Khang chien chong My"
     ]
+  },
+  {
+    "born": 1924,
+    "died": 1954,
+    "title": "Tô Vĩnh Diện",
+    "fullName": "Tô Vĩnh Diện",
+    "desc": "Chiến sĩ pháo binh Quân đội Nhân dân Việt Nam, anh hùng lực lượng vũ trang nhân dân. Ông nổi tiếng với hành động lấy thân mình chèn bánh pháo để cứu khẩu pháo cao xạ khỏi bị lao xuống vực tại Điện Biên Phủ.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Phao_phong_khong_To_Vinh_Dien.JPG",
+    "relations": [
+      "Bế Văn Đàn",
+      "Phan Đình Giót",
+      "Võ Thị Sáu"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1924,
+    "died": 1990,
+    "title": "Sergei Parajanov",
+    "desc": "Đạo diễn điện ảnh và biên kịch xuất chúng người Armenia thuộc Liên Xô. Ông nổi tiếng với những bộ phim có tính biểu tượng và thơ ca phi tuyến tính sâu sắc như The Color of Pomegranates, là một trong những nhà làm phim ảnh hưởng nhất điện ảnh Liên Xô.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Soviet",
+    "fullName": "Sergei Parajanov",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sergei_Parajanov._1._Yuri_Mechitov.jpg/500px-Sergei_Parajanov._1._Yuri_Mechitov.jpg",
+    "relations": [
+      "Marilyn Monroe",
+      "Jean-Luc Godard",
+      "Frank Sinatra"
+    ],
+    "themes": []
   },
   {
     "born": 1925,
@@ -17995,8 +21475,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%E8%B6%8A%E5%8D%97%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E9%99%B3%E5%96%84%E8%AC%99_%28cropped%29.jpg/500px-%E8%B6%8A%E5%8D%97%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E9%99%B3%E5%96%84%E8%AC%99_%28cropped%29.jpg",
     "relations": [
       "Cao Văn Viên",
-      "Dương Văn Minh",
-      "Nguyễn Hữu Có"
+      "Văn Tiến Dũng",
+      "Dương Văn Minh"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18020,8 +21500,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Saddam Hussein",
-      "Augusto Pinochet",
-      "Alberto Fujimori"
+      "Isabel Perón",
+      "Augusto Pinochet"
     ]
   },
   {
@@ -18265,6 +21745,75 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1926,
+    "died": 2024,
+    "title": "Lý Chính Đạo",
+    "desc": "Nhà vật lý lý thuyết người Mỹ gốc Hoa. Ông được biết đến rộng rãi qua công trình chỉ ra sự vi phạm định luật bảo toàn tính chẵn lẻ trong tương tác yếu, cùng Dương Chấn Ninh nhận giải Nobel Vật lý năm 1957 khi mới 31 tuổi (một trong những người trẻ nhất nhận giải Nobel).",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Tsung-Dao Lee",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/TD_Lee.jpg",
+    "relations": [
+      "Dương Chấn Ninh",
+      "Steven Weinberg",
+      "Abdus Salam"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1926,
+    "died": 1996,
+    "title": "Abdus Salam",
+    "desc": "Nhà vật lý lý thuyết người Pakistan. Ông là người Pakistan đầu tiên và là người Hồi giáo đầu tiên từ một quốc gia Hồi giáo đoạt giải Nobel Vật lý vào năm 1979 nhờ đóng góp vào sự phát triển của lý thuyết electroweak thống nhất lực điện từ và lực yếu.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Pakistani",
+    "fullName": "Abdus Salam",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abdus_Salam_1987.jpg/500px-Abdus_Salam_1987.jpg",
+    "relations": [
+      "Steven Weinberg",
+      "Lý Chính Đạo",
+      "Dương Chấn Ninh"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1926,
+    "died": 2014,
+    "title": "Alfredo Di Stefano",
+    "desc": "Một trong những cầu thủ vĩ đại nhất lịch sử bóng đá thế giới. Ông là linh hồn của thế hệ Real Madrid thống trị châu Âu với 5 chức vô địch Cúp C1 liên tiếp (1956–1960), nổi tiếng nhờ lối chơi toàn diện từ phòng ngự đến tấn công.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Spanish",
+    "fullName": "Alfredo Stéfano Di Stéfano Laulhé",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Di_Stefano_1959.jpg/500px-Di_Stefano_1959.jpg",
+    "relations": [
+      "Zinedine Zidane",
+      "Garrincha",
+      "Sir Bobby Robson"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
     "born": 1927,
     "died": 2006,
     "title": "Phạm Xuân Ẩn",
@@ -18302,9 +21851,9 @@ const RAW_DATA = [
     "fullName": "Ferenc Puskás",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ferenc_Puskas_en_1965.jpg",
     "relations": [
+      "Otto Rehhagel",
       "Pelé",
-      "Garrincha",
-      "Sir Bobby Robson"
+      "Garrincha"
     ],
     "themes": [
       "Football"
@@ -18352,7 +21901,71 @@ const RAW_DATA = [
     "relations": [
       "Trần Văn Trà",
       "Trần Thiện Khiêm",
-      "Dương Văn Minh"
+      "Văn Tiến Dũng"
+    ],
+    "themes": []
+  },
+  {
+    "title": "Mstislav Rostropovich",
+    "born": 1927,
+    "died": 2007,
+    "desc": "Nghệ sĩ cello và nhạc trưởng huyền thoại người Nga, nổi tiếng với kỹ thuật biểu diễn bậc thầy và việc truyền cảm hứng sáng tác cho hàng loạt tác phẩm cello hiện đại.",
+    "nationality": "Russian",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/RIAN_archive_438589_Mstislav_Rostropovich.jpg/500px-RIAN_archive_438589_Mstislav_Rostropovich.jpg",
+    "relations": [
+      "Niccolò Paganini",
+      "Dmitri Shostakovich",
+      "Igor Stravinsky"
+    ]
+  },
+  {
+    "title": "Bùi Tín",
+    "born": 1927,
+    "died": 2018,
+    "desc": "Nhà báo, Đại tá Quân đội nhân dân Việt Nam, cựu Phó Tổng biên tập báo Nhân Dân, con trai cụ Bùi Bằng Đoàn. Sau năm 1990, ông tị nạn chính trị tại Pháp và trở thành nhà hoạt động bất đồng chính kiến.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "VN Modern Communism",
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/6/6f/Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg/250px-Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg",
+    "relations": [
+      "Hoàng Minh Chính",
+      "Cù Huy Hà Vũ",
+      "Lê Khả Phiêu"
+    ]
+  },
+  {
+    "born": 1927,
+    "died": 2016,
+    "title": "Rama IX",
+    "fullName": "Bhumibol Adulyadej",
+    "desc": "Vua thứ chín của vương triều Chakri nước Thái Lan, tại vị hơn 70 năm. Ông được toàn thể người dân Thái Lan vô cùng tôn kính, là biểu tượng cho sự hòa giải và đoàn kết dân tộc.",
+    "color": "#8d6e63",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aankomst_Koning_Bhumibol_en_Koningin_Sirikit_te_Den_Haag%2C_Koning_Bhumibol%2C_Bestanddeelnr_911-6993_%28cropped%29%282%29.jpg/500px-Aankomst_Koning_Bhumibol_en_Koningin_Sirikit_te_Den_Haag%2C_Koning_Bhumibol%2C_Bestanddeelnr_911-6993_%28cropped%29%282%29.jpg",
+    "relations": [
+      "Rama X",
+      "Elizabeth II",
+      "Mohammad Reza Pahlavi"
     ],
     "themes": []
   },
@@ -18396,8 +22009,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Garcia_Marquez.jpg",
     "relations": [
       "Mạc Ngôn",
-      "Octavio Paz",
-      "Toni Morrison"
+      "Albert Camus",
+      "Octavio Paz"
     ],
     "themes": [
       "Giai Nobel"
@@ -18419,8 +22032,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/7b/HoangDan_02.jpg/250px-HoangDan_02.jpg",
     "relations": [
       "Hoàng Minh Thảo",
-      "Lê Trọng Tấn",
-      "Hoàng Văn Thái"
+      "Văn Tiến Dũng",
+      "Lê Trọng Tấn"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18447,6 +22060,71 @@ const RAW_DATA = [
       "Muammar Gaddafi"
     ],
     "themes": []
+  },
+  {
+    "title": "Thích Quảng Độ",
+    "born": 1928,
+    "died": 2020,
+    "desc": "Hòa thượng, nhà hoạt động nhân quyền và lãnh đạo Giáo hội Phật giáo Việt Nam Thống nhất. Ông dành phần lớn cuộc đời đấu tranh cho tự do tôn giáo và dân chủ, được đề cử Giải Nobel Hòa bình nhiều lần.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Religious",
+    "tags": [
+      "Religious"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/7/79/H%C3%B2a_th%C6%B0%E1%BB%A3ng_Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%99.jpg",
+    "relations": [
+      "Thích Tuệ Sỹ",
+      "Thích Nhất Hạnh",
+      "Nguyễn Hữu Đang"
+    ]
+  },
+  {
+    "title": "Phùng Cung",
+    "born": 1928,
+    "died": 1997,
+    "desc": "Nhà văn, nhà thơ Việt Nam, thành viên nhóm Nhân Văn – Giai Phẩm. Ông nổi tiếng với truyện ngắn 'Con ngựa già của Chúa Trịnh' và bị giam giữ cải tạo 12 năm vì các sáng tác của mình.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "",
+    "relations": [
+      "Thụy An",
+      "Trần Dần",
+      "Phùng Quán"
+    ]
+  },
+  {
+    "born": 1928,
+    "died": 2015,
+    "title": "John Nash",
+    "fullName": "John Forbes Nash Jr.",
+    "desc": "Nhà toán học người Mỹ, đạt giải Nobel Kinh tế năm 1994 cho đóng góp đặt nền móng trong lý thuyết trò chơi. Cuộc đời ông được mô phỏng trong bộ phim 'A Beautiful Mind'.",
+    "color": "#3f51b5",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg/500px-John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg",
+    "relations": [
+      "Steven Weinberg",
+      "Richard Feynman",
+      "Lý Chính Đạo"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
   },
   {
     "born": 1929,
@@ -18538,7 +22216,7 @@ const RAW_DATA = [
     "born": 1929,
     "died": 2006,
     "title": "Bùi Thiện Ngộ",
-    "desc": "Chính trị gia Việt Nam, Bộ trưởng Bộ Công an sau này nắm giữ những trọng trách chủ chốt của đảng.",
+    "desc": "Thượng tướng Công an nhân dân Việt Nam, Ủy viên Bộ Chính trị khóa VII và Bộ trưởng Bộ Nội vụ (nay là Bộ Công an) từ 1991 đến 1996. Ông có đóng góp to lớn trong việc cải tổ, hiện đại hóa lực lượng an ninh nhân dân và giữ vững an ninh quốc gia trong buổi đầu Đổi mới.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -18549,9 +22227,9 @@ const RAW_DATA = [
     "fullName": "Bùi Thiện Ngộ",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/ec/B%C3%B9i_Thi%E1%BB%87n_Ng%E1%BB%99.jpg/250px-B%C3%B9i_Thi%E1%BB%87n_Ng%E1%BB%99.jpg",
     "relations": [
-      "Đỗ Mười",
-      "Nguyễn Văn Linh",
-      "Lê Khả Phiêu"
+      "Tô Ân Xô",
+      "Lê Khả Phiêu",
+      "Võ Văn Kiệt"
     ],
     "themes": [
       "VN Modern Communism"
@@ -18618,8 +22296,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/M%E1%BB%99_Kim_%C4%90%E1%BB%93ng%2C_Cao_B%E1%BA%B1ng.JPG/500px-M%E1%BB%99_Kim_%C4%90%E1%BB%93ng%2C_Cao_B%E1%BA%B1ng.JPG",
     "relations": [
       "Hồ Chí Minh",
-      "Phạm Hùng",
-      "Hoàng Văn Thụ"
+      "Lê Hồng Phong",
+      "Phạm Hùng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -18645,6 +22323,27 @@ const RAW_DATA = [
       "Tadeusz Kotarbiński"
     ],
     "themes": []
+  },
+  {
+    "title": "Lê Đạt",
+    "born": 1929,
+    "died": 2008,
+    "desc": "Nhà thơ cách tân nổi tiếng của Việt Nam, một trong những nhân vật trụ cột sáng lập và chủ biên tập san Nhân Văn. Ông bị đình chỉ mọi hoạt động xuất bản và đi lao động thực tế suốt 30 năm.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Miu_L%C3%AA_2026.png/500px-Miu_L%C3%AA_2026.png",
+    "relations": [
+      "Phùng Cung",
+      "Trần Dần",
+      "Phùng Quán"
+    ]
   },
   {
     "born": 1930,
@@ -18694,7 +22393,7 @@ const RAW_DATA = [
     "born": 1930,
     "died": 1931,
     "title": "Buzz Aldrin",
-    "desc": "Phi hành gia người Mỹ và người thứ hai đi bộ trên Mặt trăng trong sứ mệnh Apollo 11 năm 1969.",
+    "desc": "Phi hành gia vĩ đại người Mỹ và phi công mô-đun đổ bộ của sứ mệnh lịch sử Apollo 11 (1969). Ông là người thứ hai đặt chân lên bề mặt Mặt Trăng, cùng Neil Armstrong mở ra kỷ nguyên chinh phục không gian vũ trụ huy hoàng của toàn nhân loại.",
     "color": "#aaaaaa",
     "position": "bottom",
     "primary_tag": "Others",
@@ -18707,7 +22406,7 @@ const RAW_DATA = [
     "relations": [
       "Neil Armstrong",
       "Yuri Gagarin",
-      "Anne Frank"
+      "Jeff Bezos"
     ],
     "themes": []
   },
@@ -18715,7 +22414,7 @@ const RAW_DATA = [
     "born": 1930,
     "died": 2012,
     "title": "Neil Armstrong",
-    "desc": "Phi hành gia người Mỹ và người đầu tiên đi bộ trên Mặt trăng trong sứ mệnh Apollo 11 năm 1969.",
+    "desc": "Phi hành gia và kỹ sư hàng không vũ trụ người Mỹ, chỉ huy sứ mệnh Apollo 11 huyền thoại. Ông ghi tên mình vào lịch sử với tư cách con người đầu tiên đặt chân lên Mặt Trăng vào ngày 21/7/1969, cùng câu nói bất hủ về bước tiến khổng lồ của nhân loại.",
     "color": "#aaaaaa",
     "position": "bottom",
     "primary_tag": "Others",
@@ -18728,7 +22427,7 @@ const RAW_DATA = [
     "relations": [
       "Buzz Aldrin",
       "Yuri Gagarin",
-      "Edmund Hillary"
+      "Jeff Bezos"
     ],
     "themes": []
   },
@@ -18772,7 +22471,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Văn Thiệu",
       "Trần Văn Hương",
-      "Trần Lệ Xuân"
+      "Văn Tiến Dũng"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18795,7 +22494,7 @@ const RAW_DATA = [
     "relations": [
       "Võ Thị Sáu",
       "Trần Văn Trà",
-      "Jean de Lattre de Tassigny"
+      "Văn Tiến Dũng"
     ],
     "themes": []
   },
@@ -18814,12 +22513,36 @@ const RAW_DATA = [
     "fullName": "Nguyễn Ngọc Loan",
     "image": "https://upload.wikimedia.org/wikipedia/vi/1/10/Nguyen_Ngoc_Loan.jpg",
     "relations": [
+      "Văn Tiến Dũng",
       "Cao Văn Viên",
-      "Hoàng Văn Thái",
-      "Robert McNamara"
+      "Hoàng Văn Thái"
     ],
     "themes": [
       "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1930,
+    "died": 1931,
+    "title": "Đồ U U",
+    "desc": "Nhà nghiên cứu y học và hóa dược người Trung Quốc. Bà nổi tiếng với việc phát hiện và chiết xuất thành công chất Artemisinin (thanh hao tố) từ cây thanh hao hoa vàng giúp điều trị sốt rét, cứu sống hàng triệu sinh mạng. Bà được trao giải Nobel Sinh lý học hoặc Y học năm 2015.",
+    "color": "#2ec4b6",
+    "position": "bottom",
+    "primary_tag": "Medical",
+    "tags": [
+      "Medical",
+      "Women"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Tu Youyou",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tu_Youyou_5012-1-2015.jpg/500px-Tu_Youyou_5012-1-2015.jpg",
+    "relations": [
+      "Alexander Fleming",
+      "Ivan Pavlov",
+      "Mạc Ngôn"
+    ],
+    "themes": [
+      "Giai Nobel"
     ]
   },
   {
@@ -18916,7 +22639,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Isabel Perón",
     "fullName": "Isabel Martínez de Perón (María Estela Martínez Cartas de Perón)",
-    "desc": "Cựu Tổng thống Argentina phục vụ từ năm 1974 đến năm 1976, sau cái chết của chồng bà, Juan Perón.",
+    "desc": "Nữ tổng thống đầu tiên của Argentina và thế giới (1974-1976), kế vị chồng là Tổng thống Juan Perón sau khi ông qua đời. Nhiệm kỳ đầy sóng gió của bà đối mặt với khủng hoảng kinh tế trầm trọng và bạo loạn xã hội trước khi bị lật đổ bởi cuộc đảo chính quân sự.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -18927,9 +22650,80 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Isabel_Martinez_de_Peron.jpg",
     "themes": [],
     "relations": [
-      "José Mujica",
       "Alberto Fujimori",
-      "Jaime Roldós Aguilera"
+      "John F. Kennedy",
+      "Park Chung-hee"
+    ]
+  },
+  {
+    "born": 1931,
+    "died": 1953,
+    "title": "Bế Văn Đàn",
+    "fullName": "Bế Văn Đàn",
+    "desc": "Chiến sĩ Quân đội Nhân dân Việt Nam, anh hùng lực lượng vũ trang nhân dân. Ông nổi tiếng với hành động lấy thân mình làm giá súng trong Chiến dịch Điện Biên Phủ năm 1953.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/B%E1%BA%BF_V%C4%83n_%C4%90%C3%A0n.jpg",
+    "relations": [
+      "Tô Vĩnh Diện",
+      "Phan Đình Giót",
+      "Võ Thị Sáu"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1931,
+    "died": 2020,
+    "title": "Lê Khả Phiêu",
+    "fullName": "Lê Khả Phiêu",
+    "desc": "Thượng tướng, chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1997–2001), cựu Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lekhaphieu2011.jpg/500px-Lekhaphieu2011.jpg",
+    "relations": [
+      "Nông Đức Mạnh",
+      "Đỗ Mười",
+      "Tô Lâm"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1931,
+    "died": 2019,
+    "title": "Toni Morrison",
+    "desc": "Nhà văn nữ người Mỹ danh tiếng. Tác phẩm của bà đi sâu vào trải nghiệm của người Mỹ gốc Phi, đặc biệt là phụ nữ, nổi bật nhất là tiểu thuyết Beloved (đoạt giải Pulitzer). Bà là người phụ nữ da màu đầu tiên được trao giải Nobel Văn học vào năm 1993.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Women"
+    ],
+    "nationality": "American",
+    "fullName": "Toni Morrison",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toni_Morrison_2008.jpg/500px-Toni_Morrison_2008.jpg",
+    "relations": [
+      "Gabriel García Márquez",
+      "Ōe Kenzaburo",
+      "Cao Hành Kiện"
+    ],
+    "themes": [
+      "Giai Nobel"
     ]
   },
   {
@@ -18949,7 +22743,7 @@ const RAW_DATA = [
     "relations": [
       "Theo Angelopoulos",
       "Agnès Varda",
-      "Alain Resnais"
+      "Abbas Kiarostami"
     ],
     "themes": []
   },
@@ -18969,8 +22763,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ted_Kennedy%2C_official_photo_portrait_crop.jpg/500px-Ted_Kennedy%2C_official_photo_portrait_crop.jpg",
     "relations": [
       "Lê Khả Phiêu",
-      "Trần Lệ Xuân",
-      "Donald Trump"
+      "Bùi Thiện Ngộ",
+      "Trần Lệ Xuân"
     ],
     "themes": []
   },
@@ -18995,6 +22789,27 @@ const RAW_DATA = [
       "Alain Resnais",
       "Jean-Luc Godard",
       "Agnès Varda"
+    ]
+  },
+  {
+    "title": "Phùng Quán",
+    "born": 1932,
+    "died": 1995,
+    "desc": "Nhà văn và nhà thơ Việt Nam, chiến sĩ trinh sát Vệ quốc quân, nổi tiếng với các tác phẩm 'Vượt Côn Đảo' và 'Tuổi thơ dữ dội'. Ông bị treo bút 30 năm vì tham gia phong trào Nhân Văn – Giai Phẩm.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "",
+    "relations": [
+      "Trần Dần",
+      "Phùng Cung",
+      "Phan Khôi"
     ]
   },
   {
@@ -19031,7 +22846,7 @@ const RAW_DATA = [
     ],
     "nationality": "Japanese",
     "fullName": "Fujiko Fujio (藤子・F・不二雄, Doraemon)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Fujikots-en.png",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Fujiko_Fujio.jpg/500px-Fujiko_Fujio.jpg",
     "relations": [
       "Andrei Tarkovsky",
       "Trịnh Công Sơn",
@@ -19078,11 +22893,104 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dr_Ali_Shariati.jpg",
     "relations": [
+      "Ali Khamenei",
       "Mohammad Reza Pahlavi",
-      "Tăng Khánh Hồng",
-      "Che Guevara"
+      "Tăng Khánh Hồng"
     ],
     "themes": []
+  },
+  {
+    "born": 1933,
+    "died": 1952,
+    "title": "Võ Thị Sáu",
+    "fullName": "Võ Thị Sáu",
+    "desc": "Nữ du kích và anh hùng lực lượng vũ trang nhân dân Việt Nam. Bà thực hiện nhiều cuộc ném lựu đạn tiêu diệt sĩ quan Pháp và tay sai trước khi bị bắt, giam cầm tại Côn Đảo và bị hành quyết vào năm 1952.",
+    "color": "#d7263d",
+    "position": "top",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Portrait_of_V%C3%B5_Th%E1%BB%8B_S%C3%A1u.jpg",
+    "relations": [
+      "Bế Văn Đàn",
+      "Tô Vĩnh Diện",
+      "Phan Đình Giót"
+    ],
+    "themes": [
+      "Khang chien chong Phap"
+    ]
+  },
+  {
+    "born": 1933,
+    "died": 2021,
+    "title": "Steven Weinberg",
+    "desc": "Nhà vật lý lý thuyết lỗi lạc người Mỹ. Ông cùng với Sheldon Glashow và Abdus Salam đoạt giải Nobel Vật lý năm 1979 cho công trình thống nhất tương tác yếu và tương tác điện từ giữa các hạt cơ bản (thuyết electroweak), một cột mốc lớn của Mô hình Chuẩn.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "American",
+    "fullName": "Steven Weinberg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Steven-weinberg.jpg",
+    "relations": [
+      "Abdus Salam",
+      "Lý Chính Đạo",
+      "Dương Chấn Ninh"
+    ],
+    "themes": [
+      "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1933,
+    "died": 1983,
+    "title": "Garrincha",
+    "desc": "Huyền thoại bóng đá người Brasil, được coi là thiên tài rê dắt bóng vĩ đại nhất mọi thời đại. Ông là nguồn cảm hứng lớn giúp Brasil bảo vệ thành công chức vô địch World Cup 1962 khi Pelé bị chấn thương.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Latin American",
+    "fullName": "Manuel Francisco dos Santos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MFdSantos-Garrincha.jpg/500px-MFdSantos-Garrincha.jpg",
+    "relations": [
+      "Pelé",
+      "Ferenc Puskás",
+      "Lê Thụy Hải"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1933,
+    "died": 2009,
+    "title": "Sir Bobby Robson",
+    "desc": "Cựu danh thủ và là một trong những huấn luyện viên bóng đá Anh được kính trọng nhất lịch sử. Ông đã dẫn dắt nhiều câu lạc bộ hàng đầu châu Âu như PSV, Porto, Barcelona, Newcastle và đưa tuyển Anh vào bán kết World Cup 1990.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "British",
+    "fullName": "Robert William Robson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg/500px-Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg",
+    "relations": [
+      "Otto Rehhagel",
+      "Ferenc Puskás",
+      "Johan Cruyff"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1934,
@@ -19100,8 +23008,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg",
     "relations": [
       "Phạm Tuân",
-      "Anne Frank",
-      "Edmund Hillary"
+      "Neil Armstrong",
+      "Buzz Aldrin"
     ],
     "themes": []
   },
@@ -19123,6 +23031,48 @@ const RAW_DATA = [
       "Thái tử Bảo Long",
       "Hoàng tử Bảo Thăng",
       "Duy Tân"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1934,
+    "died": 2026,
+    "title": "Hồng y Phạm Minh Mẫn",
+    "fullName": "Gioan Baotixita Phạm Minh Mẫn",
+    "desc": "Vị Hồng y thứ năm của Giáo hội Công giáo Việt Nam, nguyên Tổng Giám mục Tổng giáo phận Thành phố Hồ Chí Minh. Ông nổi bật với tinh thần đối thoại, giản dị và quan tâm sâu sắc tới việc mục vụ xã hội.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Religious",
+    "tags": [
+      "Religious"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%C4%90%E1%BB%A9c_H%E1%BB%93ng_Y_Gioan_Baotixita_Ph%E1%BA%A1m_Minh_M%E1%BA%ABn.jpg/500px-%C4%90%E1%BB%A9c_H%E1%BB%93ng_Y_Gioan_Baotixita_Ph%E1%BA%A1m_Minh_M%E1%BA%ABn.jpg",
+    "relations": [
+      "Hồng y Trịnh Văn Căn",
+      "Hồng y Trịnh Như Khuê",
+      "Hồ Chí Minh"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1934,
+    "died": 2026,
+    "title": "Jane Goodall",
+    "fullName": "Valerie Jane Morris-Goodall",
+    "desc": "Nhà linh trưởng học và nhà nhân chủng học người Anh, nổi tiếng với nghiên cứu về đời sống xã hội và gia đình của tinh tinh ở Tanzania.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/500px-thumbnail.jpg",
+    "relations": [
+      "Rosalind Franklin",
+      "Roger Penrose",
+      "Stephen Hawking"
     ],
     "themes": []
   },
@@ -19193,6 +23143,49 @@ const RAW_DATA = [
     "themes": [
       "Rocker"
     ]
+  },
+  {
+    "born": 1935,
+    "died": 2012,
+    "title": "Theo Angelopoulos",
+    "desc": "Đạo diễn, nhà biên kịch kiêm nhà sản xuất phim huyền thoại người Hy Lạp. Ông thống trị nền điện ảnh nghệ thuật Hy Lạp và thế giới từ năm 1975, nổi tiếng với phong cách quay cảnh dài duy mỹ qua các bộ phim như Eternity and a Day (đoạt Cành cọ Vàng).",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Greek",
+    "fullName": "Theo Angelopoulos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Theodoros_Angelopoulos_Athens_26-4-2009-2.jpg",
+    "relations": [
+      "Abbas Kiarostami",
+      "Werner Herzog",
+      "Agnès Varda"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1935,
+    "died": 1936,
+    "title": "José Mujica",
+    "fullName": "José Alberto Mujica Cordano",
+    "desc": "Cựu tổng thống Uruguay, cựu chiến binh du kích Tupamaros, nổi tiếng toàn cầu là 'vị tổng thống nghèo nhất thế giới'. Ông đã quyên góp phần lớn tiền lương của mình cho tổ chức từ thiện và duy trì lối sống giản dị, khắc kỷ tại trang trại của mình.",
+    "color": "#858ae3",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Latin American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mujica.jpg",
+    "relations": [
+      "Donald Trump",
+      "Isabel Perón",
+      "Saddam Hussein"
+    ],
+    "themes": []
   },
   {
     "born": 1936,
@@ -19336,8 +23329,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Theo Angelopoulos",
-      "Hầu Hiếu Hiền",
-      "Sally Potter"
+      "Abbas Kiarostami",
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -19423,7 +23416,7 @@ const RAW_DATA = [
     "relations": [
       "Pelé",
       "George Best",
-      "Sir Alex Ferguson"
+      "Sir Bobby Robson"
     ],
     "themes": [
       "Football"
@@ -19454,7 +23447,7 @@ const RAW_DATA = [
     "born": 1938,
     "died": 2024,
     "title": "Alberto Fujimori",
-    "desc": "Chính trị gia Peru từng là Tổng thống Peru, sau đó bị kết án vì vi phạm nhân quyền và tham nhũng.",
+    "desc": "Tổng thống gốc Nhật của Peru (1990-2000), người có công vực dậy nền kinh tế và tiêu diệt phiến quân khủng bố Con đường Sáng. Tuy nhiên, thời kỳ cầm quyền của ông bị vẩn đục bởi các cáo buộc độc tài, tham nhũng quy mô lớn và vi phạm nhân quyền nghiêm trọng dẫn đến án tù.",
     "color": "#000000",
     "position": "bottom",
     "primary_tag": "Political",
@@ -19466,8 +23459,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg",
     "relations": [
       "Saddam Hussein",
-      "Tăng Khánh Hồng",
-      "Jaime Roldós Aguilera"
+      "Isabel Perón",
+      "Tăng Khánh Hồng"
     ],
     "themes": []
   },
@@ -19487,8 +23480,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kofi_Annan_2012_%28cropped%29.jpg",
     "relations": [
       "Henry Kissinger",
-      "Aung San Suu Kyi",
-      "Ban Ki-moon"
+      "Barack Obama",
+      "Aung San Suu Kyi"
     ],
     "themes": [
       "Giai Nobel"
@@ -19498,7 +23491,7 @@ const RAW_DATA = [
     "born": 1938,
     "died": 2026,
     "title": "Otto Rehhagel",
-    "desc": "Huấn luyện viên bóng đá người Đức và cựu cầu thủ đã dẫn dắt Hy Lạp vô địch Euro 2004.",
+    "desc": "Huấn luyện viên bóng đá huyền thoại người Đức, được đặt biệt danh \"Rehhakles\" sau chiến tích không tưởng dẫn dắt đội tuyển yếu thế Hy Lạp đăng quang ngôi vô địch Euro 2004. Ông cũng nổi danh tại Bundesliga khi đưa tân binh Kaiserslautern vô địch quốc gia năm 1998.",
     "color": "#55a630",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -19509,9 +23502,9 @@ const RAW_DATA = [
     "fullName": "Otto Rehhagel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Otto_Rehhagel_01-2.jpg/500px-Otto_Rehhagel_01-2.jpg",
     "relations": [
-      "Lê Thụy Hải",
       "Ferenc Puskás",
-      "Sir Alex Ferguson"
+      "Sir Bobby Robson",
+      "Lê Thụy Hải"
     ],
     "themes": [
       "Football"
@@ -19533,8 +23526,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "John Lennon",
-      "Joan Baez",
-      "Tôn-Thất Tiết"
+      "Flora Tristan",
+      "Joan Baez"
     ],
     "themes": []
   },
@@ -19566,7 +23559,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Ali Khamenei",
     "fullName": "Ali Khamenei (Seyyed Ali Hosseini Khamenei)",
-    "desc": "Lãnh đạo tối cao thứ hai và hiện tại của Iran, tại vị từ năm 1989.",
+    "desc": "Giáo sĩ tối cao và nhà chính trị quyền lực nhất Iran, giữ chức Lãnh đạo Tối cao kể từ năm 1989 sau khi giáo chủ Khomeini qua đời. Với quyền lực tuyệt đối về quân sự, lập pháp và tôn giáo, ông là nguyên thủ quốc gia có thời gian trị vì lâu dài nhất khu vực Trung Đông.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -19576,11 +23569,35 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ali_Khamenei_Nowruz_message_official_portrait_1397_02.jpg",
     "relations": [
-      "Mojtaba Khamenei",
-      "Hossein Mousavi",
-      "Ali Shariati"
+      "Tăng Khánh Hồng",
+      "Chu Vĩnh Khang",
+      "Giang Trạch Dân"
     ],
     "themes": []
+  },
+  {
+    "born": 1939,
+    "died": 1940,
+    "title": "Margaret Atwood",
+    "desc": "Nhà văn, nhà thơ và nhà hoạt động nữ quyền danh tiếng người Canada. Tác phẩm tiểu thuyết giả tưởng phản địa đàng 'Chuyện người tùy nữ' (The Handmaid's Tale) của bà đã trở thành một biểu tượng văn hóa toàn cầu phản ánh sâu sắc các vấn đề xã hội.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Women"
+    ],
+    "nationality": "Other",
+    "fullName": "Margaret Eleanor Atwood",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg/500px-Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg",
+    "relations": [
+      "Rosalind Miles",
+      "Virginia Woolf",
+      "Hélène Cixous"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ]
   },
   {
     "born": 1940,
@@ -19607,7 +23624,7 @@ const RAW_DATA = [
     "born": 1940,
     "died": 2016,
     "title": "Abbas Kiarostami",
-    "desc": "Đạo diễn phim, nhà biên kịch và nhiếp ảnh gia người Iran, được coi là một trong những nhân vật quan trọng nhất của điện ảnh thế giới.",
+    "desc": "Đạo diễn, nhà biên kịch, nhà thơ kiêm nhiếp ảnh gia huyền thoại người Iran, một trong những cây đại thụ có tầm ảnh hưởng lớn nhất của nền điện ảnh thế giới đương đại. Ông là cánh chim đầu đàn của phong trào Làn sóng mới điện ảnh Iran với các kiệt tác nghệ thuật tối giản, ranh giới mờ nhạt giữa hư cấu và phim tài liệu như bộ ba phim Koker, 'Taste of Cherry' (đoạt giải Cành cọ Vàng Cannes 1997) và 'The Wind Will Carry Us'.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -19618,9 +23635,9 @@ const RAW_DATA = [
     "fullName": "Abbas Kiarostami (عباس کیارستمی)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Abbas_Kiarostami%27s_Portrait.jpg",
     "relations": [
-      "Hầu Hiếu Hiền",
-      "Pedro Almodóvar",
-      "Agnès Varda"
+      "Theo Angelopoulos",
+      "Agnès Varda",
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -19734,7 +23751,7 @@ const RAW_DATA = [
     "relations": [
       "Saddam Hussein",
       "Alberto Fujimori",
-      "Donald Trump"
+      "Hossein Mousavi"
     ]
   },
   {
@@ -19759,6 +23776,50 @@ const RAW_DATA = [
     "themes": [
       "Rocker"
     ]
+  },
+  {
+    "born": 1940,
+    "died": 1941,
+    "title": "Nông Đức Mạnh",
+    "fullName": "Nông Đức Mạnh",
+    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam nhiệm kỳ 2001–2011, nguyên Chủ tịch Quốc hội Việt Nam.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nong_Duc_Manh_2010.jpg/500px-Nong_Duc_Manh_2010.jpg",
+    "relations": [
+      "Lê Khả Phiêu",
+      "Trương Tấn Sang",
+      "Đỗ Mười"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1940,
+    "died": 1941,
+    "title": "Maxine Hong Kingston",
+    "desc": "Nữ nhà văn người Mỹ gốc Hoa, nổi tiếng với cuốn tiểu thuyết đầu tay 'The Woman Warrior' (Nữ chiến binh). Bà có đóng góp lớn trong việc định hình văn học Mỹ gốc Á và phong trào nữ quyền.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "American",
+    "fullName": "Maxine Hong Kingston",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Maxine_Hong_Kingston_by_David_Shankbone.jpg/500px-Maxine_Hong_Kingston_by_David_Shankbone.jpg",
+    "relations": [
+      "Margaret Atwood",
+      "Phùng Quán",
+      "Louis Aragon"
+    ],
+    "themes": []
   },
   {
     "born": 1941,
@@ -19825,6 +23886,27 @@ const RAW_DATA = [
       "Trịnh Công Sơn",
       "Bob Marley",
       "Grover Washington Jr."
+    ]
+  },
+  {
+    "title": "Sir Alex Ferguson",
+    "born": 1941,
+    "died": null,
+    "desc": "Cựu huấn luyện viên và cầu thủ bóng đá người Scotland, nổi tiếng nhất với thời gian dẫn dắt Manchester United từ năm 1986 đến 2013.",
+    "nationality": "British",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sir_Alex_Ferguson_2011.jpg/500px-Sir_Alex_Ferguson_2011.jpg",
+    "themes": [
+      "Football"
+    ],
+    "position": "bottom",
+    "relations": [
+      "George Best",
+      "Ferenc Puskás",
+      "Sir Bobby Robson"
     ]
   },
   {
@@ -19951,9 +24033,9 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg/500px-Werner_Herzog_Venice_Film_Festival_2025.jpg",
     "relations": [
+      "Abbas Kiarostami",
       "Hầu Hiếu Hiền",
-      "Theo Angelopoulos",
-      "Agnès Varda"
+      "Theo Angelopoulos"
     ],
     "themes": []
   },
@@ -19962,7 +24044,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Hossein Mousavi",
     "fullName": "Hossein Mousavi (Mir-Hossein Mousavi Khameneh)",
-    "desc": "Chính trị gia cải cách Iran và cựu Thủ tướng, lãnh đạo Phong trào Xanh năm 2009.",
+    "desc": "Chính trị gia cải cách và Thủ tướng cuối cùng của Iran (1981-1989). Ông là ứng cử viên đối lập trong cuộc bầu cử tổng thống năm 2009 đầy tranh cãi, châm ngòi cho \"Phong trào Xanh\" biểu tình đòi dân chủ trước khi ông bị giam lỏng tại gia suốt nhiều năm.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -19972,9 +24054,9 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mir-Hossein_Mousavi_in_1981.jpg",
     "relations": [
-      "Muammar Gaddafi",
-      "Benjamin Netanyahu",
-      "Hun Sen"
+      "Donald Trump",
+      "Saddam Hussein",
+      "Viktor Yanukovych"
     ],
     "themes": []
   },
@@ -20022,6 +24104,51 @@ const RAW_DATA = [
     "themes": [
       "Rocker"
     ]
+  },
+  {
+    "born": 1942,
+    "died": 1970,
+    "title": "Đặng Thùy Trâm",
+    "fullName": "Đặng Thùy Trâm",
+    "desc": "Nữ bác sĩ, liệt sĩ Việt Nam trong Chiến tranh Việt Nam. Cuốn nhật ký viết tay xúc động của cô về những năm tháng chiến trường sau này được xuất bản thành tác phẩm văn học nổi tiếng 'Nhật ký Đặng Thùy Trâm'.",
+    "color": "#9c27b0",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Medical"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dang_Thuy_Tram.jpg/500px-Dang_Thuy_Tram.jpg",
+    "relations": [
+      "Chế Lan Viên",
+      "Phạm Xuân Ẩn",
+      "Đinh Núp"
+    ],
+    "themes": [
+      "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1942,
+    "died": 1943,
+    "title": "Remo Ruffini",
+    "desc": "Nhà vật lý lý thuyết người Ý, Giáo sư vật lý lý thuyết tại Đại học Sapienza Rome. Ông nổi tiếng với những nghiên cứu về vật lý thiên văn tương đối tính và lỗ đen, đồng thời là Chủ tịch Trung tâm Vật lý vũ trụ tương đối tính quốc tế (ICRA).",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Italian",
+    "fullName": "Remo Ruffini",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RuffiniRemo.jpg",
+    "relations": [
+      "Stephen Hawking",
+      "Dương Trung Quốc",
+      "Steven Weinberg"
+    ],
+    "themes": []
   },
   {
     "born": 1943,
@@ -20083,8 +24210,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/500px-Bobby_Fischer_1972.jpg",
     "relations": [
       "Anatoly Karpov",
-      "Magnus Carlsen",
-      "Garry Kasparov"
+      "Garry Kasparov",
+      "Magnus Carlsen"
     ],
     "themes": [
       "Chess"
@@ -20104,9 +24231,9 @@ const RAW_DATA = [
     ],
     "nationality": "German",
     "relations": [
+      "Marina Abramovic",
       "Sally Potter",
-      "Agnès Varda",
-      "David Cronenberg"
+      "Agnès Varda"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ulay.jpg/500px-Ulay.jpg"
@@ -20177,6 +24304,55 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1943,
+    "died": 2023,
+    "title": "Thích Tuệ Sỹ",
+    "fullName": "Thích Tuệ Sỹ (Nguyên Chứng)",
+    "desc": "Hòa thượng, học giả Phật giáo lỗi lạc, giáo sư, nhà thơ, nhà văn, dịch giả và nhà bất đồng chính kiến Việt Nam. Ông là Đệ lục Tăng thống Giáo hội Phật giáo Việt Nam Thống nhất (GHPGVNTN). Năm 1988, ông bị chính quyền Việt Nam tuyên án tử hình cùng với Lê Mạnh Thát vì cáo buộc hoạt động lật đổ chính quyền, sau đó giảm xuống chung thân và được thả năm 1998 nhờ áp lực quốc tế.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Religious",
+    "tags": [
+      "Religious",
+      "Literature",
+      "Philosophy"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/e/e3/Thich_Tue_Sy.png",
+    "relations": [
+      "Lê Mạnh Thát",
+      "Thích Quảng Độ",
+      "Cù Huy Hà Vũ"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ]
+  },
+  {
+    "born": 1943,
+    "died": 1944,
+    "title": "Rosalind Miles",
+    "desc": "Nhà văn nữ quyền, sử gia và học giả nổi tiếng người Anh. Tác phẩm phi hư cấu tiêu biểu 'Lịch sử thế giới dưới góc nhìn phụ nữ' (The Women's History of the World) của bà tái định vị vai trò quan trọng của nữ giới trong lịch sử nhân loại.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Women"
+    ],
+    "nationality": "British",
+    "fullName": "Rosalind Mary Simpson",
+    "image": "",
+    "relations": [
+      "Margaret Atwood",
+      "Hélène Cixous",
+      "Virginia Woolf"
+    ],
+    "themes": [
+      "Feminism Movement"
+    ]
+  },
+  {
     "born": 1944,
     "died": 2023,
     "title": "Robert Hanssen",
@@ -20212,13 +24388,80 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Nông Đức Mạnh",
-      "Tô Lâm",
-      "Lê Khả Phiêu"
+      "Lê Khả Phiêu",
+      "Tô Lâm"
     ],
     "themes": [
       "VN Modern Communism"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nguyen_Phu_Trong_HN2023.jpg/500px-Nguyen_Phu_Trong_HN2023.jpg"
+  },
+  {
+    "title": "Karl Jenkins",
+    "born": 1944,
+    "died": null,
+    "desc": "Nhà soạn nhạc và nhạc công đa nhạc cụ người xứ Wales, nổi tiếng với tác phẩm giao thoa thể loại 'Adiemus', bản concerto 'Palladio' và thánh ca hòa bình 'The Armed Man'.",
+    "nationality": "British",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "themes": [
+      "Classical Music"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Karl_Jenkins_-_St_David_Awards_2017.png/500px-Karl_Jenkins_-_St_David_Awards_2017.png",
+    "relations": [
+      "Sergei Prokofiev",
+      "Robert Schumann",
+      "Dmitri Shostakovich"
+    ]
+  },
+  {
+    "born": 1944,
+    "died": 1945,
+    "title": "Lê Mạnh Thát",
+    "fullName": "Lê Mạnh Thát (Thích Trí Siêu)",
+    "desc": "Học giả Phật giáo, giáo sư, nhà sử học và nhà nghiên cứu ngôn ngữ học Phật giáo uyên bác người Việt Nam. Ông thông thạo nhiều cổ ngữ, công bố nhiều công trình lớn làm thay đổi cách nhìn về lịch sử Phật giáo và lịch sử Việt Nam sơ khởi. Năm 1988, ông bị tuyên án tử hình cùng Hòa thượng Thích Tuệ Sỹ, sau đó được giảm án và được thả tự do vào năm 1998.",
+    "color": "#247ba0",
+    "position": "top",
+    "primary_tag": "Science",
+    "tags": [
+      "Science",
+      "Religious",
+      "Philosophy"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/L%C3%AA_M%E1%BA%A1nh_Th%C3%A1t_%28cropped%29.jpg/500px-L%C3%AA_M%E1%BA%A1nh_Th%C3%A1t_%28cropped%29.jpg",
+    "relations": [
+      "Thích Tuệ Sỹ",
+      "Thích Quảng Độ",
+      "Lê Đạt"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ]
+  },
+  {
+    "born": 1944,
+    "died": 1945,
+    "title": "Ban Ki-moon",
+    "desc": "Nhà ngoại giao và chính trị gia người Nam Hàn, từng giữ chức Tổng Thư ký Liên Hợp Quốc thứ 8 nhiệm kỳ 2007–2016. Trước đó ông là Bộ trưởng Ngoại giao Nam Hàn, dẫn dắt các cuộc đàm phán quốc tế về biến đổi khí hậu và an ninh.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "South Korean",
+    "fullName": "Ban Ki-moon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/500px-Ban_Ki-moon_February_2016.jpg",
+    "relations": [
+      "Antonio Guterres",
+      "Donald Trump",
+      "Kofi Annan"
+    ],
+    "themes": []
   },
   {
     "born": 1945,
@@ -20302,7 +24545,7 @@ const RAW_DATA = [
     "relations": [
       "Arthur Rubinstein",
       "Karl Jenkins",
-      "Frédéric Chopin"
+      "Kiyoshi Kurosawa"
     ],
     "themes": [
       "Classical Music"
@@ -20323,9 +24566,9 @@ const RAW_DATA = [
     "fullName": "David Lynch (David Keith Lynch)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/David_Lynch_%281990%29.jpg",
     "relations": [
+      "Marina Abramovic",
       "George Harrison",
-      "David Cronenberg",
-      "Sally Potter"
+      "David Cronenberg"
     ],
     "themes": []
   },
@@ -20333,7 +24576,7 @@ const RAW_DATA = [
     "born": 1946,
     "died": 1947,
     "title": "Marina Abramovic",
-    "desc": "Nghệ sĩ trình diễn người Serbia khám phá những giới hạn về thể chất và cảm xúc.",
+    "desc": "Nghệ sĩ trình diễn tiên phong người Serbia, được tôn vinh là \"bà tổ của nghệ thuật trình diễn\" hiện đại. Các tác phẩm đột phá của bà thách thức cực hạn chịu đựng của thể xác lẫn tinh thần, đồng thời định hình lại mối tương tác cảm xúc giữa người nghệ sĩ và công chúng.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -20345,8 +24588,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Glasto24_28_300624_%28130_of_545%29_%2853838092455%29_%28cropped%29.jpg",
     "relations": [
       "David Cronenberg",
-      "Theo Angelopoulos",
-      "Tilda Swinton"
+      "Sally Potter",
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -20367,7 +24610,7 @@ const RAW_DATA = [
     "relations": [
       "Bạc Hy Lai",
       "Phạm Minh Chính",
-      "Hồ Chí Minh"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": []
   },
@@ -20416,6 +24659,50 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1946,
+    "died": 1989,
+    "title": "Ted Bundy",
+    "desc": "Kẻ giết người hàng loạt khét tiếng người Mỹ. Hắn đã bắt cóc, cưỡng hiếp và sát hại hàng chục phụ nữ và trẻ em gái vào thập niên 1970, sử dụng vẻ ngoài lôi cuốn và học thức cao để che đậy bản chất tàn bạo trước khi bị hành quyết năm 1989.",
+    "color": "#000000",
+    "position": "bottom",
+    "primary_tag": "Criminal",
+    "tags": [
+      "Criminal"
+    ],
+    "nationality": "American",
+    "fullName": "Theodore Robert Bundy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ted_Bundy_headshot.jpg/500px-Ted_Bundy_headshot.jpg",
+    "relations": [
+      "Gary Ridgway",
+      "Andrei Chikatilo",
+      "Jeffrey Epstein"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1946,
+    "died": 2021,
+    "title": "Lê Thụy Hải",
+    "fullName": "Lê Thụy Hải",
+    "desc": "Cựu cầu thủ và huấn luyện viên bóng đá chuyên nghiệp người Việt Nam. Ông là một trong những chiến lược gia thành công nhất V.League với 3 chức vô địch cùng CLB Becamex Bình Dương và cá tính bộc trực, mạnh mẽ đặc trưng.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Le_Thuy_Hai.png",
+    "relations": [
+      "Marcelo Bielsa",
+      "Henrique Calisto",
+      "Otto Rehhagel"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
     "born": 1947,
     "died": 1948,
     "title": "Elton John",
@@ -20451,9 +24738,9 @@ const RAW_DATA = [
     "fullName": "Hầu Hiếu Hiền (Hou Hsiao-hsien, 侯孝賢)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Assassin_Paris_premiere_7.JPG",
     "relations": [
+      "Abbas Kiarostami",
       "Werner Herzog",
-      "Theo Angelopoulos",
-      "Abbas Kiarostami"
+      "Kiyoshi Kurosawa"
     ],
     "themes": []
   },
@@ -20474,7 +24761,7 @@ const RAW_DATA = [
     "relations": [
       "Hầu Hiếu Hiền",
       "Mike de Leon",
-      "Jack Nicholson"
+      "Abbas Kiarostami"
     ],
     "themes": []
   },
@@ -20560,7 +24847,7 @@ const RAW_DATA = [
     "relations": [
       "Yuri Gagarin",
       "Mạc Cửu",
-      "Nguyễn Bá Thanh"
+      "Neil Armstrong"
     ],
     "themes": []
   },
@@ -20625,6 +24912,48 @@ const RAW_DATA = [
       "Nguyễn Bá Thanh",
       "Mã Anh Cửu",
       "Nguyễn Thị Kim Ngân"
+    ],
+    "themes": []
+  },
+  {
+    "title": "Johan Cruyff",
+    "born": 1947,
+    "died": 2016,
+    "desc": "Huyền thoại bóng đá và huấn luyện viên người Hà Lan, được coi là một trong những nhân vật có tầm ảnh hưởng lớn nhất lịch sử bóng đá với triết lý 'Bóng đá tổng lực' (Total Football).",
+    "nationality": "Others",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Football"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/500px-Johan_Cruijff_%281974%29.jpg",
+    "relations": [
+      "Marcelo Bielsa",
+      "Otto Rehhagel",
+      "Sir Bobby Robson"
+    ]
+  },
+  {
+    "born": 1947,
+    "died": 2026,
+    "title": "Salman Rushdie",
+    "fullName": "Sir Ahmed Salman Rushdie",
+    "desc": "Tiểu thuyết gia và nhà tiểu luận gốc Ấn Độ. Tác phẩm của ông thường kết hợp chủ nghĩa hiện thực huyền ảo với tiểu thuyết lịch sử.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Indian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Salman_Rushdie%2C_2024.jpg/500px-Salman_Rushdie%2C_2024.jpg",
+    "relations": [
+      "Mạc Ngôn",
+      "Gabriel García Márquez",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -20731,7 +25060,7 @@ const RAW_DATA = [
     "relations": [
       "Jean-Luc Godard",
       "Agnès Varda",
-      "Sally Potter"
+      "Abbas Kiarostami"
     ],
     "themes": []
   },
@@ -20757,6 +25086,93 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1949,
+    "died": 1950,
+    "title": "Trương Tấn Sang",
+    "fullName": "Trương Tấn Sang",
+    "desc": "Chính trị gia Việt Nam, nguyên Ủy viên Bộ Chính trị, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam (2011–2016), Thường trực Ban Bí thư Trung ương Đảng.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang.jpg/500px-Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang.jpg",
+    "relations": [
+      "Trần Thanh Mẫn",
+      "Tòng Thị Phóng",
+      "Trương Hòa Bình"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1949,
+    "died": 1950,
+    "title": "Gary Ridgway",
+    "desc": "Kẻ giết người hàng loạt người Mỹ được mệnh danh là 'Sát nhân Sông Xanh' (Green River Killer). Hắn bị kết án vì sát hại 49 phụ nữ nhưng sau đó thú nhận đã sát hại gần gấp đôi số đó, là một trong những kẻ giết người hàng loạt nguy hiểm nhất lịch sử Mỹ.",
+    "color": "#000000",
+    "position": "bottom",
+    "primary_tag": "Criminal",
+    "tags": [
+      "Criminal"
+    ],
+    "nationality": "American",
+    "fullName": "Gary Leon Ridgway",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gary_Ridgway_Mugshot_11302001.jpg",
+    "relations": [
+      "Andrei Chikatilo",
+      "Ted Bundy",
+      "Owen Cooper"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1949,
+    "died": 1950,
+    "title": "Antonio Guterres",
+    "desc": "Chính khách người Bồ Đào Nha, Tổng thư ký thứ 9 của Liên Hợp Quốc từ năm 2017. Trước đó ông từng đảm nhiệm chức vụ Thủ tướng Bồ Đào Nha (1995–2002) và Cao ủy Liên Hợp Quốc về người tị nạn (2005–2015).",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Portuguese",
+    "fullName": "António Manuel de Oliveira Guterres",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg/500px-Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
+    "relations": [
+      "Ban Ki-moon",
+      "Donald Trump",
+      "Phan Văn Giang"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1949,
+    "died": 1987,
+    "title": "Thomas Sankara",
+    "fullName": "Thomas Isidore Noël Sankara",
+    "desc": "Nhà cách mạng Marxist, sĩ quan quân đội kiêm Tổng thống Burkina Faso từ 1983 đến 1987. Được ví như 'Che Guevara của châu Phi', ông đã thực hiện các chương trình cải cách xã hội, kinh tế và nữ quyền quy mô lớn trước khi bị ám sát.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "African",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png",
+    "relations": [
+      "Nguyễn Chí Vịnh",
+      "Che Guevara",
+      "Donald Trump"
+    ],
+    "themes": []
+  },
+  {
     "born": 1950,
     "died": 2015,
     "title": "Chantal Akerman",
@@ -20773,7 +25189,7 @@ const RAW_DATA = [
     "relations": [
       "Agnès Varda",
       "Sally Potter",
-      "Jean-Luc Godard"
+      "Abbas Kiarostami"
     ],
     "themes": [
       "French New Wave",
@@ -20796,8 +25212,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Marianne_Bachmeier_1982.jpg",
     "relations": [
       "Edward Snowden",
-      "Hồ Chí Minh",
-      "Alexandre Dumas cha"
+      "Al Capone",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -20881,7 +25297,28 @@ const RAW_DATA = [
     "relations": [
       "Donald Trump",
       "Hugo Chávez",
-      "Lê Duẩn"
+      "Hossein Mousavi"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1950,
+    "died": 1951,
+    "title": "Trương Nghệ Mưu",
+    "fullName": "Zhang Yimou",
+    "desc": "Đạo diễn điện ảnh, nhà sản xuất kiêm cựu diễn viên nổi tiếng người Trung Quốc, thuộc Thế hệ thứ năm của điện ảnh Trung Quốc với những tác phẩm kiệt tác như Cao lương đỏ, Anh hùng, Thập diện mai phục.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg/500px-Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg",
+    "relations": [
+      "Thang Duy",
+      "Trương Mạn Ngọc",
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -20928,6 +25365,49 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "title": "Anatoly Karpov",
+    "born": 1951,
+    "died": null,
+    "desc": "Đại kiện tướng cờ vua người Nga và là nhà vô địch cờ vua thế giới thứ 12 (1975–1985), nổi tiếng với lối chơi phòng thủ vững chắc như bàn thạch và các trận tranh ngôi vua cờ thế kỷ với Garry Kasparov.",
+    "nationality": "Russian",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Chess"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Anatoly_Karpov_2017_april.jpg/500px-Anatoly_Karpov_2017_april.jpg",
+    "relations": [
+      "Garry Kasparov",
+      "Bobby Fischer",
+      "Gukesh D"
+    ]
+  },
+  {
+    "born": 1951,
+    "died": 1982,
+    "title": "Theresa Hak Kyung Cha",
+    "desc": "Nhà văn, nghệ sĩ đa phương tiện người Mỹ gốc Hàn. Tác phẩm nổi tiếng nhất của bà là cuốn sách thử nghiệm 'Dictee' (1982) kết hợp nhiều thể loại để khám phá căn tính, lịch sử và chấn thương di cư.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Art"
+    ],
+    "nationality": "American",
+    "fullName": "Theresa Hak Kyung Cha",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Theresa_Hak_Kyung_Cha_%28Barnes%2C_1980%29.png",
+    "relations": [
+      "Tàn Tuyết",
+      "Hân Nhiên",
+      "Rosalind Miles"
+    ],
+    "themes": []
+  },
+  {
     "born": 1952,
     "died": 1953,
     "title": "Harvey Weinstein",
@@ -20964,8 +25444,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hun_Sen_July_2019.jpg/500px-Hun_Sen_July_2019.jpg",
     "relations": [
       "Angela Merkel",
-      "Tập Cận Bình",
-      "Benjamin Netanyahu"
+      "Ali Khamenei",
+      "Tập Cận Bình"
     ],
     "themes": []
   },
@@ -20985,8 +25465,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Yoshitaka_Amano_Oct_2006.jpg",
     "relations": [
       "Aoyama Gōshō",
-      "Abbas Kiarostami",
-      "Shunji Iwai"
+      "Shunji Iwai",
+      "Kiyoshi Kurosawa"
     ],
     "themes": []
   },
@@ -21004,12 +25484,56 @@ const RAW_DATA = [
     ],
     "nationality": "Italian",
     "relations": [
+      "Kiyoshi Kurosawa",
       "Tilda Swinton",
-      "David Cronenberg",
-      "Edward Norton"
+      "David Cronenberg"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roberto_Benigni-5274.jpg/500px-Roberto_Benigni-5274.jpg"
+  },
+  {
+    "born": 1952,
+    "died": 1953,
+    "title": "Rama X",
+    "fullName": "Maha Vajiralongkorn",
+    "desc": "Vua thứ mười và là vị vua hiện tại của vương triều Chakri nước Thái Lan, lên ngôi năm 2016 sau khi vua cha Rama IX băng hạ.",
+    "color": "#8d6e63",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Rama_X_official_%28cropped%29.png/500px-King_Rama_X_official_%28cropped%29.png",
+    "relations": [
+      "Rama IX",
+      "Rama V",
+      "Trương Tấn Sang"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1952,
+    "died": 1953,
+    "title": "Osvaldo Ardiles",
+    "desc": "Cựu tiền vệ bóng đá huyền thoại người Argentina, nhà vô địch World Cup 1978. Ông là một trong những ngôi sao nước ngoài đầu tiên thành công rực rỡ và được yêu mến nồng nhiệt tại giải Ngoại hạng Anh trong màu áo Tottenham Hotspur.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Latin American",
+    "fullName": "Osvaldo César Ardiles",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Osvaldo_Ardiles_%281981%29.jpg/500px-Osvaldo_Ardiles_%281981%29.jpg",
+    "relations": [
+      "Mario Kempes",
+      "Graeme Souness",
+      "Otto Rehhagel"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1953,
@@ -21049,7 +25573,7 @@ const RAW_DATA = [
     "relations": [
       "Hako Yamasaki",
       "Phum Viphurit",
-      "Tôn-Thất Tiết"
+      "Shunji Iwai"
     ],
     "themes": []
   },
@@ -21156,7 +25680,7 @@ const RAW_DATA = [
     "relations": [
       "Park Hang-seo",
       "Lê Thụy Hải",
-      "Ange Postecoglou"
+      "Otto Rehhagel"
     ],
     "themes": [
       "Football"
@@ -21177,12 +25701,58 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mrs._Nguyen_Thi_Kim_Tien.jpg",
     "relations": [
+      "Tô Ân Xô",
       "Nguyễn Bá Thanh",
-      "Nguyễn Thị Kim Ngân",
-      "Tô Lâm"
+      "Nguyễn Thị Kim Ngân"
     ],
     "themes": [
       "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1953,
+    "died": 2015,
+    "title": "Nguyễn Bá Thanh",
+    "fullName": "Nguyễn Bá Thanh",
+    "desc": "Chính trị gia Việt Nam, nguyên Trưởng Ban Nội chính Trung ương, Bí thư Thành ủy kiêm Chủ tịch HĐND thành phố Đà Nẵng. Ông được coi là người có công lớn trong việc quy hoạch, phát triển hiện đại hóa Đà Nẵng.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/6/6d/Nguyen_Ba_Thanh.jpg",
+    "relations": [
+      "Tô Lâm",
+      "Đỗ Văn Chiến",
+      "Trương Tấn Sang"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
+    "born": 1953,
+    "died": 1954,
+    "title": "Graeme Souness",
+    "desc": "Tiền vệ huyền thoại người Scotland, một trong những thủ lĩnh vĩ đại nhất lịch sử câu lạc bộ Liverpool. Ông đã cùng The Kop giành 5 chức vô địch bóng đá Anh và 3 danh hiệu Cúp C1 châu Âu đầy vẻ vang.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "British",
+    "fullName": "Graeme James Souness",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Souness_%28retouched%29.jpg/500px-Souness_%28retouched%29.jpg",
+    "relations": [
+      "Mario Kempes",
+      "Osvaldo Ardiles",
+      "Johan Cruyff"
+    ],
+    "themes": [
+      "Football"
     ]
   },
   {
@@ -21201,8 +25771,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lee_Chang-dong_2010.jpg",
     "relations": [
       "Sally Potter",
-      "Park Chan-wook",
-      "Lars von Trier"
+      "Abbas Kiarostami",
+      "Park Chan-wook"
     ],
     "themes": []
   },
@@ -21266,8 +25836,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/500px-Angela_Merkel_2019_cropped.jpg",
     "relations": [
       "Hun Sen",
-      "Phạm Minh Chính",
-      "Benjamin Netanyahu"
+      "Ali Khamenei",
+      "Phạm Minh Chính"
     ],
     "themes": []
   },
@@ -21340,6 +25910,71 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nguyen_Xuan_Phuc_20210323.jpg/500px-Nguyen_Xuan_Phuc_20210323.jpg"
   },
   {
+    "title": "Tòng Thị Phóng",
+    "born": 1954,
+    "died": 1955,
+    "desc": "Nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Thường trực Quốc hội Việt Nam. Bà là nữ chính khách người dân tộc thiểu số (Thái) đầu tiên nắm giữ cương vị Ủy viên Bộ Chính trị Đảng Cộng sản Việt Nam.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tongthiphong2018.jpg",
+    "relations": [
+      "Nguyễn Thị Kim Ngân",
+      "Trương Tấn Sang",
+      "Trần Thanh Mẫn"
+    ]
+  },
+  {
+    "title": "Nguyễn Thị Kim Ngân",
+    "born": 1954,
+    "died": 1955,
+    "desc": "Nguyên Ủy viên Bộ Chính trị, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam. Bà là nữ chính khách đầu tiên trong lịch sử giữ vị trí người đứng đầu cơ quan lập pháp Việt Nam.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n_20191211.jpg/500px-Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n_20191211.jpg",
+    "relations": [
+      "Tòng Thị Phóng",
+      "Trần Thanh Mẫn",
+      "Trương Tấn Sang"
+    ]
+  },
+  {
+    "born": 1954,
+    "died": 1955,
+    "title": "Mario Kempes",
+    "desc": "Huyền thoại bóng đá người Argentina. Ông là nhân tố chủ chốt đưa Argentina lên ngôi vô địch World Cup 1978 tại quê nhà, đồng thời đoạt cả hai danh hiệu Vua phá lưới (Golden Boot) và Cầu thủ xuất sắc nhất giải đấu.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Latin American",
+    "fullName": "Mario Alberto Kempes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kempes_Valencia_CF.jpg",
+    "relations": [
+      "Osvaldo Ardiles",
+      "Graeme Souness",
+      "Son Heung-min"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
     "born": 1955,
     "died": 1956,
     "title": "Béla Tarr",
@@ -21356,7 +25991,7 @@ const RAW_DATA = [
     "relations": [
       "Mike de Leon",
       "Agnès Varda",
-      "Jafar Panahi"
+      "Kiyoshi Kurosawa"
     ],
     "themes": []
   },
@@ -21364,7 +25999,7 @@ const RAW_DATA = [
     "born": 1955,
     "died": 1956,
     "title": "Kiyoshi Kurosawa",
-    "desc": "Nhà làm phim Nhật Bản nổi tiếng với những đóng góp của mình cho thể loại kinh dị và ly kỳ.",
+    "desc": "Đạo diễn điện ảnh và biên kịch lừng danh người Nhật Bản, bậc thầy của thể loại phim kinh dị tâm lý và giật gân (J-Horror) qua tác phẩm kinh điển \"Cure\" và \"Pulse\". Ông vinh dự nhận giải Đạo diễn xuất sắc nhất tại Liên hoan phim Cannes 2020 cho phim \"Wife of a Spy\".",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -21375,9 +26010,9 @@ const RAW_DATA = [
     "fullName": "Kiyoshi Kurosawa (黒沢清)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Kiyoshi_Kurosawa_at_the_2024_Toronto_International_Film_Festival.jpg",
     "relations": [
+      "Hầu Hiếu Hiền",
       "David Cronenberg",
-      "Koji Yakusho",
-      "Hirokazu Kore-eda"
+      "Alejandro González Iñárritu"
     ],
     "themes": []
   },
@@ -21396,9 +26031,9 @@ const RAW_DATA = [
     "fullName": "William Henry Gates III",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/500px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
     "relations": [
+      "Jeff Bezos",
       "Jack Ma",
-      "Lôi Quân",
-      "Donald Trump"
+      "Lôi Quân"
     ],
     "themes": []
   },
@@ -21419,7 +26054,7 @@ const RAW_DATA = [
     "relations": [
       "Gabriel García Márquez",
       "Cao Hành Kiện",
-      "László Krasznahorkai"
+      "Han Kang"
     ],
     "themes": [
       "Giai Nobel"
@@ -21440,9 +26075,9 @@ const RAW_DATA = [
     "fullName": "Katalin Karikó",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/500px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg",
     "relations": [
+      "Ivan Pavlov",
       "Shimon Sakaguchi",
-      "Alexandre Dumas con",
-      "Wilhelm Wundt"
+      "Hoàng Tích Trí"
     ],
     "themes": []
   },
@@ -21513,6 +26148,27 @@ const RAW_DATA = [
     ],
     "themes": [
       "Football"
+    ]
+  },
+  {
+    "title": "Trương Hòa Bình",
+    "born": 1955,
+    "died": 1956,
+    "desc": "Nguyên Ủy viên Bộ Chính trị, Phó Thủ tướng Thường trực Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam, nguyên Chánh án Tòa án nhân dân tối cao.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mr._Truong_Hoa_Binh.jpg/500px-Mr._Truong_Hoa_Binh.jpg",
+    "relations": [
+      "Trương Tấn Sang",
+      "Trần Thanh Mẫn",
+      "Tòng Thị Phóng"
     ]
   },
   {
@@ -21595,7 +26251,7 @@ const RAW_DATA = [
     "relations": [
       "Mã Anh Cửu",
       "Trần Thủy Biển",
-      "Hugo Chávez"
+      "Barack Obama"
     ],
     "themes": []
   },
@@ -21614,9 +26270,9 @@ const RAW_DATA = [
     "fullName": "Thái Minh Lượng (Tsai Ming-liang, 蔡明亮)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tsai_Ming-liang_at_82nd_Venice_International_Film_Festival-1.jpg",
     "relations": [
+      "Kiyoshi Kurosawa",
       "Chantal Akerman",
-      "Hầu Hiếu Hiền",
-      "Bong Joon-ho"
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -21636,8 +26292,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg",
     "relations": [
       "Trịnh Xuân Thanh",
-      "Jeffrey Epstein",
-      "Harvey Weinstein"
+      "Aleksey Navalny",
+      "Jeffrey Epstein"
     ],
     "themes": []
   },
@@ -21788,8 +26444,8 @@ const RAW_DATA = [
     "fullName": "Michael Jackson (Michael Joseph Jackson, MJ, King of Pop)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
     "relations": [
-      "Hako Yamasaki",
       "Rei Harakami",
+      "Hako Yamasaki",
       "Kurt Cobain"
     ],
     "themes": []
@@ -21809,9 +26465,9 @@ const RAW_DATA = [
     "fullName": "Phạm Minh Chính",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pham_Minh_Chinh_2021.jpg/500px-Pham_Minh_Chinh_2021.jpg",
     "relations": [
+      "Tô Ân Xô",
       "Phan Văn Giang",
-      "Tô Lâm",
-      "Nguyễn Xuân Phúc"
+      "Tô Lâm"
     ],
     "themes": [
       "VN Modern Communism"
@@ -21877,7 +26533,7 @@ const RAW_DATA = [
     "relations": [
       "Jafar Panahi",
       "Tilda Swinton",
-      "Alejandro González Iñárritu"
+      "Shunji Iwai"
     ],
     "themes": []
   },
@@ -21897,8 +26553,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nguyen_Chi_Vinh_-_United_States_and_Vietnam_Sign_Land_Handover_Memorandum_to_Initiate_Dioxin_Remediation_at_Bien_Hoa_Airbase_Area.jpg/500px-Nguyen_Chi_Vinh_-_United_States_and_Vietnam_Sign_Land_Handover_Memorandum_to_Initiate_Dioxin_Remediation_at_Bien_Hoa_Airbase_Area.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
       "Trần Văn Trà",
-      "Ngô Xuân Lịch",
-      "Robert McNamara"
+      "Tô Ân Xô",
+      "Ngô Xuân Lịch"
     ],
     "themes": []
   },
@@ -21944,6 +26600,53 @@ const RAW_DATA = [
       "Dmitry Medvedev",
       "Nguyễn Thị Kim Ngân",
       "Antonio Guterres"
+    ]
+  },
+  {
+    "born": 1959,
+    "died": 2026,
+    "title": "John McEnroe",
+    "fullName": "John Patrick McEnroe Jr.",
+    "desc": "American former professional tennis player. Known for his shot-making and volleying skills, as well as his confrontational on-court behavior, he won seven Grand Slam singles titles and nine Grand Slam men's doubles titles.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/John_McEnroe_005.png",
+    "relations": [
+      "Pete Sampras",
+      "Boris Becker",
+      "Steffi Graf"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1959,
+    "died": 1960,
+    "title": "Kimberle Crenshaw",
+    "desc": "Nhà lý luận pháp lý, học giả và nhà hoạt động dân quyền người Mỹ. Bà nổi tiếng thế giới nhờ việc giới thiệu và phát triển khái niệm giao thoa luận (intersectionality) trong phong trào nữ quyền.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Political"
+    ],
+    "nationality": "American",
+    "fullName": "Kimberlé Williams Crenshaw",
+    "image": "",
+    "relations": [
+      "Julia Kristeva",
+      "Simone de Beauvoir",
+      "Flora Tristan"
+    ],
+    "themes": [
+      "Feminism Movement"
     ]
   },
   {
@@ -22168,7 +26871,7 @@ const RAW_DATA = [
     "born": 1961,
     "died": 1962,
     "title": "Barack Obama",
-    "desc": "Chính trị gia và luật sư người Mỹ, từng là Tổng thống thứ 44 của Hoa Kỳ từ năm 2009 đến năm 2017.",
+    "desc": "Tổng thống thứ 44 của Hoa Kỳ (2009-2017) và là tổng thống da màu đầu tiên trong lịch sử nước Mỹ. Ông nổi tiếng với việc ban hành đạo luật y tế \"Obamacare\", bình thường hóa quan hệ ngoại giao với Cuba và vinh dự nhận giải thưởng Nobel Hòa bình vào năm 2009.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -22179,9 +26882,9 @@ const RAW_DATA = [
     "fullName": "Barack Obama",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
     "relations": [
-      "Henry Kissinger",
-      "Nelson Mandela",
-      "Donald Trump"
+      "Anwar Al-Sadad",
+      "Kofi Annan",
+      "Woodrow Wilson"
     ],
     "themes": [
       "Giai Nobel"
@@ -22202,9 +26905,9 @@ const RAW_DATA = [
     "fullName": "Công nương Diana",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg/500px-Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
     "relations": [
+      "Tô Ân Xô",
       "Cù Huy Hà Vũ",
-      "Tô Lâm",
-      "Nguyễn Bá Thanh"
+      "Tô Lâm"
     ],
     "themes": []
   },
@@ -22244,9 +26947,9 @@ const RAW_DATA = [
     "fullName": "Hirokazu Kore-eda (是枝裕和)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Hirokazu_Kore-eda_-_The_Egyptian_Theatre.jpg",
     "relations": [
+      "Kiyoshi Kurosawa",
       "Kon Satoshi",
-      "Shunji Iwai",
-      "Koji Yakusho"
+      "Shunji Iwai"
     ],
     "themes": []
   },
@@ -22286,9 +26989,9 @@ const RAW_DATA = [
     "fullName": "Trần Anh Hùng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tran_Anh_Hung_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822453104525%29_%28cropped%29.jpg",
     "relations": [
+      "Kiyoshi Kurosawa",
       "Hầu Hiếu Hiền",
-      "Alejandro González Iñárritu",
-      "Tilda Swinton"
+      "Alejandro González Iñárritu"
     ],
     "themes": []
   },
@@ -22360,7 +27063,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Daniel Levy",
     "fullName": "Daniel Levy (Daniel Philip Levy)",
-    "desc": "Doanh nhân người Anh và chủ tịch của Tottenham Hotspur F.C. kể từ năm 2001.",
+    "desc": "Doanh nhân người Anh và là Chủ tịch điều hành phục vụ lâu năm nhất tại giải Ngoại hạng Anh của Tottenham Hotspur F.C. (từ năm 2001). Ông nổi danh khắp thế giới bóng đá nhờ phong cách đàm phán chuyển nhượng vô cùng gai góc và dự án xây dựng sân vận động mới trị giá tỷ bảng.",
     "color": "#ff9f1c",
     "position": "bottom",
     "primary_tag": "Business",
@@ -22372,11 +27075,99 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Daniel_Levy.jpg/500px-Daniel_Levy.jpg",
     "relations": [
       "Todd Boehly",
-      "Roman Abramovich",
+      "Son Heung-min",
       "David Beckham"
     ],
     "themes": [
       "Football"
+    ]
+  },
+  {
+    "title": "Đỗ Văn Chiến",
+    "born": 1962,
+    "died": 1963,
+    "desc": "Ủy viên Bộ Chính trị, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, nguyên Bí thư Trung ương Đảng, Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Do_Van_Chien_29072025.jpg/500px-Do_Van_Chien_29072025.jpg",
+    "relations": [
+      "Trần Thanh Mẫn",
+      "Lê Minh Hưng",
+      "Trương Tấn Sang"
+    ]
+  },
+  {
+    "title": "Trần Thanh Mẫn",
+    "born": 1962,
+    "died": 1963,
+    "desc": "Ủy viên Bộ Chính trị, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam, nguyên Phó Chủ tịch Thường trực Quốc hội và Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/e3/Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn_02052026.jpg/500px-Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn_02052026.jpg",
+    "relations": [
+      "Trương Tấn Sang",
+      "Đỗ Văn Chiến",
+      "Trương Hòa Bình"
+    ]
+  },
+  {
+    "born": 1962,
+    "died": 1963,
+    "title": "Yoko Ogawa",
+    "desc": "Nhà văn Nhật Bản đương đại xuất sắc, chủ nhân giải Akutagawa. Các tác phẩm nổi tiếng như 'Cảnh sát bộ nhớ' (The Memory Police) và 'Công thức tình yêu của giáo sư' khắc họa tinh tế sự mất mát, ký ức và sự kết nối giữa người với người.",
+    "color": "#2f5233",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Women"
+    ],
+    "nationality": "Japanese",
+    "fullName": "Yōko Ogawa",
+    "image": "",
+    "relations": [
+      "Ichikawa Takuji",
+      "Nguyễn Nguyên Phước",
+      "Han Kang"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1962,
+    "died": 1963,
+    "title": "Huy Đức",
+    "desc": "Nhà báo, nhà văn và nhà hoạt động bất đồng chính kiến nổi tiếng Việt Nam. Ông là tác giả cuốn sách tài liệu lịch sử chính trị 'Bên thắng cuộc' gây tiếng vang lớn trên thế giới.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "fullName": "Trương Huy San",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Huy_Duc.JPG/500px-Huy_Duc.JPG",
+    "relations": [
+      "Cù Huy Hà Vũ",
+      "Bùi Tín",
+      "Hoàng Minh Chính"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
     ]
   },
   {
@@ -22394,9 +27185,9 @@ const RAW_DATA = [
     "fullName": "Kon Satoshi (今敏)",
     "image": "",
     "relations": [
+      "Kiyoshi Kurosawa",
       "Ryusuke Hamaguchi",
-      "Jafar Panahi",
-      "Park Chan-wook"
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -22417,7 +27208,7 @@ const RAW_DATA = [
     "relations": [
       "Éric-Emmanuel Schmitt",
       "Mạc Ngôn",
-      "Nguyễn Nguyên Phước"
+      "H. G. Wells"
     ],
     "themes": []
   },
@@ -22425,7 +27216,7 @@ const RAW_DATA = [
     "born": 1963,
     "died": 1964,
     "title": "Tô Ân Xô",
-    "desc": "Thượng tướng Việt Nam hiện đang giữ chức vụ Trợ lý Tổng Bí thư. Trước đó, ông từng giữ chức vụ Chánh Văn phòng, Người phát ngôn Bộ Công an.",
+    "desc": "Thượng tướng Công an nhân dân Việt Nam, hiện giữ chức vụ Trợ lý Tổng Bí thư kiêm Phụ trách Văn phòng Tổng Bí thư. Trước đó, ông có thời gian dài giữ các vị trí quan trọng tại Bộ Công an như Chánh Văn phòng Bộ Công an, Trợ lý Bộ trưởng kiêm Người phát ngôn Bộ Công an, đóng vai trò chủ chốt trong công tác thông tin báo chí và phát ngôn chính thức của lực lượng công an.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -22437,8 +27228,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2f/To_An_Xo_in_Moscow%2C_09052025.jpg/500px-To_An_Xo_in_Moscow%2C_09052025.jpg",
     "relations": [
       "Phan Văn Giang",
-      "Tô Lâm",
-      "Phạm Minh Chính"
+      "Phạm Minh Chính",
+      "Tô Lâm"
     ],
     "themes": [
       "VN Modern Communism"
@@ -22558,7 +27349,7 @@ const RAW_DATA = [
     "born": 1963,
     "died": 2026,
     "title": "Shunji Iwai",
-    "desc": "Đạo diễn phim, nghệ sĩ video, nhà văn và nhà sản xuất phim tài liệu Nhật Bản.",
+    "desc": "Nhà làm phim, đạo diễn kiêm biên kịch tài hoa người Nhật Bản, nổi tiếng toàn cầu qua các kiệt tác điện ảnh lãng mạn đậm chất thơ và tâm lý sâu lắng như \"Love Letter\" và \"All About Lily Chou-Chou\", tạo nên một dấu ấn nghệ thuật tinh tế độc bản.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -22570,8 +27361,29 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shunji_Iwai.jpg",
     "relations": [
       "Alejandro González Iñárritu",
-      "Jafar Panahi",
-      "Tilda Swinton"
+      "Sofia Coppola",
+      "Abbas Kiarostami"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1963,
+    "died": 1964,
+    "title": "Alejandro González Iñárritu",
+    "desc": "Đạo diễn điện ảnh, nhà biên kịch và nhà sản xuất phim nổi tiếng người Mexico. Ông là đạo diễn người Mexico đầu tiên giành giải Oscar cho Đạo diễn xuất sắc nhất, nổi danh qua các kiệt tác nghệ thuật như Birdman, The Revenant và Babel.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Latin American",
+    "fullName": "Alejandro González Iñárritu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg/500px-Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg",
+    "relations": [
+      "Sofia Coppola",
+      "Tilda Swinton",
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -22591,8 +27403,73 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/20th_Anniversary_Schwab_Foundation_Gala_Dinner_%2844887783681%29_%28cropped%29.jpg",
     "relations": [
       "Lôi Quân",
+      "Jeff Bezos",
+      "Bill Gates"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1964,
+    "died": 1965,
+    "title": "Trương Mạn Ngọc",
+    "fullName": "Maggie Cheung",
+    "desc": "Nữ diễn viên điện ảnh nổi tiếng người Hồng Kông, một trong những biểu tượng lớn của điện ảnh Hoa ngữ. Bà nổi tiếng với các vai diễn trong Tâm trạng khi yêu, Đông Tà Tây Độc, Anh hùng.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maggie_Cheung_%28cropped%29.jpg/500px-Maggie_Cheung_%28cropped%29.jpg",
+    "relations": [
+      "Lương Triều Vỹ",
+      "Trương Nghệ Mưu",
+      "Thang Duy"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1964,
+    "died": 1965,
+    "title": "Michael Laudrup",
+    "desc": "Tiền vệ kiến thiết kiệt xuất người Đan Mạch, một trong những chân chuyền bóng hoa mỹ nhất lịch sử. Ông là nhạc trưởng của 'Dream Team' Barcelona dưới thời Cruyff trước khi chuyển sang khoác áo Real Madrid.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Michael Laudrup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Michael_Laudrup_2016c_%28cropped%29.jpg/500px-Michael_Laudrup_2016c_%28cropped%29.jpg",
+    "relations": [
+      "Eidur Gudjohnsen",
+      "Zinedine Zidane",
+      "Mario Kempes"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1964,
+    "died": 1965,
+    "title": "Jeff Bezos",
+    "fullName": "Jeff Bezos (Jeffrey Preston Bezos)",
+    "desc": "Doanh nhân tỷ phú người Mỹ, người sáng lập và cựu CEO của tập đoàn thương mại điện tử khổng lồ Amazon. Ông đóng vai trò tiên phong trong cuộc cách mạng thương mại điện tử toàn cầu và sáng lập công ty hàng không vũ trụ Blue Origin, mở đường cho kỷ nguyên du hành không gian tư nhân thương mại.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_the_2024_Met_Gala_%28cropped%29.jpg/500px-Jeff_Bezos_at_the_2024_Met_Gala_%28cropped%29.jpg",
+    "relations": [
       "Bill Gates",
-      "Ariane de Rothschild"
+      "Jack Ma",
+      "Daniel Levy"
     ],
     "themes": []
   },
@@ -22633,8 +27510,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ariane_de_Rothschild_%28cropped%29.jpg",
     "relations": [
       "Jack Ma",
-      "Phạm Nhật Vượng",
-      "Elon Musk"
+      "Jeff Bezos",
+      "Daniel Levy"
     ],
     "themes": []
   },
@@ -22674,9 +27551,9 @@ const RAW_DATA = [
     "fullName": "Dmitry Anatolyevich Medvedev (Dmitry Medvedev)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dmitry_Medvedev_%282026-02-06%29.jpg",
     "relations": [
+      "Tô Ân Xô",
       "Tô Lâm",
-      "Viktor Yanukovych",
-      "Phan Văn Giang"
+      "Viktor Yanukovych"
     ],
     "themes": []
   },
@@ -22742,9 +27619,9 @@ const RAW_DATA = [
     "fullName": "Nemesio Oseguera Cervantes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/El_Mencho_San_Francisco.jpeg",
     "relations": [
+      "Al Capone",
       "Dung Hà",
-      "Harvey Weinstein",
-      "Pablo Escobar"
+      "Harvey Weinstein"
     ],
     "themes": []
   },
@@ -22753,7 +27630,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Roman Abramovich",
     "fullName": "Roman Abramovich (Roman Arkadyevich Abramovich)",
-    "desc": "Doanh nhân tỷ phú người Nga gốc Israel và chủ sở hữu cũ của Chelsea F.C.",
+    "desc": "Tỷ phú tài phiệt người Nga gốc Do Thái, người sở hữu cũ của câu lạc bộ bóng đá Chelsea F.C. từ 2003 đến 2022. Thời kỳ nắm quyền của ông đã làm thay đổi hoàn toàn cục diện bóng đá Anh và châu Âu, đưa Chelsea bước vào kỷ nguyên vàng son vô tiền khoáng hậu.",
     "color": "#ff9f1c",
     "position": "bottom",
     "primary_tag": "Business",
@@ -22764,9 +27641,9 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Roman_Abramovich_%28cropped%29.png",
     "relations": [
+      "Son Heung-min",
       "Todd Boehly",
-      "Daniel Levy",
-      "David Beckham"
+      "Pavel Nedved"
     ],
     "themes": [
       "Football"
@@ -22861,11 +27738,76 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1967,
+    "died": 2026,
+    "title": "Boris Becker",
+    "fullName": "Boris Franz Becker",
+    "desc": "German former world No. 1 tennis player. He was the youngest ever winner of the gentlemen's singles title at Wimbledon at age 17 and won six Grand Slam singles titles overall.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "German",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Boris_Becker_-_240422_174721_%28cropped%29.jpg/500px-Boris_Becker_-_240422_174721_%28cropped%29.jpg",
+    "relations": [
+      "Pete Sampras",
+      "John McEnroe",
+      "Roger Federer"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1967,
+    "died": 1968,
+    "title": "Thuận",
+    "fullName": "Đoàn Ánh Thuận",
+    "desc": "Nhà văn và dịch giả người Việt Nam đương đại, hiện sống tại Paris. Chị nổi tiếng với các tiểu thuyết khai thác đề tài di dân, căn tính như Chinatown, Made in Vietnam, T mất tích.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Po_Klong_Garai.jpg/500px-Po_Klong_Garai.jpg",
+    "relations": [
+      "Đặng Hoàng Giang",
+      "Han Kang",
+      "Mạc Ngôn"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1967,
+    "died": 1968,
+    "title": "Jimmy Kimmel",
+    "fullName": "James Christian Kimmel",
+    "desc": "Người dẫn chương trình truyền hình, diễn viên hài và nhà sản xuất người Mỹ. Ông là người dẫn chương trình và sáng lập talkshow đêm muộn ăn khách Jimmy Kimmel Live! của đài ABC, đồng thời nhiều lần vinh dự dẫn chương trình lễ trao giải Oscar.",
+    "color": "#aaaaaa",
+    "position": "bottom",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jimmy_Kimmel_June_2022.jpg",
+    "relations": [
+      "Jimmy Fallon",
+      "Kim Kardashian",
+      "Ricky Gervais"
+    ],
+    "themes": []
+  },
+  {
     "born": 1968,
     "died": 2026,
     "title": "Thom Yorke",
     "fullName": "Thom Yorke (Thomas Edward Yorke)",
-    "desc": "Nhạc sĩ người Anh, ca sĩ chính và nhạc sĩ của ban nhạc alternative rock Radiohead.",
+    "desc": "Nhạc sĩ kiêm ca sĩ người Anh, thủ lĩnh và linh hồn của ban nhạc alternative rock huyền thoại Radiohead. Ông nổi tiếng thế giới nhờ giọng hát giả thanh đặc trưng cùng tư duy thử nghiệm âm nhạc đột phá, góp phần tái định hình diện mạo âm nhạc hiện đại.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -22875,9 +27817,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Thom_Yorke_2013.jpg",
     "relations": [
-      "Chester Bennington",
       "Trần Lập",
-      "Kurt Cobain"
+      "Chester Bennington",
+      "Ringo Starr"
     ],
     "themes": [
       "Rocker"
@@ -22899,7 +27841,7 @@ const RAW_DATA = [
     "relations": [
       "Ariane de Rothschild",
       "Jack Ma",
-      "Trịnh Công Sơn"
+      "Jeff Bezos"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Phamnhatvuong2024.jpg/500px-Phamnhatvuong2024.jpg"
@@ -22920,8 +27862,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg",
     "relations": [
       "Kim Min-hee",
-      "Kim Ki-duk",
-      "Lương Triều Vỹ"
+      "Thang Duy",
+      "Kim Ki-duk"
     ],
     "themes": []
   },
@@ -22942,7 +27884,7 @@ const RAW_DATA = [
     "relations": [
       "Jack Ma",
       "Trương Nhất Minh",
-      "Bill Gates"
+      "Jeff Bezos"
     ],
     "themes": []
   },
@@ -22962,8 +27904,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sean_Combs_Cannes_2012_%28cropped%29_4.jpg/500px-Sean_Combs_Cannes_2012_%28cropped%29_4.jpg",
     "relations": [
       "Trịnh Xuân Thanh",
-      "Edward Snowden",
-      "Dung Hà"
+      "Alberto Fujimori",
+      "Edward Snowden"
     ],
     "themes": []
   },
@@ -23052,6 +27994,71 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1969,
+    "died": null,
+    "title": "Edward Norton",
+    "fullName": "Edward Harrison Norton",
+    "desc": "Nam diễn viên, nhà làm phim và nhà hoạt động xã hội người Mỹ. Ông nổi tiếng với khả năng biến hóa đa dạng và diễn xuất tâm lý xuất sắc trong các bộ phim kinh điển như 'Fight Club', 'American History X', và 'Primal Fear', từng nhận được nhiều đề cử giải Oscar.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "relations": [
+      "Leonardo DiCaprio",
+      "Tilda Swinton",
+      "Thang Duy"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg/500px-Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg"
+  },
+  {
+    "title": "Steffi Graf",
+    "born": 1969,
+    "died": null,
+    "desc": "Cựu tay vợt quần vợt số 1 thế giới người Đức, một trong những tay vợt vĩ đại nhất lịch sử và là người duy nhất (cả nam lẫn nữ) đạt cú 'Golden Slam' trong cùng một năm dương lịch (1988).",
+    "nationality": "German",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Tennis"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg/500px-Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg",
+    "relations": [
+      "Serena Williams",
+      "Kim Clijsters",
+      "Venus Williams"
+    ]
+  },
+  {
+    "born": 1969,
+    "died": 1970,
+    "title": "Brian Laudrup",
+    "desc": "Cựu danh thủ chạy cánh lừng danh người Đan Mạch. Anh cùng người anh trai Michael tạo nên bộ đôi huyền thoại, đóng vai trò đầu tàu giúp Đan Mạch viết nên câu chuyện cổ tích vô địch Euro 1992.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Brian Laudrup",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Brian-Laudrup-Darren-Laver-Lars-Hogh_%28cropped%29.jpg",
+    "relations": [
+      "Ronaldo de Lima",
+      "Mario Kempes",
+      "Otto Rehhagel"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
     "born": 1970,
     "died": 1971,
     "title": "Apichatpong Weerasethakul",
@@ -23067,8 +28074,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
     "relations": [
       "Spike Jonze",
-      "Alejandro González Iñárritu",
-      "Sofia Coppola"
+      "Shunji Iwai",
+      "Alejandro González Iñárritu"
     ],
     "themes": []
   },
@@ -23097,7 +28104,7 @@ const RAW_DATA = [
     "born": 1970,
     "died": 1971,
     "title": "Han Kang",
-    "desc": "Tác giả Hàn Quốc nổi tiếng với cuốn tiểu thuyết “Người ăn chay” đoạt giải Man Booker quốc tế.",
+    "desc": "Nữ nhà văn xuất sắc người Hàn Quốc, tác giả đầu tiên của xứ sở kim chi đoạt giải Man Booker Quốc tế (2016) với cuốn tiểu thuyết đầy ám ảnh \"Người ăn chay\". Các tác phẩm của bà nổi bật với văn phong tinh tế khai thác chấn thương tinh thần và thân phận con người.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -23121,7 +28128,7 @@ const RAW_DATA = [
     "died": 2011,
     "title": "Rei Harakami",
     "fullName": "Rei Harakami",
-    "desc": "Nhạc sĩ và nhà sản xuất điện tử Nhật Bản, nổi tiếng với phong cách âm thanh ấm áp và tự nhiên.",
+    "desc": "Nhạc sĩ và nhà sản xuất nhạc điện tử tiên phong người Nhật Bản, nổi danh với phong cách âm thanh IDM ấm áp, giàu xúc cảm được sáng tạo từ những thiết bị tối giản. Sự nghiệp đột phá của ông đã để lại dấu ấn sâu đậm trong nền âm nhạc điện tử châu Á.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -23131,9 +28138,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "",
     "relations": [
-      "Hako Yamasaki",
+      "Michael Jackson",
       "Spike Jonze",
-      "Michael Jackson"
+      "Hako Yamasaki"
     ],
     "themes": []
   },
@@ -23161,6 +28168,29 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1970,
+    "died": 1971,
+    "title": "Lê Minh Hưng",
+    "fullName": "Lê Minh Hưng",
+    "desc": "Chính trị gia Việt Nam, Ủy viên Bộ Chính trị, Trưởng Ban Tổ chức Trung ương, nguyên Thống đốc Ngân hàng Nhà nước Việt Nam, Chánh Văn phòng Trung ương Đảng.",
+    "color": "#8d6e63",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Đỗ Văn Chiến",
+      "Tô Lâm",
+      "Trần Thanh Mẫn"
+    ],
+    "themes": [
+      "VN Modern Communism"
+    ]
+  },
+  {
     "born": 1971,
     "died": 1972,
     "title": "Elon Musk",
@@ -23176,8 +28206,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/500px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
     "relations": [
       "Todd Boehly",
-      "Ariane de Rothschild",
-      "Trương Nhất Minh"
+      "Jeff Bezos",
+      "Ariane de Rothschild"
     ],
     "themes": []
   },
@@ -23242,7 +28272,7 @@ const RAW_DATA = [
     "relations": [
       "Spike Jonze",
       "Alejandro González Iñárritu",
-      "Jafar Panahi"
+      "Shunji Iwai"
     ],
     "themes": []
   },
@@ -23263,7 +28293,7 @@ const RAW_DATA = [
     "relations": [
       "Tilda Swinton",
       "David Cronenberg",
-      "Asia Argento"
+      "Shunji Iwai"
     ],
     "themes": []
   },
@@ -23287,6 +28317,52 @@ const RAW_DATA = [
       "Rafael Nadal"
     ],
     "themes": []
+  },
+  {
+    "born": 1971,
+    "died": 2026,
+    "title": "Pete Sampras",
+    "fullName": "Petros Sampras",
+    "desc": "American former world No. 1 tennis player. His career was marked by 14 Grand Slam singles titles, setting an all-time open era record at the time of his retirement, and he dominated the sport in the 1990s.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pete_Sampras_Champions_Shootout_2.jpg",
+    "relations": [
+      "John McEnroe",
+      "Boris Becker",
+      "Kim Clijsters"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1971,
+    "died": 1972,
+    "title": "Jari Litmanen",
+    "desc": "Cầu thủ bóng đá vĩ đại nhất lịch sử Phần Lan. Anh là số 10 huyền thoại trong thế hệ vàng của Ajax Amsterdam vô địch UEFA Champions League năm 1995, nổi tiếng với nhãn quan chiến thuật sắc bén.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Jari Olavi Litmanen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Litmanen_jari.jpg/500px-Litmanen_jari.jpg",
+    "relations": [
+      "Eidur Gudjohnsen",
+      "Zinedine Zidane",
+      "Ronaldo de Lima"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1972,
@@ -23347,7 +28423,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Bá Khánh Trình",
       "Terence Tao",
-      "Hồ Chí Minh"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": []
   },
@@ -23356,7 +28432,7 @@ const RAW_DATA = [
     "fullName": "Phan Thị Bích Hằng",
     "born": 1972,
     "died": 2026,
-    "desc": "Nhà ngoại cảm nổi tiếng tại Việt Nam, được biết đến qua các cuộc tìm kiếm hài cốt chuyện nghệ sĩ.",
+    "desc": "Nhà ngoại cảm nổi tiếng hàng đầu tại Việt Nam từ cuối thập niên 1990. Bà được công chúng biết đến rộng rãi thông qua các cuộc hành trình tìm kiếm và quy tập hàng ngàn hài cốt liệt sĩ chiến tranh cùng nhiều nhân vật lịch sử, danh nhân văn hóa bằng ngoại cảm.",
     "color": "#888888",
     "position": "top",
     "primary_tag": "Others",
@@ -23365,11 +28441,55 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Jimmy Fallon",
-      "Jimmy Kimmel",
-      "Kim Kardashian"
+      "Kim Kardashian",
+      "Lê Thái Tổ",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
+  },
+  {
+    "title": "Zinedine Zidane",
+    "born": 1972,
+    "died": null,
+    "desc": "Huyền thoại bóng đá người Pháp và là huấn luyện viên xuất sắc, nổi tiếng với lối chơi hào hoa bậc thầy và việc dẫn dắt Real Madrid giành 3 chức vô địch Champions League liên tiếp.",
+    "nationality": "French",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Football"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
+    "relations": [
+      "Jari Litmanen",
+      "Alfredo Di Stefano",
+      "Ronaldo de Lima"
+    ]
+  },
+  {
+    "born": 1972,
+    "died": 1973,
+    "title": "Pavel Nedved",
+    "desc": "Tiền vệ huyền thoại người Cộng hòa Séc, chủ nhân của danh hiệu Quả bóng Vàng châu Âu năm 2003. Anh được biết đến với nguồn thể lực vô hạn, lối chơi cống hiến đầy máu lửa tại Lazio và Juventus.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "European",
+    "fullName": "Pavel Nedvěd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pavel_Nedv%C4%9Bd.jpg/500px-Pavel_Nedv%C4%9Bd.jpg",
+    "relations": [
+      "Ronaldo de Lima",
+      "Park Ji-sung",
+      "Lionel Messi"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1973,
@@ -23407,8 +28527,8 @@ const RAW_DATA = [
     "fullName": "Todd Boehly",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Todd_Boehly_Autumn_2024.jpg/500px-Todd_Boehly_Autumn_2024.jpg",
     "relations": [
-      "Roman Abramovich",
       "Daniel Levy",
+      "Roman Abramovich",
       "Elon Musk"
     ],
     "themes": [
@@ -23432,7 +28552,7 @@ const RAW_DATA = [
     "relations": [
       "Xuân Bắc",
       "Công Lý",
-      "Tilda Swinton"
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -23493,9 +28613,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tran_Lap_MTV_EXIT_concert_Ha_Noi_2012_01_%28crop%29.jpg/500px-Tran_Lap_MTV_EXIT_concert_Ha_Noi_2012_01_%28crop%29.jpg",
     "relations": [
+      "Thom Yorke",
       "John Lennon",
-      "Ringo Starr",
-      "Chester Bennington"
+      "Ringo Starr"
     ],
     "themes": [
       "Rocker"
@@ -23519,6 +28639,27 @@ const RAW_DATA = [
       "Nguyễn Trần Duy Nhất",
       "Michael Phelps",
       "Lee Chong Wei"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1974,
+    "died": 1975,
+    "title": "Jimmy Fallon",
+    "fullName": "James Thomas Fallon",
+    "desc": "Người dẫn chương trình truyền hình, diễn viên hài và diễn viên người Mỹ. Ông nổi tiếng toàn cầu với vai trò người dẫn chương trình talkshow đêm muộn huyền thoại The Tonight Show Starring Jimmy Fallon của đài NBC và từng là thành viên của Saturday Night Live.",
+    "color": "#aaaaaa",
+    "position": "bottom",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg",
+    "relations": [
+      "Jimmy Kimmel",
+      "Kim Kardashian",
+      "Anya Taylor-Joy"
     ],
     "themes": []
   },
@@ -23566,6 +28707,27 @@ const RAW_DATA = [
     "themes": [
       "Football"
     ]
+  },
+  {
+    "born": 1975,
+    "died": 1976,
+    "title": "Asia Argento",
+    "fullName": "Asia Aria Maria Vittoria Rossa Argento",
+    "desc": "Nữ diễn viên, đạo diễn và ca sĩ người Ý. Cô nổi tiếng với các bộ phim độc lập gai góc, hoạt động nghệ thuật đa diện và là một trong những nhà hoạt động tiên phong hàng đầu thúc đẩy phong trào MeToo trên toàn thế giới.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Asia_Argento_in_2019.jpg",
+    "relations": [
+      "Thang Duy",
+      "Leonardo DiCaprio",
+      "Tilda Swinton"
+    ],
+    "themes": []
   },
   {
     "born": 1976,
@@ -23681,7 +28843,7 @@ const RAW_DATA = [
     "died": 2024,
     "title": "Aleksey Navalny",
     "fullName": "Alexei Anatolyevich Navalny",
-    "desc": "Lãnh đạo phe đối lập Nga, nhà hoạt động chống tham nhũng và tù nhân chính trị. Thành lập Quỹ chống tham nhũng. Chết trong một thuộc địa hình sự ở Bắc Cực.",
+    "desc": "Lãnh đạo phe đối lập kiêm nhà hoạt động chống tham nhũng lỗi lạc người Nga. Ông nổi tiếng toàn cầu qua các chiến dịch vạch trần nạn tham nhũng của giới chức Nga và là người sáng lập Quỹ chống tham nhũng (FBK). Sau khi sống sót qua vụ đầu độc bằng chất độc thần kinh Novichok vào năm 2020, ông quay trở lại Nga, bị giam giữ và qua đời đầy tranh cãi tại một nhà tù ở vùng Bắc Cực.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -23692,10 +28854,97 @@ const RAW_DATA = [
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Alexey_Navalny_2018_%28cropped%29.png",
     "relations": [
-      "Huy Đức",
       "Donald Trump",
-      "Aung San Suu Kyi"
+      "Hermann Gmeiner",
+      "Phạm Đoan Trang"
     ]
+  },
+  {
+    "title": "Ronaldo de Lima",
+    "fullName": "Ronaldo de Lima (Ronaldo Nazário)",
+    "born": 1976,
+    "died": null,
+    "desc": "Tiền đạo huyền thoại người Brazil với biệt danh 'Người ngoài hành tinh' (O Fenômeno), chủ nhân 2 Quả bóng Vàng và 2 chức vô địch World Cup, nổi tiếng với tốc độ và kỹ thuật ghi bàn hủy diệt.",
+    "nationality": "Latin American",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Football"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg/500px-Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg",
+    "relations": [
+      "Pavel Nedved",
+      "Jari Litmanen",
+      "Zinedine Zidane"
+    ]
+  },
+  {
+    "born": 1976,
+    "died": 1977,
+    "title": "Lâm Tâm Như",
+    "fullName": "Ruby Lin",
+    "desc": "Nữ diễn viên, ca sĩ và nhà sản xuất phim nổi tiếng người Đài Loan. Bà được biết đến rộng rãi qua vai diễn Hạ Tử Vy trong bộ phim truyền hình kinh điển Hoàn Châu Cách Cách.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ruby_Lin_at_the_57th_Golden_Bell_Awards_in_October_2022.png",
+    "relations": [
+      "Hứa Quang Hán",
+      "Thang Duy",
+      "Xuân Bắc"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1976,
+    "died": 1977,
+    "title": "Judit Polgár",
+    "desc": "Đại kiện tướng cờ vua người Hungary, được công nhận rộng rãi là nữ kỳ thủ cờ vua vĩ đại nhất mọi thời đại. Bà là người phụ nữ duy nhất từng lọt vào top 10 thế giới và từng đánh bại 11 nhà vô địch cờ vua thế giới trong sự nghiệp.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "fullName": "Judit Polgár",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Judit_Polg%C3%A1r_2013.jpg/500px-Judit_Polg%C3%A1r_2013.jpg",
+    "relations": [
+      "Magnus Carlsen",
+      "Garry Kasparov",
+      "Ian Nepomniachtchi"
+    ],
+    "themes": [
+      "Chess"
+    ]
+  },
+  {
+    "born": 1976,
+    "died": 1977,
+    "title": "Phạm Văn Mách",
+    "fullName": "Phạm Văn Mách",
+    "desc": "Vận động viên thể hình chuyên nghiệp hàng đầu của Việt Nam. Anh là huyền thoại của thể hình Việt Nam với 5 lần vô địch thế giới và nhiều lần vô địch châu Á ở hạng cân 55kg, đồng thời tích cực tham gia các hoạt động giải trí.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Nguyễn Trần Duy Nhất",
+      "Venus Williams",
+      "Serena Williams"
+    ],
+    "themes": []
   },
   {
     "born": 1977,
@@ -23734,8 +28983,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
     "relations": [
       "Donald Trump",
-      "Lê Minh Hưng",
-      "Dmitry Medvedev"
+      "Tô Ân Xô",
+      "Lê Minh Hưng"
     ],
     "themes": []
   },
@@ -23755,8 +29004,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ryusuke_Hamaguchi_%28HKAFF2018%29_%28cropped%29.png",
     "relations": [
       "Kon Satoshi",
-      "Park Chan-wook",
-      "Joachim Trier"
+      "Shunji Iwai",
+      "Park Chan-wook"
     ],
     "themes": []
   },
@@ -23775,9 +29024,9 @@ const RAW_DATA = [
     "fullName": "Sandra Hüller (Sandra Huller)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sandra_H%C3%BCller_at_Berlinale_2026-6.jpg/500px-Sandra_H%C3%BCller_at_Berlinale_2026-6.jpg",
     "relations": [
+      "Thang Duy",
       "Kim Min-hee",
-      "Heath Ledger",
-      "Thang Duy"
+      "Heath Ledger"
     ],
     "themes": []
   },
@@ -23801,6 +29050,50 @@ const RAW_DATA = [
       "Lionel Messi"
     ],
     "themes": []
+  },
+  {
+    "title": "Phạm Đoan Trang",
+    "born": 1978,
+    "died": 1979,
+    "desc": "Nhà báo, blogger, tác giả và nhà hoạt động dân chủ nổi tiếng người Việt Nam. Bà đồng sáng lập Luật khoa tạp chí và Nhà xuất bản Tự Do, được nhận nhiều giải thưởng quốc tế về tự do báo chí trước khi bị kết án tù năm 2021.",
+    "nationality": "Vietnamese",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "themes": [
+      "Bat dong chinh kien VN"
+    ],
+    "position": "top",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pham_Doan_Trang-Headshot-e1646028486289-332x332.jpg/250px-Pham_Doan_Trang-Headshot-e1646028486289-332x332.jpg",
+    "relations": [
+      "Cù Huy Hà Vũ",
+      "Huy Đức",
+      "Bùi Tín"
+    ]
+  },
+  {
+    "born": 1978,
+    "died": 1979,
+    "title": "Eidur Gudjohnsen",
+    "desc": "Cựu tiền đạo lừng danh người Iceland, cầu thủ vĩ đại nhất lịch sử nước này. Anh từng khoác áo các CLB hàng đầu như Chelsea, Barcelona và vô địch UEFA Champions League năm 2009.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Eiður Smári Guðjohnsen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg/500px-Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg",
+    "relations": [
+      "Jari Litmanen",
+      "Michael Laudrup",
+      "Park Ji-sung"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1979,
@@ -23839,8 +29132,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/500px-Heath_Ledger_%282%29.jpg",
     "relations": [
       "Edward Norton",
-      "Leonardo DiCaprio",
-      "Emma Stone"
+      "Thang Duy",
+      "Leonardo DiCaprio"
     ],
     "themes": []
   },
@@ -23848,7 +29141,7 @@ const RAW_DATA = [
     "born": 1979,
     "died": 1980,
     "title": "Thang Duy",
-    "desc": "Nữ diễn viên Trung Quốc được đánh giá cao nhờ vai diễn trong *Sắc dục, Thận trọng* và những màn trình diễn đa dạng của cô trong cả điện ảnh Trung Quốc và quốc tế.",
+    "desc": "Nữ diễn viên điện ảnh nổi tiếng người Trung Quốc, được đánh giá cao nhờ khả năng diễn xuất có chiều sâu và cá tính đặc biệt. Cô nổi danh toàn cầu qua vai diễn Vương Giai Chi trong tác phẩm điện ảnh kinh điển 'Lust, Caution' (Sắc, Giới) năm 2007 của đạo diễn Lý An và sau đó tiếp tục khẳng định tên tuổi qua nhiều bộ phim nghệ thuật lớn như 'Late Autumn' hay 'Decision to Leave'.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -23859,9 +29152,9 @@ const RAW_DATA = [
     "fullName": "Thang Duy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/20250425_Tang_Wei_%E6%B1%A4%E5%94%AF_03.jpg",
     "relations": [
-      "Kim Min-hee",
-      "Bong Joon-ho",
-      "Trương Mạn Ngọc"
+      "Tilda Swinton",
+      "Agnès Varda",
+      "Asia Argento"
     ],
     "themes": []
   },
@@ -23882,7 +29175,7 @@ const RAW_DATA = [
     "relations": [
       "Cristiano Ronaldo",
       "Lionel Messi",
-      "Ronaldinho"
+      "Son Heung-min"
     ],
     "themes": [
       "Football"
@@ -23904,8 +29197,29 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/VVitas.jpg",
     "relations": [
       "G-Dragon",
-      "Spike Jonze",
-      "milet"
+      "milet",
+      "Rei Harakami"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1979,
+    "died": 2026,
+    "title": "Kimi Raikkonen",
+    "fullName": "Kimi-Matias Räikkönen",
+    "desc": "Finnish former racing driver. Known as 'The Iceman', he won the 2007 Formula One World Championship and is widely regarded as one of the most naturally talented F1 drivers.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Scandinavian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg/500px-F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg",
+    "relations": [
+      "Rory McIlroy",
+      "Stephen Bunting",
+      "Pete Sampras"
     ],
     "themes": []
   },
@@ -23977,6 +29291,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1980,
+    "died": 1981,
+    "title": "Kim Kardashian",
+    "fullName": "Kimberly Noel Kardashian",
+    "desc": "Ngôi sao truyền hình thực tế, doanh nhân và biểu tượng truyền thông nổi tiếng người Mỹ. Cô trở nên nổi tiếng toàn cầu thông qua chương trình truyền hình Keeping Up with the Kardashians và là người sáng lập thương hiệu nội y Skims trị giá hàng tỷ USD.",
+    "color": "#aaaaaa",
+    "position": "bottom",
+    "primary_tag": "Others",
+    "tags": [
+      "Others"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kim_Kardashian_West_2014.jpg",
+    "relations": [
+      "Donald Trump",
+      "Hermann Gmeiner",
+      "Jimmy Fallon"
+    ],
+    "themes": []
+  },
+  {
     "born": 1981,
     "died": 1982,
     "title": "Roger Federer",
@@ -24023,6 +29358,29 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1981,
+    "died": 1982,
+    "title": "Park Ji-sung",
+    "desc": "Tiền vệ huyền thoại người Hàn Quốc, cầu thủ châu Á thành công nhất lịch sử giải Ngoại hạng Anh trong màu áo Manchester United. Anh được yêu mến bởi nguồn năng lượng phi thường với biệt danh 'Người ba phổi'.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "South Korean",
+    "fullName": "Park Ji-sung",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Park_Ji-sung_G20_Seoul_Summit_Ambassador_%28cropped%29.jpg",
+    "relations": [
+      "Son Heung-min",
+      "Pavel Nedved",
+      "Ronaldo de Lima"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
     "born": 1982,
     "died": 1983,
     "title": "Kim Min-hee",
@@ -24039,7 +29397,7 @@ const RAW_DATA = [
     "relations": [
       "Bong Joon-ho",
       "Leonardo DiCaprio",
-      "Trương Minh Quý"
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -24128,6 +29486,50 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1983,
+    "died": 1984,
+    "title": "Trương Nhất Minh",
+    "fullName": "Zhang Yiming",
+    "desc": "Doanh nhân công nghệ người Trung Quốc, người sáng lập ByteDance - công ty mẹ của nền tảng chia sẻ video ngắn TikTok và ứng dụng tin tức Toutiao.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_CEO_Magazine_Cover.jpg",
+    "relations": [
+      "Lôi Quân",
+      "Todd Boehly",
+      "Vitalik Buterin"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1983,
+    "died": 1984,
+    "title": "Kim Clijsters",
+    "fullName": "Kim Clijsters",
+    "desc": "Cựu tay vợt quần vợt chuyên nghiệp người Bỉ, cựu số 1 thế giới ở cả nội dung đánh đơn và đánh đôi. Cô đã giành được 4 chức vô địch Grand Slam đơn nữ (3 US Open, 1 Australian Open) và nổi tiếng với lối chơi bền bỉ cùng tính cách thân thiện, fair-play.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/500px-Kim_Clijsters.jpg",
+    "relations": [
+      "Simona Halep",
+      "Roger Federer",
+      "Petra Kvitova"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
     "born": 1984,
     "died": 1985,
     "title": "Nawapol Thamrongrattanarit",
@@ -24153,7 +29555,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Kim Jong-un",
     "fullName": "Kim Jong-un (김정은, Kim Jong Un, Supreme Leader of North Korea)",
-    "desc": "Lãnh đạo tối cao của Triều Tiên từ năm 2011, kế nhiệm cha là Kim Jong-il.",
+    "desc": "Lãnh đạo tối cao của Cộng hòa Dân chủ Nhân dân Triều Tiên từ năm 2011, kế nhiệm cha là Kim Jong-il. Dưới sự lãnh đạo của ông, Triều Tiên đẩy mạnh chương trình vũ khí hạt nhân quốc gia đồng thời thực hiện các chính sách đối ngoại và cải tổ cơ cấu nội bộ phức tạp.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -24163,9 +29565,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped%29.jpg",
     "relations": [
-      "Mojtaba Khamenei",
-      "Aleksey Navalny",
-      "Justin Trudeau"
+      "Margaret Thatcher",
+      "Henry Kissinger",
+      "Leonid Ilyich Brezhnev"
     ],
     "themes": []
   },
@@ -24174,7 +29576,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "LeBron James",
     "fullName": "LeBron James",
-    "desc": "Cầu thủ bóng rổ chuyên nghiệp người Mỹ, hiện đang chơi cho đội Los Angeles Lakers.",
+    "desc": "Siêu sao bóng rổ chuyên nghiệp người Mỹ, hiện thi đấu cho câu lạc bộ Los Angeles Lakers tại giải NBA. Với biệt danh \"King James\", ông được thừa nhận là một trong những cầu thủ vĩ đại nhất lịch sử với kỷ lục ghi điểm mọi thời đại và 4 lần vô địch giải đấu.",
     "color": "#3a7aed",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -24184,9 +29586,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/500px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
     "relations": [
-      "Kobe Bryant",
       "Shohei Ohtani",
-      "Lionel Messi"
+      "Stephen Curry",
+      "Rafael Nadal"
     ],
     "themes": []
   },
@@ -24228,7 +29630,7 @@ const RAW_DATA = [
     "relations": [
       "Lionel Messi",
       "Tim Cahill",
-      "Lê Công Vinh"
+      "Son Heung-min"
     ],
     "themes": [
       "Football"
@@ -24250,8 +29652,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg",
     "relations": [
       "Maria Sharapova",
-      "Magnus Carlsen",
-      "Giannis Antetokounmpo"
+      "Giannis Antetokounmpo",
+      "Max Verstappen"
     ],
     "themes": []
   },
@@ -24269,9 +29671,9 @@ const RAW_DATA = [
     ],
     "nationality": "British",
     "relations": [
+      "LeBron James",
       "Rafael Nadal",
-      "Maria Sharapova",
-      "Nguyễn Trần Duy Nhất"
+      "Maria Sharapova"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2025-04-03_Premier_League_Darts_Berlin_2025_by_Sandro_Halank%E2%80%93056.jpg/500px-2025-04-03_Premier_League_Darts_Berlin_2025_by_Sandro_Halank%E2%80%93056.jpg"
@@ -24296,6 +29698,29 @@ const RAW_DATA = [
       "Nguyễn Trần Duy Nhất"
     ],
     "themes": []
+  },
+  {
+    "born": 1985,
+    "died": 1986,
+    "title": "Lê Công Vinh",
+    "fullName": "Lê Công Vinh",
+    "desc": "Cựu cầu thủ bóng đá chuyên nghiệp người Việt Nam, được đánh giá là một trong những tiền đạo xuất sắc nhất lịch sử bóng đá Đông Nam Á. Anh giữ kỷ lục ghi nhiều bàn thắng nhất cho Đội tuyển quốc gia Việt Nam (51 bàn thắng).",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cong_Vinh.png",
+    "relations": [
+      "Lionel Messi",
+      "Son Heung-min",
+      "Nguyễn Quang Hải"
+    ],
+    "themes": [
+      "Football"
+    ]
   },
   {
     "born": 1986,
@@ -24365,6 +29790,50 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1986,
+    "died": 1987,
+    "title": "Alexander Rybak",
+    "desc": "Ca sĩ, nghệ sĩ vĩ cầm và nhà soạn nhạc người Na Uy gốc Belarus. Ông nổi tiếng thế giới sau khi giành chiến thắng kỷ lục tại cuộc thi Eurovision Song Contest 2009 với ca khúc 'Fairytale'.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Scandinavian",
+    "fullName": "Alexander Igoryevich Rybak",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg/500px-Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg",
+    "relations": [
+      "Vitas",
+      "Bo Burnham",
+      "Kenshi Yonezu"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1986,
+    "died": 1987,
+    "title": "Vozinha",
+    "fullName": "Josimar José Évora Dias",
+    "desc": "Thủ môn bóng đá chuyên nghiệp người Cape Verde, người gác đền kỳ cựu và biểu tượng của đội tuyển quốc gia nước này với hơn 70 lần ra sân. Anh đã đại diện Cape Verde tham dự nhiều kỳ Cúp bóng đá châu Phi (AFCON) và vòng loại World Cup.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "African",
+    "image": "",
+    "relations": [
+      "Sadio Mané",
+      "Son Heung-min",
+      "Nguyễn Quang Hải"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
     "born": 1987,
     "died": 1988,
     "title": "Hikaru Nakamura",
@@ -24379,8 +29848,8 @@ const RAW_DATA = [
     "fullName": "Hikaru Nakamura",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nakamura_Hikaru_%2829290269410%29_%28cropped%29_%28cropped%29.jpg",
     "relations": [
+      "Ian Nepomniachtchi",
       "Lê Quang Liêm",
-      "Magnus Carlsen",
       "Nguyễn Ngọc Trường Sơn"
     ],
     "themes": [
@@ -24402,8 +29871,8 @@ const RAW_DATA = [
     "fullName": "Lionel Messi (Lionel Andrés Messi, La Pulga - The Flea, GOAT)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
     "relations": [
-      "Lê Công Vinh",
       "Son Heung-min",
+      "Lê Công Vinh",
       "Lamine Yamal"
     ],
     "themes": [
@@ -24449,12 +29918,56 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg/500px-2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg",
     "relations": [
       "Serena Williams",
-      "Simona Halep",
-      "Kim Clijsters"
+      "Kim Clijsters",
+      "Simona Halep"
     ],
     "themes": [
       "Tennis"
     ]
+  },
+  {
+    "born": 1987,
+    "died": 1988,
+    "title": "Maria Sharapova",
+    "fullName": "Maria Yuryevna Sharapova",
+    "desc": "Cựu tay vợt chuyên nghiệp người Nga, cựu số 1 thế giới đơn nữ. Cô từng giành được 5 danh hiệu vô địch Grand Slam đơn nữ và là một trong những tên tuổi thể thao có sức ảnh hưởng toàn cầu.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Russian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg/500px-Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg",
+    "relations": [
+      "Rafael Nadal",
+      "Kim Clijsters",
+      "Simona Halep"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1987,
+    "died": 2023,
+    "title": "Hamma Alloh",
+    "fullName": "Hammam Alloh",
+    "desc": "Bác sĩ chuyên khoa thận người Palestine tại Bệnh viện Al-Shifa ở Gaza. Anh đã dũng cảm từ chối di tản để ở lại chăm sóc bệnh nhân trong cuộc xung đột năm 2023, trở thành biểu tượng quốc tế về lòng tận tụy với y đức trước khi qua đời trong một đợt không kích.",
+    "color": "#2ec4b6",
+    "position": "bottom",
+    "primary_tag": "Medical",
+    "tags": [
+      "Medical"
+    ],
+    "nationality": "Arab",
+    "image": "",
+    "relations": [
+      "Đinh Núp",
+      "Yuri Gagarin",
+      "Anne Frank"
+    ],
+    "themes": []
   },
   {
     "born": 1988,
@@ -24513,9 +30026,51 @@ const RAW_DATA = [
     "fullName": "Stephen Curry",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg/500px-Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg",
     "relations": [
+      "LeBron James",
       "Lionel Messi",
-      "Cristiano Ronaldo",
-      "Lê Công Vinh"
+      "Cristiano Ronaldo"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1988,
+    "died": null,
+    "title": "G-Dragon",
+    "fullName": "Kwon Ji-yong (G-Dragon, GD, BIGBANG, King of K-pop)",
+    "desc": "Rapper, ca sĩ, nhạc sĩ, nhà sản xuất âm nhạc và biểu tượng thời trang người Hàn Quốc, trưởng nhóm BIGBANG. Được mệnh danh là 'Ông hoàng K-pop' nhờ tầm ảnh hưởng to lớn trong âm nhạc, phong cách trình diễn và xu hướng thời trang toàn cầu.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "South Korean",
+    "relations": [
+      "Karina",
+      "Vitas",
+      "Yoona"
+    ],
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/G-Dragon_in_October_2025.jpg/500px-G-Dragon_in_October_2025.jpg"
+  },
+  {
+    "born": 1988,
+    "died": 1989,
+    "title": "Trịnh Thăng Bình",
+    "fullName": "Trịnh Thăng Bình",
+    "desc": "Nam ca sĩ, nhạc sĩ, diễn viên kiêm nhà sản xuất âm nhạc nổi tiếng tại Việt Nam. Ông được công chúng yêu mến rộng rãi qua các bản hit nhạc trẻ tự sáng tác mang giai điệu pop ballad trữ tình, ngọt ngào như \"Người ấy\", \"Đã biết sẽ có ngày hôm qua\", \"Khói sương lông lẫy\" và là người sáng lập công ty giải trí Bpro Entertainment.",
+    "color": "#e46a6a",
+    "position": "top",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Trinh_Thang_Binh_2019.png/500px-Trinh_Thang_Binh_2019.png",
+    "relations": [
+      "Vũ Đinh Trọng Thắng",
+      "Trịnh Trung Kiên",
+      "Xuân Bắc"
     ],
     "themes": []
   },
@@ -24535,8 +30090,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DanielRadcliffe.jpg/500px-DanielRadcliffe.jpg",
     "relations": [
       "Emma Watson",
-      "Heath Ledger",
-      "Cillian Murphy"
+      "Anya Taylor-Joy",
+      "Heath Ledger"
     ],
     "themes": []
   },
@@ -24555,9 +30110,9 @@ const RAW_DATA = [
     "fullName": "Xavier Dolan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Xavier_Dolan_Cannes_2016.jpg",
     "relations": [
+      "Bo Burnham",
       "Ryusuke Hamaguchi",
-      "Joachim Trier",
-      "Emma Stone"
+      "Joachim Trier"
     ],
     "themes": []
   },
@@ -24578,7 +30133,7 @@ const RAW_DATA = [
     "relations": [
       "Kim Kardashian",
       "Jimmy Fallon",
-      "Phan Thị Bích Hằng"
+      "Hermann Gmeiner"
     ],
     "themes": []
   },
@@ -24604,6 +30159,71 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1989,
+    "died": 2026,
+    "title": "Rory McIlroy",
+    "fullName": "Rory McIlroy",
+    "desc": "Professional golfer from Northern Ireland. A former world number one in the Official World Golf Ranking, he is a four-time major champion and one of the most successful golfers of his generation.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rory_McIlroy_Ryder_Cup_2025-195_%28cropped%29.jpg/500px-Rory_McIlroy_Ryder_Cup_2025-195_%28cropped%29.jpg",
+    "relations": [
+      "Kimi Raikkonen",
+      "Stephen Bunting",
+      "Lionel Messi"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1989,
+    "died": 1990,
+    "title": "Victoria Azarenka",
+    "fullName": "Victoria Fyodorovna Azarenka",
+    "desc": "Tay vợt chuyên nghiệp người Belarus, cựu số 1 thế giới đơn nữ. Cô từng hai lần giành chức vô địch giải Úc Mở rộng đơn nữ và huy chương vàng Olympic nội dung đôi nam nữ.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Belarusian",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg/500px-Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg",
+    "relations": [
+      "Kim Clijsters",
+      "Petra Kvitova",
+      "Maria Sharapova"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1989,
+    "died": 1990,
+    "title": "Nguyễn Trần Duy Nhất",
+    "fullName": "Nguyễn Trần Duy Nhất",
+    "desc": "Vận động viên võ thuật chuyên nghiệp người Việt Nam, được mệnh danh là 'Độc cô cầu bại' của làng Muay Thái Việt Nam. Anh đã giành nhiều chức vô địch thế giới nghiệp dư thế giới và huy chương vàng SEA Games danh giá.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/NGUY%E1%BB%84N_TR%E1%BA%A6N_DUY_NH%E1%BA%A4T_%E2%80%93_CALL_ME_BY_FIRE_VIETNAM_%E2%80%93_P2.jpg",
+    "relations": [
+      "Victoria Azarenka",
+      "Phạm Văn Mách",
+      "Lee Chong Wei"
+    ],
+    "themes": []
+  },
+  {
     "born": 1990,
     "died": 1991,
     "title": "Hứa Quang Hán",
@@ -24619,8 +30239,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%E3%80%8A%E4%BB%96%E5%B9%B4%E5%A5%B9%E6%97%A5%E3%80%8B%E8%87%BA%E5%8C%97%E9%A6%96%E6%98%A0%E5%85%B8%E7%A6%AE%EF%BC%8D%E8%A8%B1%E5%85%89%E6%BC%A2_01.png",
     "relations": [
       "Lâm Tâm Như",
-      "Sydney Sweeney",
-      "Xuân Bắc"
+      "Anya Taylor-Joy",
+      "Sydney Sweeney"
     ],
     "themes": []
   },
@@ -24641,7 +30261,7 @@ const RAW_DATA = [
     "relations": [
       "Kim Min-hee",
       "Lexie Liu",
-      "Chương Nhược Nam"
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -24670,7 +30290,7 @@ const RAW_DATA = [
     "born": 1990,
     "died": 1991,
     "title": "Magnus Carlsen",
-    "desc": "Đại kiện tướng cờ vua Na Uy và nhà vô địch cờ vua thế giới, được biết đến với lối chơi chiến lược.",
+    "desc": "Đại kiện tướng cờ vua người Na Uy, nhà vô địch cờ vua thế giới (2013-2023) thống trị ngôi vị số một hành tinh trong nhiều năm. Anh sở hữu hệ số Elo cao nhất mọi thời đại (2882) cùng lối đánh cờ tàn hoàn hảo và nhãn quan chiến thuật sắc sảo.",
     "color": "#f46036",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -24682,8 +30302,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Magnus_Carlsen_in_2025.jpg/500px-Magnus_Carlsen_in_2025.jpg",
     "relations": [
       "Alireza Firouzja",
-      "Gukesh D",
-      "Bobby Fischer"
+      "Ian Nepomniachtchi",
+      "Judit Polgár"
     ],
     "themes": [
       "Chess"
@@ -24715,7 +30335,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Ian Nepomniachtchi",
     "fullName": "Ian Nepomniachtchi",
-    "desc": "Đại kiện tướng cờ vua Nga và người từng hai lần thách đấu Giải vô địch Cờ vua Thế giới.",
+    "desc": "Đại kiện tướng cờ vua hàng đầu người Nga, người xuất sắc giành chiến thắng tại Giải Thách đấu (Candidates Tournament) hai lần liên tiếp (2021 và 2022). Ông là đối thủ trực tiếp thách đấu ngôi vô địch cờ vua thế giới với lối đánh tấn công sắc bén và giàu sáng tạo.",
     "color": "#3a7aed",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -24726,8 +30346,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nepomniachtchi_at_Tata_Steel_Masters_2024_%282%29.jpg",
     "relations": [
       "Magnus Carlsen",
-      "Đinh Lập Nhân",
-      "Judit Polgár"
+      "Hikaru Nakamura",
+      "Đinh Lập Nhân"
     ],
     "themes": [
       "Chess"
@@ -24792,11 +30412,55 @@ const RAW_DATA = [
     "relations": [
       "Lê Quang Liêm",
       "Đinh Lập Nhân",
-      "Hikaru Nakamura"
+      "Ian Nepomniachtchi"
     ],
     "themes": [
       "Chess"
     ]
+  },
+  {
+    "born": 1990,
+    "died": 1991,
+    "title": "Petra Kvitova",
+    "fullName": "Petra Kvitová",
+    "desc": "Tay vợt quần vợt chuyên nghiệp người Cộng hòa Séc, nổi tiếng với lối chơi tấn công mạnh mẽ bằng tay trái và cú giao bóng đầy uy lực. Bà đã giành được hai chức vô địch đơn nữ Wimbledon danh giá (2011, 2014) và cúp vô địch Fed Cup nhiều năm.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Other",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg/500px-Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg",
+    "relations": [
+      "Kim Clijsters",
+      "Roger Federer",
+      "Simona Halep"
+    ],
+    "themes": [
+      "Tennis"
+    ]
+  },
+  {
+    "born": 1990,
+    "died": 1991,
+    "title": "Bo Burnham",
+    "fullName": "Bo Burnham (Robert Pickering Burnham)",
+    "desc": "Nghệ sĩ hài độc thoại, nhạc sĩ kiêm nhà làm phim xuất sắc người Mỹ. Khởi đầu từ sân chơi YouTube từ những năm đầu tiên, ông đã gặt hái thành công lớn trên toàn cầu qua bộ phim đầu tay 'Eighth Grade' và chương trình hài kịch âm nhạc tự biên tự diễn đột phá 'Inside' (2021) nói về sự cô đơn thời đại dịch.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bo_Burnham_2018_%28cropped%29.jpg/500px-Bo_Burnham_2018_%28cropped%29.jpg",
+    "relations": [
+      "Kenshi Yonezu",
+      "Asia Argento",
+      "Werner Herzog"
+    ],
+    "themes": []
   },
   {
     "born": 1991,
@@ -24826,7 +30490,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Kenshi Yonezu",
     "fullName": "Kenshi Yonezu (米津 玄師)",
-    "desc": "Nhạc sĩ, ca sĩ, nhạc sĩ và nghệ sĩ người Nhật, được biết đến với siêu hit 'Lemon'.",
+    "desc": "Nam ca sĩ, nhạc sĩ kiêm nhà sản xuất âm nhạc xuất chúng người Nhật Bản. Khởi đầu từ sân chơi Vocaloid dưới nghệ danh Hachi, ông đã vươn lên thành ngôi sao hàng đầu của J-pop với siêu hit \"Lemon\" (2018) làm khuynh đảo các bảng xếp hạng âm nhạc châu Á.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -24836,9 +30500,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "",
     "relations": [
-      "milet",
-      "Alexander Rybak",
-      "Lexie Liu"
+      "Bo Burnham",
+      "Trịnh Thăng Bình",
+      "milet"
     ],
     "themes": []
   },
@@ -24880,9 +30544,9 @@ const RAW_DATA = [
     "fullName": "Đinh Lập Nhân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DingLiren24a.jpg/500px-DingLiren24a.jpg",
     "relations": [
+      "Magnus Carlsen",
       "Gukesh D",
-      "Lê Quang Liêm",
-      "Nguyễn Ngọc Trường Sơn"
+      "Lê Quang Liêm"
     ],
     "themes": [
       "Chess"
@@ -24904,8 +30568,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
     "relations": [
       "Sadio Mané",
-      "Erling Haaland",
-      "Lamine Yamal"
+      "Son Heung-min",
+      "Erling Haaland"
     ],
     "themes": [
       "Football"
@@ -24915,7 +30579,7 @@ const RAW_DATA = [
     "born": 1992,
     "died": 1993,
     "title": "Son Heung-min",
-    "desc": "Cầu thủ bóng đá chuyên nghiệp Hàn Quốc chơi ở vị trí tiền đạo và đội trưởng cho cả câu lạc bộ Premier League Tottenham Hotspur và đội tuyển quốc gia Hàn Quốc.",
+    "desc": "Cầu thủ bóng đá chuyên nghiệp xuất sắc người Hàn Quốc, thi đấu ở vị trí tiền đạo cánh và từng là đội trưởng của câu lạc bộ Tottenham Hotspur tại giải Ngoại hạng Anh, đồng thời là trụ cột của Đội tuyển bóng đá quốc gia Hàn Quốc. Anh được coi là một trong những cầu thủ châu Á vĩ đại nhất mọi thời đại, từng giành danh hiệu Vua phá lưới Ngoại hạng Anh mùa giải 2021-2022 và giành giải Quả bóng vàng châu Á nhiều lần.",
     "color": "#f46036",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -24927,8 +30591,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
     "relations": [
       "Lionel Messi",
-      "Nguyễn Quang Hải",
-      "Lamine Yamal"
+      "Lamine Yamal",
+      "Lê Công Vinh"
     ],
     "themes": [
       "Football"
@@ -24950,8 +30614,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9_%28cropped%29.jpg",
     "relations": [
       "Vozinha",
-      "Mohamed Salah",
-      "Lionel Messi"
+      "Son Heung-min",
+      "Mohamed Salah"
     ],
     "themes": [
       "Football"
@@ -24972,9 +30636,9 @@ const RAW_DATA = [
     "fullName": "Sơn Tùng M-TP (Nguyễn Thanh Tùng, Son Tung MTP)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Son_Tung_M-TP_1_%282021%29.png",
     "relations": [
+      "Trịnh Trung Kiên",
       "G-Dragon",
-      "Phúc Du",
-      "milet"
+      "Phúc Du"
     ],
     "themes": []
   },
@@ -25025,7 +30689,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "milet",
     "fullName": "milet (Milet Ichikawa, 一川見鶴, Japanese singer)",
-    "desc": "Ca sĩ-nhạc sĩ người Nhật nổi tiếng với giọng hát nội lực và phong cách âm nhạc đa năng.",
+    "desc": "Nữ ca sĩ kiêm nhạc sĩ solo nổi tiếng người Nhật Bản, sở hữu giọng ca khàn trầm ấm, đầy nội lực mang hơi hướng phương Tây độc đáo. Cô thu hút lượng fan đông đảo qua các ca khúc nhạc phim anime đình đám cùng màn trình diễn tại lễ bế mạc Olympic Tokyo 2020.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -25036,8 +30700,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Vitas",
-      "Sơn Tùng M-TP",
-      "Patricia Janečková"
+      "Bo Burnham",
+      "Trịnh Thăng Bình"
     ],
     "themes": []
   },
@@ -25078,8 +30742,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg/500px-Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg",
     "relations": [
       "Lê Công Vinh",
-      "Sadio Mané",
-      "Lionel Messi"
+      "LeBron James",
+      "Sadio Mané"
     ],
     "themes": []
   },
@@ -25099,8 +30763,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Phum_Viphurit_at_VERY.jpg",
     "relations": [
       "Yoshiko Sai",
-      "Sơn Tùng M-TP",
-      "Sydney Sweeney"
+      "Vũ Đinh Trọng Thắng",
+      "Trịnh Thăng Bình"
     ],
     "themes": []
   },
@@ -25132,7 +30796,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Vũ Đinh Trọng Thắng",
     "fullName": "Vũ Đinh Trọng Thắng (Thắng Ngọt)",
-    "desc": "Nhạc sĩ, ca sĩ và nhạc sĩ indie người Việt, thủ lĩnh của ban nhạc nổi tiếng Ngọt.",
+    "desc": "Nhạc sĩ, ca sĩ người Việt Nam, thủ lĩnh và người sáng lập của ban nhạc indie Ngọt lừng danh (2013-2024). Với tư duy viết nhạc độc đáo, đậm tính tự sự và giai điệu mộc mạc, ông là người chắp bút cho nhiều bản hit định hình trào lưu nhạc indie Việt.",
     "color": "#e46a6a",
     "position": "top",
     "primary_tag": "Art",
@@ -25142,9 +30806,30 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ngot_2016.jpg/500px-Ngot_2016.jpg",
     "relations": [
-      "Sơn Tùng M-TP",
-      "Phúc Du",
-      "Trương Minh Quý"
+      "Trịnh Thăng Bình",
+      "Trịnh Trung Kiên",
+      "Phum Viphurit"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1995,
+    "died": 1996,
+    "title": "Trịnh Trung Kiên",
+    "fullName": "Trịnh Trung Kiên (Kiên Trịnh)",
+    "desc": "Nam ca sĩ kiêm nhạc sĩ nổi bật trong làn sóng nhạc indie Việt Nam. Anh gây ấn tượng mạnh mẽ với công chúng nhờ phong cách âm nhạc mộc mạc, phóng khoáng cùng những ca từ đời thường đầy tự sự nhưng không kém phần hài hước, dí dỏm qua các tác phẩm tự sáng tác tiêu biểu như \"Thế kỷ 21 buồn\", \"Em ăn sáng chưa?\".",
+    "color": "#e46a6a",
+    "position": "top",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Trịnh Thăng Bình",
+      "Karina",
+      "G-Dragon"
     ],
     "themes": []
   },
@@ -25163,9 +30848,9 @@ const RAW_DATA = [
     "fullName": "Phúc Du",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BICH_PHUONG_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
+      "Trịnh Trung Kiên",
       "Sơn Tùng M-TP",
-      "XXXTENTACION",
-      "Lexie Liu"
+      "XXXTENTACION"
     ],
     "themes": []
   },
@@ -25173,7 +30858,7 @@ const RAW_DATA = [
     "born": 1996,
     "died": 1997,
     "title": "Anya Taylor-Joy",
-    "desc": "Nữ diễn viên người Mỹ gốc Anh nổi tiếng với vai diễn trong \"The Queen's Gambit\" và \"The Witch\".",
+    "desc": "Nữ diễn viên thực lực người Mỹ gốc Anh-Argentina, nổi danh toàn cầu từ bộ phim kinh dị độc lập \"The Witch\" và vụt sáng thành sao hạng A qua vai diễn kỳ thủ Beth Harmon trong loạt phim truyền hình ăn khách \"The Queen's Gambit\" đoạt giải Quả cầu vàng.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -25184,9 +30869,9 @@ const RAW_DATA = [
     "fullName": "Anya Taylor-Joy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg/500px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg",
     "relations": [
-      "Emma Watson",
-      "Daniel Radcliffe",
-      "Owen Cooper"
+      "Owen Cooper",
+      "Sydney Sweeney",
+      "Hứa Quang Hán"
     ],
     "themes": []
   },
@@ -25194,7 +30879,7 @@ const RAW_DATA = [
     "born": 1996,
     "died": 1997,
     "title": "Nguyễn Thị Ánh Viên",
-    "desc": "Vận động viên bơi lội Việt Nam với nhiều huy chương vàng SEA Games.",
+    "desc": "Kình ngư vĩ đại nhất lịch sử thể thao Việt Nam, được mệnh danh là \"Tiểu tiên cá\" trên đường đua xanh khu vực Đông Nam Á. Cô sở hữu bảng thành tích vô tiền khoáng hậu với 25 huy chương vàng SEA Games cùng nhiều huy chương châu lục giá trị.",
     "color": "#f46036",
     "position": "top",
     "primary_tag": "Sport",
@@ -25206,8 +30891,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nguyen_Thi_Anh_Vien_2023.png/500px-Nguyen_Thi_Anh_Vien_2023.png",
     "relations": [
       "Nguyễn Trần Duy Nhất",
-      "Michael Phelps",
-      "Nguyễn Ngọc Trường Sơn"
+      "Rafael Nadal",
+      "Michael Phelps"
     ],
     "themes": []
   },
@@ -25226,9 +30911,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Faker_2020_interview.jpg/500px-Faker_2020_interview.jpg",
     "relations": [
+      "Son Heung-min",
       "Lionel Messi",
-      "Stephen Curry",
-      "Rafael Nadal"
+      "Stephen Curry"
     ],
     "themes": []
   },
@@ -25269,8 +30954,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg/500px-Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg",
     "relations": [
       "Owen Cooper",
-      "Patricia Janečková",
-      "Hứa Quang Hán"
+      "Anya Taylor-Joy",
+      "Patricia Janečková"
     ],
     "themes": []
   },
@@ -25290,8 +30975,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Nguy%E1%BB%85n_Quang_H%E1%BA%A3i.jpg",
     "relations": [
       "Lê Công Vinh",
-      "Son Heung-min",
-      "Lionel Messi"
+      "Lionel Messi",
+      "Lamine Yamal"
     ],
     "themes": [
       "Football"
@@ -25313,8 +30998,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nguyen_Xuan_Son_vs_Singapore_2024.png",
     "relations": [
       "Nguyễn Quang Hải",
-      "Lionel Messi",
-      "Lê Công Vinh"
+      "Son Heung-min",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -25335,9 +31020,9 @@ const RAW_DATA = [
     "fullName": "Max Verstappen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg",
     "relations": [
+      "Magnus Carlsen",
       "Lewis Hamilton",
-      "Đinh Lập Nhân",
-      "Carlos Alcaraz"
+      "Đinh Lập Nhân"
     ],
     "themes": []
   },
@@ -25423,7 +31108,7 @@ const RAW_DATA = [
     "relations": [
       "Phúc Du",
       "Trần Tiến",
-      "Lexie Liu"
+      "Bo Burnham"
     ],
     "themes": []
   },
@@ -25444,7 +31129,7 @@ const RAW_DATA = [
     "relations": [
       "Erling Haaland",
       "Mohamed Salah",
-      "Sadio Mané"
+      "Son Heung-min"
     ],
     "themes": [
       "Football"
@@ -25508,8 +31193,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/500px-Erling_Haaland_June_2025.jpg",
     "relations": [
       "Lamine Yamal",
-      "Lionel Messi",
-      "Lê Công Vinh"
+      "Son Heung-min",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -25574,8 +31259,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kvaratskhelia_asse_psg_2425_%28cropped%29.png",
     "relations": [
       "Lamine Yamal",
-      "Lionel Messi",
-      "Nguyễn Quang Hải"
+      "Son Heung-min",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -25644,9 +31329,30 @@ const RAW_DATA = [
     "relations": [
       "Leonardo DiCaprio",
       "Malala Yousafzai",
-      "Rosa Parks"
+      "Aleksey Navalny"
     ],
     "themes": []
+  },
+  {
+    "title": "Alireza Firouzja",
+    "born": 2003,
+    "died": null,
+    "desc": "Đại kiện tướng cờ vua người Pháp gốc Iran, thần đồng trẻ tuổi nhất lịch sử vượt qua cột mốc Elo 2800, phá vỡ kỷ lục trước đó của Magnus Carlsen.",
+    "nationality": "Iranian",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Chess"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Alireza_Firouzja_2026_Norway_Chess.jpg/500px-Alireza_Firouzja_2026_Norway_Chess.jpg",
+    "relations": [
+      "Gukesh D",
+      "Magnus Carlsen",
+      "Đinh Lập Nhân"
+    ]
   },
   {
     "born": 2004,
@@ -25754,6 +31460,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "title": "Gukesh D",
+    "born": 2006,
+    "died": null,
+    "desc": "Đại kiện tướng cờ vua người Ấn Độ, nhà vô địch cờ vua thế giới trẻ nhất lịch sử (2024/2025). Thần đồng cờ vua xuất sắc vượt qua nhiều kỷ lục của Garry Kasparov và Magnus Carlsen ở độ tuổi thanh thiếu niên.",
+    "nationality": "Others",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "themes": [
+      "Chess"
+    ],
+    "position": "bottom",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/500px-Gukesh_in_2025_%28cropped%29.jpg",
+    "relations": [
+      "Alireza Firouzja",
+      "Garry Kasparov",
+      "Magnus Carlsen"
+    ]
+  },
+  {
     "born": 2007,
     "died": 2008,
     "title": "Lamine Yamal",
@@ -25768,9 +31495,9 @@ const RAW_DATA = [
     "fullName": "Lamine Yamal",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lamine_Yamal_in_2025.jpg",
     "relations": [
+      "Son Heung-min",
       "Lionel Messi",
-      "Khvicha Kvaratskhelia",
-      "Erling Haaland"
+      "Khvicha Kvaratskhelia"
     ],
     "themes": [
       "Football"
@@ -25791,9 +31518,9 @@ const RAW_DATA = [
     "fullName": "Owen Cooper",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Owen_Cooper%2C_2026.png",
     "relations": [
+      "Anya Taylor-Joy",
       "Sydney Sweeney",
-      "Ricky Gervais",
-      "Chương Nhược Nam"
+      "Ricky Gervais"
     ],
     "themes": []
   },
@@ -25801,7 +31528,7 @@ const RAW_DATA = [
     "born": 2009,
     "died": 2010,
     "title": "Laurent Simons",
-    "desc": "Thần đồng người Bỉ gắn liền với việc học STEM nâng cao ngay từ khi còn nhỏ.",
+    "desc": "Thần đồng khoa học người Bỉ nổi tiếng toàn cầu, người tốt nghiệp cử nhân vật lý tại Đại học Antwerp khi mới 11 tuổi với điểm số tối ưu. Cậu tiếp tục theo đuổi con đường nghiên cứu STEM nâng cao nhằm thiết kế các cơ quan nội tạng nhân tạo cứu người.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -25813,5651 +31540,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Karen Horney",
-      "Georg Cantor",
-      "Dmitri Mendeleev"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1882,
-    "died": 1941,
-    "title": "Virginia Woolf",
-    "desc": "Nhà văn, nhà luận văn và tác giả người Anh, một trong những ngòi bút có tầm ảnh hưởng lớn nhất của chủ nghĩa hiện đại (Modernism) thế kỷ 20. Bà đã cách mạng hóa ngôn ngữ tiểu thuyết bằng kỹ thuật 'dòng ý thức' (stream of consciousness) xuất thần và ngân bút trữ tình đầy ma lực trong những tác phẩm kiệt xuất như 'Mrs Dalloway' và 'To the Lighthouse'. Là một trong những giọi nữ đầu tiên mạnh dạn văn bản hóa một phê bình toàn diện về nữ quyền trong văn học và xã hội qua bút ký lịch sử 'A Room of One's Own'.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Philosophy"
-    ],
-    "nationality": "British",
-    "fullName": "Virginia Woolf (Adeline Virginia Stephen)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/500px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
-    "relations": [
-      "Karen Horney",
-      "E. M. Forster",
-      "Marcel Proust"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ]
-  },
-  {
-    "born": 1759,
-    "died": 1828,
-    "title": "Vũ Trinh",
-    "desc": "Nhà văn, nhà thơ và quan lại người Việt phục vụ dưới cả hai triều Hậu Lê và Nguyễn sơ. Ông nổi tiếng nhất với tác phẩm 'Lan Trì kiến văn lục' — tập truyện ký bằng chữ Hán ghi lại những sự kiện kỳ lạ, chuyện ma quái và giai thoại nhân vật đương thời, là một trong những nguồn tư liệu văn hóa và xã hội quý giá của thế kỷ 18-19. Ông còn là người thầy, nhà thơ cổ điển uyên thâm được trọng dụng qua nhiều triều đại.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Vũ Trinh (Vũ Dự Chi, hiệu Lai Sơn)",
-    "image": "",
-    "relations": [
-      "Phan Huy Ích",
-      "Nguyễn Du",
-      "Thụy An"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1743,
-    "died": 1790,
-    "title": "Nguyễn Huy Tự",
-    "desc": "Nhà thơ, nhà quân sự và quan lại thời Hậu Lê. Ông nổi danh với 'Hoa Tiên truyện' — truyện thơ Nôm xuất sắc, một trong những đỉnh cao của văn học chữ Nôm Việt Nam trước Truyện Kiều của Nguyễn Du. Vừa là tác giả văn chương tinh tế, vừa là vị quan liêm khiết và nhà quân sự tài ba, cuộc đời ông là minh chứng hiếm có cho sự hội tụ của văn và võ trong thời loạn lạc.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military",
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Nguyễn Huy Tự (hiệu Hạo Hiên)",
-    "image": "",
-    "relations": [
-      "Nguyễn Du",
-      "Trịnh Sâm",
-      "Phạm Ngũ Lão"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1765,
-    "died": 1793,
-    "title": "Lê Chiêu Thống",
-    "desc": "Vị hoàng đế cuối cùng của triều Hậu Lê — triều đại kéo dài gần 360 năm. Trước cơn sóng gió của phong trào Tây Sơn, ông đã đưa ra quyết định bi kịch là cầu viện 20 vạn quân Thanh sang đánh Tây Sơn, bị vua Quang Trung đại phá tan tành chỉ trong 5 ngày xuân Kỷ Dậu 1789. Sau thất bại, ông phải bỏ nước lưu vong sang đất Trung Hoa, mang theo nỗi nhục mất nước cho đến khi mất tại đó, trở thành một trong những nhân vật bi kịch nhất lịch sử Việt Nam.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Lê Chiêu Thống (Lê Duy Khiêm, Lê Mẫn Đế, Chiêu Thống Đế, Duy Khiêm Đế)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_King_of_Annam_at_Chengde_Mountain_Resort.jpg/500px-The_King_of_Annam_at_Chengde_Mountain_Resort.jpg",
-    "relations": [
-      "Trần Quang Diệu",
-      "Nguyễn Hữu Chỉnh",
-      "Nguyễn Lữ"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1760,
-    "died": 1802,
-    "title": "Trần Quang Diệu",
-    "desc": "Danh tướng kiệt xuất và trung nghĩa bậc nhất của triều Tây Sơn, phu quân của nữ tướng huyền thoại Bùi Thị Xuân. Ông lập nhiều chiến công lừng lẫy, trấn thủ các thành trì chiến lược, là một trong những cánh tay đắc lực nhất của vua Quang Trung. Sau khi nhà Tây Sơn sụp đổ, không hàng phục, ông cùng người vợ anh hùng bị Nguyễn Ánh xử tử — để lại tấm gương ngời sáng về khí tiết và lòng trung nghĩa hiếm có trong lịch sử.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Trần Quang Diệu",
-    "image": "",
-    "relations": [
-      "Bùi Thị Xuân",
-      "Nguyễn Hữu Chỉnh",
-      "Lê Chiêu Thống"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1741,
-    "died": 1787,
-    "title": "Nguyễn Hữu Chỉnh",
-    "desc": "Nhân vật tài năng kiệt xuất nhưng đầy mâu thuẫn và bi kịch, được mệnh danh là 'Chim Hải Đông'. Ông là nhà quân sự đại tài, nhà thơ có giọng điệu riêng, nhưng cũng là kẻ cơ hội lịch sử. Từng phục vụ chúa Trịnh, rồi theo Tây Sơn, rồi lại mưu đồ riêng — cả đời nương thân nhiều chủ, cuối cùng bị chính Tây Sơn tiêu diệt. Cuộc đời ông là bài học cay đắng về tài năng không đi cùng phẩm cách.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political",
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Nguyễn Hữu Chỉnh (Chim Hải Đông, Điện tiền tướng quân)",
-    "image": "",
-    "relations": [
-      "Trần Quang Diệu",
-      "Nguyễn Lữ",
-      "Lê Chiêu Thống"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1750,
-    "died": 1822,
-    "title": "Phan Huy Ích",
-    "desc": "Nhà thơ, nhà văn và học giả uyên bác người Việt, phục vụ qua nhiều triều đại Hậu Lê, Tây Sơn và Nguyễn. Ông nổi tiếng với tài thơ văn chữ Hán và chữ Nôm tinh tế, đặc biệt trong thể loại từ khúc và thơ trữ tình. Là thân phụ của nhà bác học Phan Huy Chú — tác giả bộ bách khoa thư lịch sử đồ sộ 'Lịch triều hiến chương loại chí', ông để lại một gia tộc khoa bảng lừng danh cho hậu thế.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phan Huy Ích (hiệu Dụ Am, Hối Hiên)",
-    "image": "",
-    "relations": [
-      "Phan Huy Chú",
-      "Trần Quang Diệu",
-      "Nguyễn Hữu Chỉnh"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1799,
-    "died": 1872,
-    "title": "Nguyễn Văn Siêu",
-    "desc": "Được đời sau tôn xưng là 'Thần Siêu' — một trong 'Song hùng' nổi danh nhất của thi đàn chữ Hán Việt Nam thế kỷ 19, sánh vai cùng 'Thánh Quát' Cao Bá Quát. Là nhà thơ, nhà văn xuôi và học giả uyên thâm, ông để lại gia tài văn chương đồ sộ. Ông còn có công lớn trong việc trùng tu và xây dựng tháp Bút — Đài Nghiên tại Đền Ngọc Sơn, Hà Nội — biểu tượng văn hóa bất hủ của Thủ đô.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Nguyễn Văn Siêu (Thần Siêu, hiệu Phương Đình)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/12_Su_quan.jpg/500px-12_Su_quan.jpg",
-    "relations": [
-      "Cao Bá Quát",
-      "Vũ Trinh",
-      "Phan Huy Ích"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1263,
-    "died": 1301,
-    "title": "Thoát Hoan",
-    "desc": "Thân vương nhà Đại Nguyên, con thứ của Hốt Tất Liệt, được phong Trấn Nam Vương — tước hiệu mang ý nghĩa khuất phục phương Nam. Ông hai lần thống lĩnh đại quân hàng trăm nghìn người tràn xuống xâm lược Đại Việt (1285 và 1287-1288), tự tin vào sức mạnh đế quốc từng làm cả thế giới khiếp vía. Nhưng cả hai lần đều bị quân dân Đại Việt dưới ngọn cờ của Hưng Đạo Đại Vương đánh tan, phải tháo chạy về nước trong sự nhục nhã ê chề — một trong những thất bại cay đắng nhất của đế quốc Mông Cổ trong lịch sử.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Chinese",
-    "fullName": "Thoát Hoan (Toghan, Toghon, Trấn Nam Vương, 脱歡)",
-    "image": "",
-    "relations": [
-      "Ô Mã Nhi",
-      "Chu Nguyên Chương",
-      "Lê Chiêu Thống"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1250,
-    "died": 1288,
-    "title": "Ô Mã Nhi",
-    "desc": "Đô đốc thủy quân xuất sắc và đáng gờm nhất của đế quốc Nguyên Mông, chỉ huy lực lượng hải quân hùng mạnh trong cuộc xâm lược Đại Việt lần thứ ba năm 1287-1288. Từng gieo rắc kinh hoàng cho dải đất ven biển Đại Việt, ông đã nếm trải thất bại thảm khốc và bị bắt sống trong trận Bạch Đằng giang lịch sử năm 1288 — nơi Hưng Đạo Đại Vương Trần Quốc Tuấn đã bày trận cọc ngàn thu, nhấn chìm toàn bộ hạm đội Nguyên và kết thúc tham vọng bành trướng của đế quốc Mông Cổ xuống phương Nam mãi mãi.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Chinese",
-    "fullName": "Ô Mã Nhi (Omar, Umar, 烏馬兒)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_TP_%28Ch%E1%BA%A1m_n%E1%BB%95i_Tr%E1%BA%A7n_Qu%E1%BB%91c_To%E1%BA%A3n_b%C3%B3p_cam%29_%283%29.jpg/500px-B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_TP_%28Ch%E1%BA%A1m_n%E1%BB%95i_Tr%E1%BA%A7n_Qu%E1%BB%91c_To%E1%BA%A3n_b%C3%B3p_cam%29_%283%29.jpg",
-    "relations": [
-      "Thoát Hoan",
-      "Nguyễn Khoái",
-      "Trần Khánh Dư"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1933,
-    "died": 1952,
-    "title": "Võ Thị Sáu",
-    "fullName": "Võ Thị Sáu",
-    "desc": "Nữ du kích và anh hùng lực lượng vũ trang nhân dân Việt Nam. Bà thực hiện nhiều cuộc ném lựu đạn tiêu diệt sĩ quan Pháp và tay sai trước khi bị bắt, giam cầm tại Côn Đảo và bị hành quyết vào năm 1952.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Portrait_of_V%C3%B5_Th%E1%BB%8B_S%C3%A1u.jpg",
-    "relations": [
-      "Bế Văn Đàn",
-      "Tô Vĩnh Diện",
-      "Phan Đình Giót"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1931,
-    "died": 1953,
-    "title": "Bế Văn Đàn",
-    "fullName": "Bế Văn Đàn",
-    "desc": "Chiến sĩ Quân đội Nhân dân Việt Nam, anh hùng lực lượng vũ trang nhân dân. Ông nổi tiếng với hành động lấy thân mình làm giá súng trong Chiến dịch Điện Biên Phủ năm 1953.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/B%E1%BA%BF_V%C4%83n_%C4%90%C3%A0n.jpg",
-    "relations": [
-      "Tô Vĩnh Diện",
-      "Phan Đình Giót",
-      "Võ Thị Sáu"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1922,
-    "died": 1954,
-    "title": "Phan Đình Giót",
-    "fullName": "Phan Đình Giót",
-    "desc": "Chiến sĩ Quân đội Nhân dân Việt Nam, anh hùng lực lượng vũ trang nhân dân. Trong Chiến dịch Điện Biên Phủ, ông đã lấy thân mình lấp lỗ châu mai của địch để đồng đội xông lên.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Timbre_Phan_dinh_giot.jpg",
-    "relations": [
-      "Bế Văn Đàn",
-      "Tô Vĩnh Diện",
-      "Võ Thị Sáu"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1924,
-    "died": 1954,
-    "title": "Tô Vĩnh Diện",
-    "fullName": "Tô Vĩnh Diện",
-    "desc": "Chiến sĩ pháo binh Quân đội Nhân dân Việt Nam, anh hùng lực lượng vũ trang nhân dân. Ông nổi tiếng với hành động lấy thân mình chèn bánh pháo để cứu khẩu pháo cao xạ khỏi bị lao xuống vực tại Điện Biên Phủ.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Phao_phong_khong_To_Vinh_Dien.JPG",
-    "relations": [
-      "Bế Văn Đàn",
-      "Phan Đình Giót",
-      "Võ Thị Sáu"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1910,
-    "died": 1941,
-    "title": "Nguyễn Thị Minh Khai",
-    "fullName": "Nguyễn Thị Minh Khai",
-    "desc": "Nhà cách mạng nữ kiệt và là một trong những nhà lãnh đạo thời kỳ đầu của Đảng Cộng sản Đông Dương. Bà là Bí thư Thành ủy Sài Gòn - Chợ Lớn và bị thực dân Pháp hành quyết vào năm 1941.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Nguyen_Thi_Minh_Khai.jpg",
-    "relations": [
-      "Hoàng Văn Thụ",
-      "Nguyễn Văn Cừ",
-      "Phạm Hồng Thái"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1888,
-    "died": 1980,
-    "title": "Tôn Đức Thắng",
-    "fullName": "Tôn Đức Thắng (Bác Tôn)",
-    "desc": "Nhà cách mạng lỗi lạc của Việt Nam, Chủ tịch thứ hai của nước Việt Nam Dân chủ Cộng hòa và sau đó là nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. Ông tích cực tham gia phong trào công nhân và lãnh đạo kháng chiến chống Pháp và chống Mỹ.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Tonducthang.jpg/250px-Tonducthang.jpg",
-    "relations": [
-      "Phạm Hùng",
-      "Võ Chí Công",
-      "Hồ Chí Minh"
-    ],
-    "themes": [
-      "Khang chien chong Phap",
-      "Khang chien chong My",
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1807,
-    "died": 1873,
-    "title": "Rigault de Genouilly",
-    "fullName": "Charles Rigault de Genouilly",
-    "desc": "Đô đốc hải quân Pháp, người đã chỉ huy liên quân Pháp - Tây Ban Nha tấn công Đà Nẵng năm 1858 và đánh chiếm Gia Định năm 1859, mở đầu cho quá trình xâm lược Việt Nam của thực dân Pháp.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Nguyễn Tri Phương",
-      "Trương Định",
-      "Võ Nguyên Giáp"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/500px-de-genouilly.jpg"
-  },
-  {
-    "born": 1827,
-    "died": 1883,
-    "title": "Henri Rivière",
-    "fullName": "Henri Rivière",
-    "desc": "Sĩ quan hải quân và nhà văn Pháp, người chỉ huy quân Pháp đánh chiếm thành Hà Nội lần thứ hai (1882) và sau đó bị quân cờ đen phục kích tiêu diệt tại trận Cầu Giấy năm 1883.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Francis Garnier",
-      "Võ Thị Sáu",
-      "Trương Định"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Rivi%C3%A8re_by_Nadar.jpg/500px-Henri_Rivi%C3%A8re_by_Nadar.jpg"
-  },
-  {
-    "born": 1857,
-    "died": 1932,
-    "title": "Paul Doumer",
-    "fullName": "Joseph Athanase Paul Doumer",
-    "desc": "Toàn quyền Đông Dương (1897-1902), người đã thiết lập bộ máy khai thác thuộc địa triệt để và xây dựng nhiều công trình hạ tầng lớn tại Việt Nam (cầu Long Biên, cầu Tràng Tiền, đường sắt...). Sau này ông trở thành Tổng thống Pháp.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Phạm Hồng Thái",
-      "Hàm Nghi",
-      "Hồ Chí Minh"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ],
-    "image": ""
-  },
-  {
-    "born": 1902,
-    "died": 1947,
-    "title": "Philippe Leclerc",
-    "fullName": "Philippe Leclerc de Hauteclocque",
-    "desc": "Đại tướng Thống chế Pháp, người chỉ huy quân đội Pháp trở lại Đông Dương sau Thế chiến thứ hai (1945-1946) để tái lập quyền kiểm soát của Pháp ở Nam Bộ trước khi kêu gọi giải pháp đàm phán.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Henri Navarre",
-      "Jean de Lattre de Tassigny",
-      "Võ Nguyên Giáp"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/G%C3%A9n%C3%A9ral_Leclerc.jpg/500px-G%C3%A9n%C3%A9ral_Leclerc.jpg"
-  },
-  {
-    "born": 1898,
-    "died": 1983,
-    "title": "Henri Navarre",
-    "fullName": "Henri Navarre",
-    "desc": "Đại tướng Pháp, Tổng chỉ huy quân đội viễn chinh Pháp ở Đông Dương (1953-1954). Ông là người vạch ra kế hoạch quân sự Navarre nổi tiếng và chỉ huy quân Pháp trong Chiến dịch Điện Biên Phủ.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Philippe Leclerc",
-      "Jean de Lattre de Tassigny",
-      "Christian de Castries"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/500px-Henri_Navarre_of_Indochina.png"
-  },
-  {
-    "born": 1902,
-    "died": 1991,
-    "title": "Christian de Castries",
-    "fullName": "Christian Marie Ferdinand de la Croix de Castries",
-    "desc": "Chỉ huy trưởng tập đoàn cứ điểm Điện Biên Phủ của quân đội Pháp. Ông bị lực lượng Việt Minh bắt sống khi Điện Biên Phủ thất thủ ngày 7 tháng 5 năm 1954.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Henri Navarre",
-      "Võ Nguyên Giáp",
-      "Phan Đình Giót"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/500px-Dien_Bien_Phu001.jpg"
-  },
-  {
-    "born": 1913,
-    "died": 1994,
-    "title": "Richard Nixon",
-    "fullName": "Richard Milhous Nixon",
-    "desc": "Tổng thống thứ 37 của Hoa Kỳ. Ông đã lãnh đạo nước Mỹ trong giai đoạn cao trào của Chiến tranh Việt Nam, thực hiện chiến lược 'Việt Nam hóa chiến tranh' và ký Hiệp định Hòa bình Paris năm 1973 để rút quân Mỹ khỏi Việt Nam.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "American",
-    "relations": [
-      "Nguyễn Thị Bình",
-      "Lê Đức Thọ",
-      "Lê Duẩn"
-    ],
-    "themes": [
-      "Khang chien chong My"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg"
-  },
-  {
-    "born": 1916,
-    "died": 2009,
-    "title": "Robert McNamara",
-    "fullName": "Robert Strange McNamara",
-    "desc": "Bộ trưởng Quốc phòng Hoa Kỳ dưới thời Tổng thống John F. Kennedy và Lyndon B. Johnson. Ông đóng vai trò kiến trúc sư trưởng và đưa ra các quyết định leo thang quân sự lớn của Mỹ trong Chiến tranh Việt Nam.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "American",
-    "relations": [
-      "Henry Kissinger",
-      "Hoàng Văn Thái",
-      "Đinh Núp"
-    ],
-    "themes": [
-      "Khang chien chong My"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Robert_McNamara_official_portrait.jpg/500px-Robert_McNamara_official_portrait.jpg"
-  },
-  {
-    "born": 1161,
-    "died": 1185,
-    "title": "Baldwin IV",
-    "fullName": "Baldwin IV (Baldwin the Leper, Baudouin le Lépreux, King of Jerusalem)",
-    "desc": "Vua của Jerusalem từ 1174 đến 1185, nổi tiếng với biệt danh 'Vua hủi'. Mặc dù mắc bệnh phong cùi tàn phế từ nhỏ, ông đã thể hiện ý chí phi thường và tài năng quân sự kiệt xuất khi đánh bại danh tướng Saladin trong trận Montgisard lịch sử để bảo vệ vương quốc.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Other",
-    "relations": [
-      "Trương Liêu",
-      "Saladin",
-      "Nguyễn Khoái"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/King_Baldwin_IV.png"
-  },
-  {
-    "born": 1969,
-    "died": null,
-    "title": "Edward Norton",
-    "fullName": "Edward Harrison Norton",
-    "desc": "Nam diễn viên, nhà làm phim và nhà hoạt động xã hội người Mỹ. Ông nổi tiếng với khả năng biến hóa đa dạng và diễn xuất tâm lý xuất sắc trong các bộ phim kinh điển như 'Fight Club', 'American History X', và 'Primal Fear', từng nhận được nhiều đề cử giải Oscar.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "American",
-    "relations": [
-      "Leonardo DiCaprio",
-      "Tilda Swinton",
-      "Lâm Tâm Như"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg/500px-Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg"
-  },
-  {
-    "born": 1988,
-    "died": null,
-    "title": "G-Dragon",
-    "fullName": "Kwon Ji-yong (G-Dragon, GD, BIGBANG, King of K-pop)",
-    "desc": "Rapper, ca sĩ, nhạc sĩ, nhà sản xuất âm nhạc và biểu tượng thời trang người Hàn Quốc, trưởng nhóm BIGBANG. Được mệnh danh là 'Ông hoàng K-pop' nhờ tầm ảnh hưởng to lớn trong âm nhạc, phong cách trình diễn và xu hướng thời trang toàn cầu.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "South Korean",
-    "relations": [
-      "Karina",
-      "Vitas",
-      "Yoona"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/G-Dragon_in_October_2025.jpg/500px-G-Dragon_in_October_2025.jpg"
-  },
-  {
-    "born": 1652,
-    "died": 1719,
-    "title": "Boris Petrovich Sheremetev",
-    "fullName": "Boris Petrovich Sheremetev (Russian Field Marshal & Diplomat)",
-    "desc": "Thống chế và nhà ngoại giao Nga dưới thời Peter Đại đế. Ông đóng vai trò chỉ huy chủ chốt trong Đại chiến Bắc Âu, đặc biệt nổi tiếng với việc đánh bại quân Thụy Điển trong chiến dịch Poltava và là người Nga đầu tiên được phong tước Bá tước.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Russian",
-    "relations": [
-      "Fyodor Matveyevich Apraksin",
-      "Michel Ney",
-      "Toyotomi Hideyoshi"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Boris_Sheremetyev_by_I.Argunov_%281768%2C_Kuskovo%29.jpg/500px-Boris_Sheremetyev_by_I.Argunov_%281768%2C_Kuskovo%29.jpg"
-  },
-  {
-    "born": 1661,
-    "died": 1728,
-    "title": "Fyodor Matveyevich Apraksin",
-    "fullName": "Fyodor Matveyevich Apraksin (Russian Admiral)",
-    "desc": "Đô đốc Thống chế Nga, người đồng sáng lập Hải quân Đế quốc Nga cùng với Peter Đại đế. Ông chỉ huy hạm đội Baltic giành chiến thắng chói lọi trước Thụy Điển trong trận hải chiến Gangut năm 1714, khẳng định vị thế cường quốc biển của Nga.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Russian",
-    "relations": [
-      "Boris Petrovich Sheremetev",
-      "Mikhail Kutuzov",
-      "Gustav II Adolf"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Apraxin.jpg"
-  },
-  {
-    "born": 1769,
-    "died": 1815,
-    "title": "Michel Ney",
-    "fullName": "Michel Ney (Marshal Ney, 1st Duc d'Elchingen, 1st Prince de la Moskowa)",
-    "desc": "Thống chế Đế chế Pháp dưới thời Napoleon Bonaparte, được hoàng đế ca ngợi là 'Người dũng cảm nhất trong những người dũng cảm'. Ông đóng vai trò tiên phong kiệt xuất trong các chiến dịch Ulm, Jena-Auerstedt, Borodino và trận Waterloo lịch sử.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "French",
-    "relations": [
-      "Napoleon Bonaparte",
-      "Trần Quang Diệu",
-      "Mikhail Kutuzov"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marechal_Ney.jpg/500px-Marechal_Ney.jpg"
-  },
-  {
-    "born": 1745,
-    "died": 1813,
-    "title": "Mikhail Kutuzov",
-    "fullName": "Mikhail Illarionovich Golenishchev-Kutuzov (Russian Field Marshal)",
-    "desc": "Thống chế Đế quốc Nga, người đã đập tan cuộc xâm lược Nga của hoàng đế Napoleon vào năm 1812. Bằng chiến thuật rút lui chiến lược vườn không nhà trống và trận ác chiến Borodino, ông đã bảo vệ thành công tổ quốc trước đại quân Pháp.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Russian",
-    "relations": [
-      "Trần Quang Diệu",
-      "Michel Ney",
-      "Fyodor Matveyevich Apraksin"
-    ],
-    "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kutuzov_by_Volkov.jpg/500px-Kutuzov_by_Volkov.jpg"
-  },
-  {
-    "title": "Selim Palmgren",
-    "born": 1878,
-    "died": 1951,
-    "desc": "Nhà soạn nhạc, nghệ sĩ dương cầm và nhạc trưởng người Phần Lan.",
-    "nationality": "Scandinavian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/SPalmgren_sig_%28cropped%29.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Oskar Merikanto",
-      "Toivo Kuula",
-      "Feliks Nowowiejski"
-    ]
-  },
-  {
-    "title": "John Ireland",
-    "born": 1879,
-    "died": 1962,
-    "desc": "Nhà soạn nhạc và giáo viên âm nhạc người Anh, nổi tiếng với các tiểu phẩm và ca khúc dành cho piano.",
-    "nationality": "British",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/John_Nicholson_Ireland_%28circa_1920%29.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Feliks Nowowiejski",
-      "Igor Stravinsky",
-      "Béla Bartók"
-    ]
-  },
-  {
-    "title": "Oskar Merikanto",
-    "born": 1868,
-    "died": 1924,
-    "desc": "Nhà soạn nhạc, nhà phê bình âm nhạc, nghệ sĩ dương cầm và nghệ sĩ đại phong cầm người Phần Lan.",
-    "nationality": "Scandinavian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/OMerikanto_1920s.jpg/500px-OMerikanto_1920s.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Selim Palmgren",
-      "Anton Arensky",
-      "Jean Sibelius"
-    ]
-  },
-  {
-    "title": "Toivo Kuula",
-    "born": 1883,
-    "died": 1918,
-    "desc": "Nhà soạn nhạc và nhạc trưởng người Phần Lan, học trò của Jean Sibelius.",
-    "nationality": "Scandinavian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/KuulaT.jpg/500px-KuulaT.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Jean Sibelius",
-      "Selim Palmgren",
-      "Oskar Merikanto"
-    ]
-  },
-  {
-    "title": "Charles Ives",
-    "born": 1874,
-    "died": 1954,
-    "desc": "Nhà soạn nhạc người Mỹ, một trong những nhà soạn nhạc người Mỹ đầu tiên đạt được danh tiếng quốc tế.",
-    "nationality": "American",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Charles_Edward_Ives_-_National_Portrait_Gallery%2C_Smithsonian_Institution_%28NPG.82.185%29.jpg/500px-Charles_Edward_Ives_-_National_Portrait_Gallery%2C_Smithsonian_Institution_%28NPG.82.185%29.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Arnold Schönberg",
-      "Richard Strauss",
-      "Maurice Ravel"
-    ]
-  },
-  {
-    "title": "Feliks Nowowiejski",
-    "born": 1877,
-    "died": 1946,
-    "desc": "Nhà soạn nhạc, nhạc trưởng, nghệ sĩ đại phong cầm và giáo viên âm nhạc người Ba Lan.",
-    "nationality": "Polish",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Feliks_Nowowiejski_foto_%28cropped%29.jpg/500px-Feliks_Nowowiejski_foto_%28cropped%29.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Selim Palmgren",
-      "John Ireland",
-      "Igor Stravinsky"
-    ]
-  },
-  {
-    "title": "Fanny Mendelssohn",
-    "born": 1805,
-    "died": 1847,
-    "desc": "Nhà soạn nhạc và nghệ sĩ dương cầm người Đức thời kỳ đầu lãng mạn, chị gái của Felix Mendelssohn.",
-    "nationality": "German",
-    "primary_tag": "Art",
-    "tags": [
-      "Art",
-      "Women"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fanny_Mendelssohn.jpg/500px-Fanny_Mendelssohn.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Felix Mendelssohn",
-      "Clara Schumann",
-      "Franz Liszt"
-    ]
-  },
-  {
-    "title": "Anton Arensky",
-    "born": 1861,
-    "died": 1906,
-    "desc": "Nhà soạn nhạc, nghệ sĩ dương cầm, và nhạc trưởng người Nga thuộc phong trào Lãng mạn.",
-    "nationality": "Russian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Arensky_Anton_Postcard-1910.jpg/500px-Arensky_Anton_Postcard-1910.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Eugène Ysaÿe",
-      "Oskar Merikanto",
-      "Gustav Mahler"
-    ]
-  },
-  {
-    "title": "Anton Webern",
-    "born": 1883,
-    "died": 1945,
-    "desc": "Nhà soạn nhạc người Áo, học trò của Arnold Schoenberg và là thành viên cốt cán của Trường phái Vienna thứ hai.",
-    "nationality": "Austrian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Anton_Webern_in_Stettin%2C_October_1912.jpg/500px-Anton_Webern_in_Stettin%2C_October_1912.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Alban Berg",
-      "John Ireland",
-      "Feliks Nowowiejski"
-    ]
-  },
-  {
-    "title": "Arnold Schönberg",
-    "born": 1874,
-    "died": 1951,
-    "desc": "Nhà soạn nhạc người Áo, người tiên phong trong âm nhạc vô điệu tính (Atonality) và phát minh ra kỹ thuật 12 âm (Twelve-tone technique).",
-    "nationality": "Austrian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%E9%98%BF%E8%AF%BA%E5%BE%B7%C2%B7%E5%8B%8B%E4%BC%AF%E6%A0%BC%E8%82%96%E5%83%8F.jpg/500px-%E9%98%BF%E8%AF%BA%E5%BE%B7%C2%B7%E5%8B%8B%E4%BC%AF%E6%A0%BC%E8%82%96%E5%83%8F.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Alban Berg",
-      "Charles Ives",
-      "Feliks Nowowiejski"
-    ]
-  },
-  {
-    "title": "Georg Philipp Telemann",
-    "born": 1681,
-    "died": 1767,
-    "desc": "Nhà soạn nhạc người Đức thời kỳ Baroque, một trong những nhà soạn nhạc có nhiều tác phẩm nhất trong lịch sử.",
-    "nationality": "German",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Telemann.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Antonio Vivaldi",
-      "Giuseppe Tartini",
-      "Johann Sebastian Bach"
-    ]
-  },
-  {
-    "title": "Sir Edward Elgar",
-    "born": 1857,
-    "died": 1934,
-    "desc": "Nhà soạn nhạc người Anh, tác giả của nhiều tác phẩm kinh điển như Pomp and Circumstance Marches và Enigma Variations.",
-    "nationality": "British",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Richard Strauss",
-      "Jean Sibelius",
-      "Nikolai Rimsky-Korsakov"
-    ]
-  },
-  {
-    "title": "Alban Berg",
-    "born": 1885,
-    "died": 1935,
-    "desc": "Nhà soạn nhạc người Áo thuộc Trường phái Vienna thứ hai, nổi tiếng với việc kết hợp chủ nghĩa lãng mạn với kỹ thuật 12 âm.",
-    "nationality": "Austrian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg/500px-Alban_Berg_%281885%E2%80%931935%29_~1930_%C2%A9_Max_Fenichel_%281885%E2%80%931942%29.jpg",
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "relations": [
-      "Anton Webern",
-      "Arnold Schönberg",
-      "Maurice Ravel"
-    ]
-  },
-  {
-    "title": "Sir Alex Ferguson",
-    "born": 1941,
-    "died": null,
-    "desc": "Cựu huấn luyện viên và cầu thủ bóng đá người Scotland, nổi tiếng nhất với thời gian dẫn dắt Manchester United từ năm 1986 đến 2013.",
-    "nationality": "British",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sir_Alex_Ferguson_2011.jpg/500px-Sir_Alex_Ferguson_2011.jpg",
-    "themes": [
-      "Football"
-    ],
-    "position": "bottom",
-    "relations": [
-      "George Best",
-      "Ferenc Puskás",
-      "Sir Bobby Robson"
-    ]
-  },
-  {
-    "title": "Mstislav Rostropovich",
-    "born": 1927,
-    "died": 2007,
-    "desc": "Nghệ sĩ cello và nhạc trưởng huyền thoại người Nga, nổi tiếng với kỹ thuật biểu diễn bậc thầy và việc truyền cảm hứng sáng tác cho hàng loạt tác phẩm cello hiện đại.",
-    "nationality": "Russian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/RIAN_archive_438589_Mstislav_Rostropovich.jpg/500px-RIAN_archive_438589_Mstislav_Rostropovich.jpg",
-    "relations": [
-      "Niccolò Paganini",
-      "Dmitri Shostakovich",
-      "Igor Stravinsky"
-    ]
-  },
-  {
-    "title": "Karl Jenkins",
-    "born": 1944,
-    "died": null,
-    "desc": "Nhà soạn nhạc và nhạc công đa nhạc cụ người xứ Wales, nổi tiếng với tác phẩm giao thoa thể loại 'Adiemus', bản concerto 'Palladio' và thánh ca hòa bình 'The Armed Man'.",
-    "nationality": "British",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Karl_Jenkins_-_St_David_Awards_2017.png/500px-Karl_Jenkins_-_St_David_Awards_2017.png",
-    "relations": [
-      "Sergei Prokofiev",
-      "Robert Schumann",
-      "Dmitri Shostakovich"
-    ]
-  },
-  {
-    "title": "Eugène Ysaÿe",
-    "born": 1858,
-    "died": 1931,
-    "desc": "Nghệ sĩ vĩ cầm, nhà soạn nhạc và nhạc trưởng người Bỉ, được tôn vinh là 'Vua vĩ cầm' với phong cách biểu diễn lãng mạn đầy cá tính và sức ảnh hưởng to lớn.",
-    "nationality": "Others",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eug%C3%A8ne_Ysa%C3%BFe.jpg/500px-Eug%C3%A8ne_Ysa%C3%BFe.jpg",
-    "relations": [
-      "Anton Arensky",
-      "Gustav Mahler",
-      "Richard Strauss"
-    ]
-  },
-  {
-    "title": "Georges Bizet",
-    "born": 1838,
-    "died": 1875,
-    "desc": "Nhà soạn nhạc người Pháp thuộc thời kỳ Lãng mạn, nổi tiếng toàn cầu qua kiệt tác nhạc kịch 'Carmen' - một trong những vở opera được biểu diễn nhiều nhất lịch sử điện ảnh và âm nhạc.",
-    "nationality": "French",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Georges_bizet.jpg/500px-Georges_bizet.jpg",
-    "relations": [
-      "Camille Saint-Saëns",
-      "Gioacchino Rossini",
-      "Johannes Brahms"
-    ]
-  },
-  {
-    "title": "Gioacchino Rossini",
-    "born": 1792,
-    "died": 1868,
-    "desc": "Nhà soạn nhạc người Ý lỗi lạc thuộc thời kỳ Lãng mạn đầu tiên, tác giả của các vở nhạc kịch (opera buffa) kinh điển như 'Người thợ cạo thành Seville' và 'William Tell'.",
-    "nationality": "Italian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rossini_young-circa-1815.jpg",
-    "relations": [
-      "Richard Strauss",
-      "Franz Schubert",
-      "Georges Bizet"
-    ]
-  },
-  {
-    "title": "Johann Pachelbel",
-    "born": 1653,
-    "died": 1706,
-    "desc": "Nhà soạn nhạc và nghệ sĩ đại phong cầm người Đức thời kỳ Baroque, nổi tiếng toàn cầu với bản nhạc bất hủ 'Canon cung Trưởng' (Pachelbel's Canon).",
-    "nationality": "German",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "",
-    "relations": [
-      "Arcangelo Corelli",
-      "Felix Mendelssohn",
-      "Antonio Vivaldi"
-    ]
-  },
-  {
-    "title": "Richard Strauss",
-    "born": 1864,
-    "died": 1949,
-    "desc": "Nhà soạn nhạc và nhạc trưởng vĩ đại người Đức thời kỳ Lãng mạn muộn và Hiện đại đầu tiên, nổi tiếng với các bản thơ giao hưởng đồ sộ như 'Also sprach Zarathustra' và các vở opera kinh điển.",
-    "nationality": "German",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1904_Richard_Strauss_%28cropped%29.jpg/500px-1904_Richard_Strauss_%28cropped%29.jpg",
-    "relations": [
-      "Gustav Mahler",
-      "Gioacchino Rossini",
-      "Jean Sibelius"
-    ]
-  },
-  {
-    "title": "Wilhelm Röntgen",
-    "born": 1845,
-    "died": 1923,
-    "desc": "Nhà vật lý thực nghiệm người Đức, người đầu tiên phát hiện ra bức xạ điện từ có bước sóng X-quang (tia X), mang lại cho ông giải Nobel Vật lý đầu tiên trong lịch sử năm 1901.",
-    "nationality": "German",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "themes": [
-      "Quantum Physics",
-      "Giai Nobel"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg/500px-Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg",
-    "relations": [
-      "Hendrik Lorentz",
-      "Albert Einstein",
-      "Max Planck"
-    ]
-  },
-  {
-    "title": "Joseph Merrick",
-    "born": 1862,
-    "died": 1890,
-    "desc": "Người đàn ông người Anh nổi tiếng với những biến dạng thể chất cực kỳ nghiêm trọng, được biết đến rộng rãi trong văn hóa với biệt danh 'Người Voi' (The Elephant Man).",
-    "nationality": "British",
-    "primary_tag": "Others",
-    "tags": [
-      "Others"
-    ],
-    "themes": [],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg/500px-Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg",
-    "relations": [
-      "Oskar Schindler",
-      "Aleister Crowley",
-      "Rosalind Franklin"
-    ]
-  },
-  {
-    "title": "Alexander Borodin",
-    "born": 1833,
-    "died": 1887,
-    "desc": "Nhà soạn nhạc thời kỳ Lãng mạn kiêm nhà hóa học nổi tiếng người Nga, một thành viên của nhóm 'The Five' chuyên kiến tạo bản sắc âm nhạc cổ điển đặc trưng của Nga.",
-    "nationality": "Russian",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "themes": [
-      "Classical Music"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Borodin.jpg/500px-Borodin.jpg",
-    "relations": [
-      "Pyotr Ilyich Tchaikovsky",
-      "Johannes Brahms",
-      "Camille Saint-Saëns"
-    ]
-  },
-  {
-    "title": "Johan Cruyff",
-    "born": 1947,
-    "died": 2016,
-    "desc": "Huyền thoại bóng đá và huấn luyện viên người Hà Lan, được coi là một trong những nhân vật có tầm ảnh hưởng lớn nhất lịch sử bóng đá với triết lý 'Bóng đá tổng lực' (Total Football).",
-    "nationality": "Others",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Football"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/500px-Johan_Cruijff_%281974%29.jpg",
-    "relations": [
-      "Marcelo Bielsa",
-      "Sir Bobby Robson",
-      "Lê Thụy Hải"
-    ]
-  },
-  {
-    "title": "Zinedine Zidane",
-    "born": 1972,
-    "died": null,
-    "desc": "Huyền thoại bóng đá người Pháp và là huấn luyện viên xuất sắc, nổi tiếng với lối chơi hào hoa bậc thầy và việc dẫn dắt Real Madrid giành 3 chức vô địch Champions League liên tiếp.",
-    "nationality": "French",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Football"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
-    "relations": [
-      "Jari Litmanen",
-      "Alfredo Di Stefano",
-      "Ronaldo de Lima"
-    ]
-  },
-  {
-    "title": "Ronaldo de Lima",
-    "fullName": "Ronaldo de Lima (Ronaldo Nazário)",
-    "born": 1976,
-    "died": null,
-    "desc": "Tiền đạo huyền thoại người Brazil với biệt danh 'Người ngoài hành tinh' (O Fenômeno), chủ nhân 2 Quả bóng Vàng và 2 chức vô địch World Cup, nổi tiếng với tốc độ và kỹ thuật ghi bàn hủy diệt.",
-    "nationality": "Latin American",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Football"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg/500px-Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg",
-    "relations": [
-      "Pavel Nedved",
-      "Jari Litmanen",
-      "Zinedine Zidane"
-    ]
-  },
-  {
-    "title": "Anatoly Karpov",
-    "born": 1951,
-    "died": null,
-    "desc": "Đại kiện tướng cờ vua người Nga và là nhà vô địch cờ vua thế giới thứ 12 (1975–1985), nổi tiếng với lối chơi phòng thủ vững chắc như bàn thạch và các trận tranh ngôi vua cờ thế kỷ với Garry Kasparov.",
-    "nationality": "Russian",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Chess"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Anatoly_Karpov_2017_april.jpg/500px-Anatoly_Karpov_2017_april.jpg",
-    "relations": [
-      "Garry Kasparov",
-      "Bobby Fischer",
-      "Gukesh D"
-    ]
-  },
-  {
-    "title": "Alireza Firouzja",
-    "born": 2003,
-    "died": null,
-    "desc": "Đại kiện tướng cờ vua người Pháp gốc Iran, thần đồng trẻ tuổi nhất lịch sử vượt qua cột mốc Elo 2800, phá vỡ kỷ lục trước đó của Magnus Carlsen.",
-    "nationality": "Iranian",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Chess"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Alireza_Firouzja_2026_Norway_Chess.jpg/500px-Alireza_Firouzja_2026_Norway_Chess.jpg",
-    "relations": [
-      "Gukesh D",
-      "Magnus Carlsen",
-      "Đinh Lập Nhân"
-    ]
-  },
-  {
-    "title": "Gukesh D",
-    "born": 2006,
-    "died": null,
-    "desc": "Đại kiện tướng cờ vua người Ấn Độ, nhà vô địch cờ vua thế giới trẻ nhất lịch sử (2024/2025). Thần đồng cờ vua xuất sắc vượt qua nhiều kỷ lục của Garry Kasparov và Magnus Carlsen ở độ tuổi thanh thiếu niên.",
-    "nationality": "Others",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Chess"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/500px-Gukesh_in_2025_%28cropped%29.jpg",
-    "relations": [
-      "Alireza Firouzja",
-      "Garry Kasparov",
-      "Đinh Lập Nhân"
-    ]
-  },
-  {
-    "title": "Steffi Graf",
-    "born": 1969,
-    "died": null,
-    "desc": "Cựu tay vợt quần vợt số 1 thế giới người Đức, một trong những tay vợt vĩ đại nhất lịch sử và là người duy nhất (cả nam lẫn nữ) đạt cú 'Golden Slam' trong cùng một năm dương lịch (1988).",
-    "nationality": "German",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "themes": [
-      "Tennis"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg/500px-Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg",
-    "relations": [
-      "Serena Williams",
-      "Kim Clijsters",
-      "Venus Williams"
-    ]
-  },
-  {
-    "title": "Ernest Rutherford",
-    "born": 1871,
-    "died": 1937,
-    "desc": "Nhà vật lý và hóa học người New Zealand được mệnh danh là 'Cha đẻ của vật lý hạt nhân', người tiên phong khám phá cấu trúc hạt nhân nguyên tử và đạt giải Nobel Hóa học năm 1908.",
-    "nationality": "Others",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "themes": [
-      "Quantum Physics",
-      "Giai Nobel"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/500px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
-    "relations": [
-      "Marie Curie",
-      "Peter Debye",
-      "Niels Bohr"
-    ]
-  },
-  {
-    "title": "Max Born",
-    "born": 1882,
-    "died": 1970,
-    "desc": "Nhà vật lý lý thuyết người Đức gốc Anh đóng vai trò then chốt trong việc đặt nền móng cho cơ học lượng tử, nổi tiếng với cách giải thích xác suất của hàm sóng (Quy tắc Born) mang lại giải Nobel Vật lý 1954.",
-    "nationality": "German",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "themes": [
-      "Quantum Physics",
-      "Giai Nobel"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Max_Born.jpg/500px-Max_Born.jpg",
-    "relations": [
-      "Albert Einstein",
-      "Niels Bohr",
-      "Richard Feynman"
-    ]
-  },
-  {
-    "title": "Mary Wollstonecraft",
-    "born": 1759,
-    "died": 1797,
-    "desc": "Nhà triết học và văn sĩ người Anh thế kỷ 18, người đặt nền móng lý luận đầu tiên cho phong trào nữ quyền thế giới với tác phẩm kinh điển 'Biện hộ cho quyền của phụ nữ' (1792).",
-    "nationality": "British",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ],
-    "position": "bottom",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/500px-Mary_Wollstonecraft_Portrait.jpg",
-    "relations": [
-      "Agnès Varda",
-      "Julia Kristeva",
-      "Kimberle Crenshaw"
-    ]
-  },
-  {
-    "title": "Tòng Thị Phóng",
-    "born": 1954,
-    "died": 1955,
-    "desc": "Nguyên Ủy viên Bộ Chính trị, Phó Chủ tịch Thường trực Quốc hội Việt Nam. Bà là nữ chính khách người dân tộc thiểu số (Thái) đầu tiên nắm giữ cương vị Ủy viên Bộ Chính trị Đảng Cộng sản Việt Nam.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tongthiphong2018.jpg",
-    "relations": [
-      "Nguyễn Thị Kim Ngân",
-      "Trương Tấn Sang",
-      "Trần Thanh Mẫn"
-    ]
-  },
-  {
-    "title": "Nguyễn Thị Kim Ngân",
-    "born": 1954,
-    "died": 1955,
-    "desc": "Nguyên Ủy viên Bộ Chính trị, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam. Bà là nữ chính khách đầu tiên trong lịch sử giữ vị trí người đứng đầu cơ quan lập pháp Việt Nam.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n_20191211.jpg/500px-Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n_20191211.jpg",
-    "relations": [
-      "Tòng Thị Phóng",
-      "Trần Thanh Mẫn",
-      "Trương Tấn Sang"
-    ]
-  },
-  {
-    "title": "Đỗ Văn Chiến",
-    "born": 1962,
-    "died": 1963,
-    "desc": "Ủy viên Bộ Chính trị, Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, nguyên Bí thư Trung ương Đảng, Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Do_Van_Chien_29072025.jpg/500px-Do_Van_Chien_29072025.jpg",
-    "relations": [
-      "Trần Thanh Mẫn",
-      "Lê Minh Hưng",
-      "Trương Tấn Sang"
-    ]
-  },
-  {
-    "title": "Trần Thanh Mẫn",
-    "born": 1962,
-    "died": 1963,
-    "desc": "Ủy viên Bộ Chính trị, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam, nguyên Phó Chủ tịch Thường trực Quốc hội và Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/e3/Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn_02052026.jpg/500px-Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn_02052026.jpg",
-    "relations": [
-      "Trương Tấn Sang",
-      "Đỗ Văn Chiến",
-      "Trương Hòa Bình"
-    ]
-  },
-  {
-    "title": "Trương Hòa Bình",
-    "born": 1955,
-    "died": 1956,
-    "desc": "Nguyên Ủy viên Bộ Chính trị, Phó Thủ tướng Thường trực Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam, nguyên Chánh án Tòa án nhân dân tối cao.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mr._Truong_Hoa_Binh.jpg/500px-Mr._Truong_Hoa_Binh.jpg",
-    "relations": [
-      "Trương Tấn Sang",
-      "Trần Thanh Mẫn",
-      "Tòng Thị Phóng"
-    ]
-  },
-  {
-    "title": "Nguyễn Hải Thần",
-    "born": 1869,
-    "died": 1959,
-    "desc": "Chính khách và nhà cách mạng Việt Nam, cựu Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa, đồng sáng lập kiêm lãnh đạo Việt Nam Cách mệnh Đồng minh Hội (Việt Cách).",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nguyen_hai_than.jpg",
-    "relations": [
-      "Huỳnh Thúc Kháng",
-      "Hồ Chí Minh",
-      "Tôn Trung Sơn"
-    ]
-  },
-  {
-    "title": "Bùi Bằng Đoàn",
-    "born": 1889,
-    "died": 1955,
-    "desc": "Nhân sĩ yêu nước, Thượng thư Bộ Hình triều Nguyễn, sau cách mạng giữ chức Trưởng ban Thường trực Quốc hội nước Việt Nam Dân chủ Cộng hòa đầu tiên (1946–1955).",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mr._Bui_Bang_Doan.jpg/250px-Mr._Bui_Bang_Doan.jpg",
-    "relations": [
-      "Thành Thái",
-      "Nguyễn Hy",
-      "Khải Định"
-    ]
-  },
-  {
-    "title": "Bùi Tín",
-    "born": 1927,
-    "died": 2018,
-    "desc": "Nhà báo, Đại tá Quân đội nhân dân Việt Nam, cựu Phó Tổng biên tập báo Nhân Dân, con trai cụ Bùi Bằng Đoàn. Sau năm 1990, ông tị nạn chính trị tại Pháp và trở thành nhà hoạt động bất đồng chính kiến.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "VN Modern Communism",
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/6/6f/Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg/250px-Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg",
-    "relations": [
-      "Hoàng Minh Chính",
-      "Cù Huy Hà Vũ",
-      "Lê Khả Phiêu"
-    ]
-  },
-  {
-    "title": "Trần Độ",
-    "born": 1923,
-    "died": 2002,
-    "desc": "Trung tướng Quân đội nhân dân Việt Nam, cựu Ủy viên Trung ương Đảng, Phó Chủ tịch Quốc hội. Ông nổi tiếng vì tinh thần phê bình độc lập, ủng hộ đổi mới chính trị toàn diện và dân chủ hóa đất nước, dẫn đến việc bị khai trừ khỏi Đảng năm 1999.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/a/a4/Trung_tuong_Tran_Do.jpg",
-    "relations": [
-      "Hoàng Minh Chính",
-      "Bùi Tín",
-      "Lê Khả Phiêu"
-    ]
-  },
-  {
-    "title": "Thích Quảng Độ",
-    "born": 1928,
-    "died": 2020,
-    "desc": "Hòa thượng, nhà hoạt động nhân quyền và lãnh đạo Giáo hội Phật giáo Việt Nam Thống nhất. Ông dành phần lớn cuộc đời đấu tranh cho tự do tôn giáo và dân chủ, được đề cử Giải Nobel Hòa bình nhiều lần.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Religious",
-    "tags": [
-      "Religious"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/7/79/H%C3%B2a_th%C6%B0%E1%BB%A3ng_Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%99.jpg",
-    "relations": [
-      "Thích Tuệ Sỹ",
-      "Thích Nhất Hạnh",
-      "Nguyễn Hữu Đang"
-    ]
-  },
-  {
-    "title": "Hoàng Minh Chính",
-    "born": 1922,
-    "died": 2008,
-    "desc": "Chính trị gia và nhà lý luận Marx-Lenin người Việt Nam, nguyên Viện trưởng Viện Triết học, Tổng thư ký Đảng Dân chủ Việt Nam. Ông là nhân vật trung tâm trong Vụ án Xét lại Chống Đảng và sau này tiếp tục hoạt động bất đồng chính kiến.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/6/6e/HoangMinhChinh150.jpg",
-    "relations": [
-      "Bùi Tín",
-      "Nguyễn Hữu Đang",
-      "Trần Độ"
-    ]
-  },
-  {
-    "title": "Phạm Đoan Trang",
-    "born": 1978,
-    "died": 1979,
-    "desc": "Nhà báo, blogger, tác giả và nhà hoạt động dân chủ nổi tiếng người Việt Nam. Bà đồng sáng lập Luật khoa tạp chí và Nhà xuất bản Tự Do, được nhận nhiều giải thưởng quốc tế về tự do báo chí trước khi bị kết án tù năm 2021.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pham_Doan_Trang-Headshot-e1646028486289-332x332.jpg/250px-Pham_Doan_Trang-Headshot-e1646028486289-332x332.jpg",
-    "relations": [
-      "Cù Huy Hà Vũ",
-      "Huy Đức",
-      "Bùi Tín"
-    ]
-  },
-  {
-    "title": "Nguyễn Hữu Đang",
-    "born": 1913,
-    "died": 2007,
-    "desc": "Nhà báo và nhà hoạt động chính trị Việt Nam, cựu Thứ trưởng Bộ Tuyên truyền, người tổ chức và lãnh đạo chủ chốt của phong trào Nhân Văn – Giai Phẩm. Ông bị kết án 15 năm tù và chịu nhiều năm quản thúc.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/ea/Nguyenhuudang.jpg/250px-Nguyenhuudang.jpg",
-    "relations": [
-      "Hoàng Minh Chính",
-      "Bùi Tín",
-      "Trần Dần"
-    ]
-  },
-  {
-    "title": "Phùng Cung",
-    "born": 1928,
-    "died": 1997,
-    "desc": "Nhà văn, nhà thơ Việt Nam, thành viên nhóm Nhân Văn – Giai Phẩm. Ông nổi tiếng với truyện ngắn 'Con ngựa già của Chúa Trịnh' và bị giam giữ cải tạo 12 năm vì các sáng tác của mình.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "",
-    "relations": [
-      "Thụy An",
-      "Trần Dần",
-      "Phùng Quán"
-    ]
-  },
-  {
-    "title": "Thụy An",
-    "born": 1916,
-    "died": 1989,
-    "desc": "Nhà văn, nhà báo nữ nổi tiếng của Việt Nam trước 1975, người duy nhất không phải đảng viên nhưng đóng vai trò quan trọng trong Nhân Văn – Giai Phẩm. Bà bị kết án 15 năm tù giam.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "",
-    "relations": [
-      "Phùng Cung",
-      "Trần Dần",
-      "Lê Đạt"
-    ]
-  },
-  {
-    "title": "Lê Đạt",
-    "born": 1929,
-    "died": 2008,
-    "desc": "Nhà thơ cách tân nổi tiếng của Việt Nam, một trong những nhân vật trụ cột sáng lập và chủ biên tập san Nhân Văn. Ông bị đình chỉ mọi hoạt động xuất bản và đi lao động thực tế suốt 30 năm.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Miu_L%C3%AA_2026.png/500px-Miu_L%C3%AA_2026.png",
-    "relations": [
-      "Phùng Cung",
-      "Trần Dần",
-      "Phùng Quán"
-    ]
-  },
-  {
-    "title": "Phùng Quán",
-    "born": 1932,
-    "died": 1995,
-    "desc": "Nhà văn và nhà thơ Việt Nam, chiến sĩ trinh sát Vệ quốc quân, nổi tiếng với các tác phẩm 'Vượt Côn Đảo' và 'Tuổi thơ dữ dội'. Ông bị treo bút 30 năm vì tham gia phong trào Nhân Văn – Giai Phẩm.",
-    "nationality": "Vietnamese",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ],
-    "position": "top",
-    "image": "",
-    "relations": [
-      "Trần Dần",
-      "Phùng Cung",
-      "Phan Khôi"
-    ]
-  },
-  {
-    "born": 1906,
-    "died": 1982,
-    "title": "Leonid Ilyich Brezhnev",
-    "fullName": "Leonid Ilyich Brezhnev",
-    "desc": "Nhà lãnh đạo Liên Xô, người giữ chức Tổng Bí thư Đảng Cộng sản Liên Xô từ năm 1964 đến khi qua đời vào năm 1982. Nhiệm kỳ 18 năm của ông dài thứ hai chỉ sau Joseph Stalin, gắn liền với thời kỳ ổn định chính trị, gia tăng sức mạnh quân sự và ảnh hưởng quốc tế của Liên Xô nhưng cũng chứng kiến sự trì trệ kinh tế.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Soviet",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/500px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg",
-    "relations": [
-      "Park Chung-hee",
-      "Nguyễn Xuân Oánh",
-      "Trường Chinh"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1943,
-    "died": 2023,
-    "title": "Thích Tuệ Sỹ",
-    "fullName": "Thích Tuệ Sỹ (Nguyên Chứng)",
-    "desc": "Hòa thượng, học giả Phật giáo lỗi lạc, giáo sư, nhà thơ, nhà văn, dịch giả và nhà bất đồng chính kiến Việt Nam. Ông là Đệ lục Tăng thống Giáo hội Phật giáo Việt Nam Thống nhất (GHPGVNTN). Năm 1988, ông bị chính quyền Việt Nam tuyên án tử hình cùng với Lê Mạnh Thát vì cáo buộc hoạt động lật đổ chính quyền, sau đó giảm xuống chung thân và được thả năm 1998 nhờ áp lực quốc tế.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Religious",
-    "tags": [
-      "Religious",
-      "Literature",
-      "Philosophy"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/e/e3/Thich_Tue_Sy.png",
-    "relations": [
-      "Lê Mạnh Thát",
-      "Thích Quảng Độ",
-      "Cù Huy Hà Vũ"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ]
-  },
-  {
-    "born": 1944,
-    "died": 1945,
-    "title": "Lê Mạnh Thát",
-    "fullName": "Lê Mạnh Thát (Thích Trí Siêu)",
-    "desc": "Học giả Phật giáo, giáo sư, nhà sử học và nhà nghiên cứu ngôn ngữ học Phật giáo uyên bác người Việt Nam. Ông thông thạo nhiều cổ ngữ, công bố nhiều công trình lớn làm thay đổi cách nhìn về lịch sử Phật giáo và lịch sử Việt Nam sơ khởi. Năm 1988, ông bị tuyên án tử hình cùng Hòa thượng Thích Tuệ Sỹ, sau đó được giảm án và được thả tự do vào năm 1998.",
-    "color": "#247ba0",
-    "position": "top",
-    "primary_tag": "Science",
-    "tags": [
-      "Science",
-      "Religious",
-      "Philosophy"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/L%C3%AA_M%E1%BA%A1nh_Th%C3%A1t_%28cropped%29.jpg/500px-L%C3%AA_M%E1%BA%A1nh_Th%C3%A1t_%28cropped%29.jpg",
-    "relations": [
-      "Thích Tuệ Sỹ",
-      "Thích Quảng Độ",
-      "Lê Đạt"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ]
-  },
-  {
-    "born": 1887,
-    "died": 1959,
-    "title": "Phan Khôi",
-    "fullName": "Phan Khôi",
-    "desc": "Nhà báo, nhà văn, dịch giả và học giả lỗi lạc người Việt, thủ lĩnh tinh thần của phong trào Nhân Văn – Giai Phẩm đòi hỏi tự do ngôn luận và tự do sáng tác nghệ thuật. Ông cũng là người khai phong trào Thơ mới với bài thơ nổi tiếng 'Tình già' (1932). Do lập trường thẳng thắn chỉ trích sự can thiệp chính trị vào nghệ thuật, ông bị chính quyền cô lập và phê phán gay gắt.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/b/b1/Chan_dung_Phan_Khoi.jpg",
-    "relations": [
-      "Trần Dần",
-      "Phùng Quán",
-      "Nguyễn Hữu Đang"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN",
-      "Tho Moi"
-    ]
-  },
-  {
-    "born": 1859,
-    "died": 1938,
-    "title": "Edmund Husserl",
-    "fullName": "Edmund Husserl",
-    "desc": "Triết gia và nhà toán học người Áo-Đức, người sáng lập trường phái Hiện tượng học — một trong những trào lưu triết học quan trọng nhất thế kỷ 20. Tác phẩm của ông đặt nền tảng phương pháp luận mới cho nhận thức luận và cấu trúc ý thức, ảnh hưởng sâu sắc đến Martin Heidegger, Jean-Paul Sartre, Maurice Merleau-Ponty và triết gia Việt Nam Trần Đức Thảo.",
-    "color": "#5e239d",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Science"
-    ],
-    "nationality": "German",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Edmund_Husserl_1910s.jpg/500px-Edmund_Husserl_1910s.jpg",
-    "relations": [
-      "Martin Heidegger",
-      "Jean-Paul Sartre",
-      "Trần Đức Thảo"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1850,
-    "died": 1937,
-    "title": "Tomáš Masaryk",
-    "fullName": "Tomáš Garrigue Masaryk",
-    "desc": "Nhà triết học, xã hội học và chính trị gia lỗi lạc người Tiệp Khắc. Ông là người sáng lập và giữ chức Tổng thống đầu tiên của Cộng hòa Tiệp Khắc từ năm 1918 đến năm 1935. Ông được tôn vinh là cha già dân tộc Tiệp Khắc, người bảo vệ nền dân chủ tự do xã hội và nhân quyền.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Philosophy"
-    ],
-    "nationality": "Czech",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG/500px-Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG",
-    "relations": [
-      "Tomas Masaryk",
-      "Paul von Hindenburg",
-      "Paul Doumer"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1826,
-    "died": 1866,
-    "title": "Bernhard Riemann",
-    "fullName": "Georg Friedrich Bernhard Riemann",
-    "desc": "Nhà toán học người Đức vĩ đại, người có đóng góp mang tính cách mạng cho giải tích toán học, lý thuyết số và hình học vi phân. Hình học Riemann do ông phát triển đã thay đổi hoàn toàn quan niệm về không gian, cung cấp nền tảng toán học quan trọng nhất cho Thuyết tương đối rộng của Albert Einstein.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "German",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/500px-Georg_Friedrich_Bernhard_Riemann.jpeg",
-    "relations": [
-      "Albert Einstein",
-      "Hendrik Lorentz",
-      "Johann Bernoulli"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1919,
-    "died": 1996,
-    "title": "Trần Văn Trà",
-    "fullName": "Trần Văn Trà (Nguyễn Vy Thanh)",
-    "desc": "Thượng tướng Quân đội nhân dân Việt Nam, cựu Tư lệnh Quân giải phóng miền Nam, cựu Thứ trưởng Bộ Quốc phòng. Ông là nhà chỉ huy quân sự tài ba trong chiến dịch Hồ Chí Minh 1975. Năm 1982, ông công bố cuốn hồi ký thẳng thắn chỉ trích các sai lầm chiến thuật của Bộ Chính trị sau khi đất nước thống nhất, dẫn đến việc ông bị tước các chức vụ chính trị và bị quản thúc tại gia.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tranvantra.jpg",
-    "relations": [
-      "Võ Nguyên Giáp",
-      "Lê Duẩn",
-      "Hồ Chí Minh"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1898,
-    "died": 1978,
-    "title": "Hồng y Trịnh Như Khuê",
-    "fullName": "Giuse Maria Trịnh Như Khuê",
-    "desc": "Vị Hồng y tiên khởi (đầu tiên) của Giáo hội Công giáo Việt Nam, nguyên Tổng Giám mục Tổng giáo phận Hà Nội. Ông nổi tiếng với đời sống mục vụ kiên cường và củng cố đức tin trong những giai đoạn lịch sử đầy thử thách.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Religious",
-    "tags": [
-      "Religious"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/1/18/H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_Nh%C6%B0_Khu%C3%AA.jpg",
-    "relations": [
-      "Hồng y Trịnh Văn Căn",
-      "Hồng y Phạm Minh Mẫn",
-      "Thích Quảng Đức"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1921,
-    "died": 1990,
-    "title": "Hồng y Trịnh Văn Căn",
-    "fullName": "Giuse Maria Trịnh Văn Căn",
-    "desc": "Vị Hồng y thứ hai của Giáo hội Công giáo Việt Nam, nguyên Tổng Giám mục Tổng giáo phận Hà Nội và Chủ tịch tiên khởi của Hội đồng Giám mục Việt Nam. Ông có đóng góp to lớn trong việc dịch thuật Kinh Thánh sang tiếng Việt.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Religious",
-    "tags": [
-      "Religious"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/7f/H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_V%C4%83n_C%C4%83n_-_AD_LIMA_1980.jpg/500px-H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_V%C4%83n_C%C4%83n_-_AD_LIMA_1980.jpg",
-    "relations": [
-      "Hồng y Phạm Minh Mẫn",
-      "Hồng y Trịnh Như Khuê",
-      "Thích Nhất Hạnh"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1934,
-    "died": 2026,
-    "title": "Hồng y Phạm Minh Mẫn",
-    "fullName": "Gioan Baotixita Phạm Minh Mẫn",
-    "desc": "Vị Hồng y thứ năm của Giáo hội Công giáo Việt Nam, nguyên Tổng Giám mục Tổng giáo phận Thành phố Hồ Chí Minh. Ông nổi bật với tinh thần đối thoại, giản dị và quan tâm sâu sắc tới việc mục vụ xã hội.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Religious",
-    "tags": [
-      "Religious"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%C4%90%E1%BB%A9c_H%E1%BB%93ng_Y_Gioan_Baotixita_Ph%E1%BA%A1m_Minh_M%E1%BA%ABn.jpg/500px-%C4%90%E1%BB%A9c_H%E1%BB%93ng_Y_Gioan_Baotixita_Ph%E1%BA%A1m_Minh_M%E1%BA%ABn.jpg",
-    "relations": [
-      "Hồng y Trịnh Văn Căn",
-      "Hồng y Trịnh Như Khuê",
-      "Hồ Chí Minh"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1896,
-    "died": 1964,
-    "title": "Paulino Alcantara",
-    "fullName": "Paulino Alcántara Riestra",
-    "desc": "Cầu thủ bóng đá và huấn luyện viên người Tây Ban Nha - Philippines. Ông dành phần lớn sự nghiệp thi đấu cho FC Barcelona và là một trong những chân sút vĩ đại nhất lịch sử câu lạc bộ với 395 bàn thắng sau 399 trận đấu. Alcántara là cầu thủ châu Á đầu tiên thi đấu tại châu Âu.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "ASEAN",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Paulino_alcantara_barca_%28cropped%29.jpg",
-    "relations": [
-      "Sir Bobby Robson",
-      "Lê Thụy Hải",
-      "Johan Cruyff"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1989,
-    "died": 2026,
-    "title": "Rory McIlroy",
-    "fullName": "Rory McIlroy",
-    "desc": "Professional golfer from Northern Ireland. A former world number one in the Official World Golf Ranking, he is a four-time major champion and one of the most successful golfers of his generation.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "British",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rory_McIlroy_Ryder_Cup_2025-195_%28cropped%29.jpg/500px-Rory_McIlroy_Ryder_Cup_2025-195_%28cropped%29.jpg",
-    "relations": [
-      "Kimi Raikkonen",
-      "Stephen Bunting",
-      "Lionel Messi"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1959,
-    "died": 2026,
-    "title": "John McEnroe",
-    "fullName": "John Patrick McEnroe Jr.",
-    "desc": "American former professional tennis player. Known for his shot-making and volleying skills, as well as his confrontational on-court behavior, he won seven Grand Slam singles titles and nine Grand Slam men's doubles titles.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/John_McEnroe_005.png",
-    "relations": [
-      "Pete Sampras",
-      "Boris Becker",
-      "Steffi Graf"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1979,
-    "died": 2026,
-    "title": "Kimi Raikkonen",
-    "fullName": "Kimi-Matias Räikkönen",
-    "desc": "Finnish former racing driver. Known as 'The Iceman', he won the 2007 Formula One World Championship and is widely regarded as one of the most naturally talented F1 drivers.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Scandinavian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg/500px-F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg",
-    "relations": [
-      "Rory McIlroy",
-      "Stephen Bunting",
-      "Pete Sampras"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1967,
-    "died": 2026,
-    "title": "Boris Becker",
-    "fullName": "Boris Franz Becker",
-    "desc": "German former world No. 1 tennis player. He was the youngest ever winner of the gentlemen's singles title at Wimbledon at age 17 and won six Grand Slam singles titles overall.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "German",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Boris_Becker_-_240422_174721_%28cropped%29.jpg/500px-Boris_Becker_-_240422_174721_%28cropped%29.jpg",
-    "relations": [
-      "Pete Sampras",
-      "John McEnroe",
-      "Roger Federer"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1971,
-    "died": 2026,
-    "title": "Pete Sampras",
-    "fullName": "Petros Sampras",
-    "desc": "American former world No. 1 tennis player. His career was marked by 14 Grand Slam singles titles, setting an all-time open era record at the time of his retirement, and he dominated the sport in the 1990s.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pete_Sampras_Champions_Shootout_2.jpg",
-    "relations": [
-      "John McEnroe",
-      "Boris Becker",
-      "Kim Clijsters"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1266,
-    "died": 1308,
-    "title": "John Duns Scotus",
-    "fullName": "John Duns Scotus",
-    "desc": "Nhà thần học và triết học dòng Phan Sinh người Scotland. Ông là một trong ba triết gia-thần học gia quan trọng nhất của Hậu kỳ Trung Cổ.",
-    "color": "#5e239d",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Religious"
-    ],
-    "nationality": "British",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/500px-Scoto_%28Duns_Scoto%29.jpg",
-    "relations": [
-      "Mạnh Tử",
-      "Anne Conway",
-      "Klemens von Metternich"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1910,
-    "died": 1988,
-    "title": "Tưởng Kinh Quốc",
-    "fullName": "Chiang Ching-kuo",
-    "desc": "Nhà lãnh đạo chính trị, Tổng thống Trung Hoa Dân Quốc (Đài Loan) từ năm 1978 đến 1988. Ông là con trai của Tưởng Giới Thạch và đã có những cải cách mở cửa đáng kể.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg/500px-%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg",
-    "relations": [
-      "Tống Mỹ Linh",
-      "Tưởng Giới Thạch",
-      "Đặng Tiểu Bình"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1923,
-    "died": 2012,
-    "title": "Wisława Szymborska",
-    "fullName": "Maria Wisława Anna Szymborska",
-    "desc": "Nhà thơ, nhà tiểu luận và dịch giả người Ba Lan. Bà được trao giải Nobel Văn học năm 1996.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "European",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wis%C5%82awa_Szymborska_2009.10.23_%281%29.jpg",
-    "relations": [
-      "Toni Morrison",
-      "Octavio Paz",
-      "Gabriel García Márquez"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1934,
-    "died": 2026,
-    "title": "Jane Goodall",
-    "fullName": "Valerie Jane Morris-Goodall",
-    "desc": "Nhà linh trưởng học và nhà nhân chủng học người Anh, nổi tiếng với nghiên cứu về đời sống xã hội và gia đình của tinh tinh ở Tanzania.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "British",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/500px-thumbnail.jpg",
-    "relations": [
-      "Rosalind Franklin",
-      "Roger Penrose",
-      "Stephen Hawking"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1947,
-    "died": 2026,
-    "title": "Salman Rushdie",
-    "fullName": "Sir Ahmed Salman Rushdie",
-    "desc": "Tiểu thuyết gia và nhà tiểu luận gốc Ấn Độ. Tác phẩm của ông thường kết hợp chủ nghĩa hiện thực huyền ảo với tiểu thuyết lịch sử.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Indian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Salman_Rushdie%2C_2024.jpg/500px-Salman_Rushdie%2C_2024.jpg",
-    "relations": [
-      "Mạc Ngôn",
-      "Gabriel García Márquez",
-      "Virginia Woolf"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1899,
-    "died": 1977,
-    "title": "Vladimir Nabokov",
-    "fullName": "Vladimir Vladimirovich Nabokov",
-    "desc": "Nhà văn và nhà côn trùng học người Nga-Mỹ. Tiểu thuyết Lolita của ông là một kiệt tác của văn học thế kỷ 20.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Russian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vladimir_Nabokov_1973.jpg/500px-Vladimir_Nabokov_1973.jpg",
-    "relations": [
-      "Ernest Hemingway",
-      "Kawabata Yasunari",
-      "Louis Aragon"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1967,
-    "died": 1968,
-    "title": "Thuận",
-    "fullName": "Đoàn Ánh Thuận",
-    "desc": "Nhà văn và dịch giả người Việt Nam đương đại, hiện sống tại Paris. Chị nổi tiếng với các tiểu thuyết khai thác đề tài di dân, căn tính như Chinatown, Made in Vietnam, T mất tích.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Po_Klong_Garai.jpg/500px-Po_Klong_Garai.jpg",
-    "relations": [
-      "Đặng Hoàng Giang",
-      "Mạc Ngôn",
-      "Éric-Emmanuel Schmitt"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1773,
-    "died": 1859,
-    "title": "Klemens von Metternich",
-    "fullName": "Klemens Wenzel Nepomuk Lothar, Fürst von Metternich-Winneburg zu Beilstein",
-    "desc": "Nhà ngoại giao và chính trị gia người Áo, một trong những nhân vật quan trọng nhất của châu Âu thế kỷ 19. Ông đóng vai trò trung tâm tại Hội nghị Vienna (1815) và thiết lập nên Hệ thống Metternich nhằm duy trì hòa bình và sự cân bằng quyền lực ở châu Âu.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Austrian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Prince_Metternich_by_Lawrence.jpeg/500px-Prince_Metternich_by_Lawrence.jpeg",
-    "relations": [
-      "Tống Mỹ Linh",
-      "Gia Long",
-      "Chu Nguyên Chương"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1893,
-    "died": 1981,
-    "title": "Tống Khánh Linh",
-    "fullName": "Soong Ching-ling",
-    "desc": "Nhà chính trị Trung Quốc, phu nhân của Tôn Trung Sơn. Bà là Phó Chủ tịch rồi Phó Chủ tịch danh dự của Cộng hòa Nhân dân Trung Hoa, một trong ba chị em họ Tống có ảnh hưởng lớn đến lịch sử Trung Quốc thế kỷ 20.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%E5%AE%8B%E5%BA%86%E9%BE%84%E6%A0%87%E5%87%86%E5%83%8F.jpg/500px-%E5%AE%8B%E5%BA%86%E9%BE%84%E6%A0%87%E5%87%86%E5%83%8F.jpg",
-    "relations": [
-      "Tôn Trung Sơn",
-      "Mao Trạch Đông",
-      "Lưu Thiếu Kỳ"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1898,
-    "died": 2003,
-    "title": "Tống Mỹ Linh",
-    "fullName": "Soong Mei-ling",
-    "desc": "Phu nhân của Tưởng Giới Thạch, Đệ nhất Phu nhân Trung Hoa Dân Quốc. Bà đóng vai trò chính trị và ngoại giao quan trọng trong Chiến tranh Trung-Nhật và Chiến tranh Lạnh, là em út trong ba chị em họ Tống.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Madame_Chiang_Kai-shek%2C_seated_portrait_%28cropped%29.jpg/500px-Madame_Chiang_Kai-shek%2C_seated_portrait_%28cropped%29.jpg",
-    "relations": [
-      "Mao Trạch Đông",
-      "Tưởng Giới Thạch",
-      "Xuân Thủy"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1889,
-    "died": 1973,
-    "title": "Tống Ái Linh",
-    "fullName": "Soong Ai-ling",
-    "desc": "Chị cả trong ba chị em họ Tống có tầm ảnh hưởng lớn tại Trung Quốc thế kỷ 20. Bà kết hôn với Khổng Tường Hy, một trong những người giàu nhất Trung Quốc thời đó, và đóng vai trò cố vấn tài chính quyền lực phía sau hậu trường.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Soong_Ai-ling.jpg",
-    "relations": [
-      "Mao Trạch Đông",
-      "Tống Khánh Linh",
-      "Tống Mỹ Linh"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1983,
-    "died": 1984,
-    "title": "Trương Nhất Minh",
-    "fullName": "Zhang Yiming",
-    "desc": "Doanh nhân công nghệ người Trung Quốc, người sáng lập ByteDance - công ty mẹ của nền tảng chia sẻ video ngắn TikTok và ứng dụng tin tức Toutiao.",
-    "color": "#ff9f1c",
-    "position": "bottom",
-    "primary_tag": "Business",
-    "tags": [
-      "Business"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_CEO_Magazine_Cover.jpg",
-    "relations": [
-      "Lôi Quân",
-      "Todd Boehly",
-      "Vitalik Buterin"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1976,
-    "died": 1977,
-    "title": "Lâm Tâm Như",
-    "fullName": "Ruby Lin",
-    "desc": "Nữ diễn viên, ca sĩ và nhà sản xuất phim nổi tiếng người Đài Loan. Bà được biết đến rộng rãi qua vai diễn Hạ Tử Vy trong bộ phim truyền hình kinh điển Hoàn Châu Cách Cách.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ruby_Lin_at_the_57th_Golden_Bell_Awards_in_October_2022.png",
-    "relations": [
-      "Hứa Quang Hán",
-      "Xuân Bắc",
-      "Edward Norton"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1950,
-    "died": 1951,
-    "title": "Trương Nghệ Mưu",
-    "fullName": "Zhang Yimou",
-    "desc": "Đạo diễn điện ảnh, nhà sản xuất kiêm cựu diễn viên nổi tiếng người Trung Quốc, thuộc Thế hệ thứ năm của điện ảnh Trung Quốc với những tác phẩm kiệt tác như Cao lương đỏ, Anh hùng, Thập diện mai phục.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg/500px-Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg",
-    "relations": [
-      "Trương Mạn Ngọc",
-      "Hầu Hiếu Hiền",
-      "Werner Herzog"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1898,
-    "died": 1969,
-    "title": "Lưu Thiếu Kỳ",
-    "fullName": "Liu Shaoqi",
-    "desc": "Nhà cách mạng và chính trị gia Trung Quốc, Chủ tịch nước Cộng hòa Nhân dân Trung Hoa từ năm 1959 đến 1968. Ông từng được coi là người kế vị Mao Trạch Đông trước khi bị thanh trừng trong Cách mạng Văn hóa.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/USIA_66-1476.jpg/500px-USIA_66-1476.jpg",
-    "relations": [
-      "Mao Trạch Đông",
-      "Hồ Chí Minh",
-      "Lâm Bưu"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1964,
-    "died": 1965,
-    "title": "Trương Mạn Ngọc",
-    "fullName": "Maggie Cheung",
-    "desc": "Nữ diễn viên điện ảnh nổi tiếng người Hồng Kông, một trong những biểu tượng lớn của điện ảnh Hoa ngữ. Bà nổi tiếng với các vai diễn trong Tâm trạng khi yêu, Đông Tà Tây Độc, Anh hùng.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Chinese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maggie_Cheung_%28cropped%29.jpg/500px-Maggie_Cheung_%28cropped%29.jpg",
-    "relations": [
-      "Lương Triều Vỹ",
-      "Trương Nghệ Mưu",
-      "Thang Duy"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1667,
-    "died": 1748,
-    "title": "Johann Bernoulli",
-    "fullName": "Johann Bernoulli",
-    "desc": "Nhà toán học Thụy Sĩ nổi tiếng thuộc gia tộc Bernoulli, có nhiều đóng góp quan trọng trong sự phát triển của giải tích toán học, đặc biệt là phép tính biến phân và quy tắc L'Hôpital.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Swiss",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Bernoulli2.jpg",
-    "relations": [
-      "Jacob Bernoulli",
-      "Bernhard Riemann",
-      "Hendrik Lorentz"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1654,
-    "died": 1705,
-    "title": "Jacob Bernoulli",
-    "fullName": "Jacob Bernoulli",
-    "desc": "Nhà toán học Thụy Sĩ, anh trai của Johann Bernoulli. Ông là người tiên phong trong giải tích toán học và lý thuyết xác suất, phát hiện ra hằng số e và định luật số lớn.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Swiss",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jakob_Bernoulli.jpg/500px-Jakob_Bernoulli.jpg",
-    "relations": [
-      "Johann Bernoulli",
-      "Isaac Newton",
-      "Carl Friedrich Gauss"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1638,
-    "died": 1715,
-    "title": "Nicolas Malebranche",
-    "fullName": "Nicolas Malebranche",
-    "desc": "Nhà triết học và thần học người Pháp dòng Oratory. Ông cố gắng tích hợp triết học của René Descartes với thần học của Augustine xứ Hippo, nổi bật với học thuyết Vô cảm chủ nghĩa (Occasionalism).",
-    "color": "#5e239d",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Religious"
-    ],
-    "nationality": "French",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Portret_van_Nicolas_Malebranche%2C_RP-P-OB-72.656_%28cropped%29.jpg/500px-Portret_van_Nicolas_Malebranche%2C_RP-P-OB-72.656_%28cropped%29.jpg",
-    "relations": [
-      "René Descartes",
-      "John Locke",
-      "Baruch Spinoza"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1908,
-    "died": 1968,
-    "title": "Lev Landau",
-    "fullName": "Lev Davidovich Landau",
-    "desc": "Nhà vật lý lý thuyết lỗi lạc người Liên Xô, đoạt giải Nobel Vật lý năm 1962 nhờ những đóng góp tiên phong trong lý thuyết vật chất ngưng tụ, đặc biệt là heli lỏng siêu lỏng.",
-    "color": "#64b5f6",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Russian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/500px-Landau.jpg",
-    "relations": [
-      "Paul Dirac",
-      "Enrico Fermi",
-      "Werner Heisenberg"
-    ],
-    "themes": [
-      "Quantum Physics",
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1903,
-    "died": 1957,
-    "title": "John von Neumann",
-    "fullName": "John von Neumann",
-    "desc": "Nhà toán học và đa khoa học người Mỹ gốc Hungary, người đóng góp nền tảng cho cơ học lượng tử, lý thuyết trò chơi, khoa học máy tính (kiến trúc máy tính Von Neumann) và dự án Manhattan.",
-    "color": "#64b5f6",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif",
-    "relations": [
-      "J. Robert Oppenheimer",
-      "Richard Feynman",
-      "Enrico Fermi"
-    ],
-    "themes": [
-      "Quantum Physics",
-      "World War II"
-    ]
-  },
-  {
-    "born": 1987,
-    "died": 1988,
-    "title": "Maria Sharapova",
-    "fullName": "Maria Yuryevna Sharapova",
-    "desc": "Cựu tay vợt chuyên nghiệp người Nga, cựu số 1 thế giới đơn nữ. Cô từng giành được 5 danh hiệu vô địch Grand Slam đơn nữ và là một trong những tên tuổi thể thao có sức ảnh hưởng toàn cầu.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Russian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg/500px-Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg",
-    "relations": [
-      "Rafael Nadal",
-      "Simona Halep",
-      "Kim Clijsters"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1989,
-    "died": 1990,
-    "title": "Victoria Azarenka",
-    "fullName": "Victoria Fyodorovna Azarenka",
-    "desc": "Tay vợt chuyên nghiệp người Belarus, cựu số 1 thế giới đơn nữ. Cô từng hai lần giành chức vô địch giải Úc Mở rộng đơn nữ và huy chương vàng Olympic nội dung đôi nam nữ.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Belarusian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg/500px-Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg",
-    "relations": [
-      "Kim Clijsters",
-      "Petra Kvitova",
-      "Maria Sharapova"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1953,
-    "died": 2015,
-    "title": "Nguyễn Bá Thanh",
-    "fullName": "Nguyễn Bá Thanh",
-    "desc": "Chính trị gia Việt Nam, nguyên Trưởng Ban Nội chính Trung ương, Bí thư Thành ủy kiêm Chủ tịch HĐND thành phố Đà Nẵng. Ông được coi là người có công lớn trong việc quy hoạch, phát triển hiện đại hóa Đà Nẵng.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/6/6d/Nguyen_Ba_Thanh.jpg",
-    "relations": [
-      "Tô Lâm",
-      "Đỗ Văn Chiến",
-      "Trương Tấn Sang"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1940,
-    "died": 1941,
-    "title": "Nông Đức Mạnh",
-    "fullName": "Nông Đức Mạnh",
-    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam nhiệm kỳ 2001–2011, nguyên Chủ tịch Quốc hội Việt Nam.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nong_Duc_Manh_2010.jpg/500px-Nong_Duc_Manh_2010.jpg",
-    "relations": [
-      "Lê Khả Phiêu",
-      "Trương Tấn Sang",
-      "Đỗ Mười"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1970,
-    "died": 1971,
-    "title": "Lê Minh Hưng",
-    "fullName": "Lê Minh Hưng",
-    "desc": "Chính trị gia Việt Nam, Ủy viên Bộ Chính trị, Trưởng Ban Tổ chức Trung ương, nguyên Thống đốc Ngân hàng Nhà nước Việt Nam, Chánh Văn phòng Trung ương Đảng.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Đỗ Văn Chiến",
-      "Tô Lâm",
-      "Trần Thanh Mẫn"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1931,
-    "died": 2020,
-    "title": "Lê Khả Phiêu",
-    "fullName": "Lê Khả Phiêu",
-    "desc": "Thượng tướng, chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1997–2001), cựu Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lekhaphieu2011.jpg/500px-Lekhaphieu2011.jpg",
-    "relations": [
-      "Nông Đức Mạnh",
-      "Đỗ Mười",
-      "Tô Lâm"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1949,
-    "died": 1950,
-    "title": "Trương Tấn Sang",
-    "fullName": "Trương Tấn Sang",
-    "desc": "Chính trị gia Việt Nam, nguyên Ủy viên Bộ Chính trị, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam (2011–2016), Thường trực Ban Bí thư Trung ương Đảng.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang.jpg/500px-Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang.jpg",
-    "relations": [
-      "Trần Thanh Mẫn",
-      "Tòng Thị Phóng",
-      "Trương Hòa Bình"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1915,
-    "died": 1998,
-    "title": "Nguyễn Văn Linh",
-    "fullName": "Nguyễn Văn Linh",
-    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1986–1991). Ông là kiến trúc sư trưởng của công cuộc Đổi Mới đất nước.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/4/45/Nguy%E1%BB%85n_V%C4%83n_Linh.jpg",
-    "relations": [
-      "Đỗ Mười",
-      "Tô Lâm",
-      "Lê Duẩn"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1917,
-    "died": 2018,
-    "title": "Đỗ Mười",
-    "fullName": "Đỗ Mười",
-    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1991–1997), nguyên Chủ tịch Hội đồng Bộ trưởng (Thủ tướng Chính phủ).",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Do_Muoi_cropped.jpg/500px-Do_Muoi_cropped.jpg",
-    "relations": [
-      "Nguyễn Văn Linh",
-      "Lê Khả Phiêu",
-      "Tô Lâm"
-    ],
-    "themes": [
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1240,
-    "died": 1308,
-    "title": "Nguyễn Khoái",
-    "fullName": "Nguyễn Khoái",
-    "desc": "Danh tướng nhà Trần trong lịch sử Việt Nam, chỉ huy quân Thánh Dực lập công lớn đánh tan quân Nguyên Mông tại trận Chương Dương và trận Bạch Đằng năm 1288.",
-    "color": "#d32f2f",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Trần Quang Khải",
-      "Trần Nhật Duật",
-      "Trần Hưng Đạo"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1818,
-    "died": 1861,
-    "title": "Đỗ Thúc Tịnh",
-    "fullName": "Đỗ Thúc Tịnh",
-    "desc": "Quan viên triều Nguyễn, chí sĩ kháng Pháp. Ông nổi tiếng thanh liêm, chính trực và tinh thần yêu nước khi lãnh đạo nghĩa binh chống Pháp tại Nam Kỳ.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Tôn Thất Thuyết",
-      "Lê Khiết",
-      "Phạm Phú Thứ"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1858,
-    "died": 1906,
-    "title": "Tăng Bạt Hổ",
-    "fullName": "Tăng Bạt Hổ",
-    "desc": "Chí sĩ yêu nước Việt Nam, một trong những người tham gia tích cực trong phong trào Cần Vương và phong trào Đông Du cùng Phan Bội Châu.",
-    "color": "#8d6e63",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Phan Bội Châu",
-      "Phan Châu Trinh",
-      "Hàm Nghi"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1853,
-    "died": 1910,
-    "title": "Rama V",
-    "fullName": "Chulalongkorn",
-    "desc": "Vua thứ năm của vương triều Chakri nước Xiêm (Thái Lan). Ông là nhà cải cách kiệt xuất, đã hiện đại hóa đất nước và khéo léo dùng chính sách ngoại giao độc lập để tránh ách thực dân phương Tây.",
-    "color": "#8d6e63",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Thai",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chulalongkorn_LoC.jpg/500px-Chulalongkorn_LoC.jpg",
-    "relations": [
-      "Theodore Roosevelt",
-      "Rama X",
-      "Thiên hoàng Minh Trị"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1927,
-    "died": 2016,
-    "title": "Rama IX",
-    "fullName": "Bhumibol Adulyadej",
-    "desc": "Vua thứ chín của vương triều Chakri nước Thái Lan, tại vị hơn 70 năm. Ông được toàn thể người dân Thái Lan vô cùng tôn kính, là biểu tượng cho sự hòa giải và đoàn kết dân tộc.",
-    "color": "#8d6e63",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Thai",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aankomst_Koning_Bhumibol_en_Koningin_Sirikit_te_Den_Haag%2C_Koning_Bhumibol%2C_Bestanddeelnr_911-6993_%28cropped%29%282%29.jpg/500px-Aankomst_Koning_Bhumibol_en_Koningin_Sirikit_te_Den_Haag%2C_Koning_Bhumibol%2C_Bestanddeelnr_911-6993_%28cropped%29%282%29.jpg",
-    "relations": [
-      "Rama X",
-      "Elizabeth II",
-      "Rama V"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1952,
-    "died": 1953,
-    "title": "Rama X",
-    "fullName": "Maha Vajiralongkorn",
-    "desc": "Vua thứ mười và là vị vua hiện tại của vương triều Chakri nước Thái Lan, lên ngôi năm 2016 sau khi vua cha Rama IX băng hạ.",
-    "color": "#8d6e63",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Thai",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Rama_X_official_%28cropped%29.png/500px-King_Rama_X_official_%28cropped%29.png",
-    "relations": [
-      "Rama IX",
-      "Rama V",
-      "Trương Tấn Sang"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1893,
-    "died": 1958,
-    "title": "Claire Lee Chennault",
-    "fullName": "Claire Lee Chennault",
-    "desc": "Trung tướng không quân Mỹ, người tổ chức và chỉ huy phi đội bay tình nguyện 'Flying Tigers' (Phi Hổ) tại Trung Quốc trong Thế chiến thứ hai.",
-    "color": "#d32f2f",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Claire_L._Chennault.jpg/500px-Claire_L._Chennault.jpg",
-    "relations": [
-      "Hermann Göring",
-      "Erich von Manstein",
-      "George S. Patton"
-    ],
-    "themes": [
-      "World War II"
-    ]
-  },
-  {
-    "born": 1928,
-    "died": 2015,
-    "title": "John Nash",
-    "fullName": "John Forbes Nash Jr.",
-    "desc": "Nhà toán học người Mỹ, đạt giải Nobel Kinh tế năm 1994 cho đóng góp đặt nền móng trong lý thuyết trò chơi. Cuộc đời ông được mô phỏng trong bộ phim 'A Beautiful Mind'.",
-    "color": "#3f51b5",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg/500px-John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg",
-    "relations": [
-      "Steven Weinberg",
-      "Richard Feynman",
-      "Lý Chính Đạo"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1445,
-    "died": 1510,
-    "title": "Sandro Botticelli",
-    "fullName": "Sandro Botticelli",
-    "desc": "Họa sĩ người Ý kiệt xuất thời kỳ Phục hưng sớm. Ông nổi tiếng với những tác phẩm mang tính biểu tượng cao như 'Sự ra đời của thần Vệ Nữ' và 'Mùa xuân'.",
-    "color": "#e91e63",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Italian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/500px-Sandro_Botticelli_083.jpg",
-    "relations": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1942,
-    "died": 1970,
-    "title": "Đặng Thùy Trâm",
-    "fullName": "Đặng Thùy Trâm",
-    "desc": "Nữ bác sĩ, liệt sĩ Việt Nam trong Chiến tranh Việt Nam. Cuốn nhật ký viết tay xúc động của cô về những năm tháng chiến trường sau này được xuất bản thành tác phẩm văn học nổi tiếng 'Nhật ký Đặng Thùy Trâm'.",
-    "color": "#9c27b0",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Medical"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dang_Thuy_Tram.jpg/500px-Dang_Thuy_Tram.jpg",
-    "relations": [
-      "Chế Lan Viên",
-      "Phạm Xuân Ẩn",
-      "Đinh Núp"
-    ],
-    "themes": [
-      "Khang chien chong My"
-    ]
-  },
-  {
-    "born": 1920,
-    "died": 1958,
-    "title": "Rosalind Franklin",
-    "desc": "Nhà lý sinh học và tinh thể học tia X người Anh. Những đóng góp của bà vô cùng quan trọng đối với sự hiểu biết về cấu trúc phân tử của DNA, RNA, virus, than đá và than chì, đặc biệt là bức ảnh nhiễu xạ tia X 'Photo 51' làm tiền đề tìm ra cấu trúc chuỗi xoắn kép DNA.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science",
-      "Women"
-    ],
-    "nationality": "British",
-    "fullName": "Rosalind Elsie Franklin",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rosalind_Franklin_%28retouched%29.jpg",
-    "relations": [
-      "Dương Chấn Ninh",
-      "Claude Lévi-Strauss",
-      "Alan Turing"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1856,
-    "died": 1940,
-    "title": "Joseph John Thomson",
-    "desc": "Nhà vật lý người Anh, người đã phát hiện ra hạt electron (điện tử), hạt cơ bản đầu tiên được tìm ra, mở đường cho ngành vật lý hiện đại. Ông được trao giải Nobel Vật lý năm 1906 và cũng là người phát triển phương pháp phổ khối lượng.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "British",
-    "fullName": "Joseph John Thomson",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J.J_Thomson.jpg/500px-J.J_Thomson.jpg",
-    "relations": [
-      "Wilhelm Röntgen",
-      "Albert Einstein",
-      "Max Planck"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1930,
-    "died": 1931,
-    "title": "Đồ U U",
-    "desc": "Nhà nghiên cứu y học và hóa dược người Trung Quốc. Bà nổi tiếng với việc phát hiện và chiết xuất thành công chất Artemisinin (thanh hao tố) từ cây thanh hao hoa vàng giúp điều trị sốt rét, cứu sống hàng triệu sinh mạng. Bà được trao giải Nobel Sinh lý học hoặc Y học năm 2015.",
-    "color": "#2ec4b6",
-    "position": "bottom",
-    "primary_tag": "Medical",
-    "tags": [
-      "Medical",
-      "Women"
-    ],
-    "nationality": "Chinese",
-    "fullName": "Tu Youyou",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tu_Youyou_5012-1-2015.jpg/500px-Tu_Youyou_5012-1-2015.jpg",
-    "relations": [
-      "Alexander Fleming",
-      "Mạc Ngôn",
-      "Thomas Hunt Morgan"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1901,
-    "died": 1994,
-    "title": "Linus Pauling",
-    "desc": "Nhà hóa học, hóa sinh và hoạt động hòa bình người Mỹ. Ông là một trong những nhà khoa học ảnh hưởng nhất thế kỷ 20, nổi tiếng với công trình về bản chất liên kết hóa học. Pauling là một trong số rất ít người đoạt hai giải Nobel độc lập (Nobel Hóa học năm 1954 và Nobel Hòa bình năm 1962).",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "American",
-    "fullName": "Linus Carl Pauling",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pauling.jpg/500px-Pauling.jpg",
-    "relations": [
-      "Lev Landau",
-      "Paul Dirac",
-      "Malala Yousafzai"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1931,
-    "died": 2019,
-    "title": "Toni Morrison",
-    "desc": "Nhà văn nữ người Mỹ danh tiếng. Tác phẩm của bà đi sâu vào trải nghiệm của người Mỹ gốc Phi, đặc biệt là phụ nữ, nổi bật nhất là tiểu thuyết Beloved (đoạt giải Pulitzer). Bà là người phụ nữ da màu đầu tiên được trao giải Nobel Văn học vào năm 1993.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Women"
-    ],
-    "nationality": "American",
-    "fullName": "Toni Morrison",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toni_Morrison_2008.jpg/500px-Toni_Morrison_2008.jpg",
-    "relations": [
-      "Gabriel García Márquez",
-      "Ōe Kenzaburo",
-      "Cao Hành Kiện"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1922,
-    "died": 2025,
-    "title": "Dương Chấn Ninh",
-    "desc": "Nhà vật lý lý thuyết người Mỹ gốc Hoa. Ông nổi tiếng với những đóng góp quan trọng trong cơ học thống kê và vật lý hạt, đặc biệt là lý thuyết trường Yang-Mills. Ông cùng Lý Chính Đạo được trao giải Nobel Vật lý năm 1957 cho công trình về sự không bảo toàn tính chẵn lẻ của tương tác yếu.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Chinese",
-    "fullName": "Chen-Ning Yang",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg/500px-HD.3F.010_%2811086446676%29%28Chen_Ning_Yang%29.jpg",
-    "relations": [
-      "Lý Chính Đạo",
-      "Steven Weinberg",
-      "Albert Einstein"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1926,
-    "died": 2024,
-    "title": "Lý Chính Đạo",
-    "desc": "Nhà vật lý lý thuyết người Mỹ gốc Hoa. Ông được biết đến rộng rãi qua công trình chỉ ra sự vi phạm định luật bảo toàn tính chẵn lẻ trong tương tác yếu, cùng Dương Chấn Ninh nhận giải Nobel Vật lý năm 1957 khi mới 31 tuổi (một trong những người trẻ nhất nhận giải Nobel).",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Chinese",
-    "fullName": "Tsung-Dao Lee",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/TD_Lee.jpg",
-    "relations": [
-      "Dương Chấn Ninh",
-      "Steven Weinberg",
-      "Abdus Salam"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1276,
-    "died": 1320,
-    "title": "Trần Anh Tông",
-    "desc": "Vị hoàng đế thứ tư của nhà Trần nước Đại Việt, trị vì từ 1293 đến 1314. Thời kỳ của ông được lịch sử đánh giá cao về sự thái bình thịnh trị, ổn định chính trị, củng cố biên giới vững chắc, đồng thời thúc đẩy sự phát triển của Nho giáo và Phật giáo Trúc Lâm.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Trần Anh Tông",
-    "image": "https://upload.wikimedia.org/wikipedia/vi/9/9e/Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg",
-    "relations": [
-      "Đoàn Nhữ Hài",
-      "Trần Dụ Tông",
-      "Chu Văn An"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1918,
-    "died": 1981,
-    "title": "Anwar Al-Sadad",
-    "desc": "Tổng thống thứ 3 của Ai Cập, tại nhiệm từ năm 1970 cho đến khi bị ám sát vào năm 1981. Ông có vai trò lịch sử quan trọng khi ký Hiệp định Hòa bình Ai Cập - Israel năm 1979 (Hiệp định Camp David), giúp ông nhận giải Nobel Hòa bình năm 1978.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Arab",
-    "fullName": "Anwar Al-Sadad",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/500px-Anwar_Sadat_cropped.jpg",
-    "relations": [
-      "Lê Đức Thọ",
-      "Nelson Mandela",
-      "Henry Kissinger"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1933,
-    "died": 2021,
-    "title": "Steven Weinberg",
-    "desc": "Nhà vật lý lý thuyết lỗi lạc người Mỹ. Ông cùng với Sheldon Glashow và Abdus Salam đoạt giải Nobel Vật lý năm 1979 cho công trình thống nhất tương tác yếu và tương tác điện từ giữa các hạt cơ bản (thuyết electroweak), một cột mốc lớn của Mô hình Chuẩn.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "American",
-    "fullName": "Steven Weinberg",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Steven-weinberg.jpg",
-    "relations": [
-      "Abdus Salam",
-      "Lý Chính Đạo",
-      "Dương Chấn Ninh"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1926,
-    "died": 1996,
-    "title": "Abdus Salam",
-    "desc": "Nhà vật lý lý thuyết người Pakistan. Ông là người Pakistan đầu tiên và là người Hồi giáo đầu tiên từ một quốc gia Hồi giáo đoạt giải Nobel Vật lý vào năm 1979 nhờ đóng góp vào sự phát triển của lý thuyết electroweak thống nhất lực điện từ và lực yếu.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Pakistani",
-    "fullName": "Abdus Salam",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abdus_Salam_1987.jpg/500px-Abdus_Salam_1987.jpg",
-    "relations": [
-      "Steven Weinberg",
-      "Lý Chính Đạo",
-      "Dương Chấn Ninh"
-    ],
-    "themes": [
-      "Giai Nobel"
-    ]
-  },
-  {
-    "born": 1942,
-    "died": 1943,
-    "title": "Remo Ruffini",
-    "desc": "Nhà vật lý lý thuyết người Ý, Giáo sư vật lý lý thuyết tại Đại học Sapienza Rome. Ông nổi tiếng với những nghiên cứu về vật lý thiên văn tương đối tính và lỗ đen, đồng thời là Chủ tịch Trung tâm Vật lý vũ trụ tương đối tính quốc tế (ICRA).",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Italian",
-    "fullName": "Remo Ruffini",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RuffiniRemo.jpg",
-    "relations": [
-      "Stephen Hawking",
-      "Dương Trung Quốc",
-      "Steven Weinberg"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1058,
-    "died": 1111,
-    "title": "Al-Ghazali",
-    "desc": "Triết gia, nhà thần học, luật gia và nhà thần bí người Ba Tư. Ông là một trong những học giả có ảnh hưởng sâu sắc nhất trong Lịch sử Hồi giáo và Kỷ nguyên vàng của Hồi giáo, nổi tiếng với tác phẩm chống lại triết học Hy Lạp cổ đại.",
-    "color": "#5e239d",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Religious"
-    ],
-    "nationality": "Arab",
-    "fullName": "Abū Ḥāmid Al-Ghazali",
-    "image": "",
-    "relations": [
-      "Anne Conway",
-      "John Stuart Mill",
-      "Virginia Woolf"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1811,
-    "died": 1868,
-    "title": "Carlo Matteucci",
-    "desc": "Nhà vật lý và sinh lý học thần kinh người Ý. Ông là một trong những người tiên phong nghiên cứu về điện sinh học, khám phá ra dòng điện sinh học trong cơ bắp (dòng điện tổn thương) tiền đề cho điện tâm đồ và điện não đồ.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "Italian",
-    "fullName": "Carlo Matteucci",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/L%27Illustration_1862_gravure_ministre_Matteucci.jpg/500px-L%27Illustration_1862_gravure_ministre_Matteucci.jpg",
-    "relations": [
-      "Antonio Meucci",
-      "David Cronenberg",
-      "Karen Horney"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1946,
-    "died": 1989,
-    "title": "Ted Bundy",
-    "desc": "Kẻ giết người hàng loạt khét tiếng người Mỹ. Hắn đã bắt cóc, cưỡng hiếp và sát hại hàng chục phụ nữ và trẻ em gái vào thập niên 1970, sử dụng vẻ ngoài lôi cuốn và học thức cao để che đậy bản chất tàn bạo trước khi bị hành quyết năm 1989.",
-    "color": "#000000",
-    "position": "bottom",
-    "primary_tag": "Criminal",
-    "tags": [
-      "Criminal"
-    ],
-    "nationality": "American",
-    "fullName": "Theodore Robert Bundy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ted_Bundy_headshot.jpg/500px-Ted_Bundy_headshot.jpg",
-    "relations": [
-      "Gary Ridgway",
-      "Andrei Chikatilo",
-      "Jeffrey Epstein"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1949,
-    "died": 1950,
-    "title": "Gary Ridgway",
-    "desc": "Kẻ giết người hàng loạt người Mỹ được mệnh danh là 'Sát nhân Sông Xanh' (Green River Killer). Hắn bị kết án vì sát hại 49 phụ nữ nhưng sau đó thú nhận đã sát hại gần gấp đôi số đó, là một trong những kẻ giết người hàng loạt nguy hiểm nhất lịch sử Mỹ.",
-    "color": "#000000",
-    "position": "bottom",
-    "primary_tag": "Criminal",
-    "tags": [
-      "Criminal"
-    ],
-    "nationality": "American",
-    "fullName": "Gary Leon Ridgway",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gary_Ridgway_Mugshot_11302001.jpg",
-    "relations": [
-      "Andrei Chikatilo",
-      "Ted Bundy",
-      "Owen Cooper"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1240,
-    "died": 1339,
-    "title": "Trần Khánh Dư",
-    "desc": "Chính khách, danh tướng Đại Việt thời Trần, hiệu Nhân Huệ vương. Ông nổi bật với chiến công tiêu diệt đoàn thuyền lương của quân Nguyên - Mông do Trương Văn Hổ chỉ huy tại Vân Đồn, góp công lớn quyết định chiến thắng Bạch Đằng năm 1288.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political",
-      "Business"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Trần Khánh Dư",
-    "image": "",
-    "relations": [
-      "Nguyễn Khoái",
-      "Ô Mã Nhi",
-      "Phạm Ngũ Lão"
-    ],
-    "themes": []
-  },
-  {
-    "born": 571,
-    "died": 659,
-    "title": "Lý Tĩnh",
-    "desc": "Danh tướng và khai quốc công thần nhà Đường thời Đường Thái Tông, biểu tự Dược Sư. Ông là một trong 24 công thần được thờ tại Lăng Yên Các nhờ chiến công đánh dẹp các thế lực phản loạn và bình định biên cương Đông Đột Quyết.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Chinese",
-    "fullName": "Li Jing",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%E6%9D%8E%E9%9D%96.jpg/500px-%E6%9D%8E%E9%9D%96.jpg",
-    "relations": [
-      "Liêm Pha",
-      "Đậu Kiến Đức",
-      "Trần Khánh Dư"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1944,
-    "died": 1945,
-    "title": "Ban Ki-moon",
-    "desc": "Nhà ngoại giao và chính trị gia người Nam Hàn, từng giữ chức Tổng Thư ký Liên Hợp Quốc thứ 8 nhiệm kỳ 2007–2016. Trước đó ông là Bộ trưởng Ngoại giao Nam Hàn, dẫn dắt các cuộc đàm phán quốc tế về biến đổi khí hậu và an ninh.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "South Korean",
-    "fullName": "Ban Ki-moon",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/500px-Ban_Ki-moon_February_2016.jpg",
-    "relations": [
-      "Antonio Guterres",
-      "Donald Trump",
-      "Kofi Annan"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1963,
-    "died": 1964,
-    "title": "Alejandro González Iñárritu",
-    "desc": "Đạo diễn điện ảnh, nhà biên kịch và nhà sản xuất phim nổi tiếng người Mexico. Ông là đạo diễn người Mexico đầu tiên giành giải Oscar cho Đạo diễn xuất sắc nhất, nổi danh qua các kiệt tác nghệ thuật như Birdman, The Revenant và Babel.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Latin American",
-    "fullName": "Alejandro González Iñárritu",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg/500px-Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg",
-    "relations": [
-      "Sofia Coppola",
-      "Tilda Swinton",
-      "Spike Jonze"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1924,
-    "died": 1990,
-    "title": "Sergei Parajanov",
-    "desc": "Đạo diễn điện ảnh và biên kịch xuất chúng người Armenia thuộc Liên Xô. Ông nổi tiếng với những bộ phim có tính biểu tượng và thơ ca phi tuyến tính sâu sắc như The Color of Pomegranates, là một trong những nhà làm phim ảnh hưởng nhất điện ảnh Liên Xô.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Soviet",
-    "fullName": "Sergei Parajanov",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sergei_Parajanov._1._Yuri_Mechitov.jpg/500px-Sergei_Parajanov._1._Yuri_Mechitov.jpg",
-    "relations": [
-      "Marilyn Monroe",
-      "Jean-Luc Godard",
-      "Frank Sinatra"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1935,
-    "died": 2012,
-    "title": "Theo Angelopoulos",
-    "desc": "Đạo diễn, nhà biên kịch kiêm nhà sản xuất phim huyền thoại người Hy Lạp. Ông thống trị nền điện ảnh nghệ thuật Hy Lạp và thế giới từ năm 1975, nổi tiếng với phong cách quay cảnh dài duy mỹ qua các bộ phim như Eternity and a Day (đoạt Cành cọ Vàng).",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Greek",
-    "fullName": "Theo Angelopoulos",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Theodoros_Angelopoulos_Athens_26-4-2009-2.jpg",
-    "relations": [
-      "Werner Herzog",
-      "Agnès Varda",
-      "Hầu Hiếu Hiền"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1873,
-    "died": 1947,
-    "title": "Willa Cather",
-    "desc": "Nhà văn nữ nổi tiếng người Mỹ. Bà nổi tiếng với các tiểu thuyết mô tả đời sống khai hoang trên các vùng đồng bằng lớn của Bắc Mỹ như O Pioneers! và My Ántonia. Bà được trao giải Pulitzer cho tác phẩm One of Ours năm 1923.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Women"
-    ],
-    "nationality": "American",
-    "fullName": "Willa Sibert Cather",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cather_Van_Vechten.jpg/500px-Cather_Van_Vechten.jpg",
-    "relations": [
-      "Jack London",
-      "Virginia Woolf",
-      "William Somerset Maugham"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1949,
-    "died": 1950,
-    "title": "Antonio Guterres",
-    "desc": "Chính khách người Bồ Đào Nha, Tổng thư ký thứ 9 của Liên Hợp Quốc từ năm 2017. Trước đó ông từng đảm nhiệm chức vụ Thủ tướng Bồ Đào Nha (1995–2002) và Cao ủy Liên Hợp Quốc về người tị nạn (2005–2015).",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Portuguese",
-    "fullName": "António Manuel de Oliveira Guterres",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg/500px-Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
-    "relations": [
-      "Ban Ki-moon",
-      "Donald Trump",
-      "Phan Văn Giang"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1862,
-    "died": 1918,
-    "title": "Niko Pirosmani",
-    "desc": "Họa sĩ theo trường phái chất phác (naive art) nổi tiếng người Gruzia. Ông dành phần lớn cuộc đời trong cảnh nghèo khó, tự học vẽ và trang trí cho các quán rượu. Cuộc đời ông là cảm hứng cho bài hát huyền thoại 'Triệu bông hồng'.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "European",
-    "fullName": "Niko Pirosmanashvili",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Niko_Pirosmani_1916.jpg/500px-Niko_Pirosmani_1916.jpg",
-    "relations": [
-      "Gustav Klimt",
-      "Vincent van Gogh",
-      "Claude Debussy"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1172,
-    "died": 1216,
-    "title": "Shota Rustaveli",
-    "desc": "Nhà thơ kiệt xuất thời Trung cổ người Gruzia. Ông được coi là nhà thơ tiêu biểu của Kỷ nguyên Vàng Gruzia, tác giả của tác phẩm sử thi vĩ đại 'Chàng hiệp sĩ khoác da cọp' - một kiệt tác của văn học Gruzia và thế giới.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "European",
-    "fullName": "Shota Rustaveli",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jerusalem-Monastery-of-the-Cross-689.jpg/500px-Jerusalem-Monastery-of-the-Cross-689.jpg",
-    "relations": [
-      "Sandro Botticelli",
-      "J. Robert Oppenheimer",
-      "Chu Nguyên Chương"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1883,
-    "died": 1924,
-    "title": "Phạm Duy Tốn",
-    "desc": "Nhà văn xã hội tiên phong của nền văn học mới Việt Nam đầu thế kỷ 20. Tác phẩm tiêu biểu 'Sống chết mặc bay' của ông được coi là truyện ngắn hiện đại đầu tiên viết bằng chữ Quốc ngữ theo lối Tây phương, phê phán sâu sắc thói vô trách nhiệm của quan lại phong kiến.",
-    "color": "#2f5233",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phạm Duy Tốn",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg/500px-Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg",
-    "relations": [
-      "Hồ Biểu Chánh",
-      "Nguyễn Nguyên Phước",
-      "Phan Khôi"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1692,
-    "died": 1770,
-    "title": "Giuseppe Tartini",
-    "desc": "Nhà soạn nhạc và nghệ sĩ violin bậc thầy người Ý thời kỳ Baroque. Ông nổi tiếng nhất với bản sonata dành cho violin mang tên 'Bản sonata ý của Quỷ' (Devil's Trill Sonata) đầy kỹ thuật và giai điệu huyền bí.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Italian",
-    "fullName": "Giuseppe Tartini",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png/500px-Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png",
-    "relations": [
-      "Antonio Vivaldi",
-      "Niccolò Paganini",
-      "Georg Philipp Telemann"
-    ],
-    "themes": [
-      "Classical Music"
-    ]
-  },
-  {
-    "born": 1916,
-    "died": 1985,
-    "title": "Emil Gilels",
-    "desc": "Nghệ sĩ dương cầm lỗi lạc người Liên Xô, được vinh danh là một trong những nghệ sĩ piano vĩ đại nhất thế kỷ 20 với kỹ thuật điêu luyện, âm sắc ấm áp và sự diễn cảm sâu sắc đối với các tác phẩm cổ điển.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Soviet",
-    "fullName": "Emil Grigoryevich Gilels",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Emil_Gilels_by_Aram_Alban.jpg/500px-Emil_Gilels_by_Aram_Alban.jpg",
-    "relations": [
-      "Agnès Varda",
-      "John Cage",
-      "Niccolò Paganini"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1903,
-    "died": 1978,
-    "title": "Aram Khachaturian",
-    "desc": "Nhà soạn nhạc và chỉ huy dàn nhạc huyền thoại người Armenia thuộc Liên Xô. Âm nhạc của ông mang đậm âm hưởng dân gian Kavkaz, nổi tiếng toàn cầu qua vũ kịch Spartacus và 'Vũ điệu kiếm' (Sabre Dance).",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Soviet",
-    "fullName": "Aram Ilyich Khachaturian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aram_Khachaturian%2C_Pic%2C_17.jpg/500px-Aram_Khachaturian%2C_Pic%2C_17.jpg",
-    "relations": [
-      "Louis Armstrong",
-      "Dmitri Shostakovich",
-      "John Cage"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1653,
-    "died": 1713,
-    "title": "Arcangelo Corelli",
-    "desc": "Nhà soạn nhạc kiêm nghệ sĩ violin vĩ đại người Ý thời Baroque. Ông có đóng góp to lớn vào sự phát triển của thể loại nhạc không lời, đặc biệt là Concerto Grosso, đồng thời là người đặt nền móng cho kỹ thuật chơi violin hiện đại.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Italian",
-    "fullName": "Arcangelo Corelli",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg/500px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg",
-    "relations": [
-      "Antonio Vivaldi",
-      "Johann Pachelbel",
-      "Giuseppe Tartini"
-    ],
-    "themes": [
-      "Classical Music"
-    ]
-  },
-  {
-    "born": 1881,
-    "died": 1950,
-    "title": "Nikolai Myaskovsky",
-    "desc": "Nhà soạn nhạc danh tiếng người Nga gốc Ba Lan, được mệnh danh là 'Cha đẻ của thể loại giao hưởng Liên Xô' với di sản đồ sộ gồm 27 bản giao hưởng, phản ánh sâu sắc tâm lý xã hội thời kỳ biến động.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Soviet",
-    "fullName": "Nikolai Yakovlevich Myaskovsky",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikolai_Myaskovsky.jpg",
-    "relations": [
-      "Sergei Prokofiev",
-      "Dmitri Shostakovich",
-      "Igor Stravinsky"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1821,
-    "died": 1880,
-    "title": "Gustave Flaubert",
-    "desc": "Tiểu thuyết gia kiệt xuất người Pháp, người tiên phong của trường phái văn học hiện thực phương Tây. Tác phẩm đầu tay của ông - 'Bà Bovary' (Madame Bovary) là một kiệt tác văn học kinh điển khắc họa sâu sắc tâm lý con người.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "French",
-    "fullName": "Gustave Flaubert",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Flaubert.jpg/500px-Gustave_Flaubert.jpg",
-    "relations": [
-      "Charlotte Bronte",
-      "Agnès Varda",
-      "Roberto Rossellini"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1939,
-    "died": 1940,
-    "title": "Margaret Atwood",
-    "desc": "Nhà văn, nhà thơ và nhà hoạt động nữ quyền danh tiếng người Canada. Tác phẩm tiểu thuyết giả tưởng phản địa đàng 'Chuyện người tùy nữ' (The Handmaid's Tale) của bà đã trở thành một biểu tượng văn hóa toàn cầu phản ánh sâu sắc các vấn đề xã hội.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Women"
-    ],
-    "nationality": "Other",
-    "fullName": "Margaret Eleanor Atwood",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg/500px-Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg",
-    "relations": [
-      "Rosalind Miles",
-      "Virginia Woolf",
-      "Hélène Cixous"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ]
-  },
-  {
-    "born": 1943,
-    "died": 1944,
-    "title": "Rosalind Miles",
-    "desc": "Nhà văn nữ quyền, sử gia và học giả nổi tiếng người Anh. Tác phẩm phi hư cấu tiêu biểu 'Lịch sử thế giới dưới góc nhìn phụ nữ' (The Women's History of the World) của bà tái định vị vai trò quan trọng của nữ giới trong lịch sử nhân loại.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Women"
-    ],
-    "nationality": "British",
-    "fullName": "Rosalind Mary Simpson",
-    "image": "",
-    "relations": [
-      "Margaret Atwood",
-      "Hélène Cixous",
-      "Virginia Woolf"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ]
-  },
-  {
-    "born": 1914,
-    "died": 1996,
-    "title": "Marguerite Duras",
-    "desc": "Tiểu thuyết gia, kịch tác gia và nhà làm phim Pháp vĩ đại thế kỷ 20. Bà được biết đến rộng rãi qua tiểu thuyết tự truyện 'Người tình' (L'Amant) lấy bối cảnh Đông Dương thời kỳ thuộc địa, đạt giải Goncourt danh giá năm 1984.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Women"
-    ],
-    "nationality": "French",
-    "fullName": "Marguerite Germaine Marie Donnadieu",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Marguerite_Duras_1993.jpg",
-    "relations": [
-      "Iris Murdoch",
-      "Milan Kundera",
-      "Kawabata Yasunari"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ]
-  },
-  {
-    "born": 1962,
-    "died": 1963,
-    "title": "Yoko Ogawa",
-    "desc": "Nhà văn Nhật Bản đương đại xuất sắc, chủ nhân giải Akutagawa. Các tác phẩm nổi tiếng như 'Cảnh sát bộ nhớ' (The Memory Police) và 'Công thức tình yêu của giáo sư' khắc họa tinh tế sự mất mát, ký ức và sự kết nối giữa người với người.",
-    "color": "#2f5233",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Women"
-    ],
-    "nationality": "Japanese",
-    "fullName": "Yōko Ogawa",
-    "image": "",
-    "relations": [
-      "Ichikawa Takuji",
-      "Nguyễn Nguyên Phước",
-      "Lưu Từ Hân"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1954,
-    "died": 1955,
-    "title": "Mario Kempes",
-    "desc": "Huyền thoại bóng đá người Argentina. Ông là nhân tố chủ chốt đưa Argentina lên ngôi vô địch World Cup 1978 tại quê nhà, đồng thời đoạt cả hai danh hiệu Vua phá lưới (Golden Boot) và Cầu thủ xuất sắc nhất giải đấu.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Latin American",
-    "fullName": "Mario Alberto Kempes",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kempes_Valencia_CF.jpg",
-    "relations": [
-      "Osvaldo Ardiles",
-      "Graeme Souness",
-      "Diego Maradona"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1926,
-    "died": 2014,
-    "title": "Alfredo Di Stefano",
-    "desc": "Một trong những cầu thủ vĩ đại nhất lịch sử bóng đá thế giới. Ông là linh hồn của thế hệ Real Madrid thống trị châu Âu với 5 chức vô địch Cúp C1 liên tiếp (1956–1960), nổi tiếng nhờ lối chơi toàn diện từ phòng ngự đến tấn công.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Spanish",
-    "fullName": "Alfredo Stéfano Di Stéfano Laulhé",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Di_Stefano_1959.jpg/500px-Di_Stefano_1959.jpg",
-    "relations": [
-      "Zinedine Zidane",
-      "Garrincha",
-      "Sir Bobby Robson"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1933,
-    "died": 1983,
-    "title": "Garrincha",
-    "desc": "Huyền thoại bóng đá người Brasil, được coi là thiên tài rê dắt bóng vĩ đại nhất mọi thời đại. Ông là nguồn cảm hứng lớn giúp Brasil bảo vệ thành công chức vô địch World Cup 1962 khi Pelé bị chấn thương.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Latin American",
-    "fullName": "Manuel Francisco dos Santos",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MFdSantos-Garrincha.jpg/500px-MFdSantos-Garrincha.jpg",
-    "relations": [
-      "Pelé",
-      "Ferenc Puskás",
-      "Lê Thụy Hải"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1972,
-    "died": 1973,
-    "title": "Pavel Nedved",
-    "desc": "Tiền vệ huyền thoại người Cộng hòa Séc, chủ nhân của danh hiệu Quả bóng Vàng châu Âu năm 2003. Anh được biết đến với nguồn thể lực vô hạn, lối chơi cống hiến đầy máu lửa tại Lazio và Juventus.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "European",
-    "fullName": "Pavel Nedvěd",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pavel_Nedv%C4%9Bd.jpg/500px-Pavel_Nedv%C4%9Bd.jpg",
-    "relations": [
-      "Ronaldo de Lima",
-      "Park Ji-sung",
-      "Lionel Messi"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1933,
-    "died": 2009,
-    "title": "Sir Bobby Robson",
-    "desc": "Cựu danh thủ và là một trong những huấn luyện viên bóng đá Anh được kính trọng nhất lịch sử. Ông đã dẫn dắt nhiều câu lạc bộ hàng đầu châu Âu như PSV, Porto, Barcelona, Newcastle và đưa tuyển Anh vào bán kết World Cup 1990.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "British",
-    "fullName": "Robert William Robson",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg/500px-Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg",
-    "relations": [
-      "Ferenc Puskás",
-      "Johan Cruyff",
-      "Paulino Alcantara"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1953,
-    "died": 1954,
-    "title": "Graeme Souness",
-    "desc": "Tiền vệ huyền thoại người Scotland, một trong những thủ lĩnh vĩ đại nhất lịch sử câu lạc bộ Liverpool. Ông đã cùng The Kop giành 5 chức vô địch bóng đá Anh và 3 danh hiệu Cúp C1 châu Âu đầy vẻ vang.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "British",
-    "fullName": "Graeme James Souness",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Souness_%28retouched%29.jpg/500px-Souness_%28retouched%29.jpg",
-    "relations": [
-      "Mario Kempes",
-      "Osvaldo Ardiles",
-      "Johan Cruyff"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1964,
-    "died": 1965,
-    "title": "Michael Laudrup",
-    "desc": "Tiền vệ kiến thiết kiệt xuất người Đan Mạch, một trong những chân chuyền bóng hoa mỹ nhất lịch sử. Ông là nhạc trưởng của 'Dream Team' Barcelona dưới thời Cruyff trước khi chuyển sang khoác áo Real Madrid.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Scandinavian",
-    "fullName": "Michael Laudrup",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Michael_Laudrup_2016c_%28cropped%29.jpg/500px-Michael_Laudrup_2016c_%28cropped%29.jpg",
-    "relations": [
-      "Eidur Gudjohnsen",
-      "Zinedine Zidane",
-      "Mario Kempes"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1969,
-    "died": 1970,
-    "title": "Brian Laudrup",
-    "desc": "Cựu danh thủ chạy cánh lừng danh người Đan Mạch. Anh cùng người anh trai Michael tạo nên bộ đôi huyền thoại, đóng vai trò đầu tàu giúp Đan Mạch viết nên câu chuyện cổ tích vô địch Euro 1992.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Scandinavian",
-    "fullName": "Brian Laudrup",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Brian-Laudrup-Darren-Laver-Lars-Hogh_%28cropped%29.jpg",
-    "relations": [
-      "Ronaldo de Lima",
-      "Mario Kempes",
-      "Jari Litmanen"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1971,
-    "died": 1972,
-    "title": "Jari Litmanen",
-    "desc": "Cầu thủ bóng đá vĩ đại nhất lịch sử Phần Lan. Anh là số 10 huyền thoại trong thế hệ vàng của Ajax Amsterdam vô địch UEFA Champions League năm 1995, nổi tiếng với nhãn quan chiến thuật sắc bén.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Scandinavian",
-    "fullName": "Jari Olavi Litmanen",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Litmanen_jari.jpg/500px-Litmanen_jari.jpg",
-    "relations": [
-      "Eidur Gudjohnsen",
-      "Zinedine Zidane",
-      "Ronaldo de Lima"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1981,
-    "died": 1982,
-    "title": "Park Ji-sung",
-    "desc": "Tiền vệ huyền thoại người Hàn Quốc, cầu thủ châu Á thành công nhất lịch sử giải Ngoại hạng Anh trong màu áo Manchester United. Anh được yêu mến bởi nguồn năng lượng phi thường với biệt danh 'Người ba phổi'.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "South Korean",
-    "fullName": "Park Ji-sung",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Park_Ji-sung_G20_Seoul_Summit_Ambassador_%28cropped%29.jpg",
-    "relations": [
-      "Pavel Nedved",
-      "Ronaldo de Lima",
-      "Graeme Souness"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1912,
-    "died": 1988,
-    "title": "Phạm Hùng",
-    "desc": "Chủ tịch Hội đồng Bộ trưởng Việt Nam, một trong những nhà lãnh đạo kiệt xuất của cách mạng Việt Nam. Ông có vai trò vô cùng quan trọng trong cuộc kháng chiến chống Mỹ ở miền Nam và thời kỳ đổi mới đất nước.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phạm Hùng",
-    "image": "",
-    "relations": [
-      "Võ Chí Công",
-      "Huỳnh Tấn Phát",
-      "Tôn Đức Thắng"
-    ],
-    "themes": [
-      "Khang chien chong Phap",
-      "Khang chien chong My",
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1813,
-    "died": 1884,
-    "title": "Phạm Văn Nghị",
-    "desc": "Nhà nho yêu nước, nhà thơ và là thủ lĩnh nghĩa quân chống Pháp nổi tiếng thời Nguyễn. Khi thực dân Pháp tấn công Đà Nẵng, ông dù đang làm đốc học đã tự mộ binh Nam tiến chống giặc.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phạm Văn Nghị",
-    "image": "",
-    "relations": [
-      "Cao Bá Quát",
-      "Huỳnh Mẫn Đạt",
-      "Đỗ Thúc Tịnh"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1959,
-    "died": 1960,
-    "title": "Kimberle Crenshaw",
-    "desc": "Nhà lý luận pháp lý, học giả và nhà hoạt động dân quyền người Mỹ. Bà nổi tiếng thế giới nhờ việc giới thiệu và phát triển khái niệm giao thoa luận (intersectionality) trong phong trào nữ quyền.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Political"
-    ],
-    "nationality": "American",
-    "fullName": "Kimberlé Williams Crenshaw",
-    "image": "",
-    "relations": [
-      "Julia Kristeva",
-      "Simone de Beauvoir",
-      "Mary Wollstonecraft"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ]
-  },
-  {
-    "born": 1909,
-    "died": 1944,
-    "title": "Hoàng Văn Thụ",
-    "desc": "Nhà lãnh đạo cách mạng Việt Nam, Ủy viên Ban Thường vụ Trung ương Đảng Cộng sản Đông Dương. Ông là người có đóng góp to lớn vào phong trào cách mạng trước năm 1945 và bị thực dân Pháp xử bắn.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Hoàng Văn Thụ",
-    "image": "",
-    "relations": [
-      "Nguyễn Thị Minh Khai",
-      "Nguyễn Văn Cừ",
-      "Duy Tân"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1913,
-    "died": 1989,
-    "title": "Huỳnh Tấn Phát",
-    "desc": "Chủ tịch Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam, Phó Thủ tướng kiêm Bộ trưởng Bộ Xây dựng. Ông đồng thời là một kiến trúc sư tài hoa với nhiều công trình di sản lớn.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Huỳnh Tấn Phát",
-    "image": "",
-    "relations": [
-      "Phạm Hùng",
-      "Võ Văn Kiệt",
-      "Võ Chí Công"
-    ],
-    "themes": [
-      "Khang chien chong Phap",
-      "Khang chien chong My",
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1912,
-    "died": 2011,
-    "title": "Võ Chí Công",
-    "desc": "Chủ tịch Hội đồng Nhà nước nước Cộng hòa Xã hội Chủ nghĩa Việt Nam (1987-1992), một trong những nhà lãnh đạo chủ chốt của cuộc kháng chiến chống Mỹ tại chiến trường Khu V miền Trung.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Võ Chí Công",
-    "image": "",
-    "relations": [
-      "Phạm Hùng",
-      "Tôn Đức Thắng",
-      "Lê Duẩn"
-    ],
-    "themes": [
-      "Khang chien chong Phap",
-      "Khang chien chong My",
-      "VN Modern Communism"
-    ]
-  },
-  {
-    "born": 1904,
-    "died": 1995,
-    "title": "Hoàng Minh Giám",
-    "desc": "Nhà ngoại giao xuất sắc, cựu Bộ trưởng Bộ Ngoại giao và Bộ trưởng Bộ Văn hóa Việt Nam Dân chủ Cộng hòa. Ông là một trí thức uyên bác đóng vai trò then chốt trong các cuộc đàm phán ngoại giao thời kỳ đầu kháng chiến.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Hoàng Minh Giám",
-    "image": "",
-    "relations": [
-      "Phạm Hùng",
-      "Lê Duẩn",
-      "Võ Chí Công"
-    ],
-    "themes": [
-      "Khang chien chong Phap",
-      "Khang chien chong My"
-    ]
-  },
-  {
-    "born": 1864,
-    "died": 1888,
-    "title": "Tôn Thất Đạm",
-    "desc": "Danh tướng triều Nguyễn, con trai trưởng của đại thần Tôn Thất Thuyết. Ông là một trong những thủ lĩnh kiệt xuất chỉ huy phong trào Cần Vương bảo vệ vua Hàm Nghi chống lại thực dân Pháp.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Tôn Thất Đạm",
-    "image": "",
-    "relations": [
-      "Tôn Thất Thuyết",
-      "Trần Xuân Soạn",
-      "Lê Đình Lý"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1849,
-    "died": 1923,
-    "title": "Trần Xuân Soạn",
-    "desc": "Tướng lĩnh nhà Nguyễn và là thủ lĩnh phong trào Cần Vương chống Pháp ở khu vực Thanh Hóa. Sau khi phong trào thất bại, ông trốn sang Trung Quốc tiếp tục hoạt động cách mạng cho đến khi mất.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Trần Xuân Soạn",
-    "image": "",
-    "relations": [
-      "Tôn Thất Đạm",
-      "Tôn Thất Thuyết",
-      "Thành Thái"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1821,
-    "died": 1882,
-    "title": "Phạm Phú Thứ",
-    "desc": "Đại thần triều Nguyễn, nhà cải cách canh tân đất nước xuất sắc vào thế kỷ 19. Ông từng tham gia phái bộ sứ thần sang Pháp năm 1863, từ đó dâng sớ đề xuất nhiều phương án mở mang dân trí, công nghệ.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phạm Phú Thứ",
-    "image": "",
-    "relations": [
-      "Đỗ Thúc Tịnh",
-      "Tự Đức",
-      "Thiệu Trị"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1910,
-    "died": 1992,
-    "title": "Quách Tấn",
-    "desc": "Nhà thơ nổi tiếng của Việt Nam, một trong 'Bàn thành tứ hữu' (Bốn người bạn thành Đồ Bàn) của đất Bình Định. Ông nổi tiếng với phong cách thơ Đường luật điêu luyện và các tập hồi ký giá trị.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Quách Tấn",
-    "image": "",
-    "relations": [
-      "Chế Lan Viên",
-      "Thế Lữ",
-      "Xuân Diệu"
-    ],
-    "themes": [
-      "Tho Moi"
-    ]
-  },
-  {
-    "born": 1920,
-    "died": 1989,
-    "title": "Chế Lan Viên",
-    "desc": "Nhà thơ, nhà văn hiện đại xuất sắc của Việt Nam, thành viên nổi bật của phong trào Thơ Mới với tập thơ đầu tay 'Điêu tàn' đầy bí ẩn. Thơ ông giàu chất triết lý, suy tưởng và tính thời sự cách mạng.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phan Ngọc Hoan",
-    "image": "",
-    "relations": [
-      "Phạm Hùng",
-      "Hồ Chí Minh",
-      "Tôn Đức Thắng"
-    ],
-    "themes": [
-      "Tho Moi",
-      "Khang chien chong Phap",
-      "Khang chien chong My"
-    ]
-  },
-  {
-    "born": 1847,
-    "died": 1887,
-    "title": "Nguyễn Duy Hiệu",
-    "desc": "Sĩ phu yêu nước, thủ lĩnh phong trào Cần Vương chống Pháp tại tỉnh Quảng Nam (Nghĩa hội Quảng Nam). Khi bị bắt, ông nhận hết trách nhiệm về mình để bảo vệ đồng đội và hiên ngang lên máy chém.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Nguyễn Duy Hiệu",
-    "image": "",
-    "relations": [
-      "Phạm Như Xương",
-      "Tống Duy Tân",
-      "Trần Xuân Soạn"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1844,
-    "died": 1917,
-    "title": "Phạm Như Xương",
-    "desc": "Nhà khoa bảng, sĩ phu yêu nước và là một trong những thủ lĩnh hàng đầu của phong trào Cần Vương chống Pháp ở Quảng Nam, cùng thời với Nguyễn Duy Hiệu.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phạm Như Xương",
-    "image": "",
-    "relations": [
-      "Nguyễn Duy Hiệu",
-      "Lê Khiết",
-      "Tăng Bạt Hổ"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1816,
-    "died": 1855,
-    "title": "Charlotte Bronte",
-    "desc": "Nhà văn, nhà thơ người Anh, chị cả trong ba chị em nhà Brontë nổi tiếng. Tác phẩm kinh điển nhất của bà là 'Jane Eyre', một kiệt tác văn học thế giới kết hợp giữa phong cách Gothic và hiện thực xã hội.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "British",
-    "fullName": "Charlotte Brontë",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
-    "relations": [
-      "Gustave Flaubert",
-      "Roberto Rossellini",
-      "Alexandre Dumas cha"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1818,
-    "died": 1848,
-    "title": "Emily Bronte",
-    "desc": "Nhà văn, nhà thơ người Anh, nổi tiếng với tiểu thuyết duy nhất 'Đồi gió hú' (Wuthering Heights) - một tác phẩm đầy đam mê, thù hận và tính dữ dội được coi là kiệt tác của văn học thời kỳ Victoria.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "British",
-    "fullName": "Emily Jane Brontë",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
-    "relations": [
-      "Gustave Flaubert",
-      "Alexandre Dumas con",
-      "Lev Tolstoy"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1835,
-    "died": 1910,
-    "title": "Mark Twain",
-    "desc": "Được mệnh danh là 'cha đẻ của văn học Mỹ', tác giả của 'Những cuộc phiêu lưu của Tom Sawyer' và 'Những cuộc phiêu lưu của Huckleberry Finn'. Ông nổi tiếng với văn phong trào phúng, hiện thực xã hội sắc bén.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "American",
-    "fullName": "Samuel Langhorne Clemens",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/500px-Mark_Twain_by_AF_Bradley.jpg",
-    "relations": [
-      "Gustave Flaubert",
-      "Heinrich Heine",
-      "Nguyễn Quang Bích"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1951,
-    "died": 1982,
-    "title": "Theresa Hak Kyung Cha",
-    "desc": "Nhà văn, nghệ sĩ đa phương tiện người Mỹ gốc Hàn. Tác phẩm nổi tiếng nhất của bà là cuốn sách thử nghiệm 'Dictee' (1982) kết hợp nhiều thể loại để khám phá căn tính, lịch sử và chấn thương di cư.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Art"
-    ],
-    "nationality": "American",
-    "fullName": "Theresa Hak Kyung Cha",
-    "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Theresa_Hak_Kyung_Cha_%28Barnes%2C_1980%29.png",
-    "relations": [
-      "Tàn Tuyết",
-      "Hân Nhiên",
-      "Rosalind Miles"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1986,
-    "died": 1987,
-    "title": "Alexander Rybak",
-    "desc": "Ca sĩ, nghệ sĩ vĩ cầm và nhà soạn nhạc người Na Uy gốc Belarus. Ông nổi tiếng thế giới sau khi giành chiến thắng kỷ lục tại cuộc thi Eurovision Song Contest 2009 với ca khúc 'Fairytale'.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Scandinavian",
-    "fullName": "Alexander Igoryevich Rybak",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg/500px-Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg",
-    "relations": [
-      "Vitas",
-      "Kenshi Yonezu",
-      "Asia Argento"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1962,
-    "died": 1963,
-    "title": "Huy Đức",
-    "desc": "Nhà báo, nhà văn và nhà hoạt động bất đồng chính kiến nổi tiếng Việt Nam. Ông là tác giả cuốn sách tài liệu lịch sử chính trị 'Bên thắng cuộc' gây tiếng vang lớn trên thế giới.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Trương Huy San",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Huy_Duc.JPG/500px-Huy_Duc.JPG",
-    "relations": [
-      "Cù Huy Hà Vũ",
-      "Bùi Tín",
-      "Hoàng Minh Chính"
-    ],
-    "themes": [
-      "Bat dong chinh kien VN"
-    ]
-  },
-  {
-    "born": 1895,
-    "died": 1924,
-    "title": "Phạm Hồng Thái",
-    "desc": "Nhà hoạt động cách mạng yêu nước Việt Nam đời đầu chống Pháp, thành viên Tâm Tâm Xã. Ông nổi tiếng với vụ ám sát hụt Toàn quyền Đông Dương Merlin tại Sa Diện (Quảng Châu) và gieo mình xuống dòng Châu Giang tuẫn tiết.",
-    "color": "#5b1a99",
-    "position": "top",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military"
-    ],
-    "nationality": "Vietnamese",
-    "fullName": "Phạm Hồng Thái",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/PhamHongThai.jpg",
-    "relations": [
-      "Hồ Chí Minh",
-      "Hoàng Văn Thụ",
-      "Tôn Đức Thắng"
-    ],
-    "themes": [
-      "Khang chien chong Phap"
-    ]
-  },
-  {
-    "born": 1978,
-    "died": 1979,
-    "title": "Eidur Gudjohnsen",
-    "desc": "Cựu tiền đạo lừng danh người Iceland, cầu thủ vĩ đại nhất lịch sử nước này. Anh từng khoác áo các CLB hàng đầu như Chelsea, Barcelona và vô địch UEFA Champions League năm 2009.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Scandinavian",
-    "fullName": "Eiður Smári Guðjohnsen",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg/500px-Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg",
-    "relations": [
-      "Jari Litmanen",
-      "Michael Laudrup",
-      "Park Ji-sung"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1940,
-    "died": 1941,
-    "title": "Maxine Hong Kingston",
-    "desc": "Nữ nhà văn người Mỹ gốc Hoa, nổi tiếng với cuốn tiểu thuyết đầu tay 'The Woman Warrior' (Nữ chiến binh). Bà có đóng góp lớn trong việc định hình văn học Mỹ gốc Á và phong trào nữ quyền.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "American",
-    "fullName": "Maxine Hong Kingston",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Maxine_Hong_Kingston_by_David_Shankbone.jpg/500px-Maxine_Hong_Kingston_by_David_Shankbone.jpg",
-    "relations": [
-      "Margaret Atwood",
-      "Phùng Quán",
-      "Louis Aragon"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1917,
-    "died": 2000,
-    "title": "Gwendolyn Brooks",
-    "desc": "Nữ nhà thơ nổi tiếng người Mỹ, tác giả da màu đầu tiên trong lịch sử giành giải Pulitzer (1950) cho tập thơ 'Annie Allen'. Các tác phẩm của bà phản ánh sâu sắc đời sống người da màu đô thị.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "American",
-    "fullName": "Gwendolyn Elizabeth Brooks",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gwendolyn_Brooks_ACME_1950.jpg/500px-Gwendolyn_Brooks_ACME_1950.jpg",
-    "relations": [
-      "Toni Morrison",
-      "Xuân Diệu",
-      "Bình Nguyên Lộc"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1885,
-    "died": 1967,
-    "title": "Andre Maurois",
-    "desc": "Nhà văn, nhà viết tiểu sử nổi tiếng người Pháp, thành viên Viện Hàn lâm Pháp. Ông được biết đến nhiều nhất với các tác phẩm viết tiểu sử xuất sắc của các danh nhân văn hóa như Marcel Proust, Shelley và Balzac.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "French",
-    "fullName": "Émile Salomon Wilhelm Herzog",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Maurois_Harcourt_1936.jpg",
-    "relations": [
-      "Marcel Proust",
-      "E. M. Forster",
-      "Virginia Woolf"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1870,
-    "died": 1916,
-    "title": "Saki",
-    "desc": "Nhà văn người Anh nổi tiếng dưới bút danh Saki. Ông là bậc thầy truyện ngắn thời kỳ Edward, nổi tiếng với phong cách viết trào phúng, châm biếm và những kết thúc đầy bất ngờ, châm chọc xã hội thượng lưu.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "British",
-    "fullName": "Hector Hugh Munro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg/500px-Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg",
-    "relations": [
-      "Nguyễn Thượng Hiền",
-      "Heinrich Heine",
-      "W. Somerset Maugham"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1952,
-    "died": 1953,
-    "title": "Osvaldo Ardiles",
-    "desc": "Cựu tiền vệ bóng đá huyền thoại người Argentina, nhà vô địch World Cup 1978. Ông là một trong những ngôi sao nước ngoài đầu tiên thành công rực rỡ và được yêu mến nồng nhiệt tại giải Ngoại hạng Anh trong màu áo Tottenham Hotspur.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Latin American",
-    "fullName": "Osvaldo César Ardiles",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Osvaldo_Ardiles_%281981%29.jpg/500px-Osvaldo_Ardiles_%281981%29.jpg",
-    "relations": [
-      "Mario Kempes",
-      "Graeme Souness",
-      "Ronaldo de Lima"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1892,
-    "died": 1946,
-    "title": "Alexander Alekhine",
-    "desc": "Kỳ thủ cờ vua vĩ đại người Nga và Pháp, nhà vô địch cờ vua thế giới thứ 4 (1927–1935, 1937–1946). Ông nổi tiếng với lối chơi tấn công bão táp, đầy tính chiến thuật sáng tạo và là người duy nhất qua đời khi đang giữ vương miện thế giới.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Russian",
-    "fullName": "Alexander Alexandrovich Alekhine",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexandre_Alekhine_01.jpg/500px-Alexandre_Alekhine_01.jpg",
-    "relations": [
-      "José Raúl Capablanca",
-      "Garry Kasparov",
-      "Bobby Fischer"
-    ],
-    "themes": [
-      "Chess"
-    ]
-  },
-  {
-    "born": 1888,
-    "died": 1942,
-    "title": "José Raúl Capablanca",
-    "desc": "Kỳ thủ cờ vua huyền thoại người Cuba, nhà vô địch cờ vua thế giới thứ 3 (1921–1927). Được mệnh danh là 'Cỗ máy cờ vua' nhờ nhãn quan cờ tàn hoàn hảo và lối chơi tối giản, chuẩn xác cực kỳ hiếm khi mắc sai lầm.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Latin American",
-    "fullName": "José Raúl Capablanca y Graupera",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jos%C3%A9_Ra%C3%BAl_Capablanca_1931.jpg",
-    "relations": [
-      "Alexander Alekhine",
-      "Akiba Rubinstein",
-      "Paavo Nurmi"
-    ],
-    "themes": [
-      "Chess"
-    ]
-  },
-  {
-    "born": 1880,
-    "died": 1961,
-    "title": "Akiba Rubinstein",
-    "desc": "Đại kiện tướng cờ vua huyền thoại người Ba Lan. Ông là một trong những kỳ thủ xuất sắc nhất đầu thế kỷ 20, nổi tiếng với những đóng góp nền tảng cho lý thuyết khai cuộc và được coi là một trong những bậc thầy cờ tàn vĩ đại nhất lịch sử.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Other",
-    "fullName": "Akiba Kiwelowicz Rubinstein",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Akiba-RubinsteinC.jpg",
-    "relations": [
-      "Nguyễn Ngọc Trường Sơn",
-      "José Raúl Capablanca",
-      "Gukesh D"
-    ],
-    "themes": [
-      "Chess"
-    ]
-  },
-  {
-    "born": 1976,
-    "died": 1977,
-    "title": "Judit Polgár",
-    "desc": "Đại kiện tướng cờ vua người Hungary, được công nhận rộng rãi là nữ kỳ thủ cờ vua vĩ đại nhất mọi thời đại. Bà là người phụ nữ duy nhất từng lọt vào top 10 thế giới và từng đánh bại 11 nhà vô địch cờ vua thế giới trong sự nghiệp.",
-    "color": "#f46036",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Other",
-    "fullName": "Judit Polgár",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Judit_Polg%C3%A1r_2013.jpg/500px-Judit_Polg%C3%A1r_2013.jpg",
-    "relations": [
-      "Garry Kasparov",
-      "Magnus Carlsen",
-      "Ian Nepomniachtchi"
-    ],
-    "themes": [
-      "Chess"
-    ]
-  },
-  {
-    "born": 1990,
-    "died": 1991,
-    "title": "Petra Kvitova",
-    "fullName": "Petra Kvitová",
-    "desc": "Tay vợt quần vợt chuyên nghiệp người Cộng hòa Séc, nổi tiếng với lối chơi tấn công mạnh mẽ bằng tay trái và cú giao bóng đầy uy lực. Bà đã giành được hai chức vô địch đơn nữ Wimbledon danh giá (2011, 2014) và cúp vô địch Fed Cup nhiều năm.",
-    "color": "#55a630",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg/500px-Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg",
-    "relations": [
-      "Kim Clijsters",
-      "Roger Federer",
-      "Simona Halep"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1983,
-    "died": 1984,
-    "title": "Kim Clijsters",
-    "fullName": "Kim Clijsters",
-    "desc": "Cựu tay vợt quần vợt chuyên nghiệp người Bỉ, cựu số 1 thế giới ở cả nội dung đánh đơn và đánh đôi. Cô đã giành được 4 chức vô địch Grand Slam đơn nữ (3 US Open, 1 Australian Open) và nổi tiếng với lối chơi bền bỉ cùng tính cách thân thiện, fair-play.",
-    "color": "#55a630",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/500px-Kim_Clijsters.jpg",
-    "relations": [
-      "Simona Halep",
-      "Roger Federer",
-      "Petra Kvitova"
-    ],
-    "themes": [
-      "Tennis"
-    ]
-  },
-  {
-    "born": 1915,
-    "died": 1982,
-    "title": "Ingrid Bergman",
-    "fullName": "Ingrid Bergman",
-    "desc": "Nữ diễn viên huyền thoại người Thụy Điển, một trong những minh tinh vĩ đại nhất lịch sử điện ảnh Hollywood và thế giới. Bà nổi tiếng với các vai diễn trong phim Casablanca, Gaslight, Notorious, từng giành được 3 giải Oscar danh giá.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Scandinavian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ingrid_Bergman_by_Whitey_Schafer_1940.jpg/500px-Ingrid_Bergman_by_Whitey_Schafer_1940.jpg",
-    "relations": [
-      "Roberto Rossellini",
-      "Agnès Varda",
-      "Tilda Swinton"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1914,
-    "died": 1987,
-    "title": "Bình Nguyên Lộc",
-    "fullName": "Tô Văn Tuấn",
-    "desc": "Nhà văn, nhà văn hóa, nhà khảo cứu ngôn ngữ học và dân tộc học Nam Bộ lỗi lạc của Việt Nam. Ông là tác giả của nhiều tác phẩm văn chương đặc sắc ghi lại nếp sống, tâm lý con người Nam Bộ như Hương quê, Đò dọc, và công trình khảo cứu Nguồn gốc dung mạo người Việt.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Bùi Giáng",
-      "Hàn Mặc Tử",
-      "Vũ Trọng Phụng"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1916,
-    "died": 1991,
-    "title": "Hồ Dzếnh",
-    "fullName": "Hà Triệu Anh",
-    "desc": "Nhà thơ, nhà văn Việt Nam gốc Hoa, nổi tiếng với giọng thơ nhẹ nhàng, u sầu, hoài niệm tình quê và tình cảm gia đình đậm đà. Tập thơ Quê ngoại và tập truyện ngắn Chân trời cũ của ông là những tác phẩm bất hủ trong nền văn học hiện đại Việt Nam.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Xuân Diệu",
-      "Hàn Mặc Tử",
-      "Phùng Cung"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1884,
-    "died": 1958,
-    "title": "Hồ Biểu Chánh",
-    "fullName": "Hồ Văn Trung",
-    "desc": "Nhà văn tiên phong đặt nền móng cho tiểu thuyết hiện đại Việt Nam, đặc biệt là văn học Nam Bộ đầu thế kỷ 20. Ông là tác giả cực kỳ sung mãn với hàng chục tiểu thuyết đặc sắc phản ánh sâu sắc đạo đức, đời sống xã hội Nam Bộ như Cay đắng mùi đời, Cha con nghĩa nặng.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png/500px-Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png",
-    "relations": [
-      "Phạm Duy Tốn",
-      "Hoàng Ngọc Phách",
-      "Virginia Woolf"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1917,
-    "died": 1986,
-    "title": "Vũ Khắc Khoan",
-    "fullName": "Vũ Khắc Khoan",
-    "desc": "Nhà viết kịch, nhà văn, nhà biên khảo sân khấu tên tuổi của Việt Nam, giáo sư trường Quốc gia Âm nhạc và Kịch nghệ Sài Gòn. Ông có phong cách sáng tác trí tuệ, đi sâu vào triết lý nhân sinh với các vở kịch kinh điển như Thành Cát Tư Hãn, Thần Tháp Rùa.",
-    "color": "#4a7c5a",
-    "position": "top",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Spike Jonze",
-      "Chế Lan Viên",
-      "Trần Dần"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1718,
-    "died": 1799,
-    "title": "Maria Gaetana Agnesi",
-    "fullName": "Maria Gaetana Agnesi",
-    "desc": "Nhà toán học, triết học và nhà hoạt động nhân đạo người Ý. Bà là người phụ nữ đầu tiên viết sách giáo khoa toán học (giải tích) và là người phụ nữ đầu tiên được bổ nhiệm làm giáo sư toán học tại một trường đại học (Đại học Bologna).",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science",
-      "Philosophy"
-    ],
-    "nationality": "Italian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maria_Gaetana_Agnesi.jpg",
-    "relations": [
-      "Gottfried Wilhelm Leibniz",
-      "Lê Quý Đôn",
-      "Leonhard Euler"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1904,
-    "died": 1983,
-    "title": "Izydora Dąmbska",
-    "fullName": "Izydora Dąmbska",
-    "desc": "Nhà triết học, dịch giả và nhà logic học lỗi lạc người Ba Lan, thuộc trường phái Lwów-Warsaw nổi tiếng. Bà đóng góp sâu sắc cho lý thuyết nhận thức, triết học ngôn ngữ và lịch sử triết học, đồng thời là biểu tượng của tinh thần tự do học thuật bất khuất dưới các chế độ độc tài.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Other",
-    "image": "",
-    "relations": [
-      "Alfred Tarski",
-      "Tadeusz Kotarbiński",
-      "Kazimierz Twardowski"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1510,
-    "died": 1556,
-    "title": "Tullia d'Aragona",
-    "fullName": "Tullia d'Aragona",
-    "desc": "Nữ thi sĩ, triết gia và tác giả người Ý thời Phục Hưng. Tác phẩm Đối thoại về sự vô tận của tình yêu của bà là một đóng góp triết học độc đáo thảo luận về tình yêu Platon dưới góc nhìn nữ quyền và trí tuệ độc lập, thách thức các chuẩn mực xã hội thời bấy giờ.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Literature"
-    ],
-    "nationality": "Italian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Moretto_da_Brescia_-_Portrait_of_Tullia_d%27Aragona_as_Salome_-_WGA16230.jpg",
-    "relations": [
-      "Nicolaus Copernicus",
-      "Raphael",
-      "Adrian Le Roy"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1838,
-    "died": 1917,
-    "title": "Franz Brentano",
-    "fullName": "Franz Clemens Honoratus Hermann Brentano",
-    "desc": "Nhà triết học, tâm lý học người Đức nổi tiếng, người đặt nền móng cho hiện tượng học hiện đại với khái niệm 'tính ý hướng' (intentionality). Những bài giảng của ông tại Đại học Vienna đã ảnh hưởng sâu sắc đến Edmund Husserl, Sigmund Freud và Alexius Meinong.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "German",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Franz_Brentano_in_Vienna%2C_1890_%28cropped%29.png",
-    "relations": [
-      "Alexius Meinong",
-      "Edmund Husserl",
-      "Immanuel Kant"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1901,
-    "died": 1983,
-    "title": "Alfred Tarski",
-    "fullName": "Alfred Tarski",
-    "desc": "Nhà logic học, toán học và triết học lỗi lạc người Ba Lan gốc Do Thái, thành viên của trường phái Lwów-Warsaw. Ông được coi là một trong bốn nhà logic học vĩ đại nhất mọi thời đại (cùng với Aristotle, Gottlob Frege và Kurt Gödel), nổi tiếng với định nghĩa ngữ nghĩa về chân lý.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy",
-      "Science"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alfred_Tarski_1968_%28as-is%2C_cropped%29_%28cropped%29.jpg",
-    "relations": [
-      "Stanisław Leśniewski",
-      "Tadeusz Kotarbiński",
-      "Izydora Dąmbska"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1878,
-    "died": 1956,
-    "title": "Jan Łukasiewicz",
-    "fullName": "Jan Łukasiewicz",
-    "desc": "Nhà logic học và triết học lỗi lạc người Ba Lan, giáo sư trường phái Lwów-Warsaw. Ông nổi tiếng với việc phát minh ra logic đa trị (logic ba trị), ký pháp Ba Lan (Polish notation) không cần dùng dấu ngoặc, và những nghiên cứu tiên phong về lịch sử logic học.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jan_%C5%81ukasiewicz_NAC.jpg",
-    "relations": [
-      "Stanisław Leśniewski",
-      "Tadeusz Kotarbiński",
-      "Kazimierz Twardowski"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1886,
-    "died": 1939,
-    "title": "Stanisław Leśniewski",
-    "fullName": "Stanisław Leśniewski",
-    "desc": "Nhà logic học và triết học xuất sắc người Ba Lan, giáo sư toán học tại Đại học Warsaw và là thành viên hàng đầu của trường phái Lwów-Warsaw. Ông nổi tiếng với các hệ thống logic hình thức độc đáo bao gồm Đệ nhất học (Protothetic), Bản thể học (Ontology) và Mereology.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stanislaw_Lesniewski_%2869447640%29_%28cropped%29.jpg",
-    "relations": [
-      "Alfred Tarski",
-      "Tadeusz Kotarbiński",
-      "Jan Łukasiewicz"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1866,
-    "died": 1938,
-    "title": "Kazimierz Twardowski",
-    "fullName": "Kazimierz Jerzy Adolf Ritter von Oesinger Twardowski",
-    "desc": "Nhà triết học lỗi lạc người Ba Lan, người sáng lập trường phái logic-triết học Lwów-Warsaw nổi tiếng. Ông là học trò xuất sắc của Franz Brentano và đã đưa tinh thần duy lý, phân tích khoa học và sự chuẩn xác logic vào triết học Ba Lan.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kazimierz_Twardowski_1933.jpg",
-    "relations": [
-      "Jan Łukasiewicz",
-      "Izydora Dąmbska",
-      "Stanisław Leśniewski"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1886,
-    "died": 1981,
-    "title": "Tadeusz Kotarbiński",
-    "fullName": "Tadeusz Marian Kotarbiński",
-    "desc": "Nhà triết học, logic học lỗi lạc người Ba Lan, một trong những đại diện tiêu biểu nhất của trường phái Lwów-Warsaw. Ông nổi tiếng với chủ nghĩa thực nghiệm duy vật (Reism), lý thuyết hành động hiệu quả (Praxeology) và là một nhà sư phạm vĩ đại.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tadeusz_Kotarbi%C5%84ski.jpg",
-    "relations": [
-      "Alfred Tarski",
-      "Stanisław Leśniewski",
-      "Jan Łukasiewicz"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1853,
-    "died": 1920,
-    "title": "Alexius Meinong",
-    "fullName": "Alexius Meinong Ritter von Handschuchsheim",
-    "desc": "Nhà triết học người Áo, giáo sư tại Đại học Graz, nổi tiếng với việc sáng lập 'Thuyết đối tượng' (Gegenstandstheorie), một nhánh bản thể học nghiên cứu cả các đối tượng không tồn tại trên thực tế (như núi vàng, vòng tròn vuông).",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Other",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alexius_Meinong_1900.jpg",
-    "relations": [
-      "Franz Brentano",
-      "Henri Bergson",
-      "Edmund Husserl"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1721,
-    "died": 1793,
-    "title": "Im Yunjidang",
-    "fullName": "Im Yunjidang",
-    "desc": "Nữ triết gia Nho học nổi bật thời Joseon (Triều Tiên). Trong một xã hội phụ hệ cực kỳ hà khắc, bà đã khẳng định mạnh mẽ rằng phụ nữ có năng lực đạo đức và trí tuệ tương đương nam giới, đồng thời có thể đạt đến cảnh giới thánh nhân thông qua tu dưỡng bản thân.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "Others",
-    "image": "",
-    "relations": [
-      "Karen Horney",
-      "Immanuel Kant",
-      "George Washington"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1631,
-    "died": 1679,
-    "title": "Anne Conway",
-    "fullName": "Anne Conway, Viscountess Conway",
-    "desc": "Nữ triết gia người Anh thế kỷ 17 thuộc trường phái Tân Platon Cambridge. Tác phẩm triết học duy nhất của bà, giới thiệu thế giới quan nhất nguyên luận tinh thần độc đáo gồm các thực thể gọi là 'monad' (đơn tử), đã ảnh hưởng trực tiếp đến triết học của Leibniz.",
-    "color": "#8b5cf6",
-    "position": "bottom",
-    "primary_tag": "Philosophy",
-    "tags": [
-      "Philosophy"
-    ],
-    "nationality": "British",
-    "image": "",
-    "relations": [
-      "John Locke",
-      "Edmund Husserl",
-      "Izydora Dąmbska"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1894,
-    "died": 1976,
-    "title": "Dorothy Maud Wrinch",
-    "fullName": "Dorothy Maud Wrinch",
-    "desc": "Nhà toán học và lý thuyết sinh hóa người Anh, nổi tiếng với mô hình 'cyclol' đột phá về cấu trúc protein dựa trên các liên kết peptide gấp nếp. Bà là người phụ nữ đầu tiên nhận bằng Tiến sĩ Khoa học của Đại học Oxford.",
-    "color": "#247ba0",
-    "position": "bottom",
-    "primary_tag": "Science",
-    "tags": [
-      "Science"
-    ],
-    "nationality": "British",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dorothy_Maud_Wrinch_1921.jpg/500px-Dorothy_Maud_Wrinch_1921.jpg",
-    "relations": [
-      "John von Neumann",
-      "Arthur Eddington",
-      "Werner Heisenberg"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1906,
-    "died": 1977,
-    "title": "Roberto Rossellini",
-    "fullName": "Roberto Gastone Zeffiro Rossellini",
-    "desc": "Đạo diễn điện ảnh huyền thoại người Ý, một trong những người tiên phong vĩ đại nhất của trào lưu Tân hiện thực Ý (Italian Neorealism). Tác phẩm Rome, Open City (1945) của ông là một kiệt tác kinh điển của lịch sử điện ảnh thế giới.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Italian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Roberto_Rossellini.jpg",
-    "relations": [
-      "Ingrid Bergman",
-      "Agnès Varda",
-      "Werner Herzog"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1919,
-    "died": 1999,
-    "title": "Iris Murdoch",
-    "fullName": "Dame Jean Iris Murdoch",
-    "desc": "Nữ văn sĩ và triết gia lỗi lạc người Anh-Ireland. Bà nổi tiếng với các tiểu thuyết đi sâu vào các vấn đề đạo đức, cái thiện, cái ác và đời sống nội tâm sâu sắc như Under the Net, The Bell, The Sea, The Sea (đoạt giải Booker).",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature",
-      "Philosophy"
-    ],
-    "nationality": "British",
-    "image": "",
-    "relations": [
-      "Marguerite Duras",
-      "Virginia Woolf",
-      "Margaret Atwood"
-    ],
-    "themes": [
-      "Feminism Movement"
-    ]
-  },
-  {
-    "born": 1832,
-    "died": 1920,
-    "title": "Wilhelm Wundt",
-    "fullName": "Wilhelm Maximilian Wundt",
-    "desc": "Nhà sinh lý học, triết học và tâm lý học người Đức, được công nhận rộng rãi là 'Cha đẻ của Tâm lý học Thực nghiệm'. Ông là người đầu tiên thành lập phòng thí nghiệm tâm lý học chính thức tại Đại học Leipzig năm 1879.",
-    "color": "#2ec4b6",
-    "position": "bottom",
-    "primary_tag": "Medical",
-    "tags": [
-      "Medical"
-    ],
-    "nationality": "German",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wilhelm_Wundt.jpg",
-    "relations": [
-      "Alfred Adler",
-      "Karen Horney",
-      "Michel Foucault"
-    ],
-    "themes": [
-      "Psychoanalysis"
-    ]
-  },
-  {
-    "born": 1867,
-    "died": 1951,
-    "title": "Carl Gustaf Emil Mannerheim",
-    "fullName": "Baron Carl Gustaf Emil Mannerheim",
-    "desc": "Thống chế quân đội, anh hùng dân tộc và Tổng thống thứ 6 của Phần Lan. Ông là tổng tư lệnh tối cao lãnh đạo Phần Lan bảo vệ nền độc lập trước Liên Xô trong Chiến tranh Mùa đông và Chiến tranh Tiếp diễn thời Thế chiến II.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Scandinavian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mannerheim1940.jpg",
-    "relations": [
-      "Ion Antonescu",
-      "Jean de Lattre de Tassigny",
-      "Gerd von Rundstedt"
-    ],
-    "themes": [
-      "World War II"
-    ]
-  },
-  {
-    "born": 1914,
-    "died": 2001,
-    "title": "Tove Jansson",
-    "fullName": "Tove Marika Jansson",
-    "desc": "Nữ nhà văn, họa sĩ và họa sĩ minh họa người Phần Lan nói tiếng Thụy Điển, người sáng tạo ra loạt truyện và truyện tranh kinh điển về gia đình Moomin - biểu tượng văn hóa toàn cầu. Bà được trao huy chương Hans Christian Andersen năm 1966.",
-    "color": "#4a7c5a",
-    "position": "bottom",
-    "primary_tag": "Literature",
-    "tags": [
-      "Literature"
-    ],
-    "nationality": "Scandinavian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tove_Jansson_with_flower_crown_001.tiff/lossy-page1-500px-Tove_Jansson_with_flower_crown_001.tiff.jpg",
-    "relations": [
-      "Ernest Hemingway",
-      "Vũ Khắc Khoan",
-      "René Goscinny"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1897,
-    "died": 1973,
-    "title": "Paavo Nurmi",
-    "fullName": "Paavo Johannes Nurmi",
-    "desc": "Vận động viên điền kinh huyền thoại người Phần Lan chạy cự ly trung bình và dài, được mệnh danh là 'Người Phần Lan bay'. Ông thống trị điền kinh thế giới thập niên 1920 với 9 huy chương Vàng và 3 huy chương Bạc qua ba kỳ Thế vận hội Olympic.",
-    "color": "#55a630",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Scandinavian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg",
-    "relations": [
-      "José Raúl Capablanca",
-      "Nguyễn Trần Duy Nhất",
-      "Alexandra Trusova"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1986,
-    "died": 1987,
-    "title": "Vozinha",
-    "fullName": "Josimar José Évora Dias",
-    "desc": "Thủ môn bóng đá chuyên nghiệp người Cape Verde, người gác đền kỳ cựu và biểu tượng của đội tuyển quốc gia nước này với hơn 70 lần ra sân. Anh đã đại diện Cape Verde tham dự nhiều kỳ Cúp bóng đá châu Phi (AFCON) và vòng loại World Cup.",
-    "color": "#55a630",
-    "position": "bottom",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "African",
-    "image": "",
-    "relations": [
-      "Sadio Mané",
-      "Nguyễn Quang Hải",
-      "Igor Akinfeev"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 874,
-    "died": 937,
-    "title": "Dương Đình Nghệ",
-    "fullName": "Dương Đình Nghệ",
-    "desc": "Hào trưởng Ái Châu (Thanh Hóa), vị tướng giành độc lập tự chủ cho Việt Nam thời tự chủ trước nhà Ngô. Năm 931, ông đem quân đánh đuổi quân Nam Hán chiếm thành Đại La và tự xưng là Tiết độ sứ. Ông bị nha tướng Kiều Công Tiễn phản bội ám sát.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Kiều Công Tiễn",
-      "Ngô Quyền",
-      "Ngô Xương Ngập"
-    ],
-    "themes": []
-  },
-  {
-    "born": 870,
-    "died": 938,
-    "title": "Kiều Công Tiễn",
-    "fullName": "Kiều Công Tiễn",
-    "desc": "Nha tướng và con nuôi của Dương Đình Nghệ, người đã phản bội ám sát ông vào năm 937 để đoạt chức Tiết độ sứ Tĩnh Hải quân. Sự phản trắc này dẫn đến việc Ngô Quyền thảo phạt và tiêu diệt ông, châm ngòi cho trận Bạch Đằng năm 938.",
-    "color": "#d7263d",
-    "position": "top",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Dương Đình Nghệ",
-      "Ngô Quyền",
-      "Ngô Xương Ngập"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1985,
-    "died": 1986,
-    "title": "Lê Công Vinh",
-    "fullName": "Lê Công Vinh",
-    "desc": "Cựu cầu thủ bóng đá chuyên nghiệp người Việt Nam, được đánh giá là một trong những tiền đạo xuất sắc nhất lịch sử bóng đá Đông Nam Á. Anh giữ kỷ lục ghi nhiều bàn thắng nhất cho Đội tuyển quốc gia Việt Nam (51 bàn thắng).",
-    "color": "#55a630",
-    "position": "top",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cong_Vinh.png",
-    "relations": [
-      "Lionel Messi",
-      "Nguyễn Quang Hải",
-      "Lamine Yamal"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1946,
-    "died": 2021,
-    "title": "Lê Thụy Hải",
-    "fullName": "Lê Thụy Hải",
-    "desc": "Cựu cầu thủ và huấn luyện viên bóng đá chuyên nghiệp người Việt Nam. Ông là một trong những chiến lược gia thành công nhất V.League với 3 chức vô địch cùng CLB Becamex Bình Dương và cá tính bộc trực, mạnh mẽ đặc trưng.",
-    "color": "#55a630",
-    "position": "top",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Le_Thuy_Hai.png",
-    "relations": [
-      "Marcelo Bielsa",
-      "Henrique Calisto",
-      "Park Hang-seo"
-    ],
-    "themes": [
-      "Football"
-    ]
-  },
-  {
-    "born": 1976,
-    "died": 1977,
-    "title": "Phạm Văn Mách",
-    "fullName": "Phạm Văn Mách",
-    "desc": "Vận động viên thể hình chuyên nghiệp hàng đầu của Việt Nam. Anh là huyền thoại của thể hình Việt Nam với 5 lần vô địch thế giới và nhiều lần vô địch châu Á ở hạng cân 55kg, đồng thời tích cực tham gia các hoạt động giải trí.",
-    "color": "#55a630",
-    "position": "top",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Vietnamese",
-    "image": "",
-    "relations": [
-      "Nguyễn Trần Duy Nhất",
-      "Venus Williams",
-      "Serena Williams"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1989,
-    "died": 1990,
-    "title": "Nguyễn Trần Duy Nhất",
-    "fullName": "Nguyễn Trần Duy Nhất",
-    "desc": "Vận động viên võ thuật chuyên nghiệp người Việt Nam, được mệnh danh là 'Độc cô cầu bại' của làng Muay Thái Việt Nam. Anh đã giành nhiều chức vô địch thế giới nghiệp dư thế giới và huy chương vàng SEA Games danh giá.",
-    "color": "#55a630",
-    "position": "top",
-    "primary_tag": "Sport",
-    "tags": [
-      "Sport"
-    ],
-    "nationality": "Vietnamese",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/NGUY%E1%BB%84N_TR%E1%BA%A6N_DUY_NH%E1%BA%A4T_%E2%80%93_CALL_ME_BY_FIRE_VIETNAM_%E2%80%93_P2.jpg",
-    "relations": [
-      "Victoria Azarenka",
-      "Phạm Văn Mách",
-      "Lee Chong Wei"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1980,
-    "died": 1981,
-    "title": "Kim Kardashian",
-    "fullName": "Kimberly Noel Kardashian",
-    "desc": "Ngôi sao truyền hình thực tế, doanh nhân và biểu tượng truyền thông nổi tiếng người Mỹ. Cô trở nên nổi tiếng toàn cầu thông qua chương trình truyền hình Keeping Up with the Kardashians và là người sáng lập thương hiệu nội y Skims trị giá hàng tỷ USD.",
-    "color": "#aaaaaa",
-    "position": "bottom",
-    "primary_tag": "Others",
-    "tags": [
-      "Others"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kim_Kardashian_West_2014.jpg",
-    "relations": [
-      "Donald Trump",
-      "Jimmy Fallon",
-      "Jimmy Kimmel"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1967,
-    "died": 1968,
-    "title": "Jimmy Kimmel",
-    "fullName": "James Christian Kimmel",
-    "desc": "Người dẫn chương trình truyền hình, diễn viên hài và nhà sản xuất người Mỹ. Ông là người dẫn chương trình và sáng lập talkshow đêm muộn ăn khách Jimmy Kimmel Live! của đài ABC, đồng thời nhiều lần vinh dự dẫn chương trình lễ trao giải Oscar.",
-    "color": "#aaaaaa",
-    "position": "bottom",
-    "primary_tag": "Others",
-    "tags": [
-      "Others"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jimmy_Kimmel_June_2022.jpg",
-    "relations": [
-      "Jimmy Fallon",
-      "Kim Kardashian",
-      "Ricky Gervais"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1974,
-    "died": 1975,
-    "title": "Jimmy Fallon",
-    "fullName": "James Thomas Fallon",
-    "desc": "Người dẫn chương trình truyền hình, diễn viên hài và diễn viên người Mỹ. Ông nổi tiếng toàn cầu với vai trò người dẫn chương trình talkshow đêm muộn huyền thoại The Tonight Show Starring Jimmy Fallon của đài NBC và từng là thành viên của Saturday Night Live.",
-    "color": "#aaaaaa",
-    "position": "bottom",
-    "primary_tag": "Others",
-    "tags": [
-      "Others"
-    ],
-    "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg",
-    "relations": [
-      "Jimmy Kimmel",
-      "Kim Kardashian",
-      "Donald Trump"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1975,
-    "died": 1976,
-    "title": "Asia Argento",
-    "fullName": "Asia Aria Maria Vittoria Rossa Argento",
-    "desc": "Nữ diễn viên, đạo diễn và ca sĩ người Ý. Cô nổi tiếng với các bộ phim độc lập gai góc, hoạt động nghệ thuật đa diện và là một trong những nhà hoạt động tiên phong hàng đầu thúc đẩy phong trào MeToo trên toàn thế giới.",
-    "color": "#e46a6a",
-    "position": "bottom",
-    "primary_tag": "Art",
-    "tags": [
-      "Art"
-    ],
-    "nationality": "Italian",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Asia_Argento_in_2019.jpg",
-    "relations": [
-      "Leonardo DiCaprio",
-      "Tilda Swinton",
-      "Edward Norton"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1949,
-    "died": 1987,
-    "title": "Thomas Sankara",
-    "fullName": "Thomas Isidore Noël Sankara",
-    "desc": "Nhà cách mạng Marxist, sĩ quan quân đội kiêm Tổng thống Burkina Faso từ 1983 đến 1987. Được ví như 'Che Guevara của châu Phi', ông đã thực hiện các chương trình cải cách xã hội, kinh tế và nữ quyền quy mô lớn trước khi bị ám sát.",
-    "color": "#d7263d",
-    "position": "bottom",
-    "primary_tag": "Military",
-    "tags": [
-      "Military",
-      "Political"
-    ],
-    "nationality": "African",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png",
-    "relations": [
-      "Nguyễn Chí Vịnh",
-      "Che Guevara",
-      "Donald Trump"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1987,
-    "died": 2023,
-    "title": "Hamma Alloh",
-    "fullName": "Hammam Alloh",
-    "desc": "Bác sĩ chuyên khoa thận người Palestine tại Bệnh viện Al-Shifa ở Gaza. Anh đã dũng cảm từ chối di tản để ở lại chăm sóc bệnh nhân trong cuộc xung đột năm 2023, trở thành biểu tượng quốc tế về lòng tận tụy với y đức trước khi qua đời trong một đợt không kích.",
-    "color": "#2ec4b6",
-    "position": "bottom",
-    "primary_tag": "Medical",
-    "tags": [
-      "Medical"
-    ],
-    "nationality": "Arab",
-    "image": "",
-    "relations": [
-      "Đinh Núp",
-      "Yuri Gagarin",
-      "Anne Frank"
-    ],
-    "themes": []
-  },
-  {
-    "born": 1935,
-    "died": 1936,
-    "title": "José Mujica",
-    "fullName": "José Alberto Mujica Cordano",
-    "desc": "Cựu tổng thống Uruguay, cựu chiến binh du kích Tupamaros, nổi tiếng toàn cầu là 'vị tổng thống nghèo nhất thế giới'. Ông đã quyên góp phần lớn tiền lương của mình cho tổ chức từ thiện và duy trì lối sống giản dị, khắc kỷ tại trang trại của mình.",
-    "color": "#858ae3",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political",
-      "Military"
-    ],
-    "nationality": "Latin American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mujica.jpg",
-    "relations": [
-      "Donald Trump",
-      "Saddam Hussein",
-      "Kofi Annan"
+      "Johannes Kepler",
+      "Erich Fromm"
     ],
     "themes": []
   }
