@@ -146,6 +146,38 @@
       box-shadow: 0 6px 16px rgba(212, 175, 55, 0.15), inset 0 1px 0 rgba(255,255,255,0.08);
     }
 
+    /* ── RANDOM EXPLORE BUTTON ── */
+    #random-btn {
+      width: 34px;
+      height: 34px;
+      background: linear-gradient(145deg, rgba(55, 20, 80, 0.9), rgba(30, 10, 50, 0.9));
+      border: 1px solid rgba(180, 100, 255, 0.35);
+      color: #c084fc;
+      font-size: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4), 0 0 12px rgba(180,100,255,0.1), inset 0 1px 0 rgba(255,255,255,0.05);
+      transition: all 0.25s ease;
+    }
+    #random-btn:hover {
+      border-color: rgba(180, 100, 255, 0.75);
+      color: #e9d5ff;
+      box-shadow: 0 6px 18px rgba(180, 100, 255, 0.25), inset 0 1px 0 rgba(255,255,255,0.08);
+    }
+    #random-btn:active {
+      transform: translateY(0.5px) scale(0.95) !important;
+    }
+    #random-btn.spinning {
+      animation: spin-dice 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+    @keyframes spin-dice {
+      0%   { transform: rotate(0deg)   scale(1);    }
+      30%  { transform: rotate(180deg) scale(1.15); }
+      70%  { transform: rotate(290deg) scale(1.05); }
+      100% { transform: rotate(360deg) scale(1);    }
+    }
+
     /* ── THEMES BUTTON (special gold CTA) ── */
     #btn-themes {
       display: none !important;
@@ -1221,6 +1253,378 @@
       border-top: 1px solid rgba(255,255,255,0.04);
       text-align: right;
     }
+
+    /* ── QUIZ BUTTON ── */
+    #quiz-btn {
+      height: 34px;
+      padding: 0 14px;
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      background: linear-gradient(145deg, rgba(20, 50, 30, 0.9), rgba(10, 30, 15, 0.9));
+      border: 1px solid rgba(80, 200, 120, 0.35);
+      color: #4ade80;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.4), 0 0 12px rgba(80,200,120,0.08), inset 0 1px 0 rgba(255,255,255,0.05);
+    }
+    #quiz-btn:hover {
+      border-color: rgba(80, 200, 120, 0.7);
+      color: #86efac;
+      box-shadow: 0 6px 18px rgba(80,200,120,0.2);
+    }
+
+    /* ── QUIZ OVERLAY ── */
+    #quiz-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(5,4,3,0.96);
+      backdrop-filter: blur(16px);
+      z-index: 500;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Inter', sans-serif;
+    }
+    #quiz-overlay.show { display: flex; }
+
+    #quiz-box {
+      width: min(640px, 92vw);
+      max-height: 90vh;
+      overflow-y: auto;
+      background: rgba(18,16,14,0.98);
+      border: 1px solid rgba(80,200,120,0.25);
+      border-radius: 16px;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.8), 0 0 40px rgba(80,200,120,0.08);
+      display: flex;
+      flex-direction: column;
+      scrollbar-width: none;
+    }
+    #quiz-box::-webkit-scrollbar { display: none; }
+
+    /* Start screen */
+    #quiz-start {
+      padding: 56px 48px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+    #quiz-start h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 32px;
+      font-weight: 900;
+      background: linear-gradient(135deg, #4ade80, #86efac);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    #quiz-start p { color: rgba(244,238,227,0.5); font-size: 14px; line-height: 1.6; }
+    #quiz-start-btn {
+      margin-top: 8px;
+      padding: 12px 36px;
+      background: linear-gradient(135deg, rgba(40,100,60,0.9), rgba(20,60,30,0.9));
+      border: 1px solid rgba(80,200,120,0.5);
+      border-radius: 8px;
+      color: #4ade80;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      letter-spacing: 0.06em;
+      transition: all 0.2s;
+    }
+    #quiz-start-btn:hover { border-color: #4ade80; color: #86efac; box-shadow: 0 6px 20px rgba(80,200,120,0.2); }
+    #quiz-start-close {
+      background: none; border: none; color: rgba(255,255,255,0.25);
+      font-size: 12px; cursor: pointer; margin-top: 4px;
+      transition: color 0.2s;
+    }
+    #quiz-start-close:hover { color: rgba(255,255,255,0.6); }
+
+    /* Question screen */
+    #quiz-question { padding: 32px 36px; display: none; flex-direction: column; gap: 24px; }
+    #quiz-question.show { display: flex; }
+
+    #quiz-progress-bar-wrap {
+      width: 100%;
+      height: 3px;
+      background: rgba(255,255,255,0.06);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    #quiz-progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #4ade80, #86efac);
+      border-radius: 2px;
+      transition: width 0.4s ease;
+    }
+
+    #quiz-counter {
+      font-size: 11px;
+      color: rgba(255,255,255,0.3);
+      letter-spacing: 0.1em;
+      text-align: right;
+      margin-top: -16px;
+    }
+
+    #quiz-clue-box {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    #quiz-meta {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .quiz-meta-pill {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 20px;
+      border: 1px solid rgba(255,255,255,0.12);
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    #quiz-desc {
+      font-size: 14px;
+      line-height: 1.75;
+      color: rgba(244,238,227,0.85);
+    }
+
+    /* Answer area */
+    #quiz-answer-area { display: flex; flex-direction: column; gap: 12px; }
+    #quiz-answer-label {
+      font-size: 11px;
+      color: rgba(255,255,255,0.3);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    #quiz-input-wrap {
+      position: relative;
+    }
+    #quiz-input {
+      width: 100%;
+      padding: 12px 16px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(80,200,120,0.25);
+      border-radius: 8px;
+      color: #f4eee3;
+      font-size: 14px;
+      font-family: 'Inter', sans-serif;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    #quiz-input:focus { border-color: rgba(80,200,120,0.6); background: rgba(255,255,255,0.06); }
+    #quiz-input.correct { border-color: #4ade80; background: rgba(74,222,128,0.08); color: #4ade80; }
+    #quiz-input.wrong { border-color: #f87171; background: rgba(248,113,113,0.08); color: #f87171; }
+
+    #quiz-dropdown {
+      position: fixed;
+      background: rgba(18,16,14,0.98);
+      border: 1px solid rgba(80,200,120,0.2);
+      border-radius: 8px;
+      overflow-y: auto;
+      max-height: 300px;
+      z-index: 600;
+      display: none;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.8);
+      scrollbar-width: none;
+    }
+    #quiz-dropdown::-webkit-scrollbar { display: none; }
+    #quiz-dropdown.show { display: block; }
+    .quiz-dd-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 14px;
+      cursor: pointer;
+      transition: background 0.15s;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+    }
+    .quiz-dd-item:last-child { border-bottom: none; }
+    .quiz-dd-item:hover, .quiz-dd-item.focused { background: rgba(80,200,120,0.08); }
+    .quiz-dd-avatar {
+      width: 32px; height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: top;
+      flex-shrink: 0;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+    .quiz-dd-placeholder {
+      width: 32px; height: 32px;
+      border-radius: 50%;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      font-weight: 700;
+      border: 1px solid;
+    }
+    .quiz-dd-name { font-size: 13px; font-weight: 600; color: #f4eee3; flex: 1; }
+    .quiz-dd-name mark { background: none; color: #4ade80; font-weight: 700; }
+    .quiz-dd-years { font-size: 10px; color: rgba(255,255,255,0.3); }
+
+    /* Feedback */
+    #quiz-feedback {
+      display: none;
+      gap: 12px;
+      align-items: flex-start;
+      padding: 16px;
+      border-radius: 10px;
+      border: 1px solid;
+    }
+    #quiz-feedback.show { display: flex; }
+    #quiz-feedback.correct-fb { border-color: rgba(74,222,128,0.3); background: rgba(74,222,128,0.06); }
+    #quiz-feedback.wrong-fb   { border-color: rgba(248,113,113,0.3); background: rgba(248,113,113,0.06); }
+    #quiz-fb-portrait {
+      width: 52px; height: 68px;
+      object-fit: cover; object-position: top;
+      border-radius: 6px;
+      flex-shrink: 0;
+      border: 1px solid rgba(255,255,255,0.15);
+      display: none;
+    }
+    #quiz-fb-body { flex: 1; }
+    #quiz-fb-verdict {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    #quiz-feedback.correct-fb #quiz-fb-verdict { color: #4ade80; }
+    #quiz-feedback.wrong-fb   #quiz-fb-verdict { color: #f87171; }
+    #quiz-fb-answer { font-size: 15px; font-weight: 700; color: #f4eee3; margin-bottom: 4px; }
+    #quiz-fb-years  { font-size: 11px; color: rgba(255,255,255,0.35); }
+
+    /* Actions */
+    #quiz-actions { display: flex; justify-content: flex-end; }
+    #quiz-next-btn {
+      padding: 10px 28px;
+      background: linear-gradient(135deg, rgba(40,100,60,0.9), rgba(20,60,30,0.9));
+      border: 1px solid rgba(80,200,120,0.4);
+      border-radius: 8px;
+      color: #4ade80;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      letter-spacing: 0.04em;
+      transition: all 0.2s;
+      display: none;
+    }
+    #quiz-next-btn:hover { border-color: #4ade80; color: #86efac; box-shadow: 0 4px 16px rgba(80,200,120,0.2); }
+    #quiz-next-btn.show { display: block; }
+
+    /* Result screen */
+    #quiz-result { padding: 36px; display: none; flex-direction: column; gap: 28px; }
+    #quiz-result.show { display: flex; }
+    #quiz-result-score {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+    #quiz-result-score .score-label {
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.3);
+    }
+    #quiz-result-score .score-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 64px;
+      font-weight: 900;
+      line-height: 1;
+      background: linear-gradient(135deg, #4ade80, #86efac);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    #quiz-result-score .score-denom { font-size: 22px; color: rgba(255,255,255,0.3); }
+    #quiz-result-score .score-msg { font-size: 14px; color: rgba(244,238,227,0.6); }
+    #quiz-result-dots { display: flex; gap: 6px; justify-content: center; }
+    .quiz-dot {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+    }
+    .quiz-dot.correct { background: #4ade80; }
+    .quiz-dot.wrong   { background: #f87171; }
+
+    #quiz-result-list h3 {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.3);
+      margin-bottom: 10px;
+    }
+    .quiz-result-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 10px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.04);
+      margin-bottom: 6px;
+    }
+    .quiz-result-item.ri-correct { border-color: rgba(74,222,128,0.2); background: rgba(74,222,128,0.04); }
+    .quiz-result-item.ri-wrong   { border-color: rgba(248,113,113,0.2); background: rgba(248,113,113,0.04); }
+    .quiz-result-item img {
+      width: 32px; height: 40px;
+      object-fit: cover; object-position: top;
+      border-radius: 4px;
+      border: 1px solid rgba(255,255,255,0.1);
+      flex-shrink: 0;
+    }
+    .quiz-result-item .ri-ph {
+      width: 32px; height: 40px;
+      border-radius: 4px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 14px; font-weight: 700;
+      border: 1px solid;
+      flex-shrink: 0;
+    }
+    .quiz-result-item .ri-name { font-size: 13px; font-weight: 600; color: #f4eee3; flex: 1; }
+    .quiz-result-item .ri-years { font-size: 10px; color: rgba(255,255,255,0.3); }
+    .quiz-result-item .ri-icon { font-size: 16px; flex-shrink: 0; }
+
+    #quiz-result-actions {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+    }
+    .quiz-result-btn {
+      padding: 10px 28px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+      letter-spacing: 0.04em;
+      transition: all 0.2s;
+    }
+    #quiz-replay-btn {
+      background: linear-gradient(135deg, rgba(40,100,60,0.9), rgba(20,60,30,0.9));
+      border: 1px solid rgba(80,200,120,0.4);
+      color: #4ade80;
+    }
+    #quiz-replay-btn:hover { border-color: #4ade80; color: #86efac; box-shadow: 0 4px 16px rgba(80,200,120,0.2); }
+    #quiz-close-btn {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: rgba(255,255,255,0.4);
+    }
+    #quiz-close-btn:hover { border-color: rgba(255,255,255,0.3); color: rgba(255,255,255,0.7); }
   </style>
 </head>
 
@@ -1236,6 +1640,8 @@
     <button class="hdr-btn zoom-btn" id="zoom-in-btn" title="Zoom In">+</button>
     <button class="hdr-btn zoom-btn" id="zoom-out-btn" title="Zoom Out">−</button>
     <button class="hdr-btn zoom-btn" id="reset-btn" title="Reset View">↺</button>
+    <button class="hdr-btn" id="random-btn" title="Random Explore — khám phá ngẫu nhiên">🎲</button>
+    <button class="hdr-btn" id="quiz-btn" title="Quiz Mode — đoán tên nhân vật">🎯 Quiz</button>
     <button class="hdr-btn" id="btn-themes" title="Explore Themes"><i>📜</i> Themes</button>
   </div>
 
@@ -1292,6 +1698,70 @@
         <h4>Nhân vật liên quan</h4>
         <div class="relations-container" id="relations-list"></div>
       </div>
+    </div>
+  </div>
+
+  <!-- ── QUIZ OVERLAY ── -->
+  <div id="quiz-overlay">
+    <div id="quiz-box">
+
+      <!-- START -->
+      <div id="quiz-start">
+        <div style="font-size:48px;">🎯</div>
+        <h2>Quiz Mode</h2>
+        <p>10 câu hỏi · Đọc mô tả → Gõ tên nhân vật để trả lời<br>Tìm kiếm hoạt động như thanh Search trên timeline</p>
+        <button id="quiz-start-btn">▶ Bắt đầu</button>
+        <button id="quiz-start-close">Quay lại timeline</button>
+      </div>
+
+      <!-- QUESTION -->
+      <div id="quiz-question">
+        <div>
+          <div id="quiz-progress-bar-wrap"><div id="quiz-progress-bar" style="width:0%"></div></div>
+          <div id="quiz-counter">Câu 1 / 10</div>
+        </div>
+        <div id="quiz-clue-box">
+          <div id="quiz-meta"></div>
+          <div id="quiz-desc"></div>
+        </div>
+        <div id="quiz-answer-area">
+          <div id="quiz-answer-label">Bạn nghĩ đây là ai?</div>
+          <div id="quiz-input-wrap">
+            <input id="quiz-input" type="text" placeholder="Gõ tên nhân vật…" autocomplete="off">
+            <div id="quiz-dropdown"></div>
+          </div>
+        </div>
+        <div id="quiz-feedback">
+          <img id="quiz-fb-portrait" src="" alt="">
+          <div id="quiz-fb-body">
+            <div id="quiz-fb-verdict"></div>
+            <div id="quiz-fb-answer"></div>
+            <div id="quiz-fb-years"></div>
+          </div>
+        </div>
+        <div id="quiz-actions">
+          <button id="quiz-next-btn">Câu tiếp theo →</button>
+        </div>
+      </div>
+
+      <!-- RESULT -->
+      <div id="quiz-result">
+        <div id="quiz-result-score">
+          <div class="score-label">Kết quả</div>
+          <div><span class="score-num" id="quiz-score-num">0</span><span class="score-denom"> / 10</span></div>
+          <div class="score-msg" id="quiz-score-msg"></div>
+        </div>
+        <div id="quiz-result-dots"></div>
+        <div id="quiz-result-list">
+          <h3>10 nhân vật trong quiz này</h3>
+          <div id="quiz-result-items"></div>
+        </div>
+        <div id="quiz-result-actions">
+          <button class="quiz-result-btn" id="quiz-replay-btn">🔄 Chơi lại</button>
+          <button class="quiz-result-btn" id="quiz-close-btn">✕ Đóng</button>
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -1371,6 +1841,14 @@
     // Tag IDs: 1=Art 2=Business 3=Criminal 4=Literature 5=Medical
     //          6=Military 7=Others 8=Philosophy 9=Political 10=Religious 11=Science 12=Sport
     const EXTRA_TAGS = {
+    "Thomas Sankara": [
+        "Military",
+        "Political"
+    ],
+    "José Mujica": [
+        "Political",
+        "Military"
+    ],
     "Iris Murdoch": [
         "Literature",
         "Philosophy"
@@ -2250,6 +2728,8 @@
     ]
 };;
 
+    const stripAll = s => s ? s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase() : "";
+
     const people = RAW_DATA.map(p => {
       const cat = CATEGORIES.find(c => c.id === p.primary_tag);
       const color = cat ? cat.color : (p.color || '#888888');
@@ -2270,7 +2750,16 @@
         position = 'bottom';
       }
 
-      return { ...p, color, died, duration, tags, nationality, position };
+      // Precompute normalized search texts for ultra fast performance
+      const titleClean = stripAll(p.title);
+      const fullNameClean = stripAll(p.fullName || '');
+      const titleLower = p.title.toLowerCase();
+      const fullNameLower = (p.fullName || '').toLowerCase();
+
+      return {
+        ...p, color, died, duration, tags, nationality, position,
+        titleClean, fullNameClean, titleLower, fullNameLower
+      };
     });
 
     // Count per category
@@ -2430,8 +2919,6 @@
       return px / vpScale + vpX;
     }
 
-    // Strips ALL diacritics (used only when query is pure ASCII)
-    const stripAll = s => s ? s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase() : "";
     const isPureAscii = s => !/[^\x00-\x7F]/.test(s);
 
     function getVisiblePeople() {
@@ -2453,9 +2940,14 @@
 
       const ascii = isPureAscii(rawQuery);
       const q = ascii ? stripAll(rawQuery) : rawQuery.toLowerCase();
-      const match = s => s ? (ascii ? stripAll(s).includes(q) : s.toLowerCase().includes(q)) : false;
 
-      return list.filter(p => match(p.title) || match(p.primary_tag) || match(p.fullName));
+      return list.filter(p => {
+        if (ascii) {
+          return p.titleClean.includes(q) || p.fullNameClean.includes(q) || p.primary_tag.toLowerCase().includes(q);
+        } else {
+          return p.titleLower.includes(q) || p.fullNameLower.includes(q) || p.primary_tag.toLowerCase().includes(q);
+        }
+      });
     }
 
     function render() {
@@ -2956,6 +3448,25 @@
       render();
     });
 
+    // ─── RANDOM EXPLORE ──────────────────────────────────────
+    document.getElementById('random-btn').addEventListener('click', () => {
+      const btn = document.getElementById('random-btn');
+      const visible = getVisiblePeople();
+      if (!visible || visible.length === 0) return;
+
+      // Pick random person
+      const pick = visible[Math.floor(Math.random() * visible.length)];
+
+      // Spin animation
+      btn.classList.remove('spinning');
+      void btn.offsetWidth; // reflow to restart animation
+      btn.classList.add('spinning');
+      setTimeout(() => btn.classList.remove('spinning'), 500);
+
+      // Fly to person and open modal
+      flyToPerson(pick.title);
+    });
+
     // ─── SEARCH AUTOCOMPLETE ──────────────────────────────────
     const searchBox = document.getElementById('search-box');
     const searchDropdown = document.getElementById('search-dropdown');
@@ -2979,11 +3490,16 @@
 
       const ascii = isPureAscii(q);
       const qn = ascii ? stripAll(q) : q.toLowerCase();
-      const match = s => s ? (ascii ? stripAll(s).includes(qn) : s.toLowerCase().includes(qn)) : false;
 
       // Search across ALL people (not just visible)
       const results = people
-        .filter(p => match(p.title) || match(p.fullName))
+        .filter(p => {
+          if (ascii) {
+            return p.titleClean.includes(qn) || p.fullNameClean.includes(qn);
+          } else {
+            return p.titleLower.includes(qn) || p.fullNameLower.includes(qn);
+          }
+        })
         .slice(0, 8);
 
       if (results.length === 0) {
@@ -5062,6 +5578,395 @@
       }
     }
 
+
+    // ─── QUIZ MODE ───────────────────────────────────────────
+    (function() {
+      const overlay   = document.getElementById('quiz-overlay');
+      const startScr  = document.getElementById('quiz-start');
+      const questionScr = document.getElementById('quiz-question');
+      const resultScr = document.getElementById('quiz-result');
+
+      let quizState = { questions: [], current: 0, score: 0, answered: [] };
+
+      function openQuiz() {
+        overlay.classList.add('show');
+        showStart();
+      }
+      function closeQuiz() {
+        overlay.classList.remove('show');
+        closeQuizDropdown();
+      }
+
+      function showStart() {
+        startScr.style.display = '';
+        questionScr.classList.remove('show');
+        resultScr.classList.remove('show');
+      }
+
+      // Shuffle util
+      function shuffle(arr) {
+        const a = [...arr];
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
+
+      function startQuiz() {
+        // Pick 10 random people with a desc
+        const pool = people.filter(p => p.desc && p.desc.trim().length > 20);
+        const questions = shuffle(pool).slice(0, 10);
+        quizState = { questions, current: 0, score: 0, answered: [] };
+        startScr.style.display = 'none';
+        resultScr.classList.remove('show');
+        showQuestion();
+      }
+
+      function showQuestion() {
+        const q = quizState.questions[quizState.current];
+        const idx = quizState.current;
+
+        questionScr.classList.add('show');
+
+        // Progress
+        document.getElementById('quiz-progress-bar').style.width = (idx / 10 * 100) + '%';
+        document.getElementById('quiz-counter').textContent = `Câu ${idx + 1} / 10`;
+
+        // Clue: meta pills
+        const metaEl = document.getElementById('quiz-meta');
+        metaEl.innerHTML = '';
+        const years = document.createElement('span');
+        years.className = 'quiz-meta-pill';
+        const bornStr = q.born < 0 ? `${Math.abs(q.born)} BC` : q.born;
+        const diedStr = (q.died >= 2025) ? 'nay' : (q.died < 0 ? `${Math.abs(q.died)} BC` : q.died);
+        years.textContent = `${bornStr} – ${diedStr}`;
+        metaEl.appendChild(years);
+
+        const catPill = document.createElement('span');
+        catPill.className = 'quiz-meta-pill';
+        catPill.textContent = q.primary_tag;
+        catPill.style.color = q.color;
+        catPill.style.borderColor = q.color + '44';
+        metaEl.appendChild(catPill);
+
+        const natPill = document.createElement('span');
+        natPill.className = 'quiz-meta-pill';
+        natPill.textContent = q.nationality || '';
+        metaEl.appendChild(natPill);
+
+        // Desc — strip name occurrences (full names first, then individual word tokens)
+        let desc = q.desc || '';
+        const stopWords = new Set([
+          'of', 'the', 'de', 'da', 'di', 'von', 'der', 'and', 'del', 'du', 'la', 'le',
+          'i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x'
+        ]);
+
+        const rawTokens = [];
+        [q.title, q.fullName].forEach(name => {
+          if (!name) return;
+          const parts = name.split(/[\s\-,\(\)]+/);
+          parts.forEach(p => {
+            const clean = p.trim().replace(/['"“”‘’]/g, '');
+            if (clean) rawTokens.push(clean);
+          });
+        });
+
+        const tokensToHide = [];
+        const seen = new Set();
+
+        // Add full names first so they are replaced before individual words
+        [q.title, q.fullName].forEach(name => {
+          if (name && name.trim() && name.trim().length > 2) {
+            const val = name.trim();
+            if (!seen.has(val.toLowerCase())) {
+              tokensToHide.push(val);
+              seen.add(val.toLowerCase());
+            }
+          }
+        });
+
+        rawTokens.forEach(tok => {
+          const lower = tok.toLowerCase();
+          if (lower.length < 2) return;
+          if (stopWords.has(lower)) return;
+          if (seen.has(lower)) return;
+          tokensToHide.push(tok);
+          seen.add(lower);
+        });
+
+        // Sort by length descending to replace longer phrases first
+        tokensToHide.sort((a, b) => b.length - a.length);
+
+        // Replace each token in desc safely using unicode word boundaries
+        tokensToHide.forEach(tok => {
+          const escaped = tok.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const regex = new RegExp(`(?<=^|[^a-zA-Z0-9\\u00C0-\\u017F\\u1EA0-\\u1EF9])${escaped}(?=$|[^a-zA-Z0-9\\u00C0-\\u017F\\u1EA0-\\u1EF9])`, 'gi');
+          desc = desc.replace(regex, '___');
+        });
+
+        document.getElementById('quiz-desc').textContent = desc;
+
+        // Reset answer area
+        const input = document.getElementById('quiz-input');
+        input.value = '';
+        input.disabled = false;
+        input.className = '';
+        input.focus();
+        closeQuizDropdown();
+
+        // Reset feedback & next btn
+        const fb = document.getElementById('quiz-feedback');
+        fb.className = '';
+        fb.style.display = 'none';
+        document.getElementById('quiz-next-btn').classList.remove('show');
+      }
+
+      // ── Quiz Dropdown ──
+      const qInput = document.getElementById('quiz-input');
+      const qDrop  = document.getElementById('quiz-dropdown');
+      let qFocusIdx = -1;
+      let answered  = false;
+
+      function buildQuizDropdown(query) {
+        const q = query.trim();
+        qDrop.innerHTML = '';
+        if (q.length < 2) { qDrop.classList.remove('show'); return; }
+
+        const ascii = isPureAscii(q);
+        const qn = ascii ? stripAll(q) : q.toLowerCase();
+
+        const results = people.filter(p => {
+          if (ascii) {
+            return p.titleClean.includes(qn) || p.fullNameClean.includes(qn);
+          } else {
+            return p.titleLower.includes(qn) || p.fullNameLower.includes(qn);
+          }
+        }).slice(0, 7);
+        if (!results.length) { qDrop.classList.remove('show'); return; }
+
+        qFocusIdx = -1;
+        results.forEach((person, i) => {
+          const item = document.createElement('div');
+          item.className = 'quiz-dd-item';
+
+          if (person.image) {
+            const img = document.createElement('img');
+            img.className = 'quiz-dd-avatar';
+            img.src = person.image;
+            img.onerror = () => { img.replaceWith(makeQuizPh(person)); };
+            item.appendChild(img);
+          } else {
+            item.appendChild(makeQuizPh(person));
+          }
+
+          const nameEl = document.createElement('div');
+          nameEl.className = 'quiz-dd-name';
+          const escaped = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          nameEl.innerHTML = person.title.replace(new RegExp(`(${escaped})`, 'gi'), '<mark>$1</mark>');
+          item.appendChild(nameEl);
+
+          const yearsEl = document.createElement('div');
+          yearsEl.className = 'quiz-dd-years';
+          const bs = person.born < 0 ? `${Math.abs(person.born)} BC` : person.born;
+          const ds = person.died >= 2025 ? 'nay' : (person.died < 0 ? `${Math.abs(person.died)} BC` : person.died);
+          yearsEl.textContent = `${bs} – ${ds}`;
+          item.appendChild(yearsEl);
+
+          item.addEventListener('mouseenter', () => setQuizFocus(i));
+          item.addEventListener('click', () => submitAnswer(person));
+          qDrop.appendChild(item);
+        });
+
+        // Position dropdown using fixed coords
+        const rect = qInput.getBoundingClientRect();
+        qDrop.style.left  = rect.left + 'px';
+        qDrop.style.width = rect.width + 'px';
+        // Decide above or below based on available space
+        const spaceBelow = window.innerHeight - rect.bottom - 8;
+        if (spaceBelow >= 180) {
+          qDrop.style.top    = (rect.bottom + 4) + 'px';
+          qDrop.style.bottom = '';
+        } else {
+          qDrop.style.bottom = (window.innerHeight - rect.top + 4) + 'px';
+          qDrop.style.top    = '';
+        }
+
+        qDrop.classList.add('show');
+      }
+
+      function makeQuizPh(person) {
+        const el = document.createElement('div');
+        el.className = 'quiz-dd-placeholder';
+        el.textContent = person.title.charAt(0);
+        el.style.color = person.color;
+        el.style.borderColor = person.color + '44';
+        return el;
+      }
+
+      function setQuizFocus(idx) {
+        const items = qDrop.querySelectorAll('.quiz-dd-item');
+        items.forEach((it, i) => it.classList.toggle('focused', i === idx));
+        qFocusIdx = idx;
+      }
+
+      function closeQuizDropdown() {
+        qDrop.classList.remove('show');
+        qDrop.innerHTML = '';
+        qFocusIdx = -1;
+      }
+
+      qInput.addEventListener('input', e => {
+        if (answered) return;
+        buildQuizDropdown(e.target.value);
+      });
+
+      qInput.addEventListener('keydown', e => {
+        if (answered) return;
+        const items = qDrop.querySelectorAll('.quiz-dd-item');
+        if (qDrop.classList.contains('show') && items.length) {
+          if (e.key === 'ArrowDown') { e.preventDefault(); setQuizFocus(Math.min(qFocusIdx + 1, items.length - 1)); return; }
+          if (e.key === 'ArrowUp')   { e.preventDefault(); setQuizFocus(Math.max(qFocusIdx - 1, 0)); return; }
+          if (e.key === 'Enter' && qFocusIdx >= 0) { e.preventDefault(); items[qFocusIdx].click(); return; }
+          if (e.key === 'Escape') { closeQuizDropdown(); return; }
+        }
+      });
+
+      // ── Submit Answer ──
+      function submitAnswer(selected) {
+        answered = true;
+        closeQuizDropdown();
+
+        const correct = quizState.questions[quizState.current];
+        const isCorrect = selected.title === correct.title;
+
+        if (isCorrect) quizState.score++;
+        quizState.answered.push({ person: correct, isCorrect });
+
+        // Style input
+        qInput.value = selected.title;
+        qInput.disabled = true;
+        qInput.className = isCorrect ? 'correct' : 'wrong';
+
+        // Feedback box
+        const fb = document.getElementById('quiz-feedback');
+        fb.style.display = '';
+        fb.className = isCorrect ? 'show correct-fb' : 'show wrong-fb';
+
+        document.getElementById('quiz-fb-verdict').textContent = isCorrect ? '✓ Chính xác!' : '✗ Chưa đúng';
+        document.getElementById('quiz-fb-answer').textContent = correct.title;
+
+        const bs = correct.born < 0 ? `${Math.abs(correct.born)} BC` : correct.born;
+        const ds = correct.died >= 2025 ? 'nay' : (correct.died < 0 ? `${Math.abs(correct.died)} BC` : correct.died);
+        document.getElementById('quiz-fb-years').textContent = `${bs} – ${ds} · ${correct.nationality || ''}`;
+
+        const portrait = document.getElementById('quiz-fb-portrait');
+        if (correct.image) {
+          portrait.src = correct.image;
+          portrait.style.display = 'block';
+          portrait.onerror = () => { portrait.style.display = 'none'; };
+        } else {
+          portrait.style.display = 'none';
+        }
+
+        // Show next / finish btn
+        const nextBtn = document.getElementById('quiz-next-btn');
+        const isLast = quizState.current >= 9;
+        nextBtn.textContent = isLast ? 'Xem kết quả →' : 'Câu tiếp theo →';
+        nextBtn.classList.add('show');
+      }
+
+      // ── Next Question ──
+      document.getElementById('quiz-next-btn').addEventListener('click', () => {
+        answered = false;
+        quizState.current++;
+        if (quizState.current >= 10) {
+          showResult();
+        } else {
+          showQuestion();
+        }
+      });
+
+      // ── Result Screen ──
+      function showResult() {
+        questionScr.classList.remove('show');
+        resultScr.classList.add('show');
+
+        document.getElementById('quiz-progress-bar').style.width = '100%';
+        document.getElementById('quiz-score-num').textContent = quizState.score;
+
+        const msgs = ['Cần cố gắng thêm! 💪', 'Không tệ! 👍', 'Khá tốt! 🎉', 'Xuất sắc! 🏆', 'Hoàn hảo! 🌟'];
+        const msgIdx = Math.min(Math.floor(quizState.score / 2.5), 4);
+        document.getElementById('quiz-score-msg').textContent = msgs[msgIdx];
+
+        // Dots
+        const dotsEl = document.getElementById('quiz-result-dots');
+        dotsEl.innerHTML = '';
+        quizState.answered.forEach(a => {
+          const d = document.createElement('div');
+          d.className = 'quiz-dot ' + (a.isCorrect ? 'correct' : 'wrong');
+          dotsEl.appendChild(d);
+        });
+
+        // List
+        const listEl = document.getElementById('quiz-result-items');
+        listEl.innerHTML = '';
+        quizState.answered.forEach(a => {
+          const p = a.person;
+          const item = document.createElement('div');
+          item.className = 'quiz-result-item ' + (a.isCorrect ? 'ri-correct' : 'ri-wrong');
+
+          if (p.image) {
+            const img = document.createElement('img');
+            img.src = p.image;
+            img.onerror = () => { img.replaceWith(makeRiPh(p)); };
+            item.appendChild(img);
+          } else {
+            item.appendChild(makeRiPh(p));
+          }
+
+          const nameEl = document.createElement('div');
+          nameEl.className = 'ri-name';
+          nameEl.textContent = p.title;
+          item.appendChild(nameEl);
+
+          const bs = p.born < 0 ? `${Math.abs(p.born)} BC` : p.born;
+          const ds = p.died >= 2025 ? 'nay' : (p.died < 0 ? `${Math.abs(p.died)} BC` : p.died);
+          const yr = document.createElement('div');
+          yr.className = 'ri-years';
+          yr.textContent = `${bs} – ${ds}`;
+          item.appendChild(yr);
+
+          const icon = document.createElement('div');
+          icon.className = 'ri-icon';
+          icon.textContent = a.isCorrect ? '✓' : '✗';
+          icon.style.color = a.isCorrect ? '#4ade80' : '#f87171';
+          item.appendChild(icon);
+
+          listEl.appendChild(item);
+        });
+      }
+
+      function makeRiPh(person) {
+        const el = document.createElement('div');
+        el.className = 'ri-ph';
+        el.textContent = person.title.charAt(0);
+        el.style.color = person.color;
+        el.style.borderColor = person.color + '55';
+        return el;
+      }
+
+      // ── Wire buttons ──
+      document.getElementById('quiz-btn').addEventListener('click', openQuiz);
+      document.getElementById('quiz-start-btn').addEventListener('click', () => { answered = false; startQuiz(); });
+      document.getElementById('quiz-start-close').addEventListener('click', closeQuiz);
+      document.getElementById('quiz-replay-btn').addEventListener('click', () => { answered = false; startQuiz(); });
+      document.getElementById('quiz-close-btn').addEventListener('click', closeQuiz);
+
+      // Close on backdrop click
+      overlay.addEventListener('click', e => { if (e.target === overlay) closeQuiz(); });
+      document.addEventListener('keydown', e => { if (e.key === 'Escape' && overlay.classList.contains('show')) closeQuiz(); });
+    })();
 
     // ─── INIT ────────────────────────────────────────────────
     initThemes();
