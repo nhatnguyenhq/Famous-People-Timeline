@@ -159,9 +159,8 @@ const RAW_DATA = [
     "fullName": "Hammurabi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg/500px-F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
     "relations": [
-      "Marianne Bachmeier",
       "Thương Ưởng",
-      "Tưởng Giới Thạch",
+      "Marianne Bachmeier",
       "Zarathustra"
     ],
     "themes": []
@@ -181,10 +180,9 @@ const RAW_DATA = [
     "fullName": "Thành Thang",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/King_Tang_of_Shang.jpg",
     "relations": [
+      "Y Doãn",
       "Khuất Nguyên",
-      "Thi Nại Am",
-      "Trụ Vương",
-      "Y Doãn"
+      "Hạng Vũ"
     ],
     "themes": []
   },
@@ -203,10 +201,9 @@ const RAW_DATA = [
     "fullName": "Y Doãn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Portrait_of_Yi_Yin_1607.jpg",
     "relations": [
-      "Khorloogiin Choibalsan",
+      "Thương Ưởng",
       "Lã Bất Vi",
-      "Thành Thang",
-      "Trụ Vương"
+      "Tào Tháo"
     ],
     "themes": []
   },
@@ -246,10 +243,9 @@ const RAW_DATA = [
     "fullName": "Khương Tử Nha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_of_Jiang_Ziya.jpg",
     "relations": [
-      "Gia Cát Lượng",
-      "Hạ Hầu Bá",
       "Hạng Vũ",
-      "Trụ Vương"
+      "Tư Mã Ý",
+      "Gia Cát Lượng"
     ],
     "themes": []
   },
@@ -269,9 +265,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg",
     "relations": [
       "Khương Tử Nha",
-      "Thành Thang",
       "Y Doãn",
-      "Đường Cao Tổ"
+      "Thành Thang"
     ],
     "themes": []
   },
@@ -290,11 +285,9 @@ const RAW_DATA = [
     "nationality": "Greek/Roman",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg",
     "relations": [
-      "Ptolemy",
-      "Shota Rustaveli",
-      "Tôn-Thất Tiết",
+      "Edmund Husserl",
       "Tư Mã Thiên",
-      "Wisława Szymborska"
+      "Ptolemy"
     ],
     "themes": []
   },
@@ -313,10 +306,9 @@ const RAW_DATA = [
     "fullName": "Tề Hoàn công",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Qihuangongguanzhong.jpg",
     "relations": [
+      "Thương Ưởng",
       "Ngô vương Hạp Lư",
-      "Sở Trang vương",
-      "Tần Thủy Hoàng",
-      "Từ Tài Hậu"
+      "Tần Thủy Hoàng"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -337,10 +329,9 @@ const RAW_DATA = [
     "fullName": "Sở Trang vương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%A5%9A%E8%8E%8A%E7%8E%8B_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg/500px-%E6%A5%9A%E8%8E%8A%E7%8E%8B_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg",
     "relations": [
-      "Ngô vương Hạp Lư",
+      "Tề Hoàn công",
       "Ngũ Tử Tư",
-      "Tưởng Kinh Quốc",
-      "Tề Hoàn công"
+      "Ngô vương Hạp Lư"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -361,9 +352,9 @@ const RAW_DATA = [
     "fullName": "Zarathustra (Zoroaster, Zarathushtra, founder of Zoroastrianism)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/CIMRM_44-Mithraic_pater_%28Dura_Europos%29.jpg",
     "relations": [
-      "Bill Gates",
       "Friedrich Nietzsche",
-      "Hammurabi"
+      "Hồ Chí Minh",
+      "Richard Strauss"
     ],
     "themes": []
   },
@@ -382,9 +373,9 @@ const RAW_DATA = [
     "fullName": "Thales",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/500px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
     "relations": [
-      "Plato",
       "Pythagoras",
-      "Socrates"
+      "Socrates",
+      "Plato"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -405,10 +396,9 @@ const RAW_DATA = [
     "fullName": "Lão Tử (Laozi, Lao Tzu, 老子, Li Er)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lao_Zi.jpg",
     "relations": [
-      "Chu Hi",
-      "Marcus Aurelius",
-      "Mặc Tử",
-      "Thánh Biển Đức"
+      "Khổng Tử",
+      "Mạnh Tử",
+      "Mặc Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc",
@@ -430,10 +420,9 @@ const RAW_DATA = [
     "fullName": "Pythagoras",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/500px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
     "relations": [
+      "Aristotle",
       "Plato",
-      "Plotinus",
-      "Thales",
-      "Thánh Biển Đức"
+      "Plotinus"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -454,10 +443,9 @@ const RAW_DATA = [
     "fullName": "Thích-ca Mâu-ni",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/500px-Gandhara_Buddha_%28tnm%29.jpeg",
     "relations": [
-      "Plotinus",
-      "Salman Rushdie",
       "Thích Nhất Hạnh",
-      "Zeno xứ Citium"
+      "Zeno xứ Citium",
+      "Plotinus"
     ],
     "themes": []
   },
@@ -476,11 +464,9 @@ const RAW_DATA = [
     "fullName": "Khổng Tử (Confucius, Kong Qiu, 孔子, Vạn thế sư biểu)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
     "relations": [
-      "Heraclitus",
-      "Ibn Khaldun",
-      "Im Yunjidang",
-      "Mặc Tử",
-      "Plutarchus"
+      "Lão Tử",
+      "Mạnh Tử",
+      "Mặc Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc",
@@ -502,9 +488,9 @@ const RAW_DATA = [
     "fullName": "Tôn Tử (Sun Tzu, Sun Wu, 孫武, The Art of War, Binh Pháp Tôn Tử)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
     "relations": [
-      "Mạnh Tử",
+      "Trương Nghi",
       "Phạm Lãi",
-      "Trương Nghi"
+      "Mạnh Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -526,11 +512,9 @@ const RAW_DATA = [
     "fullName": "Ngô vương Hạp Lư (Ngô Hạp Lư)",
     "image": "",
     "relations": [
-      "Câu Tiễn",
-      "Ngô vương Phù Sai",
       "Ngũ Tử Tư",
-      "Sở Trang vương",
-      "Tề Hoàn công"
+      "Câu Tiễn",
+      "Ngô vương Phù Sai"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -551,10 +535,9 @@ const RAW_DATA = [
     "fullName": "Phạm Lãi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Fanli.jpg",
     "relations": [
+      "Tôn Tử",
       "Trương Nghi",
-      "Trương Nhất Minh",
-      "Tôn Tẫn",
-      "Tôn Tử"
+      "Tôn Tẫn"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -576,8 +559,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Heraclitus_b_4_compressed.jpg/500px-Heraclitus_b_4_compressed.jpg",
     "relations": [
       "Khổng Tử",
-      "Mạnh Tử",
-      "Socrates"
+      "Socrates",
+      "Mạnh Tử"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -599,10 +582,9 @@ const RAW_DATA = [
     "fullName": "Ngũ Viên (Ngũ Tử Tư)",
     "image": "",
     "relations": [
-      "Câu Tiễn",
       "Ngô vương Hạp Lư",
       "Ngô vương Phù Sai",
-      "Sở Trang vương"
+      "Câu Tiễn"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -623,10 +605,9 @@ const RAW_DATA = [
     "fullName": "Câu Tiễn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Goujian.jpg",
     "relations": [
-      "Ngô vương Hạp Lư",
       "Ngô vương Phù Sai",
-      "Ngũ Tử Tư",
-      "Tưởng Kinh Quốc"
+      "Ngô vương Hạp Lư",
+      "Ngũ Tử Tư"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -649,9 +630,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Statue_of_Fuchai.jpg/500px-Statue_of_Fuchai.jpg",
     "relations": [
       "Câu Tiễn",
-      "Ngô vương Hạp Lư",
       "Ngũ Tử Tư",
-      "Tưởng Kinh Quốc"
+      "Ngô vương Hạp Lư"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -672,9 +652,9 @@ const RAW_DATA = [
     "fullName": "Anaxagoras",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Anaxagoras_Lebiedzki_Rahl.jpg/500px-Anaxagoras_Lebiedzki_Rahl.jpg",
     "relations": [
-      "Democritos",
       "Socrates",
-      "Zeno xứ Elea"
+      "Zeno xứ Elea",
+      "Democritos"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -696,9 +676,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg/500px-Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg",
     "relations": [
       "Anaxagoras",
-      "Aristotle",
-      "Hypatia",
-      "Mặc Tử"
+      "Mặc Tử",
+      "Aristotle"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -719,11 +698,9 @@ const RAW_DATA = [
     "fullName": "Socrates (Σωκράτης, Sokrates)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/500px-Socrates_Louvre.jpg",
     "relations": [
-      "Al-Ghazali",
-      "Anaxagoras",
-      "Democritos",
-      "Heraclitus",
-      "Thales"
+      "Plato",
+      "Aristotle",
+      "Anaxagoras"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -744,10 +721,9 @@ const RAW_DATA = [
     "fullName": "Mặc Tử (Mozi, Mo Di, 墨子)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg",
     "relations": [
-      "Chu Hi",
+      "Mạnh Tử",
       "Khổng Tử",
-      "Lão Tử",
-      "Zeno xứ Elea"
+      "Lão Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc",
@@ -769,7 +745,7 @@ const RAW_DATA = [
     "fullName": "Hippocrates (Ἱπποκράτης, Father of Medicine, Hippocratic Oath)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hippocrates.jpg",
     "relations": [
-      "Agnès Varda",
+      "Galileo Galilei",
       "Anders Celsius",
       "Thương Ưởng"
     ],
@@ -788,11 +764,11 @@ const RAW_DATA = [
     ],
     "nationality": "Greek",
     "fullName": "Democritos",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Rep._Raymond_Democrito_Mendoza_%2820th_Congress%29.jpg",
+    "image": "",
     "relations": [
       "Anaxagoras",
-      "Mạnh Tử",
-      "Socrates"
+      "Socrates",
+      "Mạnh Tử"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -813,10 +789,9 @@ const RAW_DATA = [
     "fullName": "Plato (Πλάτων, Platon, student of Socrates)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/500px-Plato_Silanion_Musei_Capitolini_MC1377.png",
     "relations": [
-      "Al-Ghazali",
-      "Diogenes",
-      "Pythagoras",
-      "Thales"
+      "Aristotle",
+      "Socrates",
+      "Pythagoras"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -837,9 +812,9 @@ const RAW_DATA = [
     "fullName": "Diogenes (Diogenes of Sinope, Diogenes the Cynic, Δiογένης)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg/500px-Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg",
     "relations": [
-      "David Hume",
-      "Plato",
-      "Zeno xứ Citium"
+      "Zeno xứ Citium",
+      "Mạnh Tử",
+      "Plato"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -860,11 +835,9 @@ const RAW_DATA = [
     "fullName": "Thương Ưởng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Statue_of_Shang_Yang.jpg/500px-Statue_of_Shang_Yang.jpg",
     "relations": [
-      "Hammurabi",
-      "Hippocrates",
-      "Lã Bất Vi",
-      "Sở Hoài vương",
-      "Tần Chiêu Tương vương"
+      "Tề Hoàn công",
+      "Tần Thủy Hoàng",
+      "Khuất Nguyên"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -885,11 +858,9 @@ const RAW_DATA = [
     "fullName": "Aristotle (Ἀριστοτέλης, Aristoteles, teacher of Alexander the Great)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/500px-Aristotle_Altemps_Inv8575.jpg",
     "relations": [
-      "Al-Ghazali",
-      "Alexander Đại Đế",
-      "Hypatia",
-      "Matsuo Bashō",
-      "Zeno xứ Elea"
+      "Plato",
+      "Socrates",
+      "Pythagoras"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -910,10 +881,9 @@ const RAW_DATA = [
     "fullName": "Tôn Tẫn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sun_Bin.jpg",
     "relations": [
-      "Khuất Nguyên",
-      "Liêm Pha",
+      "Trương Nghi",
       "Phạm Lãi",
-      "Tư Mã Thiên"
+      "Bạch Khởi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -934,11 +904,9 @@ const RAW_DATA = [
     "fullName": "Trương Nghi",
     "image": "",
     "relations": [
-      "Alexander Đại Đế",
-      "Công Tôn Diễn",
-      "Jeanne d'Arc",
-      "Phạm Lãi",
-      "Tôn Tử"
+      "Tôn Tẫn",
+      "Tôn Tử",
+      "Phạm Lãi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -959,11 +927,9 @@ const RAW_DATA = [
     "fullName": "Mạnh Tử (Mencius, Mengzi, 孟子)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg/500px-Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg",
     "relations": [
-      "Công Tôn Diễn",
-      "Democritos",
-      "Heraclitus",
-      "Im Yunjidang",
-      "Tôn Tử"
+      "Mặc Tử",
+      "Khổng Tử",
+      "Lão Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc",
@@ -985,9 +951,9 @@ const RAW_DATA = [
     "fullName": "Công Tôn Diễn",
     "image": "",
     "relations": [
-      "Arminius",
       "Mạnh Tử",
-      "Trương Nghi"
+      "Trương Nghi",
+      "Bạch Khởi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1009,8 +975,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/500px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
     "relations": [
       "Aristotle",
-      "Bạch Khởi",
-      "Trương Nghi"
+      "Trương Nghi",
+      "Bạch Khởi"
     ],
     "themes": []
   },
@@ -1052,9 +1018,8 @@ const RAW_DATA = [
     "fullName": "Khuất Nguyên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/QuYuan.jpg",
     "relations": [
-      "Bạch Cư Dị",
       "Sở Hoài vương",
-      "Thành Thang",
+      "Thương Ưởng",
       "Tôn Tẫn"
     ],
     "themes": [
@@ -1076,10 +1041,9 @@ const RAW_DATA = [
     "fullName": "Zeno xứ Citium",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg/500px-Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg",
     "relations": [
+      "Mạnh Tử",
       "Diogenes",
-      "Marcus Aurelius",
-      "Plutarchus",
-      "Thích-ca Mâu-ni"
+      "Plotinus"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -1100,10 +1064,9 @@ const RAW_DATA = [
     "fullName": "Liêm Pha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/%E5%BB%89%E9%A0%97.jpg",
     "relations": [
+      "Bạch Khởi",
       "Hàn Tín",
-      "Pyrros của Ipiros",
-      "Tôn Tẫn",
-      "Tần Chiêu Tương vương"
+      "Tôn Tẫn"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1124,9 +1087,9 @@ const RAW_DATA = [
     "fullName": "Tần Chiêu Tương vương",
     "image": "",
     "relations": [
-      "Liêm Pha",
-      "Sở Hoài vương",
-      "Thương Ưởng"
+      "Bạch Khởi",
+      "Thương Ưởng",
+      "Liêm Pha"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1147,9 +1110,9 @@ const RAW_DATA = [
     "fullName": "Pyrros của Ipiros",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/500px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
     "relations": [
+      "Liêm Pha",
       "Hannibal Barca",
-      "Hạng Vũ",
-      "Liêm Pha"
+      "Hạng Vũ"
     ],
     "themes": []
   },
@@ -1168,10 +1131,9 @@ const RAW_DATA = [
     "fullName": "Bạch Khởi (Bai Qi, 白起, Nhân đồ - god of slaughter)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bai_Qi.jpg",
     "relations": [
-      "Alexander Đại Đế",
-      "Nguyễn Siêu",
-      "William I",
-      "Đường Tam Tạng"
+      "Trương Nghi",
+      "Tôn Tẫn",
+      "Liêm Pha"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1192,9 +1154,9 @@ const RAW_DATA = [
     "fullName": "Euclid",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/500px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
     "relations": [
-      "Archimedes",
-      "Lý Bạch",
-      "Ptolemy"
+      "Bernhard Riemann",
+      "Ptolemy",
+      "Archimedes"
     ],
     "themes": []
   },
@@ -1214,10 +1176,9 @@ const RAW_DATA = [
     "fullName": "Lã Bất Vi (Lü Buwei, 呂不韋)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%E5%91%82%E4%B8%8D%E9%9F%8B.jpg",
     "relations": [
-      "Lưu Bang",
-      "Thương Ưởng",
       "Tần Thủy Hoàng",
-      "Y Doãn"
+      "Thương Ưởng",
+      "Lưu Bang"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1238,8 +1199,8 @@ const RAW_DATA = [
     "fullName": "Archimedes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg",
     "relations": [
-      "Alfred Nobel",
       "Euclid",
+      "Galileo Galilei",
       "Samuel Colt"
     ],
     "themes": []
@@ -1261,8 +1222,7 @@ const RAW_DATA = [
     "relations": [
       "Lã Bất Vi",
       "Lưu Bang",
-      "Tư Mã Viêm",
-      "Tề Hoàn công"
+      "Thương Ưởng"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1284,10 +1244,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AnDuongVuong%2C_crop.jpg/500px-AnDuongVuong%2C_crop.jpg",
     "relations": [
-      "Hồ Quý Ly",
-      "Lý Nam Đế",
       "Lưu Bang",
-      "Ngô Sĩ Liên"
+      "Hồ Quý Ly",
+      "Hạng Vũ"
     ],
     "themes": []
   },
@@ -1306,10 +1265,9 @@ const RAW_DATA = [
     "fullName": "Lưu Bang",
     "image": "",
     "relations": [
-      "An Dương Vương",
-      "Hàn Tín",
-      "Lã Bất Vi",
-      "Tần Thủy Hoàng"
+      "Hạng Vũ",
+      "Tần Thủy Hoàng",
+      "Hàn Tín"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1330,10 +1288,9 @@ const RAW_DATA = [
     "fullName": "Hannibal Barca (Hannibal, general of Carthage)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg",
     "relations": [
-      "Germanicus",
-      "Nguyễn Hiền",
-      "Pyrros của Ipiros",
-      "Simo Häyhä"
+      "Hạng Vũ",
+      "Simo Häyhä",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
   },
@@ -1352,11 +1309,9 @@ const RAW_DATA = [
     "fullName": "Hạng Vũ (Xiang Yu, 項羽, Bá Vương, Lord of Western Chu, Sở Bá Vương)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Xiang_Yu.jpg",
     "relations": [
-      "Germanicus",
+      "Lưu Bang",
       "Hàn Tín",
-      "Khương Tử Nha",
-      "Mai Hắc Đế",
-      "Pyrros của Ipiros"
+      "Trương Nghi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1378,9 +1333,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/H%C3%A1n_X%C3%ACn.jpg",
     "relations": [
       "Hạng Vũ",
-      "Liêm Pha",
       "Lưu Bang",
-      "William I"
+      "Bạch Khởi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1401,10 +1355,9 @@ const RAW_DATA = [
     "fullName": "Tư Mã Thiên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/500px-Sima_Qian_%28painted_portrait%29.jpg",
     "relations": [
-      "Dương Chấn Ninh",
-      "Homer",
-      "Quan Vũ",
-      "Tôn Tẫn"
+      "Tôn Tẫn",
+      "Trương Nghi",
+      "Quan Vũ"
     ],
     "themes": []
   },
@@ -1423,10 +1376,9 @@ const RAW_DATA = [
     "fullName": "Pompey",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/500px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
     "relations": [
-      "Jeanne d'Arc",
       "Julius Caesar",
       "Oliver Cromwell",
-      "Tacitus"
+      "Jeanne d'Arc"
     ],
     "themes": []
   },
@@ -1446,8 +1398,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/500px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
     "relations": [
       "Cleopatra",
-      "Napoleon Bonaparte",
-      "Pompey"
+      "Pompey",
+      "Napoleon Bonaparte"
     ],
     "themes": []
   },
@@ -1467,8 +1419,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
     "relations": [
       "Julius Caesar",
-      "Tôn Lâm",
-      "Ô Mã Nhi"
+      "Ô Mã Nhi",
+      "Trần Xuân Soạn"
     ],
     "themes": []
   },
@@ -1488,8 +1440,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Zhao_Feiyan.jpg/500px-Zhao_Feiyan.jpg",
     "relations": [
       "G-Dragon",
-      "Quắc Quốc phu nhân",
-      "Đổng Trác"
+      "Đổng Trác",
+      "Quắc Quốc phu nhân"
     ],
     "themes": []
   },
@@ -1508,9 +1460,9 @@ const RAW_DATA = [
     "fullName": "Arminius",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hermannsdenkmal_statue.jpg/500px-Hermannsdenkmal_statue.jpg",
     "relations": [
-      "Công Tôn Diễn",
       "Germanicus",
-      "Viên Thiệu"
+      "Viên Thiệu",
+      "Công Tôn Diễn"
     ],
     "themes": []
   },
@@ -1529,10 +1481,9 @@ const RAW_DATA = [
     "fullName": "Germanicus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%28Toulouse%29_Portrait_de_Germanicus_-_Mus%C3%A9e_Saint-Raymond_Ra_342_c.jpg/500px-%28Toulouse%29_Portrait_de_Germanicus_-_Mus%C3%A9e_Saint-Raymond_Ra_342_c.jpg",
     "relations": [
-      "Arminius",
-      "Hannibal Barca",
       "Hạng Vũ",
-      "Thi Sách"
+      "Hannibal Barca",
+      "Trần Quang Diệu"
     ],
     "themes": []
   },
@@ -1552,10 +1503,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Germanicus",
-      "Trưng Trắc",
       "Tô Định",
-      "Văn Tiến Dũng"
+      "Trưng Trắc",
+      "Germanicus"
     ],
     "themes": []
   },
@@ -1575,8 +1525,8 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg/500px-Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg",
     "relations": [
-      "Otto von Bismarck",
       "Thi Sách",
+      "Otto von Bismarck",
       "Trưng Nhị"
     ],
     "themes": []
@@ -1597,10 +1547,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Bà Triệu",
-      "Thi Sách",
       "Trưng Nhị",
-      "Trần Cao Vân"
+      "Thi Sách",
+      "Bà Triệu"
     ],
     "themes": []
   },
@@ -1620,10 +1569,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Hoàng Hoa Thám",
-      "Huỳnh Thúc Kháng",
       "Trưng Trắc",
-      "Tô Định"
+      "Cao Bá Quát",
+      "Hoàng Hoa Thám"
     ],
     "themes": []
   },
@@ -1642,8 +1590,8 @@ const RAW_DATA = [
     "fullName": "Plutarchus (Plutarch, Πλούταρχος)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/500px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
     "relations": [
+      "Aristotle",
       "Khổng Tử",
-      "Tacitus",
       "Zeno xứ Citium"
     ],
     "themes": [
@@ -1665,9 +1613,9 @@ const RAW_DATA = [
     "fullName": "Tacitus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/500px-Wien-_Parlament-Tacitus.jpg",
     "relations": [
-      "Hadrianus",
       "Plutarchus",
-      "Pompey"
+      "Võ Tắc Thiên",
+      "Tào Tháo"
     ],
     "themes": []
   },
@@ -1686,8 +1634,8 @@ const RAW_DATA = [
     "fullName": "Hadrianus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bust_Hadrian_Musei_Capitolini_MC817.jpg",
     "relations": [
+      "Trần Anh Tông",
       "Lưu Bị",
-      "Marcus Aurelius",
       "Tacitus"
     ],
     "themes": []
@@ -1709,7 +1657,7 @@ const RAW_DATA = [
     "relations": [
       "Diophantus",
       "Euclid",
-      "Homer"
+      "Blaise Pascal"
     ],
     "themes": []
   },
@@ -1728,7 +1676,6 @@ const RAW_DATA = [
     "fullName": "Marcus Aurelius (Marcus Aurelius Antoninus, Philosopher King, Meditations)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/500px-MSR-ra-61-b-1-DM.jpg",
     "relations": [
-      "Hadrianus",
       "Lão Tử",
       "Plotinus",
       "Zeno xứ Citium"
@@ -1752,9 +1699,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Phủ Tung",
     "image": "",
     "relations": [
-      "Quan Vũ",
+      "Đổng Trác",
       "Tư Mã Ý",
-      "Đổng Trác"
+      "Quan Vũ"
     ],
     "themes": [
       "Tam Quoc"
@@ -1775,11 +1722,9 @@ const RAW_DATA = [
     "fullName": "Đổng Trác",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Dong_Zhuo_Portrait.jpg",
     "relations": [
-      "Grigori Yefimovich Rasputin",
-      "Hoàng Phủ Tung",
+      "Viên Thiệu",
       "Mã Đằng",
-      "Triệu Phi Yến",
-      "Tôn Lâm"
+      "Hoàng Phủ Tung"
     ],
     "themes": [
       "Tam Quoc"
@@ -1800,9 +1745,9 @@ const RAW_DATA = [
     "fullName": "Hoa Đà",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E6%B1%89%E5%90%8D%E5%8C%BB%E5%8D%8E%E4%BD%97.jpg",
     "relations": [
-      "Tào Tháo",
+      "Tư Mã Ý",
       "Tư Mã Viêm",
-      "Tư Mã Ý"
+      "Tào Tháo"
     ],
     "themes": [
       "Tam Quoc"
@@ -1823,9 +1768,32 @@ const RAW_DATA = [
     "fullName": "Điển Vi (Dian Wei, 典韋)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dian_Wei_Qing_illustration.jpg/500px-Dian_Wei_Qing_illustration.jpg",
     "relations": [
+      "Tào Tháo",
       "Hứa Chử",
-      "Lã Bố",
       "Quan Vũ"
+    ],
+    "themes": [
+      "Tam Quoc"
+    ]
+  },
+  {
+    "born": 150,
+    "died": 208,
+    "title": "Tư Mã Huy",
+    "desc": "Danh sĩ ẩn dật cuối thời Đông Hán, nổi tiếng với biệt hiệu Thủy Kính tiên sinh. Ông là người thông tuệ, tinh thông binh pháp, đạo học, có con mắt tinh đời phát hiện nhân tài; chính ông là người đã giới thiệu Ngoạ Long (Gia Cát Lượng) và Phụng Sồ (Bàng Thống) cho Lưu Bị.",
+    "color": "#5e239d",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Tư Mã Huy (Sima Hui, Thủy Kính tiên sinh)",
+    "image": "",
+    "relations": [
+      "Gia Cát Lượng",
+      "Lưu Bị",
+      "Bàng Thống"
     ],
     "themes": [
       "Tam Quoc"
@@ -1847,9 +1815,9 @@ const RAW_DATA = [
     "fullName": "Viên Thiệu (Yuan Shao, 袁紹, Bản Sơ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Yuan_Shao_Portrait.jpg/500px-Yuan_Shao_Portrait.jpg",
     "relations": [
-      "Arminius",
+      "Tào Tháo",
       "Mã Đằng",
-      "Đậu Kiến Đức"
+      "Đổng Trác"
     ],
     "themes": [
       "Tam Quoc"
@@ -1870,11 +1838,9 @@ const RAW_DATA = [
     "fullName": "Tào Tháo (Cao Cao, Cao Tháo, 曹操, Mạnh Đức)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cao_Cao_scth.jpg",
     "relations": [
-      "Hoa Đà",
-      "Hạ Hầu Bá",
-      "Lý Tĩnh",
-      "Quách Gia",
-      "Tào Xung"
+      "Viên Thiệu",
+      "Trương Liêu",
+      "Điển Vi"
     ],
     "themes": [
       "Tam Quoc"
@@ -1895,9 +1861,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/L%C3%BC_Bu_Portrait.jpg",
     "relations": [
+      "Điển Vi",
       "Quan Vũ",
-      "Trương Phi",
-      "Điển Vi"
+      "Trương Phi"
     ],
     "themes": [
       "Tam Quoc"
@@ -1920,9 +1886,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ma_Teng_Qing_illustration.jpg/500px-Ma_Teng_Qing_illustration.jpg",
     "relations": [
       "Mã Siêu",
-      "Viên Thiệu",
-      "Đậu Kiến Đức",
-      "Đổng Trác"
+      "Tào Tháo",
+      "Viên Thiệu"
     ],
     "themes": [
       "Tam Quoc"
@@ -1943,11 +1908,9 @@ const RAW_DATA = [
     "fullName": "Quan Vũ (Guan Yu, Quan Vân Trường, 關羽, 關雲長, God of War, Quan Công, Quan Đế)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Shang_Xi%2C_Guan_Yu_Captures_General_Pang_De.JPG",
     "relations": [
-      "Hoàng Phủ Tung",
-      "Lã Bố",
+      "Trương Liêu",
       "Trương Phi",
-      "Tư Mã Thiên",
-      "Điển Vi"
+      "Gia Cát Lượng"
     ],
     "themes": [
       "Tam Quoc"
@@ -1968,10 +1931,9 @@ const RAW_DATA = [
     "fullName": "Lưu Bị (Liu Bei, 劉備, Huyền Đức)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Liu_Bei_Tang.jpg",
     "relations": [
-      "Bàng Thống",
-      "Hadrianus",
+      "Tôn Quyền",
       "Mã Siêu",
-      "Tôn Quyền"
+      "Bàng Thống"
     ],
     "themes": [
       "Tam Quoc"
@@ -1992,11 +1954,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%E6%95%85%E5%AE%AB%E5%8D%97%E8%96%B0%E6%AE%BF%E5%BC%A0%E9%A3%9E%E7%94%BB%E5%83%8F.jpg/500px-%E6%95%85%E5%AE%AB%E5%8D%97%E8%96%B0%E6%AE%BF%E5%BC%A0%E9%A3%9E%E7%94%BB%E5%83%8F.jpg",
     "relations": [
-      "Hứa Chử",
-      "Lã Bố",
       "Quan Vũ",
-      "Trương Liêu",
-      "Tôn Sách"
+      "Hứa Chử",
+      "Trương Liêu"
     ],
     "themes": [
       "Tam Quoc"
@@ -2017,9 +1977,9 @@ const RAW_DATA = [
     "fullName": "Hứa Chử (Xu Chu, 許褚, Trọng Khang)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Xu_Chu_Qing_illustration.jpg/500px-Xu_Chu_Qing_illustration.jpg",
     "relations": [
-      "Trương Liêu",
+      "Tào Tháo",
       "Trương Phi",
-      "Điển Vi"
+      "Trương Liêu"
     ],
     "themes": [
       "Tam Quoc"
@@ -2040,10 +2000,8 @@ const RAW_DATA = [
     "fullName": "Trương Liêu (Zhang Liao, 張遼, Văn Viễn)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zhang_Liao_Portrait.jpg/500px-Zhang_Liao_Portrait.jpg",
     "relations": [
-      "Baldwin IV",
-      "Chu Du",
-      "Hứa Chử",
-      "Quách Gia",
+      "Tào Tháo",
+      "Quan Vũ",
       "Trương Phi"
     ],
     "themes": [
@@ -2065,8 +2023,8 @@ const RAW_DATA = [
     "fullName": "Quách Gia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/GuoJia.jpg",
     "relations": [
-      "Trương Liêu",
       "Tào Tháo",
+      "Trương Liêu",
       "Tư Mã Ý"
     ],
     "themes": [
@@ -2088,9 +2046,9 @@ const RAW_DATA = [
     "fullName": "Chu Du (Zhou Yu, 周瑜, Công Cẩn - Gongjin, Đẹp trai, tài giỏi, nhưng đoản mệnh)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/ZhouYu.jpg",
     "relations": [
-      "Trương Liêu",
       "Tôn Quyền",
-      "Tôn Sách"
+      "Tôn Sách",
+      "Trương Liêu"
     ],
     "themes": [
       "Tam Quoc"
@@ -2112,11 +2070,9 @@ const RAW_DATA = [
     "fullName": "Tôn Sách (Sun Ce, Bá Phù)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sun_Ce_Portrait.jpg/500px-Sun_Ce_Portrait.jpg",
     "relations": [
+      "Tôn Quyền",
       "Chu Du",
-      "Trương Phi",
-      "Trịnh Kinh",
-      "Tào Xung",
-      "Tôn Quyền"
+      "Trương Phi"
     ],
     "themes": [
       "Tam Quoc"
@@ -2137,8 +2093,8 @@ const RAW_DATA = [
     "fullName": "Mã Siêu (Ma Chao, 馬超, Mạnh Khởi)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MaChao.jpg/500px-MaChao.jpg",
     "relations": [
-      "Lưu Bị",
       "Mã Đằng",
+      "Lưu Bị",
       "Tư Mã Ý"
     ],
     "themes": [
@@ -2160,11 +2116,9 @@ const RAW_DATA = [
     "fullName": "Tư Mã Ý (Sima Yi, 司馬懿, Trọng Đạt - Zhongda)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg",
     "relations": [
-      "Bàng Thống",
-      "Hoa Đà",
-      "Hoàng Phủ Tung",
-      "Mã Siêu",
-      "Quách Gia"
+      "Hạ Hầu Bá",
+      "Tào Tháo",
+      "Gia Cát Lượng"
     ],
     "themes": [
       "Tam Quoc"
@@ -2187,7 +2141,7 @@ const RAW_DATA = [
     "relations": [
       "Gia Cát Lượng",
       "Lưu Bị",
-      "Tư Mã Ý"
+      "Tư Mã Huy"
     ],
     "themes": [
       "Tam Quoc"
@@ -2209,10 +2163,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/%E8%9C%80%E6%B1%89%E4%B8%9E%E7%9B%B8%E5%BF%A0%E6%AD%A6%E4%BE%AF%E8%AF%B8%E8%91%9B%E4%BA%AE.jpg",
     "relations": [
       "Bàng Thống",
-      "Hạ Hầu Bá",
-      "Khương Tử Nha",
-      "La Quán Trung",
-      "Lý Tĩnh"
+      "Tư Mã Ý",
+      "Lưu Bị"
     ],
     "themes": [
       "Tam Quoc"
@@ -2234,11 +2186,9 @@ const RAW_DATA = [
     "fullName": "Tôn Quyền (Sun Quan, 孫權, Trọng Mưu)",
     "image": "",
     "relations": [
-      "Chu Du",
-      "Lưu Bị",
-      "Tào Xung",
       "Tôn Sách",
-      "Tư Mã Viêm"
+      "Tào Tháo",
+      "Lưu Bị"
     ],
     "themes": [
       "Tam Quoc"
@@ -2259,9 +2209,9 @@ const RAW_DATA = [
     "fullName": "Hạ Hầu Bá (Xiahou Ba, Trọng Quyền)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/XiahouBa.jpg/500px-XiahouBa.jpg",
     "relations": [
-      "Gia Cát Lượng",
-      "Khương Tử Nha",
-      "Tào Tháo"
+      "Tào Tháo",
+      "Tư Mã Ý",
+      "Gia Cát Lượng"
     ],
     "themes": [
       "Tam Quoc"
@@ -2305,10 +2255,9 @@ const RAW_DATA = [
     "fullName": "Diophantus",
     "image": "",
     "relations": [
-      "Blaise Pascal",
-      "Muhammad ibn Mūsā al-Khwārizmī",
       "Ptolemy",
-      "Đỗ Phủ"
+      "Blaise Pascal",
+      "Edmund Husserl"
     ],
     "themes": []
   },
@@ -2327,11 +2276,9 @@ const RAW_DATA = [
     "fullName": "Plotinus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Plotinos.jpg/500px-Plotinos.jpg",
     "relations": [
-      "Hypatia",
-      "Marcus Aurelius",
-      "Pythagoras",
-      "Thánh Biển Đức",
-      "Thích-ca Mâu-ni"
+      "Khổng Tử",
+      "Lão Tử",
+      "Zeno xứ Citium"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -2354,8 +2301,7 @@ const RAW_DATA = [
     "relations": [
       "Trưng Trắc",
       "Trần Nguyên Hãn",
-      "Đinh Núp",
-      "Đặng Dung"
+      "Đinh Núp"
     ],
     "themes": []
   },
@@ -2375,9 +2321,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "",
     "relations": [
-      "Cleopatra",
+      "Đổng Trác",
       "Tư Mã Viêm",
-      "Đổng Trác"
+      "Tư Mã Ý"
     ],
     "themes": [
       "Tam Quoc"
@@ -2399,10 +2345,8 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "",
     "relations": [
-      "Hoa Đà",
-      "Pope Gregory I",
-      "Tôn Lâm",
       "Tôn Quyền",
+      "Tôn Lâm",
       "Tần Thủy Hoàng"
     ],
     "themes": [
@@ -2424,8 +2368,8 @@ const RAW_DATA = [
     "fullName": "Hypatia (Υπατία, first known female mathematician)",
     "image": "",
     "relations": [
-      "Aristotle",
       "Plotinus",
+      "Aristotle",
       "Zeno xứ Elea"
     ],
     "themes": [
@@ -2447,9 +2391,9 @@ const RAW_DATA = [
     "fullName": "Tổ Xung Chi",
     "image": "",
     "relations": [
-      "Hải Thụy",
       "Võ Tắc Thiên",
-      "Đỗ Phủ"
+      "Đỗ Phủ",
+      "Hải Thụy"
     ],
     "themes": []
   },
@@ -2467,9 +2411,9 @@ const RAW_DATA = [
     ],
     "nationality": "Roman",
     "relations": [
-      "Lão Tử",
       "Plotinus",
-      "Pythagoras"
+      "Pythagoras",
+      "Lão Tử"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Statue_of_Queen_Mother_%E1%BB%B6_Lan%2C_2013.png/500px-Statue_of_Queen_Mother_%E1%BB%B6_Lan%2C_2013.png"
@@ -2489,9 +2433,8 @@ const RAW_DATA = [
     "fullName": "Lý Nam Đế (Lý Bí)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Emperor_Ly_Nam_De.jpg",
     "relations": [
-      "An Dương Vương",
       "Nguyễn Thiên Tích",
-      "Phạm Ngọc Thảo",
+      "An Dương Vương",
       "Trần Dụ Tông"
     ],
     "themes": []
@@ -2511,7 +2454,6 @@ const RAW_DATA = [
     "fullName": "Triệu Quang Phục (Triệu Việt Vương, Dạ Trạch Vương)",
     "image": "",
     "relations": [
-      "Hoàng Diệu",
       "Ngô Quyền",
       "Phạm Ngũ Lão",
       "Đậu Kiến Đức"
@@ -2533,9 +2475,9 @@ const RAW_DATA = [
     "fullName": "Pope Gregory I",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gregory_the_Great_with_the_Holy_Spirit.jpg",
     "relations": [
-      "George Washington",
+      "Đường Tam Tạng",
       "Tư Mã Viêm",
-      "Đường Tam Tạng"
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -2555,8 +2497,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/500px-TangGaozu.jpg",
     "relations": [
       "Hồng y Mazarin",
-      "Thái tử Shotoku",
-      "Trụ Vương"
+      "Minh Mạng",
+      "Thái tử Shotoku"
     ],
     "themes": []
   },
@@ -2575,10 +2517,9 @@ const RAW_DATA = [
     "fullName": "Đậu Kiến Đức",
     "image": "",
     "relations": [
-      "Mã Đằng",
-      "Sử Tư Minh",
-      "Triệu Quang Phục",
-      "Viên Thiệu"
+      "Tào Tháo",
+      "Viên Thiệu",
+      "Mã Đằng"
     ],
     "themes": []
   },
@@ -2597,9 +2538,9 @@ const RAW_DATA = [
     "fullName": "Thái tử Shotoku",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sh%C5%8Dtoku_Taishi_Sh%C5%8Dmanky%C5%8D_K%C5%8Dsan.jpg",
     "relations": [
+      "Đường Cao Tổ",
       "Hồng y Richelieu",
-      "Võ Tắc Thiên",
-      "Đường Cao Tổ"
+      "Võ Tắc Thiên"
     ],
     "themes": []
   },
@@ -2618,8 +2559,8 @@ const RAW_DATA = [
     "fullName": "Trưởng Tôn Vô Kỵ (Trưởng Tôn Vô Kị)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zhangsun_Wuji.jpg",
     "relations": [
-      "Lý Bí",
       "Lý Thế Dân",
+      "Lý Bí",
       "Võ Tắc Thiên"
     ],
     "themes": []
@@ -2660,10 +2601,9 @@ const RAW_DATA = [
     "fullName": "Đường Tam Tạng",
     "image": "",
     "relations": [
+      "Hạng Vũ",
       "Bạch Khởi",
-      "Ekai Kawaguchi",
-      "Minh Thành Tổ",
-      "Pope Gregory I"
+      "Mạnh Tử"
     ],
     "themes": []
   },
@@ -2682,11 +2622,9 @@ const RAW_DATA = [
     "fullName": "Võ Tắc Thiên, Vũ Tắc Thiên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/A_Tang_Dynasty_Empress_Wu_Zetian.JPG",
     "relations": [
-      "Lý Thế Dân",
-      "Thái tử Shotoku",
-      "Trưởng Tôn Vô Kỵ",
-      "Tổ Xung Chi",
-      "Địch Nhân Kiệt"
+      "Bạch Cư Dị",
+      "Tào Tháo",
+      "Trương Nghi"
     ],
     "themes": []
   },
@@ -2705,8 +2643,8 @@ const RAW_DATA = [
     "fullName": "Địch Nhân Kiệt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E7%8B%84%E4%BB%81%E6%9D%B0.jpg",
     "relations": [
-      "Lý Bí",
       "Lý Thế Dân",
+      "Lý Bí",
       "Võ Tắc Thiên"
     ],
     "themes": []
@@ -2726,10 +2664,9 @@ const RAW_DATA = [
     "fullName": "Vương Bột",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wang_Bo.jpg",
     "relations": [
+      "Đỗ Phủ",
       "Bạch Cư Dị",
-      "Lý Bạch",
-      "Thi Nại Am",
-      "Đỗ Phủ"
+      "Lý Bạch"
     ],
     "themes": []
   },
@@ -2748,9 +2685,9 @@ const RAW_DATA = [
     "fullName": "Thượng Quan Uyển Nhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Shangguan_Wan%27er.jpg/500px-Shangguan_Wan%27er.jpg",
     "relations": [
+      "Quắc Quốc phu nhân",
       "Dương Quý phi",
-      "Lý Long Cơ",
-      "Quắc Quốc phu nhân"
+      "Võ Tắc Thiên"
     ],
     "themes": []
   },
@@ -2769,9 +2706,8 @@ const RAW_DATA = [
     "fullName": "Mai Hắc Đế",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mai_h%E1%BA%AFc_%C4%91%E1%BA%BF.png",
     "relations": [
-      "Cao Biền",
+      "Đinh Núp",
       "Hạng Vũ",
-      "Lê Đại Hành",
       "Sử Tư Minh"
     ],
     "themes": []
@@ -2793,7 +2729,6 @@ const RAW_DATA = [
     "relations": [
       "An Lộc Sơn",
       "Mai Hắc Đế",
-      "Quách Tử Nghi",
       "Đậu Kiến Đức"
     ],
     "themes": []
@@ -2813,8 +2748,8 @@ const RAW_DATA = [
     "fullName": "Lý Long Cơ (Đường Huyền Tông) (Tang Xuanzong Li Longji, 唐玄宗李隆基, Khai Nguyên thịnh thế)",
     "image": "",
     "relations": [
-      "An Lộc Sơn",
       "Dương Quý phi",
+      "An Lộc Sơn",
       "Thượng Quan Uyển Nhi"
     ],
     "themes": []
@@ -2834,10 +2769,9 @@ const RAW_DATA = [
     "fullName": "Charles Martel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg/500px-Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg",
     "relations": [
-      "An Lộc Sơn",
       "Charlemagne",
       "Quách Tử Nghi",
-      "Rigault de Genouilly"
+      "An Lộc Sơn"
     ],
     "themes": []
   },
@@ -2857,7 +2791,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/%E5%94%90%E5%B0%9A%E7%88%B6%E6%B1%BE%E9%98%B3%E5%BF%A0%E6%AD%A6%E7%8E%8B%E5%83%8F.jpg",
     "relations": [
       "An Lộc Sơn",
-      "Charles Martel",
       "Lý Quang Bật",
       "Sử Tư Minh"
     ],
@@ -2879,10 +2812,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/LiBai.jpg",
     "relations": [
       "Bạch Cư Dị",
-      "Euclid",
-      "J. M. W. Turner",
-      "Vương Bột",
-      "Đỗ Phủ"
+      "Đỗ Phủ",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -2901,11 +2832,9 @@ const RAW_DATA = [
     "fullName": "An Lộc Sơn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E5%AE%89%E7%A5%BF%E5%B1%B1.jpg",
     "relations": [
-      "Charles Martel",
-      "Lý Long Cơ",
-      "Lý Quang Bật",
       "Quách Tử Nghi",
-      "Sử Tư Minh"
+      "Sử Tư Minh",
+      "Lý Quang Bật"
     ],
     "themes": []
   },
@@ -2924,9 +2853,9 @@ const RAW_DATA = [
     "fullName": "Lý Quang Bật",
     "image": "",
     "relations": [
+      "Quách Tử Nghi",
       "An Lộc Sơn",
-      "Lý Bí",
-      "Quách Tử Nghi"
+      "Lý Bí"
     ],
     "themes": []
   },
@@ -2945,10 +2874,9 @@ const RAW_DATA = [
     "fullName": "Đỗ Phủ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Du_Fu.jpg",
     "relations": [
-      "Diophantus",
       "Lý Bạch",
-      "Tổ Xung Chi",
-      "Vương Bột"
+      "Tăng Khánh Hồng",
+      "Hải Thụy"
     ],
     "themes": []
   },
@@ -2967,10 +2895,9 @@ const RAW_DATA = [
     "fullName": "Quắc Quốc phu nhân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%8F%A4%E4%BB%8A%E7%99%BE%E7%BE%8E%E5%9C%96%E4%B9%8B%E8%99%A2%E5%9B%BD%E5%A4%AB%E4%BA%BA%EF%BC%88One_hundred_beauties_Lady_of_Guo%EF%BC%89.png/500px-%E5%8F%A4%E4%BB%8A%E7%99%BE%E7%BE%8E%E5%9C%96%E4%B9%8B%E8%99%A2%E5%9B%BD%E5%A4%AB%E4%BA%BA%EF%BC%88One_hundred_beauties_Lady_of_Guo%EF%BC%89.png",
     "relations": [
-      "Dương Quý phi",
-      "Lý Bí",
       "Thượng Quan Uyển Nhi",
-      "Triệu Phi Yến"
+      "Dương Quý phi",
+      "Lý Bí"
     ],
     "themes": []
   },
@@ -2989,10 +2916,9 @@ const RAW_DATA = [
     "fullName": "Dương Quý phi",
     "image": "",
     "relations": [
-      "Charlemagne",
+      "Lý Bí",
       "Lý Long Cơ",
-      "Quắc Quốc phu nhân",
-      "Thượng Quan Uyển Nhi"
+      "Lý Bạch"
     ],
     "themes": []
   },
@@ -3011,11 +2937,9 @@ const RAW_DATA = [
     "fullName": "Lý Bí",
     "image": "",
     "relations": [
-      "Charlemagne",
-      "Lý Quang Bật",
-      "Quắc Quốc phu nhân",
-      "Trưởng Tôn Vô Kỵ",
-      "Địch Nhân Kiệt"
+      "Hồng y Richelieu",
+      "Dương Quý phi",
+      "Gia Cát Lượng"
     ],
     "themes": []
   },
@@ -3035,8 +2959,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg",
     "relations": [
       "Charles Martel",
-      "Dương Quý phi",
-      "Lý Bí"
+      "Lý Bí",
+      "Dương Quý phi"
     ],
     "themes": []
   },
@@ -3055,9 +2979,9 @@ const RAW_DATA = [
     "fullName": "Bạch Cư Dị",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bai_Juyi.jpg",
     "relations": [
-      "Khuất Nguyên",
       "Lý Bạch",
-      "Vương Bột"
+      "Võ Tắc Thiên",
+      "Tăng Khánh Hồng"
     ],
     "themes": []
   },
@@ -3076,9 +3000,9 @@ const RAW_DATA = [
     "fullName": "Muhammad ibn Mūsā al-Khwārizmī",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/1983_CPA_5426_%281%29.png/500px-1983_CPA_5426_%281%29.png",
     "relations": [
-      "Diophantus",
+      "Immanuel Kant",
       "Gilles Deleuze",
-      "Immanuel Kant"
+      "Diophantus"
     ],
     "themes": []
   },
@@ -3097,9 +3021,8 @@ const RAW_DATA = [
     "fullName": "Cao Biền",
     "image": "",
     "relations": [
-      "Hoàng Diệu",
+      "Dương Đình Nghệ",
       "Lê Văn Duyệt",
-      "Mai Hắc Đế",
       "Đinh Tiên Hoàng"
     ],
     "themes": []
@@ -3119,10 +3042,9 @@ const RAW_DATA = [
     "fullName": "Khúc Thừa Dụ",
     "image": "",
     "relations": [
-      "Chu Nguyên Chương",
-      "Gia Long",
       "Khúc Hạo",
-      "Nguyễn Lương Bằng"
+      "Chu Nguyên Chương",
+      "Gia Long"
     ],
     "themes": []
   },
@@ -3142,11 +3064,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Bùi Thiện Ngộ",
-      "Dương Đình Nghệ",
       "Khúc Thừa Dụ",
-      "Kiều Công Tiễn",
-      "Nguyễn Thị Kim Tiến"
+      "Hồ Chí Minh",
+      "Hà Huy Tập"
     ],
     "themes": []
   },
@@ -3165,11 +3085,9 @@ const RAW_DATA = [
     "fullName": "Ngô Quyền (Ngo Quyen, chiến thắng Bạch Đằng 938), Tiền Ngô Vương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg",
     "relations": [
-      "Dương Đình Nghệ",
       "Kiều Công Tiễn",
       "Ngô Xương Ngập",
-      "Ngô Xương Văn",
-      "Triệu Quang Phục"
+      "Dương Đình Nghệ"
     ],
     "themes": []
   },
@@ -3188,10 +3106,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Siêu",
     "image": "",
     "relations": [
-      "Bạch Khởi",
       "Nguyễn Hoàng",
-      "Nguyễn Khuyến",
-      "Thanh Tâm Tuyền"
+      "Tào Tháo",
+      "Bạch Khởi"
     ],
     "themes": []
   },
@@ -3210,9 +3127,8 @@ const RAW_DATA = [
     "fullName": "Đinh Tiên Hoàng (Đinh Bộ Lĩnh, Dinh Tien Hoang, Vạn Thắng Vương)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/VuaDinhTienHoang.jpg",
     "relations": [
-      "Cao Biền",
       "Nguyễn Bặc",
-      "Ngô Xương Ngập",
+      "Hồ Chí Minh",
       "Thoát Hoan"
     ],
     "themes": []
@@ -3232,10 +3148,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Bặc",
     "image": "",
     "relations": [
-      "Hoàng Quốc Việt",
+      "Đinh Tiên Hoàng",
       "Phạm Ngũ Lão",
-      "Tô Hiến Thành",
-      "Đinh Tiên Hoàng"
+      "Tô Hiến Thành"
     ],
     "themes": []
   },
@@ -3256,8 +3171,7 @@ const RAW_DATA = [
     "relations": [
       "Ngô Quyền",
       "Ngô Xương Văn",
-      "Trần Văn Trà",
-      "Đinh Tiên Hoàng"
+      "Dương Đình Nghệ"
     ],
     "themes": []
   },
@@ -3276,9 +3190,9 @@ const RAW_DATA = [
     "fullName": "Ngô Xương Văn",
     "image": "",
     "relations": [
-      "Nguyễn Hoàng",
+      "Ngô Xương Ngập",
       "Ngô Quyền",
-      "Ngô Xương Ngập"
+      "Dương Đình Nghệ"
     ],
     "themes": []
   },
@@ -3297,9 +3211,8 @@ const RAW_DATA = [
     "fullName": "Sư Vạn Hạnh",
     "image": "",
     "relations": [
-      "Huỳnh Phú Sổ",
-      "Hồng y Phạm Minh Mẫn",
-      "Minh Mạng",
+      "Thích Tuệ Sỹ",
+      "Trần Anh Tông",
       "Trịnh Tùng"
     ],
     "themes": []
@@ -3319,7 +3232,6 @@ const RAW_DATA = [
     "fullName": "Lê Đại Hành (Lê Hoàn, Le Dai Hanh, Le Hoan, kháng Tống phạt Chiêm)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Le_Dai_Hanh.jpg",
     "relations": [
-      "Khải Định",
       "Mai Hắc Đế",
       "Mạc Thái Tổ",
       "Ô Mã Nhi"
@@ -3341,9 +3253,9 @@ const RAW_DATA = [
     "fullName": "Alhazen",
     "image": "",
     "relations": [
-      "Lý Nhân Tông",
-      "Minh Mạng",
-      "Nicolaus Copernicus"
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Minh Mạng"
     ],
     "themes": []
   },
@@ -3362,9 +3274,9 @@ const RAW_DATA = [
     "fullName": "Leif Ericson",
     "image": "",
     "relations": [
-      "Christopher Columbus",
+      "Vasco da Gama",
       "Marco Polo",
-      "Vasco da Gama"
+      "Christopher Columbus"
     ],
     "themes": []
   },
@@ -3383,9 +3295,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpeg/500px-T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpeg",
     "relations": [
-      "Lê Long Đĩnh",
-      "Lý Nhân Tông",
       "Lý Thái Tông",
+      "Lý Nhân Tông",
       "Tô Hiến Thành"
     ],
     "themes": []
@@ -3406,9 +3317,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lelongdinh.jpg/500px-Lelongdinh.jpg",
     "relations": [
       "Lý Thái Tông",
-      "Lý Thái Tổ",
       "Napoleon Bonaparte",
-      "Nguyễn Bá Thanh"
+      "Lý Thái Tổ"
     ],
     "themes": []
   },
@@ -3427,11 +3337,9 @@ const RAW_DATA = [
     "fullName": "Lý Thái Tông (Lý Phật Mã, Ly Thai Tong)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/L%C3%BDTh%C3%A1iT%C3%B4ng.jpg",
     "relations": [
-      "Lê Long Đĩnh",
       "Lý Nhân Tông",
-      "Lý Thái Tổ",
-      "Lý Thường Kiệt",
-      "Tô Hiến Thành"
+      "Tô Hiến Thành",
+      "Lý Thái Tổ"
     ],
     "themes": []
   },
@@ -3450,9 +3358,9 @@ const RAW_DATA = [
     "fullName": "Lý Thường Kiệt (Ngô Tuấn, Ly Thuong Kiet, đánh Tống bình Chiêm)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/L%C3%BD_Th%C6%B0%E1%BB%9Dng_Ki%E1%BB%87t.png",
     "relations": [
+      "Tô Hiến Thành",
       "Lý Nhân Tông",
-      "Lý Thái Tông",
-      "Tô Hiến Thành"
+      "Lý Thái Tông"
     ],
     "themes": []
   },
@@ -3471,8 +3379,8 @@ const RAW_DATA = [
     "fullName": "Vương An Thạch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wang_Anshi.jpg",
     "relations": [
-      "Nhạc Phi",
       "Tần Cối",
+      "Nhạc Phi",
       "Viên Sùng Hoán"
     ],
     "themes": []
@@ -3492,9 +3400,9 @@ const RAW_DATA = [
     "fullName": "Nùng Trí Cao",
     "image": "",
     "relations": [
+      "Đinh Núp",
       "Trần Hưng Đạo",
-      "Trần Nhân Tông",
-      "Đinh Núp"
+      "Trần Nhân Tông"
     ],
     "themes": []
   },
@@ -3513,10 +3421,9 @@ const RAW_DATA = [
     "fullName": "William I (William the Conqueror, William I of England, Người chinh phục)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/King_William_I_%28%27The_Conqueror%27%29_from_NPG.jpg/500px-King_William_I_%28%27The_Conqueror%27%29_from_NPG.jpg",
     "relations": [
-      "Bạch Khởi",
-      "Công nương Diana",
+      "Lê Văn Thịnh",
       "Hàn Tín",
-      "Lê Văn Thịnh"
+      "Bạch Khởi"
     ],
     "themes": []
   },
@@ -3535,9 +3442,9 @@ const RAW_DATA = [
     "fullName": "Tô Đông Pha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Su_shi.jpg",
     "relations": [
-      "Chu Vĩnh Khang",
+      "Tần Cối",
       "Hải Thụy",
-      "Tần Cối"
+      "Chu Vĩnh Khang"
     ],
     "themes": []
   },
@@ -3556,10 +3463,9 @@ const RAW_DATA = [
     "fullName": "Lê Văn Thịnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Le_Van_Thinh.JPG",
     "relations": [
-      "Lê Đình Dương",
       "Lý Nhân Tông",
-      "Phan Thanh Giản",
-      "William I"
+      "Vũ Trinh",
+      "Phan Thanh Giản"
     ],
     "themes": []
   },
@@ -3577,10 +3483,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Alhazen",
-      "Lê Văn Thịnh",
       "Lý Thái Tông",
-      "Lý Thái Tổ",
+      "Tô Hiến Thành",
       "Lý Thường Kiệt"
     ],
     "themes": [],
@@ -3603,8 +3507,7 @@ const RAW_DATA = [
     "relations": [
       "Nhạc Phi",
       "Tô Hiến Thành",
-      "Tô Đông Pha",
-      "Vương An Thạch"
+      "Tư Mã Ý"
     ],
     "themes": []
   },
@@ -3623,11 +3526,9 @@ const RAW_DATA = [
     "fullName": "Tô Hiến Thành",
     "image": "",
     "relations": [
-      "Lý Thái Tông",
-      "Lý Thái Tổ",
       "Lý Thường Kiệt",
-      "Nguyễn Bặc",
-      "Tần Cối"
+      "Lý Thái Tông",
+      "Lý Nhân Tông"
     ],
     "themes": []
   },
@@ -3646,9 +3547,9 @@ const RAW_DATA = [
     "fullName": "Nhạc Phi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/20100215_Statue_of_Yue_Fei_at_Zhuxian_Town.jpg",
     "relations": [
-      "Thành Cát Tư Hãn",
       "Tần Cối",
-      "Vương An Thạch"
+      "Tư Mã Ý",
+      "Thành Cát Tư Hãn"
     ],
     "themes": []
   },
@@ -3667,9 +3568,9 @@ const RAW_DATA = [
     "fullName": "Chu Hi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chuhai_Japanese_Hard_Seltzer.jpg",
     "relations": [
-      "Im Yunjidang",
+      "Khổng Tử",
       "Lão Tử",
-      "Mặc Tử"
+      "Stanisław Leśniewski"
     ],
     "themes": []
   },
@@ -3689,8 +3590,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/500px-thumbnail.jpg",
     "relations": [
       "Baldwin IV",
-      "Cao Bá Quát",
-      "Richard Sư Tử Tâm"
+      "Richard Sư Tử Tâm",
+      "Cao Bá Quát"
     ],
     "themes": []
   },
@@ -3709,10 +3610,9 @@ const RAW_DATA = [
     "fullName": "Richard Sư Tử Tâm",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Richard_coeur_de_lion.jpg/500px-Richard_coeur_de_lion.jpg",
     "relations": [
-      "Baldwin IV",
-      "Fedor von Bock",
       "Jeanne d'Arc",
-      "Saladin"
+      "Fedor von Bock",
+      "Mao Trạch Đông"
     ],
     "themes": []
   },
@@ -3731,11 +3631,9 @@ const RAW_DATA = [
     "fullName": "Thành Cát Tư Hãn (Genghis Khan, Temüjin, 成吉思汗)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg",
     "relations": [
-      "Babur",
-      "Nhạc Phi",
       "Nỗ Nhĩ Cáp Xích",
-      "Oa Khoát Đài",
-      "Sát Hợp Đài"
+      "Otto von Bismarck",
+      "Mao Trạch Đông"
     ],
     "themes": []
   },
@@ -3775,9 +3673,9 @@ const RAW_DATA = [
     "fullName": "Oa Khoát Đài",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/500px-YuanEmperorAlbumOgedeiPortrait.jpg",
     "relations": [
-      "Hải Thụy",
       "Sát Hợp Đài",
-      "Thành Cát Tư Hãn"
+      "Thành Cát Tư Hãn",
+      "Hải Thụy"
     ],
     "themes": []
   },
@@ -3796,11 +3694,9 @@ const RAW_DATA = [
     "fullName": "Trần Hưng Đạo (Trần Quốc Tuấn, Hưng Đạo Đại Vương, đại thánh Việt Nam, Tran Hung Dao)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/T%C6%B0%E1%BB%A3ng_%C4%91%E1%BB%93ng_Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o_t%E1%BA%A1i_%C4%91%E1%BB%81n_Ki%E1%BA%BFp_B%E1%BA%A1c.jpg",
     "relations": [
-      "Lý Tĩnh",
-      "Nguyễn Khoái",
-      "Nùng Trí Cao",
-      "Trần Anh Tông",
-      "Trần Khánh Dư"
+      "Võ Nguyên Giáp",
+      "Trần Quang Khải",
+      "Trần Nhân Tông"
     ],
     "themes": []
   },
@@ -3818,10 +3714,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Boris Petrovich Sheremetev",
-      "Thuận",
-      "Thâm Tâm",
-      "Tôn Thất Tùng"
+      "Tôn Thất Tùng",
+      "Jan Łukasiewicz",
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -3861,8 +3756,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hiền",
     "image": "",
     "relations": [
-      "Hannibal Barca",
-      "Lê Văn Hưu",
+      "Vũ Khắc Khoan",
       "Niccolò Paganini",
       "Simo Häyhä"
     ],
@@ -3883,11 +3777,9 @@ const RAW_DATA = [
     "fullName": "Trần Quang Khải",
     "image": "",
     "relations": [
+      "Trần Nhật Duật",
       "Nguyễn Khoái",
-      "Trần Anh Tông",
-      "Trần Khánh Dư",
-      "Ô Mã Nhi",
-      "Đoàn Nhữ Hài"
+      "Trần Hưng Đạo"
     ],
     "themes": []
   },
@@ -3906,9 +3798,9 @@ const RAW_DATA = [
     "fullName": "Marco Polo",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Marco_Polo_-_costume_tartare.jpg",
     "relations": [
-      "Christopher Columbus",
-      "Leif Ericson",
-      "Vasco da Gama"
+      "Vasco da Gama",
+      "Hernán Cortés",
+      "Theresa Hak Kyung Cha"
     ],
     "themes": []
   },
@@ -3927,11 +3819,9 @@ const RAW_DATA = [
     "fullName": "Danh tướng Phạm Ngũ Lão",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n%2C_Qu%E1%BA%ADn_1%2C_th%C3%A1ng_12_n%C4%83m_2021_%28ban_th%E1%BB%9D_%C4%90i%E1%BB%87n_S%C3%BAy_t%C6%B0%E1%BB%9Bng_qu%C3%A2n%29_%283%29.jpg",
     "relations": [
-      "Nguyễn Bặc",
-      "Nguyễn Huy Tự",
-      "Nguyễn Khoái",
-      "Takeda Shingen",
-      "Triệu Quang Phục"
+      "Trần Quang Khải",
+      "Trần Nguyên Hãn",
+      "Trần Khánh Dư"
     ],
     "themes": []
   },
@@ -3950,9 +3840,9 @@ const RAW_DATA = [
     "fullName": "Trần Nhật Duật",
     "image": "",
     "relations": [
-      "Trần Nhân Tông",
-      "Ô Mã Nhi",
-      "Đoàn Nhữ Hài"
+      "Trần Quang Khải",
+      "Nguyễn Khoái",
+      "Trần Hưng Đạo"
     ],
     "themes": []
   },
@@ -3971,11 +3861,9 @@ const RAW_DATA = [
     "fullName": "Trần Nhân Tông (Trần Khâm, Tran Nhan Tong, Phật hoàng Trần Nhân Tông)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg/500px-Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg",
     "relations": [
-      "Nùng Trí Cao",
-      "Thiết Mộc Nhĩ",
-      "Trần Anh Tông",
-      "Trần Khánh Dư",
-      "Trần Nhật Duật"
+      "Trần Hưng Đạo",
+      "Trần Nhật Duật",
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -3995,7 +3883,7 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Mạc Đĩnh Chi",
-      "Trần Nhân Tông",
+      "Trần Anh Tông",
       "Đoàn Nhữ Hài"
     ],
     "themes": []
@@ -4015,10 +3903,9 @@ const RAW_DATA = [
     "fullName": "Mạc Đĩnh Chi (Lưỡng quốc Trạng nguyên, Mac Dinh Chi)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_n2022_%28th%E1%BB%9D_M%E1%BA%A1c_%C4%90%C4%A9nh_Chi%29_%283%29.jpg/500px-%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n_%E1%BB%9F_T%C3%A2n_Ph%C3%BA_n2022_%28th%E1%BB%9D_M%E1%BA%A1c_%C4%90%C4%A9nh_Chi%29_%283%29.jpg",
     "relations": [
-      "Hoàng Minh Chính",
-      "Nguyễn Thiên Tích",
+      "Đoàn Nhữ Hài",
       "Thiết Mộc Nhĩ",
-      "Đoàn Nhữ Hài"
+      "Nguyễn Chí Vịnh"
     ],
     "themes": []
   },
@@ -4036,11 +3923,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Chu Văn An",
-      "Mạc Đĩnh Chi",
-      "Thiết Mộc Nhĩ",
-      "Trần Nhật Duật",
-      "Trần Quang Khải"
+      "Trần Anh Tông",
+      "Trần Dụ Tông",
+      "Trần Nhật Duật"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%C4%90o%C3%A0n_Nh%E1%BB%AF_H%C3%A0i.jpg/500px-%C4%90o%C3%A0n_Nh%E1%BB%AF_H%C3%A0i.jpg"
@@ -4060,10 +3945,9 @@ const RAW_DATA = [
     "fullName": "Chu Văn An (Thánh Tổ của nền giáo dục Việt Nam)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Institut_des_Fils_de_lEtat_%28Temple_de_la_litt%C3%A9rature%2C_Hanoi%29_%284356119550%29.jpg/500px-Institut_des_Fils_de_lEtat_%28Temple_de_la_litt%C3%A9rature%2C_Hanoi%29_%284356119550%29.jpg",
     "relations": [
-      "Phạm Sư Mạnh",
+      "Trần Anh Tông",
       "Trần Dụ Tông",
-      "Võ Trường Toản",
-      "Đoàn Nhữ Hài"
+      "Trần Quang Khải"
     ],
     "themes": []
   },
@@ -4084,7 +3968,7 @@ const RAW_DATA = [
     "relations": [
       "La Quán Trung",
       "Thành Thang",
-      "Vương Bột"
+      "Mạc Ngôn"
     ],
     "themes": []
   },
@@ -4104,9 +3988,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Chu Văn An",
-      "Nguyễn Hy",
       "Nguyễn Thiên Tích",
-      "Thuận"
+      "Nguyễn Hy"
     ],
     "themes": []
   },
@@ -4127,7 +4010,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/ZhangShicheng.jpg/500px-ZhangShicheng.jpg",
     "relations": [
       "Chu Nguyên Chương",
-      "Thiếp Mộc Nhi",
+      "Cao Bá Quát",
       "Trịnh Doanh"
     ],
     "themes": []
@@ -4148,11 +4031,9 @@ const RAW_DATA = [
     "fullName": "Chu Nguyên Chương (Minh Thái Tổ, Hongwu Emperor)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg/500px-A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
     "relations": [
-      "Khúc Thừa Dụ",
-      "Samuel Colt",
-      "Thiếp Mộc Nhi",
-      "Thoát Hoan",
-      "Trương Sĩ Thành"
+      "Trương Sĩ Thành",
+      "Hồ Quý Ly",
+      "Thiếp Mộc Nhi"
     ],
     "themes": []
   },
@@ -4173,8 +4054,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Hồ Quý Ly",
-      "Sukarno",
-      "Trần Nguyên Hãn"
+      "Trần Nguyên Hãn",
+      "Trần Nhân Tông"
     ],
     "themes": []
   },
@@ -4193,9 +4074,9 @@ const RAW_DATA = [
     "fullName": "La Quán Trung",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%E7%BD%97%E8%B4%AF%E4%B8%AD_01.jpg",
     "relations": [
+      "Thi Nại Am",
       "Gia Cát Lượng",
-      "Ibn Khaldun",
-      "Thi Nại Am"
+      "Alexandre Dumas cha"
     ],
     "themes": []
   },
@@ -4214,10 +4095,9 @@ const RAW_DATA = [
     "fullName": "Tuệ Tĩnh",
     "image": "",
     "relations": [
-      "Hoàng Tích Trí",
-      "Hải Thượng Lãn Ông",
-      "Hồ Đắc Di",
-      "Lê Quý Đôn"
+      "Lê Quý Đôn",
+      "Frédéric Chopin",
+      "Robert Schumann"
     ],
     "themes": []
   },
@@ -4236,9 +4116,9 @@ const RAW_DATA = [
     "fullName": "Nicolas Flamel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Nicolas_Flamel_Histoire_critique.jpg",
     "relations": [
-      "Antoine Lavoisier",
-      "Frank Sinatra",
-      "Ibn Khaldun"
+      "Hồ Chí Minh",
+      "Ernest Hemingway",
+      "Frank Sinatra"
     ],
     "themes": []
   },
@@ -4258,9 +4138,9 @@ const RAW_DATA = [
     "fullName": "Ibn Khaldun (ابن خلدون, Abd al-Rahman ibn Khaldun)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bust_of_Ibn_Khaldun_%28Casbah_of_Bejaia%2C_Algeria%29.jpg",
     "relations": [
+      "Nicolas Flamel",
       "Khổng Tử",
-      "La Quán Trung",
-      "Nicolas Flamel"
+      "Al-Ghazali"
     ],
     "themes": []
   },
@@ -4279,11 +4159,9 @@ const RAW_DATA = [
     "fullName": "Hồ Quý Ly",
     "image": "",
     "relations": [
-      "An Dương Vương",
-      "Chế Bồng Nga",
       "Hồ Nguyên Trừng",
-      "Thiếp Mộc Nhi",
-      "Trần Khát Chân"
+      "Chu Nguyên Chương",
+      "Trần Dụ Tông"
     ],
     "themes": []
   },
@@ -4303,8 +4181,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/500px-Timur_reconstruction03.jpg",
     "relations": [
       "Chu Nguyên Chương",
-      "Hồ Quý Ly",
-      "Trương Sĩ Thành"
+      "Trương Sĩ Thành",
+      "Hồ Quý Ly"
     ],
     "themes": []
   },
@@ -4323,10 +4201,9 @@ const RAW_DATA = [
     "fullName": "Trần Dụ Tông",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg/500px-Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg",
     "relations": [
-      "Bùi Bằng Đoàn",
-      "Chu Văn An",
-      "Lý Nam Đế",
-      "Minh Thành Tổ"
+      "Hồ Quý Ly",
+      "Chu Nguyên Chương",
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -4345,9 +4222,9 @@ const RAW_DATA = [
     "fullName": "Lê Lai",
     "image": "",
     "relations": [
-      "Hoàng Công Chất",
-      "Lê Sát",
-      "Nguyễn Chích"
+      "Lê Thái Tổ",
+      "Nguyễn Chích",
+      "Lê Sát"
     ],
     "themes": []
   },
@@ -4367,8 +4244,8 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
     "relations": [
-      "Khang Hi",
       "Trần Dụ Tông",
+      "Khang Hi",
       "Đường Tam Tạng"
     ],
     "themes": []
@@ -4390,7 +4267,7 @@ const RAW_DATA = [
     "relations": [
       "Hồ Nguyên Trừng",
       "Hồ Quý Ly",
-      "Đặng Dung"
+      "Trần Khánh Dư"
     ],
     "themes": []
   },
@@ -4409,9 +4286,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Bà Triệu",
-      "Tokugawa Yoshinobu",
-      "Trần Khát Chân"
+      "Trần Khát Chân",
+      "Trần Quang Diệu",
+      "Tokugawa Yoshinobu"
     ],
     "themes": []
   },
@@ -4432,8 +4309,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Hồ Quý Ly",
-      "Nguyễn Chích",
-      "Trần Khát Chân"
+      "Trần Khát Chân",
+      "Nguyễn Chích"
     ],
     "themes": []
   },
@@ -4452,10 +4329,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Chích",
     "image": "",
     "relations": [
-      "Hoàng Công Chất",
-      "Hồ Nguyên Trừng",
-      "Lê Lai",
-      "Lê Sát"
+      "Lê Thái Tổ",
+      "Lê Sát",
+      "Mạc Thái Tổ"
     ],
     "themes": []
   },
@@ -4474,11 +4350,9 @@ const RAW_DATA = [
     "fullName": "Lê Thái Tổ (Lê Lợi, Le Loi, Le Thai To, Bình Ngô)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Le_Loi_statue.JPG",
     "relations": [
-      "Hoàng Công Chất",
-      "Johannes Gutenberg",
-      "Lê Ngân",
-      "Lê Tương Dực",
-      "Ngô Thị Ngọc Dao"
+      "Lê Sát",
+      "Nguyễn Chích",
+      "Mạc Thái Tổ"
     ],
     "themes": []
   },
@@ -4497,10 +4371,9 @@ const RAW_DATA = [
     "fullName": "Trần Nguyên Hãn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tran_Nguyen_Han.jpg",
     "relations": [
-      "Bà Triệu",
-      "Chế Bồng Nga",
-      "Phan Thị Bích Hằng",
-      "Đào Duy Từ"
+      "Phạm Ngũ Lão",
+      "Trần Quang Khải",
+      "Trần Hưng Đạo"
     ],
     "themes": []
   },
@@ -4519,7 +4392,6 @@ const RAW_DATA = [
     "fullName": "Lê Ngân",
     "image": "",
     "relations": [
-      "Hoàng Minh Chính",
       "Lê Sát",
       "Lê Thái Tổ",
       "Nguyễn Thiên Tích"
@@ -4541,8 +4413,7 @@ const RAW_DATA = [
     "fullName": "Lê Sát",
     "image": "",
     "relations": [
-      "Lê Lai",
-      "Lê Ngân",
+      "Lê Thái Tổ",
       "Lê Thánh Tông",
       "Nguyễn Chích"
     ],
@@ -4563,11 +4434,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thiên Tích",
     "image": "",
     "relations": [
-      "Lê Ngân",
-      "Lý Nam Đế",
-      "Mạc Đĩnh Chi",
-      "Phan Thị Bích Hằng",
-      "Phạm Sư Mạnh"
+      "Lê Sát",
+      "Chu Văn An",
+      "Phan Thanh Giản"
     ],
     "themes": []
   },
@@ -4586,11 +4455,9 @@ const RAW_DATA = [
     "fullName": "Ngô Sĩ Liên",
     "image": "",
     "relations": [
-      "An Dương Vương",
-      "Johannes Gutenberg",
+      "Vũ Trinh",
       "Lê Quý Đôn",
-      "Lê Văn Hưu",
-      "Lương Thế Vinh"
+      "An Dương Vương"
     ],
     "themes": []
   },
@@ -4609,10 +4476,9 @@ const RAW_DATA = [
     "fullName": "Johannes Gutenberg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg/500px-Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg",
     "relations": [
-      "Lê Thái Tổ",
       "Marianne Bachmeier",
       "Ngô Sĩ Liên",
-      "Peter Debye"
+      "Lê Thái Tổ"
     ],
     "themes": []
   },
@@ -4631,10 +4497,9 @@ const RAW_DATA = [
     "fullName": "Jeanne d'Arc (Joan of Arc, The Maid of Orléans, Saint Joan)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg",
     "relations": [
+      "Đinh Núp",
       "Pompey",
-      "Richard Sư Tử Tâm",
-      "Trương Nghi",
-      "Đinh Núp"
+      "Trương Nghi"
     ],
     "themes": []
   },
@@ -4653,9 +4518,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Ferenc Puskás",
       "Frank Sinatra",
-      "Thuận",
+      "Ferenc Puskás",
       "Tăng Khánh Hồng"
     ],
     "themes": [],
@@ -4676,9 +4540,8 @@ const RAW_DATA = [
     "fullName": "Lương Nhữ Hộc",
     "image": "",
     "relations": [
+      "Trần Anh Tông",
       "Lê Thánh Tông",
-      "Mehmed II",
-      "Nguyễn Thái Học",
       "Ngô Thị Ngọc Dao"
     ],
     "themes": []
@@ -4698,10 +4561,9 @@ const RAW_DATA = [
     "fullName": "Ngô Thị Ngọc Dao",
     "image": "",
     "relations": [
-      "Lê Thái Tổ",
       "Lê Thánh Tông",
-      "Lương Nhữ Hộc",
-      "Mạc Thái Tổ"
+      "Mạc Thái Tổ",
+      "Lê Thái Tổ"
     ],
     "themes": []
   },
@@ -4720,8 +4582,6 @@ const RAW_DATA = [
     "fullName": "Mehmed II",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg/500px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg",
     "relations": [
-      "Hernán Cortés",
-      "Lương Nhữ Hộc",
       "Thiên hoàng Minh Trị",
       "Thoát Hoan",
       "Yuri Gagarin"
@@ -4764,10 +4624,9 @@ const RAW_DATA = [
     "fullName": "Lê Thánh Tông (Lê Tư Thành, Le Thanh Tong)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/L%C3%AA_Th%C3%A1nh_T%C3%B4ng.jpg",
     "relations": [
-      "Lê Sát",
-      "Lê Uy Mục",
-      "Lương Nhữ Hộc",
-      "Ngô Thị Ngọc Dao"
+      "Ngô Thị Ngọc Dao",
+      "Mạc Thái Tổ",
+      "Lê Sát"
     ],
     "themes": []
   },
@@ -4783,14 +4642,12 @@ const RAW_DATA = [
       "Science"
     ],
     "nationality": "Italian",
-    "fullName": "Christopher Columbus",
+    "fullName": "Christopher Columbus (Cristoforo Colombo)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
     "relations": [
-      "Ferdinand Magellan",
-      "Leif Ericson",
+      "Vasco da Gama",
       "Lương Thế Vinh",
-      "Marco Polo",
-      "Vasco da Gama"
+      "Marco Polo"
     ],
     "themes": []
   },
@@ -4809,11 +4666,9 @@ const RAW_DATA = [
     "fullName": "Leonardo da Vinci (Leonardo di ser Piero da Vinci)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png",
     "relations": [
-      "Adrian Le Roy",
-      "Luca Guadagnino",
-      "Raphael",
       "Sandro Botticelli",
-      "Tullia d'Aragona"
+      "Michelangelo",
+      "Adrian Le Roy"
     ],
     "themes": []
   },
@@ -4833,10 +4688,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
     "relations": [
       "Christopher Columbus",
-      "Ferdinand Magellan",
-      "Leif Ericson",
-      "Marco Polo",
-      "Mạc Cửu"
+      "Mạc Cửu",
+      "Marco Polo"
     ],
     "themes": []
   },
@@ -4856,9 +4709,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg",
     "relations": [
       "Mạc Thái Tổ",
-      "Thomas More",
       "Toyotomi Hideyoshi",
-      "Tullia d'Aragona"
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -4877,11 +4729,9 @@ const RAW_DATA = [
     "fullName": "Nicolaus Copernicus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/500px-Nikolaus_Kopernikus_MOT.jpg",
     "relations": [
-      "Alhazen",
-      "Charles Perrault",
-      "Ferdinand Magellan",
-      "Lương Thế Vinh",
-      "Raphael"
+      "Raphael",
+      "Karen Horney",
+      "Sandro Botticelli"
     ],
     "themes": []
   },
@@ -4900,11 +4750,9 @@ const RAW_DATA = [
     "fullName": "Michelangelo (Michelangelo di Lodovico Buonarroti Simoni)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
     "relations": [
-      "Adrian Le Roy",
-      "Antonio Canova",
+      "Raphael",
       "El Greco",
-      "Sandro Botticelli",
-      "Tullia d'Aragona"
+      "Ludwig van Beethoven"
     ],
     "themes": []
   },
@@ -4923,10 +4771,9 @@ const RAW_DATA = [
     ],
     "nationality": "English",
     "relations": [
+      "Niccolò Machiavelli",
       "Anne Boleyn",
-      "Babur",
-      "Hồng y Richelieu",
-      "Niccolò Machiavelli"
+      "Hồng y Richelieu"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/500px-Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg"
@@ -4946,9 +4793,9 @@ const RAW_DATA = [
     "fullName": "Ferdinand Magellan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferdinand_Magellan.jpg/500px-Ferdinand_Magellan.jpg",
     "relations": [
-      "Christopher Columbus",
       "Nicolaus Copernicus",
-      "Vasco da Gama"
+      "Vasco da Gama",
+      "Christopher Columbus"
     ],
     "themes": []
   },
@@ -4967,11 +4814,9 @@ const RAW_DATA = [
     "fullName": "Mạc Thái Tổ (Mạc Đăng Dung, Mac Dang Dung, nhà Mạc)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_Nan_Lai_Wei_Tu_Ce.JPG/500px-An_Nan_Lai_Wei_Tu_Ce.JPG",
     "relations": [
-      "Babur",
+      "Lê Uy Mục",
       "Lê Tương Dực",
-      "Lê Đại Hành",
-      "Ngô Thị Ngọc Dao",
-      "Niccolò Machiavelli"
+      "Lê Thái Tổ"
     ],
     "themes": []
   },
@@ -4991,8 +4836,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg/500px-Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg",
     "relations": [
       "Mạc Thái Tổ",
-      "Thomas More",
-      "Thành Cát Tư Hãn"
+      "Thành Cát Tư Hãn",
+      "Thomas More"
     ],
     "themes": []
   },
@@ -5011,8 +4856,8 @@ const RAW_DATA = [
     "fullName": "Martin Luther",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/500px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
     "relations": [
-      "Leon Trotsky",
       "Sándor Ferenczi",
+      "Phan Khôi",
       "Wim Wenders"
     ],
     "themes": []
@@ -5032,10 +4877,9 @@ const RAW_DATA = [
     "fullName": "Raphael (Raffaello Sanzio da Urbino)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg",
     "relations": [
+      "Michelangelo",
       "El Greco",
-      "Leonardo da Vinci",
-      "Nicolaus Copernicus",
-      "Sandro Botticelli"
+      "Nicolaus Copernicus"
     ],
     "themes": []
   },
@@ -5043,7 +4887,7 @@ const RAW_DATA = [
     "born": 1485,
     "died": 1547,
     "title": "Hernán Cortés",
-    "desc": "Người chinh phục Tây Ban Nha dẫn đầu cuộc thám hiểm gây ra sự sụp đổ của Đế chế Aztec.",
+    "desc": "Nhà thám hiểm và tướng lĩnh chinh phục (conquistador) người Tây Ban Nha. Ông nổi tiếng lịch sử khi dẫn đầu đoàn viễn chinh lật đổ Đế chế Aztec và thiết lập quyền cai trị của Tây Ban Nha trên phần lớn vùng lãnh thổ nay là Mexico, mở đầu cho làn sóng thực dân hóa châu Mỹ.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -5054,9 +4898,9 @@ const RAW_DATA = [
     "fullName": "Hernán Cortés",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
     "relations": [
-      "Mehmed II",
-      "Nỗ Nhĩ Cáp Xích",
-      "Yermak Timofeyevich"
+      "Yermak Timofeyevich",
+      "Phạm Tuân",
+      "Napoleon Bonaparte"
     ],
     "themes": []
   },
@@ -5074,9 +4918,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Anne Boleyn",
-      "Lê Thánh Tông",
-      "Lê Tương Dực"
+      "Lê Tương Dực",
+      "Mạc Thái Tổ",
+      "Lê Thánh Tông"
     ],
     "themes": [],
     "image": ""
@@ -5096,10 +4940,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Bỉnh Khiêm (Trạng Trình)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tr%E1%BA%A1ng_Tr%C3%ACnh_Nguy%E1%BB%85n_B%E1%BB%89nh_Khi%C3%AAm_n.jpg",
     "relations": [
-      "Bùi Giáng",
       "Minh Mạng",
-      "Phạm Hy Lượng",
-      "Đặng Hoàng Giang"
+      "Đặng Hoàng Giang",
+      "Vũ Trinh"
     ],
     "themes": []
   },
@@ -5117,9 +4960,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lê Thái Tổ",
       "Lê Uy Mục",
-      "Mạc Thái Tổ"
+      "Mạc Thái Tổ",
+      "Lê Thái Tổ"
     ],
     "themes": []
   },
@@ -5139,8 +4982,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Girolamo_Cardano._Stipple_engraving_by_R._Cooper._Wellcome_V0001004.jpg",
     "relations": [
       "Blaise Pascal",
-      "Edmund Halley",
-      "Gottfried Wilhelm Leibniz"
+      "Gottfried Wilhelm Leibniz",
+      "Jacob Bernoulli"
     ],
     "themes": []
   },
@@ -5158,9 +5001,9 @@ const RAW_DATA = [
     ],
     "nationality": "English",
     "relations": [
+      "Hải Thụy",
       "Bill Gates",
-      "Lê Uy Mục",
-      "Thomas More"
+      "Lê Uy Mục"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AnneBoleynHever.jpg/500px-AnneBoleynHever.jpg"
@@ -5201,11 +5044,9 @@ const RAW_DATA = [
     "fullName": "Hải Thụy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%E6%B5%B7%E7%91%9E.jpg/500px-%E6%B5%B7%E7%91%9E.jpg",
     "relations": [
-      "Mary Tudor",
-      "Ngụy Trung Hiền",
-      "Oa Khoát Đài",
-      "Tô Đông Pha",
-      "Tổ Xung Chi"
+      "Mạc Ngôn",
+      "Đỗ Phủ",
+      "Khuất Nguyên"
     ],
     "themes": []
   },
@@ -5224,9 +5065,9 @@ const RAW_DATA = [
     "fullName": "Mary Tudor",
     "image": "",
     "relations": [
+      "Nguyễn Hoàng",
       "Hải Thụy",
-      "Ivan Bạo Chúa",
-      "Nguyễn Hoàng"
+      "Ivan Bạo Chúa"
     ],
     "themes": []
   },
@@ -5245,10 +5086,9 @@ const RAW_DATA = [
     "fullName": "Adrian Le Roy",
     "image": "",
     "relations": [
-      "Camille Saint-Saëns",
       "Claudio Monteverdi",
-      "Leonardo da Vinci",
-      "Michelangelo"
+      "John Cage",
+      "Antonio Vivaldi"
     ],
     "themes": []
   },
@@ -5267,10 +5107,9 @@ const RAW_DATA = [
     "fullName": "Takeda Shingen (武田信玄, Harunobu, Tiger of Kai, Hổ xứ Kai)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Takeda_Harunobu.jpg",
     "relations": [
-      "Enomoto Takeaki",
       "Oda Nobunaga",
-      "Phạm Ngũ Lão",
-      "Yermak Timofeyevich"
+      "Trần Quang Diệu",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
   },
@@ -5289,9 +5128,9 @@ const RAW_DATA = [
     "fullName": "Sen no Rikyū",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sen_no_Rikyu_JPN_%28cropped%29.jpg",
     "relations": [
-      "Akira Kurosawa",
+      "Virginia Woolf",
       "Toyotomi Hideyoshi",
-      "Yoshitaka Amano"
+      "Galileo Galilei"
     ],
     "themes": []
   },
@@ -5310,11 +5149,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hoàng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Nguyen_hoang.jpg",
     "relations": [
-      "Elizabeth I",
-      "Mary Tudor",
-      "Nguyễn Siêu",
-      "Ngô Xương Văn",
-      "Trịnh Kiểm"
+      "Minh Mạng",
+      "Gia Long",
+      "Tự Đức"
     ],
     "themes": []
   },
@@ -5333,10 +5170,9 @@ const RAW_DATA = [
     "fullName": "Ivan Bạo Chúa",
     "image": "",
     "relations": [
+      "Nguyễn Hoàng",
       "Elizabeth I",
-      "Jane Grey",
-      "Lavrenty Pavlovich Beria",
-      "Mary Tudor"
+      "Jane Grey"
     ],
     "themes": []
   },
@@ -5355,7 +5191,6 @@ const RAW_DATA = [
     "fullName": "Yermak Timofeyevich",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yermak_Timofeyevich.jpg",
     "relations": [
-      "Georgy Zhukov",
       "Hernán Cortés",
       "Oda Nobunaga",
       "Takeda Shingen"
@@ -5377,9 +5212,9 @@ const RAW_DATA = [
     "fullName": "Elizabeth I",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nicholas_Hilliard_%28called%29_-_Portrait_of_Queen_Elizabeth_I_-_Google_Art_Project.jpg/500px-Nicholas_Hilliard_%28called%29_-_Portrait_of_Queen_Elizabeth_I_-_Google_Art_Project.jpg",
     "relations": [
-      "Ivan Bạo Chúa",
-      "Jane Grey",
-      "Nguyễn Hoàng"
+      "Nguyễn Hoàng",
+      "Oliver Cromwell",
+      "Ivan Bạo Chúa"
     ],
     "themes": []
   },
@@ -5398,11 +5233,9 @@ const RAW_DATA = [
     "fullName": "Oda Nobunaga (織田信長, The Fool of Owari, Demon King, Ma vương)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Odanobunaga.jpg",
     "relations": [
-      "Miyamoto Musashi",
-      "Takeda Shingen",
-      "Tokugawa Ieyasu",
       "Toyotomi Hideyoshi",
-      "Yermak Timofeyevich"
+      "Takeda Shingen",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
   },
@@ -5421,9 +5254,9 @@ const RAW_DATA = [
     "fullName": "Jane Grey",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jane_Grey.jpg/500px-Jane_Grey.jpg",
     "relations": [
-      "Elizabeth I",
+      "Toyotomi Hideyoshi",
       "Ivan Bạo Chúa",
-      "Toyotomi Hideyoshi"
+      "Elizabeth I"
     ],
     "themes": []
   },
@@ -5442,11 +5275,9 @@ const RAW_DATA = [
     "fullName": "Toyotomi Hideyoshi (豊臣秀吉, The Taiko, Bald Rat, Monkey King, Saru)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png",
     "relations": [
-      "Jane Grey",
-      "Niccolò Machiavelli",
       "Oda Nobunaga",
-      "Sen no Rikyū",
-      "Tokugawa Ieyasu"
+      "Đào Duy Từ",
+      "Galileo Galilei"
     ],
     "themes": []
   },
@@ -5465,9 +5296,9 @@ const RAW_DATA = [
     "fullName": "El Greco (Doménikos Theotokópoulos)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/500px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
     "relations": [
-      "Alain Resnais",
       "Michelangelo",
-      "Raphael"
+      "Raphael",
+      "Alain Resnais"
     ],
     "themes": []
   },
@@ -5486,8 +5317,8 @@ const RAW_DATA = [
     "fullName": "Tokugawa Ieyasu (徳川家康, First Tokugawa Shogun)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tokugawa_Ieyasu2.JPG",
     "relations": [
-      "Oda Nobunaga",
       "Toyotomi Hideyoshi",
+      "Oda Nobunaga",
       "Trịnh Tùng"
     ],
     "themes": []
@@ -5507,11 +5338,9 @@ const RAW_DATA = [
     "fullName": "Trịnh Tùng (Bình An Vương)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tr%E1%BB%8Bnh_T%C3%B9ng.png",
     "relations": [
-      "Marguerite de Valois",
-      "Sư Vạn Hạnh",
-      "Tokugawa Ieyasu",
-      "Trịnh Kiểm",
-      "Đào Duy Từ"
+      "Toyotomi Hideyoshi",
+      "Đào Duy Từ",
+      "Trịnh Kiểm"
     ],
     "themes": []
   },
@@ -5530,9 +5359,9 @@ const RAW_DATA = [
     "fullName": "Marguerite de Valois",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Reine_Marguerite_de_Valois.jpg",
     "relations": [
+      "Trịnh Tùng",
       "Hồng y Richelieu",
-      "Napoleon Bonaparte",
-      "Trịnh Tùng"
+      "Napoleon Bonaparte"
     ],
     "themes": []
   },
@@ -5551,10 +5380,9 @@ const RAW_DATA = [
     "fullName": "Nỗ Nhĩ Cáp Xích",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E7%A5%96%E5%A4%A9%E5%91%BD%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
     "relations": [
-      "Hernán Cortés",
-      "Lý Tự Thành",
       "Ngụy Trung Hiền",
-      "Thành Cát Tư Hãn"
+      "Thành Cát Tư Hãn",
+      "Chu Nguyên Chương"
     ],
     "themes": []
   },
@@ -5575,10 +5403,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Somer_Francis_Bacon.jpg",
     "relations": [
-      "Alfred Adler",
-      "David Hume",
       "Galileo Galilei",
-      "Michael Faraday"
+      "Michel Foucault",
+      "David Hume"
     ],
     "themes": []
   },
@@ -5597,10 +5424,9 @@ const RAW_DATA = [
     "fullName": "William Shakespeare (The Bard of Avon)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg/500px-William_Shakespeare_by_John_Taylor%2C_edited.jpg",
     "relations": [
+      "Phùng Mộng Long",
       "Alexander Pushkin",
-      "Alexandre Dumas con",
-      "Shota Rustaveli",
-      "W. Somerset Maugham"
+      "Alexandre Dumas con"
     ],
     "themes": []
   },
@@ -5619,10 +5445,9 @@ const RAW_DATA = [
     "fullName": "Galileo Galilei (Galileo di Vincenzo Bonaiuti de' Galilei, Father of modern science)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
     "relations": [
-      "Carlo Matteucci",
-      "Francis Bacon",
-      "Johannes Kepler",
-      "Maria Gaetana Agnesi"
+      "Bernhard Riemann",
+      "Toyotomi Hideyoshi",
+      "Francis Bacon"
     ],
     "themes": []
   },
@@ -5641,11 +5466,9 @@ const RAW_DATA = [
     "fullName": "Claudio Monteverdi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg",
     "relations": [
-      "Adrian Le Roy",
+      "Georg Philipp Telemann",
       "Arcangelo Corelli",
-      "Georg Friedrich Händel",
-      "Peter Paul Rubens",
-      "Richard Wagner"
+      "Antonio Vivaldi"
     ],
     "themes": [
       "Classical Music"
@@ -5666,9 +5489,9 @@ const RAW_DATA = [
     "fullName": "Ngụy Trung Hiền",
     "image": "",
     "relations": [
-      "Chu Vĩnh Khang",
+      "Nỗ Nhĩ Cáp Xích",
       "Hải Thụy",
-      "Nỗ Nhĩ Cáp Xích"
+      "Chu Vĩnh Khang"
     ],
     "themes": []
   },
@@ -5687,7 +5510,6 @@ const RAW_DATA = [
     "fullName": "Johannes Kepler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
     "relations": [
-      "Bernhard Riemann",
       "Galileo Galilei",
       "Isaac Newton",
       "J. Edgar Hoover"
@@ -5709,10 +5531,9 @@ const RAW_DATA = [
     "fullName": "Caravaggio (Michelangelo Merisi da Caravaggio)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
     "relations": [
-      "Jean-Baptiste-Siméon Chardin",
-      "Johannes Vermeer",
       "Massimo Stanzione",
-      "Peter Paul Rubens"
+      "Gottfried Wilhelm Leibniz",
+      "Johannes Vermeer"
     ],
     "themes": []
   },
@@ -5731,11 +5552,30 @@ const RAW_DATA = [
     "fullName": "Đào Duy Từ",
     "image": "",
     "relations": [
-      "Nguyễn Cư Trinh",
       "Trần Nguyên Hãn",
-      "Trịnh Kiểm",
-      "Trịnh Sâm",
-      "Trịnh Tùng"
+      "Phạm Ngũ Lão",
+      "Toyotomi Hideyoshi"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1574,
+    "died": 1646,
+    "title": "Phùng Mộng Long",
+    "desc": "Nhà văn, nhà thơ và nhà soạn kịch nổi tiếng thời cuối Minh - đầu Thanh. Ông nổi tiếng nhất với việc biên soạn và san định bộ ba tập truyện ngắn dân gian mang tên 'Tam ngôn' (Dụ thế minh ngôn, Cảnh thế thông ngôn, Tỉnh thế hằng ngôn), đóng góp to lớn vào nền văn học bạch thoại Trung Quốc.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Chinese",
+    "fullName": "Phùng Mộng Long (Feng Menglong)",
+    "image": "",
+    "relations": [
+      "William Shakespeare",
+      "Anton Chekhov",
+      "Lê Chiêu Thống"
     ],
     "themes": []
   },
@@ -5755,8 +5595,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg",
     "relations": [
       "Caravaggio",
-      "Carlo Dolci",
-      "Claudio Monteverdi"
+      "Claudio Monteverdi",
+      "Carlo Dolci"
     ],
     "themes": []
   },
@@ -5775,10 +5615,9 @@ const RAW_DATA = [
     "fullName": "Miyamoto Musashi (宮本武蔵, Shinmen Takezō, Book of Five Rings)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Miyamoto_Musashi_Self-Portrait.jpg",
     "relations": [
-      "Ekai Kawaguchi",
-      "Massimo Stanzione",
+      "Oda Nobunaga",
       "Mikhail Kutuzov",
-      "Oda Nobunaga"
+      "Đặng Thùy Trâm"
     ],
     "themes": []
   },
@@ -5797,10 +5636,9 @@ const RAW_DATA = [
     "fullName": "Viên Sùng Hoán",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%E8%A2%81%E5%B4%87%E7%85%A5%28Yuanchonghuan%29.jpg",
     "relations": [
-      "Friedrich II",
-      "Fyodor Matveyevich Apraksin",
       "Gustav II Adolf",
-      "Vương An Thạch"
+      "Friedrich II",
+      "Fyodor Matveyevich Apraksin"
     ],
     "themes": []
   },
@@ -5819,10 +5657,9 @@ const RAW_DATA = [
     "fullName": "Massimo Stanzione",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Massimo_Stanzione.jpg",
     "relations": [
-      "Anthony van Dyck",
       "Caravaggio",
       "Diego Velázquez",
-      "Miyamoto Musashi"
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -5841,11 +5678,9 @@ const RAW_DATA = [
     "fullName": "Hồng y Richelieu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg/500px-Santa_Teresa_de_Jes%C3%BAs_%28Museo_del_Prado%29.jpg",
     "relations": [
-      "Hoàng Thái Cực",
-      "Marguerite de Valois",
-      "Thomas More",
-      "Thái tử Shotoku",
-      "Voltaire"
+      "Hồng y Mazarin",
+      "Oliver Cromwell",
+      "Lý Bí"
     ],
     "themes": []
   },
@@ -5864,10 +5699,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Thái Cực",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E5%AE%97%E5%B4%87%E5%BE%B7%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E5%AE%97%E5%B4%87%E5%BE%B7%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
     "relations": [
-      "Bohdan Khmelnytsky",
-      "Hồng y Richelieu",
-      "Khang Hi",
-      "Lý Tự Thành"
+      "Nguyễn Hoàng",
+      "Lý Tự Thành",
+      "Hồng y Richelieu"
     ],
     "themes": []
   },
@@ -5886,10 +5720,9 @@ const RAW_DATA = [
     "fullName": "Gustav II Adolf (Gustavus Adolphus, Lion of the North, warrior king of Sweden)",
     "image": "",
     "relations": [
-      "Hermann Göring",
-      "Karl XII của Thụy Điển",
+      "Hạng Vũ",
       "Simo Häyhä",
-      "Viên Sùng Hoán"
+      "Hermann Göring"
     ],
     "themes": []
   },
@@ -5908,9 +5741,8 @@ const RAW_DATA = [
     "fullName": "Bohdan Khmelnytsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bohdan_Khmelnytsky_%28Portrait%2C_sec._half_17th_century%2C_Chernihiv_Historical_Museum%29_%28cropped%29.jpg",
     "relations": [
-      "Boris Nemtsov",
-      "Hoàng Thái Cực",
       "Lý Tự Thành",
+      "Hoàng Thái Cực",
       "Oliver Cromwell"
     ],
     "themes": []
@@ -5930,11 +5762,9 @@ const RAW_DATA = [
     "fullName": "René Descartes (Cartesius, Cogito ergo sum)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/500px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
     "relations": [
-      "Anne Conway",
+      "Nicolas Malebranche",
       "Blaise Pascal",
-      "Gilles Deleuze",
-      "Marquis de Condorcet",
-      "Nicolas Malebranche"
+      "Gilles Deleuze"
     ],
     "themes": []
   },
@@ -5954,9 +5784,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Anthony_van_Dyck_-_Self-portrait_with_a_Sunflower.jpg",
     "relations": [
       "Diego Velázquez",
-      "J. M. W. Turner",
       "Massimo Stanzione",
-      "Rembrandt"
+      "Antonio Vivaldi"
     ],
     "themes": []
   },
@@ -5975,9 +5804,9 @@ const RAW_DATA = [
     "fullName": "Diego Velázquez",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
     "relations": [
-      "Anthony van Dyck",
       "Massimo Stanzione",
-      "Rembrandt"
+      "Anthony van Dyck",
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -5996,10 +5825,8 @@ const RAW_DATA = [
     "fullName": "Oliver Cromwell",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg/500px-Oliver_Cromwell_by_Samuel_Cooper.jpg",
     "relations": [
-      "Anne d'Autriche",
-      "Bohdan Khmelnytsky",
       "Hồng y Mazarin",
-      "Lý Tự Thành",
+      "Hồng y Richelieu",
       "Pompey"
     ],
     "themes": []
@@ -6020,8 +5847,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/After_Rubens_-_Anne_of_Austria%2C_Queen_of_France_-_Versailles_MV_3410.jpg/500px-After_Rubens_-_Anne_of_Austria%2C_Queen_of_France_-_Versailles_MV_3410.jpg",
     "relations": [
       "Hồng y Mazarin",
-      "Louis XIV",
-      "Oliver Cromwell"
+      "Oliver Cromwell",
+      "Louis XIV"
     ],
     "themes": []
   },
@@ -6041,8 +5868,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/500px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
     "relations": [
       "Anne d'Autriche",
-      "Oliver Cromwell",
-      "Đường Cao Tổ"
+      "Hồng y Richelieu",
+      "Oliver Cromwell"
     ],
     "themes": []
   },
@@ -6061,9 +5888,9 @@ const RAW_DATA = [
     "fullName": "Rembrandt (Rembrandt Harmenszoon van Rijn)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
     "relations": [
-      "Anthony van Dyck",
+      "Johannes Vermeer",
       "Diego Velázquez",
-      "Johannes Vermeer"
+      "Anthony van Dyck"
     ],
     "themes": []
   },
@@ -6082,7 +5909,6 @@ const RAW_DATA = [
     "fullName": "Lý Tự Thành",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%E6%9D%8E%E8%87%AA%E6%88%90%E8%A1%8C%E5%AE%AB_%28cropped%29.png",
     "relations": [
-      "Bohdan Khmelnytsky",
       "Hoàng Thái Cực",
       "Nỗ Nhĩ Cáp Xích",
       "Oliver Cromwell"
@@ -6104,10 +5930,9 @@ const RAW_DATA = [
     "fullName": "Carlo Dolci",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carlo_Dolci_002.jpg",
     "relations": [
-      "Luca Giordano",
-      "Molière",
       "Peter Paul Rubens",
-      "Roberto Benigni"
+      "Molière",
+      "Luca Giordano"
     ],
     "themes": []
   },
@@ -6127,7 +5952,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ch%C3%A2teau_de_Bussy-Rabutin_-_Anne%2C_dite_Ninon_de_Lenclos_%28bgw19_0345%29.jpg/500px-Ch%C3%A2teau_de_Bussy-Rabutin_-_Anne%2C_dite_Ninon_de_Lenclos_%28bgw19_0345%29.jpg",
     "relations": [
       "Charles Perrault",
-      "Hélène Cixous",
       "Jean de La Fontaine",
       "Margaret Cavendish"
     ],
@@ -6148,10 +5972,9 @@ const RAW_DATA = [
     "fullName": "Jean de La Fontaine",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Jean_de_La_Fontaine.PNG/500px-Jean_de_La_Fontaine.PNG",
     "relations": [
-      "Andre Maurois",
       "Charles Perrault",
-      "Italo Calvino",
-      "Ninon de Lenclos"
+      "Alexandre Dumas cha",
+      "Italo Calvino"
     ],
     "themes": []
   },
@@ -6170,9 +5993,8 @@ const RAW_DATA = [
     "fullName": "Molière",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pierre_Mignard_-_Portrait_de_Jean-Baptiste_Poquelin_dit_Moli%C3%A8re_%281622-1673%29_-_Google_Art_Project_%28cropped%29.jpg",
     "relations": [
-      "Carlo Dolci",
       "Johannes Vermeer",
-      "Luca Giordano",
+      "Andre Maurois",
       "Éric-Emmanuel Schmitt"
     ],
     "themes": []
@@ -6192,11 +6014,9 @@ const RAW_DATA = [
     "fullName": "Margaret Cavendish",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Margaret_cavendish_from_Luminarium.jpg",
     "relations": [
-      "David Rosenhan",
-      "John Locke",
-      "Lev Tolstoy",
       "Lưu Từ Hân",
-      "Ninon de Lenclos"
+      "John Locke",
+      "Lev Tolstoy"
     ],
     "themes": []
   },
@@ -6215,11 +6035,9 @@ const RAW_DATA = [
     "fullName": "Blaise Pascal",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/500px-Blaise_Pascal_Versailles.JPG",
     "relations": [
-      "Diophantus",
-      "Gerolamo Cardano",
-      "Henri Poincaré",
-      "René Descartes",
-      "Robert Hooke"
+      "Robert Hooke",
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir"
     ],
     "themes": []
   },
@@ -6238,10 +6056,9 @@ const RAW_DATA = [
     "fullName": "Trịnh Thành Công",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Portrait_of_Koxinga.jpg",
     "relations": [
-      "Bành Đức Hoài",
-      "Jan III Sobieski",
-      "Patrick Gordon",
-      "Trịnh Kinh"
+      "Trịnh Kinh",
+      "Hạng Vũ",
+      "Trần Xuân Soạn"
     ],
     "themes": []
   },
@@ -6262,7 +6079,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ChPerrault.jpg/500px-ChPerrault.jpg",
     "relations": [
       "Jean de La Fontaine",
-      "Nicolaus Copernicus",
+      "Agnès Varda",
       "Ninon de Lenclos"
     ],
     "themes": []
@@ -6282,9 +6099,9 @@ const RAW_DATA = [
     "fullName": "Jan III Sobieski",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coques_John_III_Sobieski.jpg",
     "relations": [
+      "Trịnh Thành Công",
       "Patrick Gordon",
-      "Trịnh Kinh",
-      "Trịnh Thành Công"
+      "Trịnh Kinh"
     ],
     "themes": []
   },
@@ -6304,10 +6121,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/John_Locke%27s_Kit-cat_portrait_by_Godfrey_Kneller%2C_National_Portrait_Gallery%2C_London.JPG/500px-John_Locke%27s_Kit-cat_portrait_by_Godfrey_Kneller%2C_National_Portrait_Gallery%2C_London.JPG",
     "relations": [
       "Anne Conway",
-      "Baruch Spinoza",
-      "George Berkeley",
-      "John Duns Scotus",
-      "Margaret Cavendish"
+      "John Stuart Mill",
+      "David Hume"
     ],
     "themes": []
   },
@@ -6328,8 +6143,7 @@ const RAW_DATA = [
     "relations": [
       "Caravaggio",
       "Luca Giordano",
-      "Molière",
-      "Rembrandt"
+      "Molière"
     ],
     "themes": []
   },
@@ -6349,9 +6163,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Spinoza.jpg",
     "themes": [],
     "relations": [
-      "George Berkeley",
       "John Locke",
-      "John Stuart Mill"
+      "Anne Conway",
+      "Nicolas Malebranche"
     ]
   },
   {
@@ -6369,10 +6183,9 @@ const RAW_DATA = [
     "fullName": "Luca Giordano",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Luca_Giordano_Fapresto.jpg",
     "relations": [
-      "Carlo Dolci",
-      "Giacomo Puccini",
       "Johannes Vermeer",
-      "Molière"
+      "Molière",
+      "Carlo Dolci"
     ],
     "themes": []
   },
@@ -6412,9 +6225,9 @@ const RAW_DATA = [
     "fullName": "Madame de Maintenon",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pierre_Mignard_-_Fran%C3%A7oise_d%27Aubign%C3%A9%2C_marquise_de_Maintenon_%281694%29.jpg/500px-Pierre_Mignard_-_Fran%C3%A7oise_d%27Aubign%C3%A9%2C_marquise_de_Maintenon_%281694%29.jpg",
     "relations": [
-      "Alfred Adler",
       "Louis XIV",
-      "Madame de Montespan"
+      "Madame de Montespan",
+      "Anne Conway"
     ],
     "themes": []
   },
@@ -6434,9 +6247,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/13_Portrait_of_Robert_Hooke.JPG/500px-13_Portrait_of_Robert_Hooke.JPG",
     "relations": [
       "Blaise Pascal",
-      "Gottfried Wilhelm Leibniz",
       "Isaac Newton",
-      "Jane Goodall"
+      "Gottfried Wilhelm Leibniz"
     ],
     "themes": []
   },
@@ -6455,9 +6267,9 @@ const RAW_DATA = [
     "fullName": "Louis XIV",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_%28by_Hyacinthe_Rigaud%29_-_Louvre_Museum.jpg/500px-Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_%28by_Hyacinthe_Rigaud%29_-_Louvre_Museum.jpg",
     "relations": [
-      "Anne d'Autriche",
+      "Madame de Montespan",
       "Madame de Maintenon",
-      "Madame de Montespan"
+      "Anne d'Autriche"
     ],
     "themes": []
   },
@@ -6476,9 +6288,9 @@ const RAW_DATA = [
     "fullName": "Madame de Montespan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/La_marquise_de_Montespan.png/500px-La_marquise_de_Montespan.png",
     "relations": [
-      "Khang Hi",
       "Louis XIV",
-      "Madame de Maintenon"
+      "Madame de Maintenon",
+      "Khang Hi"
     ],
     "themes": []
   },
@@ -6497,11 +6309,9 @@ const RAW_DATA = [
     "fullName": "Trịnh Kinh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%E9%84%AD%E7%B6%93.jpg",
     "relations": [
-      "Jan III Sobieski",
-      "Patrick Gordon",
-      "Sát Hợp Đài",
       "Trịnh Thành Công",
-      "Tôn Sách"
+      "Tưởng Kinh Quốc",
+      "Gustav II Adolf"
     ],
     "themes": []
   },
@@ -6520,10 +6330,8 @@ const RAW_DATA = [
     "fullName": "Isaac Newton (Sir Isaac Newton, Philosophiae Naturalis Principia Mathematica)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689.jpg",
     "relations": [
-      "Edmund Halley",
-      "Johannes Kepler",
-      "Maria Gaetana Agnesi",
-      "Ole Rømer",
+      "Gottfried Wilhelm Leibniz",
+      "Anders Celsius",
       "Robert Hooke"
     ],
     "themes": []
@@ -6543,10 +6351,9 @@ const RAW_DATA = [
     "fullName": "Matsuo Bashō",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Basho_by_Morikawa_Kyoriku_%281656-1715%29.jpg",
     "relations": [
-      "Akutagawa Ryūnosuke",
+      "Vũ Trinh",
       "Aristotle",
-      "E. M. Forster",
-      "Vũ Trinh"
+      "E. M. Forster"
     ],
     "themes": []
   },
@@ -6565,9 +6372,9 @@ const RAW_DATA = [
     "fullName": "Ole Rømer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/R%C3%B8mer%2C_Ole_%28ur_Ber%C3%B8mte_danske_maend%29.jpg/500px-R%C3%B8mer%2C_Ole_%28ur_Ber%C3%B8mte_danske_maend%29.jpg",
     "relations": [
-      "Edmund Halley",
+      "Isaac Newton",
       "Gottfried Wilhelm Leibniz",
-      "Isaac Newton"
+      "Jacob Bernoulli"
     ],
     "themes": []
   },
@@ -6586,11 +6393,9 @@ const RAW_DATA = [
     "fullName": "Gottfried Wilhelm Leibniz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/500px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
     "relations": [
-      "Anne Conway",
+      "Isaac Newton",
       "Edmund Halley",
-      "Gerolamo Cardano",
-      "Ole Rømer",
-      "Robert Hooke"
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -6631,10 +6436,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
     "relations": [
       "Càn Long",
-      "Hoàng Thái Cực",
       "Madame de Montespan",
-      "Minh Thành Tổ",
-      "Yekaterina II Đại đế"
+      "Hoàng Thái Cực"
     ],
     "themes": []
   },
@@ -6654,9 +6457,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/T%C6%B0%E1%BB%A3ng_M%E1%BA%A1c_C%E1%BB%ADu.jpg/500px-T%C6%B0%E1%BB%A3ng_M%E1%BA%A1c_C%E1%BB%ADu.jpg",
     "relations": [
       "Gia Long",
-      "Lê Văn Duyệt",
-      "Phạm Tuân",
-      "Vasco da Gama"
+      "Minh Mạng",
+      "Bùi Bằng Đoàn"
     ],
     "themes": []
   },
@@ -6675,10 +6477,9 @@ const RAW_DATA = [
     "fullName": "Edmund Halley",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lspn_comet_halley.jpg/500px-Lspn_comet_halley.jpg",
     "relations": [
-      "Gerolamo Cardano",
       "Gottfried Wilhelm Leibniz",
-      "Isaac Newton",
-      "Ole Rømer"
+      "Johann Bernoulli",
+      "Isaac Newton"
     ],
     "themes": []
   },
@@ -6697,10 +6498,9 @@ const RAW_DATA = [
     "fullName": "Daniel Defoe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Daniel_Defoe.jpg",
     "relations": [
+      "Jack London",
       "Alexandre Dumas con",
-      "Ivan Turgenev",
-      "J.R.R. Tolkien",
-      "Jack London"
+      "Ivan Turgenev"
     ],
     "themes": []
   },
@@ -6719,10 +6519,9 @@ const RAW_DATA = [
     "fullName": "Pyotr Đại đế",
     "image": "",
     "relations": [
-      "Anna Politkovskaya",
-      "Boris Petrovich Sheremetev",
       "Càn Long",
-      "Fyodor Matveyevich Apraksin"
+      "Menelik II",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -6730,7 +6529,7 @@ const RAW_DATA = [
     "born": 1678,
     "died": 1741,
     "title": "Antonio Vivaldi",
-    "desc": "Nhà soạn nhạc người Ý, nghệ sĩ violin điêu luyện và ông bầu nhạc Baroque.",
+    "desc": "Nhà soạn nhạc thời kỳ Baroque, nghệ sĩ violin điêu luyện kiêm linh mục người Ý. Ông là một trong những nhà soạn nhạc Baroque vĩ đại nhất, có ảnh hưởng sâu rộng đến âm nhạc châu Âu nhờ hàng trăm bản concerto, nổi tiếng nhất là bộ bốn bản concerto viết cho violin mang tên 'Bốn mùa' (The Four Seasons - Le quattro stagioni).",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -6741,10 +6540,8 @@ const RAW_DATA = [
     "fullName": "Antonio Vivaldi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vivaldi.jpg",
     "relations": [
-      "Arcangelo Corelli",
-      "Georg Philipp Telemann",
       "Giuseppe Tartini",
-      "Johann Pachelbel",
+      "Arcangelo Corelli",
       "Niccolò Paganini"
     ],
     "themes": [
@@ -6767,8 +6564,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karl_XII_1706.jpg/500px-Karl_XII_1706.jpg",
     "relations": [
       "Boris Petrovich Sheremetev",
-      "Fyodor Matveyevich Apraksin",
-      "Gustav II Adolf"
+      "Gustav II Adolf",
+      "Fyodor Matveyevich Apraksin"
     ],
     "themes": []
   },
@@ -6787,10 +6584,9 @@ const RAW_DATA = [
     "fullName": "Jean-Antoine Watteau",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg",
     "relations": [
-      "Jean-Baptiste-Siméon Chardin",
-      "Pablo Picasso",
+      "Antonio Vivaldi",
       "Paul Gauguin",
-      "Édouard Manet"
+      "Gustav Klimt"
     ],
     "themes": []
   },
@@ -6809,11 +6605,9 @@ const RAW_DATA = [
     "fullName": "Johann Sebastian Bach",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg",
     "relations": [
-      "Georg Friedrich Händel",
+      "Georg Philipp Telemann",
       "Giuseppe Tartini",
-      "Jean-Baptiste-Siméon Chardin",
-      "Johann Pachelbel",
-      "Karl Jenkins"
+      "Georg Friedrich Händel"
     ],
     "themes": [
       "Classical Music"
@@ -6834,10 +6628,9 @@ const RAW_DATA = [
     "fullName": "George Berkeley",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg/500px-John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project.jpg",
     "relations": [
-      "Baruch Spinoza",
+      "Montesquieu",
       "Immanuel Kant",
-      "John Locke",
-      "Montesquieu"
+      "Izydora Dąmbska"
     ],
     "themes": []
   },
@@ -6859,9 +6652,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
     "relations": [
-      "Claudio Monteverdi",
       "Georg Philipp Telemann",
-      "Johann Sebastian Bach"
+      "Antonio Vivaldi",
+      "Giuseppe Tartini"
     ]
   },
   {
@@ -6879,10 +6672,9 @@ const RAW_DATA = [
     "fullName": "Montesquieu (Charles-Louis de Secondat, Baron de La Brède et de Montesquieu)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Montesquieu.jpg/500px-Charles_Montesquieu.jpg",
     "relations": [
+      "Michel Foucault",
       "George Berkeley",
-      "Marquis de Condorcet",
-      "Nicolas Malebranche",
-      "Voltaire"
+      "Marquis de Condorcet"
     ],
     "themes": []
   },
@@ -6901,9 +6693,9 @@ const RAW_DATA = [
     "fullName": "Voltaire (François-Marie Arouet)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg/500px-Nicolas_de_Largilli%C3%A8re_-_Portrait_de_Voltaire_%281694-1778%29_en_1718_-_P208_-_mus%C3%A9e_Carnavalet_-_5_%28cropped%29.jpg",
     "relations": [
-      "Hồng y Richelieu",
       "Marquis de Condorcet",
-      "Montesquieu"
+      "Phan Khôi",
+      "Hồng y Richelieu"
     ],
     "themes": []
   },
@@ -6922,10 +6714,9 @@ const RAW_DATA = [
     "fullName": "Jean-Baptiste-Siméon Chardin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chardin_pastel_selfportrait.jpg/500px-Chardin_pastel_selfportrait.jpg",
     "relations": [
-      "Caravaggio",
-      "Eugène Delacroix",
       "Jean-Antoine Watteau",
-      "Johann Sebastian Bach"
+      "Giuseppe Tartini",
+      "Caravaggio"
     ],
     "themes": []
   },
@@ -6944,10 +6735,9 @@ const RAW_DATA = [
     "fullName": "Anders Celsius",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Headshot_of_Anders_Celsius.jpg/500px-Headshot_of_Anders_Celsius.jpg",
     "relations": [
-      "Hippocrates",
-      "Mikhail Vasilyevich Lomonosov",
-      "Rudolf Kjellén",
-      "Tutankhamun"
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Michael Faraday"
     ],
     "themes": []
   },
@@ -6965,8 +6755,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lê Lai",
       "Lê Thái Tổ",
+      "Lê Lai",
       "Nguyễn Chích"
     ],
     "themes": [],
@@ -6987,11 +6777,9 @@ const RAW_DATA = [
     "fullName": "Leonhard Euler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/500px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg",
     "relations": [
-      "Carl Friedrich Gauss",
-      "David Hume",
-      "Henry Dunant",
-      "Johann Bernoulli",
-      "Maria Gaetana Agnesi"
+      "Anders Celsius",
+      "Maria Gaetana Agnesi",
+      "Johann Bernoulli"
     ],
     "themes": []
   },
@@ -7010,9 +6798,9 @@ const RAW_DATA = [
     "fullName": "Louis XV",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg/500px-Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg",
     "relations": [
-      "Càn Long",
+      "Louis XVI",
       "Georges Danton",
-      "Louis XVI"
+      "Càn Long"
     ],
     "themes": []
   },
@@ -7032,7 +6820,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Chiêu Thống",
       "Nguyễn Nhạc",
-      "Trịnh Doanh"
+      "Trần Quang Diệu"
     ],
     "themes": []
   },
@@ -7051,11 +6839,9 @@ const RAW_DATA = [
     "fullName": "Càn Long",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%E6%B8%85_%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
     "relations": [
-      "Friedrich II",
       "Khang Hi",
-      "Louis XV",
-      "Pyotr Đại đế",
-      "Yekaterina II Đại đế"
+      "Lê Chiêu Thống",
+      "Võ Tắc Thiên"
     ],
     "themes": []
   },
@@ -7074,9 +6860,9 @@ const RAW_DATA = [
     "fullName": "Mikhail Vasilyevich Lomonosov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/M.V._Lomonosov_by_L.Miropolskiy_after_G.C.Prenner_%281787%2C_RAN%29.jpg",
     "relations": [
+      "Maria Gaetana Agnesi",
       "Anders Celsius",
-      "David Hume",
-      "Denis Diderot"
+      "David Hume"
     ],
     "themes": []
   },
@@ -7096,11 +6882,9 @@ const RAW_DATA = [
     "fullName": "David Hume",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/500px-Painting_of_David_Hume.jpg",
     "relations": [
-      "Denis Diderot",
       "Diogenes",
-      "Francis Bacon",
-      "Leonhard Euler",
-      "Mikhail Vasilyevich Lomonosov"
+      "John Locke",
+      "John Cage"
     ],
     "themes": []
   },
@@ -7120,9 +6904,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg/500px-Maurice_Quentin_de_La_Tour_-_Portrait_of_Jean-Jacques_Rousseau_-_adjusted.jpg",
     "relations": [
       "Alexis de Tocqueville",
-      "Immanuel Kant",
-      "Mary Wollstonecraft",
-      "Nicolas Malebranche"
+      "Im Yunjidang",
+      "Immanuel Kant"
     ],
     "themes": []
   },
@@ -7143,7 +6926,6 @@ const RAW_DATA = [
     "relations": [
       "Càn Long",
       "George Washington",
-      "Karl Marx",
       "Viên Sùng Hoán"
     ],
     "themes": []
@@ -7164,9 +6946,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg/500px-Denis_Diderot_by_Louis-Michel_van_Loo.jpg",
     "relations": [
       "David Hume",
-      "Johann Gottfried Herder",
-      "Lê Quý Đôn",
-      "Mikhail Vasilyevich Lomonosov"
+      "Agnès Varda",
+      "Maria Gaetana Agnesi"
     ],
     "themes": []
   },
@@ -7206,9 +6987,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Cao Bá Quát",
       "Trương Phúc Loan",
-      "Trương Sĩ Thành"
+      "Minh Mạng",
+      "Cao Bá Quát"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tr%E1%BB%8Bnh_Doanh.png"
@@ -7228,8 +7009,8 @@ const RAW_DATA = [
     "fullName": "Adam Smith",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/500px-Adam_Smith_The_Muir_portrait.jpg",
     "relations": [
-      "Gilles Deleuze",
       "Immanuel Kant",
+      "Gilles Deleuze",
       "Julia Kristeva"
     ],
     "themes": []
@@ -7249,9 +7030,9 @@ const RAW_DATA = [
     "fullName": "Hải Thượng Lãn Ông",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Danh-y-le-huu-trac.jpg",
     "relations": [
-      "Duy Tân",
-      "Hoàng Tích Trí",
-      "Tuệ Tĩnh"
+      "Edmund Husserl",
+      "Tự Đức",
+      "Phạm Duy Tốn"
     ],
     "themes": []
   },
@@ -7270,11 +7051,9 @@ const RAW_DATA = [
     "fullName": "Immanuel Kant (Critique of Pure Reason)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/500px-Immanuel_Kant_-_Gemaelde_1.jpg",
     "relations": [
+      "Gilles Deleuze",
       "Adam Smith",
-      "George Berkeley",
-      "Jean-Jacques Rousseau",
-      "Mary Wollstonecraft",
-      "Muhammad ibn Mūsā al-Khwārizmī"
+      "Franz Brentano"
     ],
     "themes": []
   },
@@ -7293,10 +7072,9 @@ const RAW_DATA = [
     "fullName": "Lê Quý Đôn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Statue_of_Le_Quy_Don_cropped.png/500px-Statue_of_Le_Quy_Don_cropped.png",
     "relations": [
-      "Denis Diderot",
-      "Lê Văn Hưu",
-      "Ngô Sĩ Liên",
-      "Tuệ Tĩnh"
+      "Tuệ Tĩnh",
+      "Robert Schumann",
+      "Ichikawa Takuji"
     ],
     "themes": []
   },
@@ -7315,10 +7093,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Huỳnh Mẫn Đạt",
-      "Nguyễn Quang Bích",
       "Vũ Trinh",
-      "Vũ Tông Phan"
+      "Vũ Tông Phan",
+      "Huỳnh Mẫn Đạt"
     ],
     "themes": []
   },
@@ -7338,9 +7115,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Càn Long",
-      "George Washington",
       "Khang Hi",
-      "Nikolai I"
+      "George Washington"
     ],
     "themes": []
   },
@@ -7359,8 +7135,8 @@ const RAW_DATA = [
     "fullName": "Joseph Haydn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Joseph_Haydn.jpg",
     "relations": [
-      "Franz Schubert",
       "Ludwig van Beethoven",
+      "Robert Schumann",
       "Pyotr Ilyich Tchaikovsky"
     ],
     "themes": [
@@ -7382,11 +7158,9 @@ const RAW_DATA = [
     "fullName": "George Washington",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
     "relations": [
-      "Abraham Lincoln",
-      "Friedrich II",
+      "Otto von Bismarck",
       "Harry Truman",
-      "Pope Gregory I",
-      "Yekaterina II Đại đế"
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -7405,11 +7179,9 @@ const RAW_DATA = [
     "fullName": "Charles-Augustin de Coulomb",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Charles_de_Coulomb.png/500px-Charles_de_Coulomb.png",
     "relations": [
-      "Alessandro Volta",
-      "André Marie Ampère",
       "Antoine Lavoisier",
-      "Joseph-Louis Lagrange",
-      "William Herschel"
+      "Alessandro Volta",
+      "James Watt"
     ],
     "themes": []
   },
@@ -7428,10 +7200,9 @@ const RAW_DATA = [
     "fullName": "James Watt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/500px-Watt_James_von_Breda.jpg",
     "relations": [
-      "Alessandro Volta",
-      "Antoine Lavoisier",
-      "Pierre-Simon Laplace",
-      "William Herschel"
+      "William Herschel",
+      "Charles-Augustin de Coulomb",
+      "Alessandro Volta"
     ],
     "themes": []
   },
@@ -7450,11 +7221,9 @@ const RAW_DATA = [
     "fullName": "Joseph-Louis Lagrange",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lagrange_crop.jpg/500px-Lagrange_crop.jpg",
     "relations": [
-      "Ada Lovelace",
-      "André Marie Ampère",
-      "Charles-Augustin de Coulomb",
       "Pierre-Simon Laplace",
-      "William Herschel"
+      "Johann Bernoulli",
+      "André Marie Ampère"
     ],
     "themes": []
   },
@@ -7473,9 +7242,8 @@ const RAW_DATA = [
     "fullName": "William Herschel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/500px-William_Herschel01.jpg",
     "relations": [
-      "Charles-Augustin de Coulomb",
       "James Watt",
-      "Jane Goodall",
+      "Charles-Augustin de Coulomb",
       "Joseph-Louis Lagrange"
     ],
     "themes": []
@@ -7494,9 +7262,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hoàng Kế Viêm",
-      "Lê Văn Duyệt",
-      "Ngô Tùng Châu"
+      "Ngô Tùng Châu",
+      "Tôn Thất Đạm",
+      "Hoàng Kế Viêm"
     ],
     "themes": []
   },
@@ -7537,11 +7305,9 @@ const RAW_DATA = [
     "fullName": "Marquis de Condorcet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Nicolas_de_Condorcet.PNG/500px-Nicolas_de_Condorcet.PNG",
     "relations": [
-      "Henri de Saint Simon",
+      "John Locke",
       "Johann Gottfried Herder",
-      "Montesquieu",
-      "René Descartes",
-      "Voltaire"
+      "Michel Foucault"
     ],
     "themes": []
   },
@@ -7561,8 +7327,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg/500px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg",
     "relations": [
       "Charles-Augustin de Coulomb",
-      "James Watt",
-      "Nicolas Flamel"
+      "Albert Einstein",
+      "James Watt"
     ],
     "themes": []
   },
@@ -7581,10 +7347,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Bùi Thị Xuân",
       "Nguyễn Hữu Chỉnh",
       "Nguyễn Lữ",
-      "Trương Phúc Loan"
+      "Bùi Thị Xuân"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/NguyenNhac.jpg"
@@ -7606,10 +7371,9 @@ const RAW_DATA = [
     "image": "",
     "themes": [],
     "relations": [
-      "Denis Diderot",
-      "Hans-Georg Gadamer",
       "Marquis de Condorcet",
-      "Søren Kierkegaard"
+      "Mary Wollstonecraft",
+      "Denis Diderot"
     ]
   },
   {
@@ -7627,10 +7391,9 @@ const RAW_DATA = [
     "fullName": "Alessandro Volta",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Alessandro_Volta.jpeg",
     "relations": [
-      "Antonio Meucci",
-      "Carlo Matteucci",
       "Charles-Augustin de Coulomb",
-      "James Watt"
+      "James Watt",
+      "Antonio Meucci"
     ],
     "themes": []
   },
@@ -7649,9 +7412,9 @@ const RAW_DATA = [
     "fullName": "Johann Wolfgang von Goethe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/500px-Goethe_%28Stieler_1828%29.jpg",
     "relations": [
-      "Friedrich Nietzsche",
       "Phan Huy Ích",
-      "Vũ Trinh"
+      "Vũ Trinh",
+      "Friedrich Nietzsche"
     ],
     "themes": []
   },
@@ -7670,9 +7433,9 @@ const RAW_DATA = [
     "fullName": "Pierre-Simon Laplace",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Laplace%2C_Pierre-Simon%2C_marquis_de.jpg",
     "relations": [
-      "Carl Friedrich Gauss",
+      "Joseph-Louis Lagrange",
       "James Watt",
-      "Joseph-Louis Lagrange"
+      "Carl Friedrich Gauss"
     ],
     "themes": []
   },
@@ -7690,10 +7453,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Bùi Giáng",
+      "Trịnh Hoài Đức",
       "Huỳnh Mẫn Đạt",
-      "Phạm Hy Lượng",
-      "Trịnh Hoài Đức"
+      "Cao Bá Quát"
     ],
     "themes": [],
     "image": ""
@@ -7713,9 +7475,9 @@ const RAW_DATA = [
     "fullName": "Bùi Thị Xuân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/B%C3%B9i_Th%E1%BB%8B_Xu%C3%A2n.jpg",
     "relations": [
+      "Trần Quang Diệu",
       "Nguyễn Lữ",
-      "Nguyễn Nhạc",
-      "Phan Huy Chú"
+      "Nguyễn Nhạc"
     ],
     "themes": []
   },
@@ -7735,8 +7497,7 @@ const RAW_DATA = [
     "relations": [
       "Châu Văn Tiếp",
       "Gia Long",
-      "Trịnh Hoài Đức",
-      "Trịnh Sâm"
+      "Trịnh Hoài Đức"
     ],
     "themes": [],
     "image": ""
@@ -7756,7 +7517,6 @@ const RAW_DATA = [
     "fullName": "Louis XVI",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/500px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg",
     "relations": [
-      "Camille Desmoulins",
       "Georges Danton",
       "Louis XV",
       "Maximilien Robespierre"
@@ -7777,9 +7537,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Bùi Thị Xuân",
-      "Lê Chiêu Thống",
       "Nguyễn Hữu Chỉnh",
+      "Trần Quang Diệu",
       "Nguyễn Nhạc"
     ],
     "themes": [],
@@ -7800,10 +7559,9 @@ const RAW_DATA = [
     "fullName": "Wolfgang Amadeus Mozart (Johannes Chrysostomus Wolfgangus Theophilus Mozart)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
     "relations": [
-      "Antonio Canova",
-      "Franz Schubert",
-      "Gioacchino Rossini",
-      "Ludwig van Beethoven"
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Georg Philipp Telemann"
     ],
     "themes": [
       "Classical Music"
@@ -7824,10 +7582,9 @@ const RAW_DATA = [
     "fullName": "Antonio Canova",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg",
     "relations": [
-      "Giacomo Puccini",
+      "Wolfgang Amadeus Mozart",
       "Ludwig van Beethoven",
-      "Michelangelo",
-      "Wolfgang Amadeus Mozart"
+      "Michelangelo"
     ],
     "themes": []
   },
@@ -7846,9 +7603,9 @@ const RAW_DATA = [
     "fullName": "Maximilien Robespierre",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/500px-Robespierre.jpg",
     "relations": [
-      "Camille Desmoulins",
       "Georges Danton",
-      "Louis XVI"
+      "Louis XVI",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -7867,11 +7624,9 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Anonyme_-_Portrait_de_Georges_Danton_%281759-1794%29%2C_orateur_et_homme_politique_-_P712_-_mus%C3%A9e_Carnavalet.jpg",
     "relations": [
-      "Camille Desmoulins",
-      "Louis XV",
-      "Louis XVI",
       "Maximilien Robespierre",
-      "Xavier Le Pichon"
+      "Louis XVI",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -7890,9 +7645,8 @@ const RAW_DATA = [
     "fullName": "Henri de Saint Simon",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_de_Claude-Henri_de_Rouvroy%2C_comte_de_Saint-Simon.jpg/500px-Portrait_de_Claude-Henri_de_Rouvroy%2C_comte_de_Saint-Simon.jpg",
     "relations": [
-      "Georg W. F. Hegel",
-      "Henri Bergson",
-      "John Stuart Mill",
+      "Simone de Beauvoir",
+      "Mary Wollstonecraft",
       "Marquis de Condorcet"
     ],
     "themes": []
@@ -7915,7 +7669,7 @@ const RAW_DATA = [
     "relations": [
       "Georges Danton",
       "Louis XVI",
-      "Maximilien Robespierre"
+      "Klemens von Metternich"
     ],
     "themes": []
   },
@@ -7934,9 +7688,9 @@ const RAW_DATA = [
     "fullName": "Gia Long (Nguyễn Phúc Ánh, Nguyen Phuc Anh, vua đầu nhà Nguyễn)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Emperor_Gia_Long.jpg",
     "relations": [
-      "Khúc Thừa Dụ",
-      "Mạc Cửu",
-      "Ngô Tùng Châu"
+      "Lê Văn Duyệt",
+      "Minh Mạng",
+      "Nguyễn Hoàng"
     ],
     "themes": []
   },
@@ -7955,11 +7709,9 @@ const RAW_DATA = [
     "fullName": "Lê Văn Duyệt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/T%C6%B0%E1%BB%A3ng_T%E1%BA%A3_Qu%C3%A2n_nh%C3%ACn_th%E1%BA%B3ng.jpg",
     "relations": [
-      "Cao Biền",
-      "Châu Văn Tiếp",
-      "Mạc Cửu",
-      "Nguyễn Hữu Cảnh",
-      "Võ Tánh"
+      "Gia Long",
+      "Nguyễn Tri Phương",
+      "Phan Thanh Giản"
     ],
     "themes": []
   },
@@ -7978,9 +7730,9 @@ const RAW_DATA = [
     "fullName": "Võ Trường Toản",
     "image": "",
     "relations": [
-      "Chu Văn An",
+      "Út Trà Ôn",
       "Trần Lệ Xuân",
-      "Út Trà Ôn"
+      "Chu Văn An"
     ],
     "themes": []
   },
@@ -7999,10 +7751,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Đặng Đức Siêu",
       "Cao Bá Quát",
-      "Nguyễn Huy Thiệp",
-      "Ngô Tùng Châu",
-      "Đặng Đức Siêu"
+      "Ngô Tùng Châu"
     ],
     "themes": [],
     "image": ""
@@ -8022,10 +7773,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Du (Tố Như, Thanh Hiên, Đoạn trường tân thanh, Truyện Kiều)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/T%C6%B0%E1%BB%A3ng_%C4%91%C3%A0i_c%E1%BB%A5_Nguy%E1%BB%85n_Du.jpg",
     "relations": [
-      "Bùi Giáng",
-      "Hồ Xuân Hương",
-      "Jane Austen",
-      "Nguyễn Huy Tự"
+      "Nguyễn Huy Tự",
+      "Vũ Trinh",
+      "Jane Austen"
     ],
     "themes": []
   },
@@ -8044,8 +7794,8 @@ const RAW_DATA = [
     "fullName": "Joseph Radetzky von Radetz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portrait_of_Field_Marshal_Johann_Josef_Wenzel_Graf_Radetzky_von_Radetz_%28by_Georg_Decker%29_-_Heeresgeschichtliches_Museum.jpg/500px-Portrait_of_Field_Marshal_Johann_Josef_Wenzel_Graf_Radetzky_von_Radetz_%28by_Georg_Decker%29_-_Heeresgeschichtliches_Museum.jpg",
     "relations": [
-      "Michel Ney",
       "Napoleon Bonaparte",
+      "Michel Ney",
       "Trần Quang Diệu"
     ],
     "themes": []
@@ -8064,9 +7814,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Carl von Clausewitz",
       "Lê Văn Duyệt",
-      "Trần Quang Diệu"
+      "Trần Quang Diệu",
+      "Carl von Clausewitz"
     ],
     "themes": [],
     "image": ""
@@ -8086,11 +7836,9 @@ const RAW_DATA = [
     "fullName": "Napoleon Bonaparte (Napoleon I, Emperor of the French, Napoléon Bonaparte, Tiểu Nã Phá Luân)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/500px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
     "relations": [
-      "Joseph Radetzky von Radetz",
-      "Julius Caesar",
-      "Lê Long Đĩnh",
-      "Marguerite de Valois",
-      "Napoleon III"
+      "Võ Nguyên Giáp",
+      "Michel Ney",
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -8109,10 +7857,9 @@ const RAW_DATA = [
     "fullName": "Ludwig van Beethoven",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg",
     "relations": [
-      "Antonio Canova",
-      "Gioacchino Rossini",
-      "Joseph Haydn",
-      "Wolfgang Amadeus Mozart"
+      "Robert Schumann",
+      "Clara Schumann",
+      "Joseph Haydn"
     ],
     "themes": [
       "Classical Music"
@@ -8133,10 +7880,9 @@ const RAW_DATA = [
     "fullName": "Georg W. F. Hegel (Georg Wilhelm Friedrich Hegel)",
     "image": "",
     "relations": [
-      "Arthur Schopenhauer",
-      "Han Byung-chul",
-      "Hans-Georg Gadamer",
-      "Henri de Saint Simon"
+      "Mary Wollstonecraft",
+      "Henri de Saint Simon",
+      "Han Byung-chul"
     ],
     "themes": []
   },
@@ -8156,9 +7902,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/William_Wordsworth_by_Benjamin_Robert_Haydon.jpg",
     "themes": [],
     "relations": [
-      "Achim von Arnim",
       "Clemens Brentano",
-      "Emily Bronte",
+      "Achim von Arnim",
       "Vũ Trinh"
     ]
   },
@@ -8177,10 +7922,9 @@ const RAW_DATA = [
     "fullName": "Hồ Xuân Hương (Bà chúa thơ Nôm)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ho_Xuan_Huong.png",
     "relations": [
-      "Chế Lan Viên",
-      "Jane Austen",
       "Nguyễn Du",
-      "Vũ Trinh"
+      "Vũ Trinh",
+      "Jane Austen"
     ],
     "themes": []
   },
@@ -8199,11 +7943,9 @@ const RAW_DATA = [
     "fullName": "Jane Austen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CassandraAusten-JaneAusten%28c.1810%29_hires.jpg/500px-CassandraAusten-JaneAusten%28c.1810%29_hires.jpg",
     "relations": [
-      "Charlotte Bronte",
-      "Emily Bronte",
-      "Hồ Xuân Hương",
-      "Nguyễn Du",
-      "Octavio Paz"
+      "Octavio Paz",
+      "Vũ Trinh",
+      "Alexandre Dumas cha"
     ],
     "themes": []
   },
@@ -8243,10 +7985,9 @@ const RAW_DATA = [
     "fullName": "J. M. W. Turner (William Turner, Joseph Mallord William Turner)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Turner_selfportrait.jpg/500px-Turner_selfportrait.jpg",
     "relations": [
-      "Anthony van Dyck",
       "Claude Monet",
       "Lý Bạch",
-      "Ricky Gervais"
+      "Gustav Klimt"
     ],
     "themes": []
   },
@@ -8265,11 +8006,9 @@ const RAW_DATA = [
     "fullName": "Carl Friedrich Gauss",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/500px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
     "relations": [
-      "Ada Lovelace",
       "André Marie Ampère",
-      "Bernhard Riemann",
-      "Leonhard Euler",
-      "Pierre-Simon Laplace"
+      "Jacob Bernoulli",
+      "Bernhard Riemann"
     ],
     "themes": []
   },
@@ -8290,8 +8029,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Achim von Arnim",
-      "Lord Byron",
-      "William Wordsworth"
+      "Jane Austen",
+      "Lord Byron"
     ]
   },
   {
@@ -8309,9 +8048,9 @@ const RAW_DATA = [
     "fullName": "Carl von Clausewitz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Clausewitz.jpg/500px-Clausewitz.jpg",
     "relations": [
-      "Heinz Guderian",
+      "Napoleon Bonaparte",
       "Trần Quang Diệu",
-      "Võ Tánh"
+      "Heinz Guderian"
     ],
     "themes": []
   },
@@ -8332,9 +8071,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Clemens Brentano",
-      "John Keats",
-      "Lord Byron",
-      "William Wordsworth"
+      "Jane Austen",
+      "Lord Byron"
     ]
   },
   {
@@ -8352,10 +8090,9 @@ const RAW_DATA = [
     "fullName": "Niccolò Paganini",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Paganini.jpeg",
     "relations": [
-      "Antonio Vivaldi",
-      "Franz Liszt",
-      "Franz Schubert",
-      "Nguyễn Hiền"
+      "Frédéric Chopin",
+      "Ludwig van Beethoven",
+      "Franz Liszt"
     ],
     "themes": [
       "Classical Music"
@@ -8376,9 +8113,9 @@ const RAW_DATA = [
     "fullName": "Phan Huy Chú",
     "image": "",
     "relations": [
-      "Bùi Thị Xuân",
+      "Phan Huy Ích",
       "Lê Chiêu Thống",
-      "Phan Huy Ích"
+      "Bùi Thị Xuân"
     ],
     "themes": []
   },
@@ -8397,10 +8134,9 @@ const RAW_DATA = [
     "fullName": "Simón Bolívar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png",
     "relations": [
-      "Benito Juárez",
-      "Bob Marley",
+      "Otto von Bismarck",
       "Germán Busch",
-      "Otto von Bismarck"
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -8419,9 +8155,9 @@ const RAW_DATA = [
     "fullName": "Lord Byron",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg",
     "relations": [
+      "John Keats",
       "Achim von Arnim",
-      "Clemens Brentano",
-      "John Keats"
+      "Heinrich Heine"
     ],
     "themes": []
   },
@@ -8440,10 +8176,9 @@ const RAW_DATA = [
     "fullName": "Arthur Schopenhauer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/500px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg",
     "relations": [
-      "Franz Kafka",
-      "Georg W. F. Hegel",
-      "Hans-Georg Gadamer",
-      "John Stuart Mill"
+      "Martin Heidegger",
+      "Friedrich Nietzsche",
+      "Franz Kafka"
     ],
     "themes": []
   },
@@ -8462,11 +8197,9 @@ const RAW_DATA = [
     "fullName": "Minh Mạng (Nguyễn Phúc Đảm, Nguyen Phuc Dam, Minh Mang)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Minh_Mang.gif/500px-Minh_Mang.gif",
     "relations": [
-      "Alhazen",
-      "James K. Polk",
-      "Nguyễn Bỉnh Khiêm",
-      "Nikolai I",
-      "Sư Vạn Hạnh"
+      "Gia Long",
+      "Tự Đức",
+      "Nguyễn Hoàng"
     ],
     "themes": []
   },
@@ -8485,11 +8218,9 @@ const RAW_DATA = [
     "fullName": "Michael Faraday",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Michael_Faraday_001.jpg/500px-Michael_Faraday_001.jpg",
     "relations": [
-      "Alexander Graham Bell",
-      "Carlo Matteucci",
+      "Anders Celsius",
       "Donald Winnicott",
-      "Francis Bacon",
-      "Jane Goodall"
+      "Wilhelm Röntgen"
     ],
     "themes": []
   },
@@ -8509,8 +8240,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Polk_crop.jpg/500px-Polk_crop.jpg",
     "relations": [
       "Abraham Lincoln",
-      "Benito Juárez",
-      "Minh Mạng"
+      "Minh Mạng",
+      "Benito Juárez"
     ],
     "themes": []
   },
@@ -8529,9 +8260,9 @@ const RAW_DATA = [
     "fullName": "John Keats",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/John_Keats_by_William_Hilton_circa_1822.jpg/500px-John_Keats_by_William_Hilton_circa_1822.jpg",
     "relations": [
-      "Achim von Arnim",
-      "Alexandre Dumas cha",
-      "Lord Byron"
+      "Lord Byron",
+      "Heinrich Heine",
+      "Achim von Arnim"
     ],
     "themes": []
   },
@@ -8550,10 +8281,9 @@ const RAW_DATA = [
     "fullName": "Phan Thanh Giản",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Phan_Thanh_Gian.jpg",
     "relations": [
-      "Lê Văn Thịnh",
-      "Nguyễn Hy",
-      "Phạm Phú Thứ",
-      "Thiệu Trị"
+      "Minh Mạng",
+      "Tự Đức",
+      "Lê Văn Duyệt"
     ],
     "themes": []
   },
@@ -8574,7 +8304,7 @@ const RAW_DATA = [
     "relations": [
       "Minh Mạng",
       "Thiệu Trị",
-      "Yekaterina II Đại đế"
+      "Tự Đức"
     ],
     "themes": []
   },
@@ -8593,10 +8323,9 @@ const RAW_DATA = [
     "fullName": "Franz Schubert",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Franz_Schubert_by_Wilhelm_August_Rieder_1875.jpg",
     "relations": [
-      "Hector Berlioz",
-      "Joseph Haydn",
-      "Niccolò Paganini",
-      "Wolfgang Amadeus Mozart"
+      "Robert Schumann",
+      "Frédéric Chopin",
+      "Gioacchino Rossini"
     ],
     "themes": [
       "Classical Music"
@@ -8617,9 +8346,9 @@ const RAW_DATA = [
     "fullName": "Nezumi Kozō",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kodanji_Ichikawa_IV_as_Nezumi-koz%C5%8D_Jirokichi.jpg",
     "relations": [
-      "Ichikawa Takuji",
       "Sakamoto Ryoma",
-      "Yoshiko Sai"
+      "Yoshiko Sai",
+      "Ichikawa Takuji"
     ],
     "themes": []
   },
@@ -8637,9 +8366,9 @@ const RAW_DATA = [
     ],
     "nationality": "German",
     "relations": [
-      "Edgar Allan Poe",
-      "Huỳnh Mẫn Đạt",
-      "Nguyễn Văn Siêu"
+      "Saki",
+      "Alexander Pushkin",
+      "Phan Châu Trinh"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Heinrich_Heine-Oppenheim.jpg/500px-Heinrich_Heine-Oppenheim.jpg"
@@ -8659,10 +8388,9 @@ const RAW_DATA = [
     "fullName": "Eugène Delacroix",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/F%C3%A9lix_Nadar_1820-1910_portraits_Eug%C3%A8ne_Delacroix_restored.jpg",
     "relations": [
-      "Hector Berlioz",
-      "Jean-Baptiste-Siméon Chardin",
       "Vincent van Gogh",
-      "Édouard Manet"
+      "Frédéric Chopin",
+      "Gustav Klimt"
     ],
     "themes": []
   },
@@ -8681,11 +8409,9 @@ const RAW_DATA = [
     "fullName": "Alexander Pushkin (Alexander Sergeyevich Pushkin, Пушкин)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Orest_Kiprensky_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BF%D0%BE%D1%8D%D1%82%D0%B0_%D0%90.%D0%A1.%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0_-_Google_Art_Project.jpg",
     "relations": [
-      "Italo Calvino",
-      "Shota Rustaveli",
-      "Victor Hugo",
-      "Vladimir Nabokov",
-      "William Shakespeare"
+      "Alexandre Dumas con",
+      "Heinrich Heine",
+      "Alexandre Dumas cha"
     ],
     "themes": []
   },
@@ -8704,10 +8430,9 @@ const RAW_DATA = [
     "fullName": "Honoré de Balzac",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%A5%A5%C2%B7%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B.png/500px-%E5%A5%A5%C2%B7%E5%B7%B4%E5%B0%94%E6%89%8E%E5%85%8B.png",
     "relations": [
+      "Alexandre Dumas cha",
       "Alexandre Dumas con",
-      "Gustave Flaubert",
-      "Jules Verne",
-      "Victor Hugo"
+      "Jules Verne"
     ],
     "themes": []
   },
@@ -8727,8 +8452,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Portrait_of_V%C5%A9_T%C3%B4ng_Phan_%28%E6%AD%A6%E5%AE%97%E7%92%A0%29.jpg/500px-Portrait_of_V%C5%A9_T%C3%B4ng_Phan_%28%E6%AD%A6%E5%AE%97%E7%92%A0%29.jpg",
     "relations": [
       "Huỳnh Mẫn Đạt",
-      "Nguyễn Văn Siêu",
-      "Ngô Thì Sĩ"
+      "Cao Bá Quát",
+      "Phạm Văn Nghị"
     ],
     "themes": []
   },
@@ -8748,10 +8473,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Statue_of_Nguyen_Tri_Phuong_in_Da_Nang_in_2015.jpg/500px-Statue_of_Nguyen_Tri_Phuong_in_Da_Nang_in_2015.jpg",
     "relations": [
-      "Hoàng Kế Viêm",
       "Lê Đình Lý",
-      "Phạm Phú Thứ",
-      "Phạm Văn Nghị",
+      "Tôn Thất Thuyết",
       "Đỗ Thúc Tịnh"
     ],
     "themes": [
@@ -8773,11 +8496,9 @@ const RAW_DATA = [
     "fullName": "Alexandre Dumas cha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Nadar_-_Alexander_Dumas_p%C3%A8re_%281802-1870%29_-_Google_Art_Project_2.jpg/500px-Nadar_-_Alexander_Dumas_p%C3%A8re_%281802-1870%29_-_Google_Art_Project_2.jpg",
     "relations": [
-      "Edgar Allan Poe",
-      "John D. Rockefeller",
-      "John Keats",
-      "Marianne Bachmeier",
-      "Victor Hugo"
+      "Honoré de Balzac",
+      "Charlotte Bronte",
+      "Alexandre Dumas con"
     ],
     "themes": []
   },
@@ -8796,10 +8517,9 @@ const RAW_DATA = [
     "fullName": "Victor Hugo",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/500px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
     "relations": [
-      "Alexander Pushkin",
       "Alexandre Dumas cha",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
+      "Honoré de Balzac",
+      "Alexander Pushkin"
     ],
     "themes": []
   },
@@ -8818,9 +8538,9 @@ const RAW_DATA = [
     "fullName": "Flora Tristan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Flora_Tristan_par_Jules_Laure.jpg/500px-Flora_Tristan_par_Jules_Laure.jpg",
     "relations": [
+      "Simone de Beauvoir",
       "Agnès Varda",
-      "Henry Dunant",
-      "Napoleon III"
+      "Kimberle Crenshaw"
     ],
     "themes": [
       "Feminism Movement"
@@ -8844,9 +8564,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hector-Berlioz-1845.png",
     "relations": [
-      "Eugène Delacroix",
       "Felix Mendelssohn",
-      "Franz Schubert"
+      "Robert Schumann",
+      "Fanny Mendelssohn"
     ]
   },
   {
@@ -8864,10 +8584,9 @@ const RAW_DATA = [
     "fullName": "Mikhail Ivanovich Glinka",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Michail_Glinka_by_Brullov.jpg",
     "relations": [
-      "Franz Liszt",
       "Frédéric Chopin",
-      "Nikolai Rimsky-Korsakov",
-      "Robert Schumann"
+      "Robert Schumann",
+      "Franz Liszt"
     ],
     "themes": [
       "Classical Music"
@@ -8888,9 +8607,9 @@ const RAW_DATA = [
     "fullName": "Alexis de Tocqueville",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alexis_de_Tocqueville_%28Th%C3%A9odore_Chass%C3%A9riau_-_Versailles%29.jpg/500px-Alexis_de_Tocqueville_%28Th%C3%A9odore_Chass%C3%A9riau_-_Versailles%29.jpg",
     "relations": [
-      "Jean-Jacques Rousseau",
       "John Stuart Mill",
-      "Milan Kundera"
+      "Milan Kundera",
+      "Jean-Jacques Rousseau"
     ],
     "themes": []
   },
@@ -8909,9 +8628,9 @@ const RAW_DATA = [
     "fullName": "Franz Xaver Winterhalter",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Franz_Xaver_Winterhalter_BNF_Gallica.jpg/500px-Franz_Xaver_Winterhalter_BNF_Gallica.jpg",
     "relations": [
-      "Felix Mendelssohn",
       "Franz Liszt",
-      "Robert Schumann"
+      "Fanny Mendelssohn",
+      "Felix Mendelssohn"
     ],
     "themes": []
   },
@@ -8931,10 +8650,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/500px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg",
     "relations": [
       "Alexis de Tocqueville",
-      "Arthur Schopenhauer",
-      "Baruch Spinoza",
-      "Henri de Saint Simon",
-      "Mary Wollstonecraft"
+      "John Locke",
+      "Arthur Schopenhauer"
     ],
     "themes": []
   },
@@ -8953,10 +8670,9 @@ const RAW_DATA = [
     "fullName": "Benito Juárez",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Photograph_of_Benito_Juarez.jpg",
     "relations": [
-      "Augusto Pinochet",
+      "Hồ Chí Minh",
       "Germán Busch",
-      "James K. Polk",
-      "Simón Bolívar"
+      "Charles de Gaulle"
     ],
     "themes": []
   },
@@ -8975,11 +8691,9 @@ const RAW_DATA = [
     "fullName": "Huỳnh Mẫn Đạt",
     "image": "",
     "relations": [
-      "Heinrich Heine",
-      "Nguyễn Hữu Cảnh",
-      "Ngô Thì Sĩ",
-      "Vũ Tông Phan",
-      "Đặng Đức Siêu"
+      "Cao Bá Quát",
+      "Phan Thanh Giản",
+      "Minh Mạng"
     ],
     "themes": []
   },
@@ -8998,9 +8712,9 @@ const RAW_DATA = [
     "fullName": "Robert E. Lee",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Robert_Edward_Lee_%283x4_cropped%29.jpg/500px-Robert_Edward_Lee_%283x4_cropped%29.jpg",
     "relations": [
+      "Ulysses S. Grant",
       "Otto von Bismarck",
-      "Trương Định",
-      "Ulysses S. Grant"
+      "Trương Định"
     ],
     "themes": []
   },
@@ -9020,8 +8734,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Garibaldi_%281866%29.jpg",
     "relations": [
       "Abraham Lincoln",
-      "Trần Quang Diệu",
-      "Tôn Trung Sơn"
+      "Tôn Trung Sơn",
+      "Trần Quang Diệu"
     ],
     "themes": []
   },
@@ -9040,9 +8754,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Nikolai I",
-      "Phan Thanh Giản",
-      "Tự Đức"
+      "Minh Mạng",
+      "Đỗ Thúc Tịnh",
+      "Phan Thanh Giản"
     ],
     "themes": []
   },
@@ -9082,10 +8796,9 @@ const RAW_DATA = [
     "fullName": "Antonio Meucci",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Antonio_Meucci.jpg",
     "relations": [
-      "Alessandro Volta",
       "Alexander Graham Bell",
-      "Eugène Charles Catalan",
-      "Nikola Tesla"
+      "Carlo Matteucci",
+      "Alessandro Volta"
     ],
     "themes": []
   },
@@ -9104,10 +8817,9 @@ const RAW_DATA = [
     "fullName": "Edgar Allan Poe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
     "relations": [
-      "Alexandre Dumas cha",
       "Fyodor Dostoyevsky",
-      "Gwendolyn Brooks",
-      "Heinrich Heine"
+      "Huỳnh Mẫn Đạt",
+      "Alexandre Dumas cha"
     ],
     "themes": []
   },
@@ -9126,11 +8838,9 @@ const RAW_DATA = [
     "fullName": "Cao Bá Quát (Thần Siêu, Cao Chu Thần)",
     "image": "",
     "relations": [
-      "Phạm Hy Lượng",
-      "Phạm Văn Nghị",
-      "Saladin",
-      "Trịnh Doanh",
-      "Trịnh Hoài Đức"
+      "Đỗ Thúc Tịnh",
+      "Huỳnh Mẫn Đạt",
+      "Minh Mạng"
     ],
     "themes": []
   },
@@ -9149,10 +8859,9 @@ const RAW_DATA = [
     "fullName": "Abraham Lincoln",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/500px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
     "relations": [
-      "George Washington",
-      "Giuseppe Garibaldi",
-      "James K. Polk",
-      "Woodrow Wilson"
+      "Hồ Chí Minh",
+      "Woodrow Wilson",
+      "George Washington"
     ],
     "themes": []
   },
@@ -9174,11 +8883,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Felix_Mendelssohn_Bartholdy_by_Eduard_Magnus_%281833%29.jpg",
     "relations": [
-      "Camille Saint-Saëns",
-      "Edvard Grieg",
       "Fanny Mendelssohn",
-      "Franz Xaver Winterhalter",
-      "Hector Berlioz"
+      "Clara Schumann",
+      "Franz Liszt"
     ]
   },
   {
@@ -9196,11 +8903,9 @@ const RAW_DATA = [
     "fullName": "Frédéric Chopin (Fryderyk Franciszek Chopin)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Frederic_Chopin_photo.jpeg",
     "relations": [
-      "Feliks Nowowiejski",
-      "Giuseppe Verdi",
-      "Jacqueline du Pré",
-      "Mikhail Ivanovich Glinka",
-      "Sergei Rachmaninoff"
+      "Arthur Rubinstein",
+      "Robert Schumann",
+      "Franz Liszt"
     ],
     "themes": [
       "Classical Music"
@@ -9221,11 +8926,9 @@ const RAW_DATA = [
     "fullName": "Robert Schumann",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Robert_Schumann_1839.jpg",
     "relations": [
-      "Fanny Mendelssohn",
-      "Franz Xaver Winterhalter",
-      "Giuseppe Verdi",
-      "Mikhail Ivanovich Glinka",
-      "Ottorino Respighi"
+      "Clara Schumann",
+      "Frédéric Chopin",
+      "Franz Schubert"
     ],
     "themes": [
       "Classical Music"
@@ -9246,10 +8949,9 @@ const RAW_DATA = [
     "fullName": "Franz Liszt (Liszt Ferenc)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Franz_Liszt_by_Herman_Biow-_1843.png",
     "relations": [
-      "Franz Xaver Winterhalter",
-      "Johannes Brahms",
-      "Mikhail Ivanovich Glinka",
-      "Niccolò Paganini"
+      "Frédéric Chopin",
+      "Clara Schumann",
+      "Johannes Brahms"
     ],
     "themes": [
       "Classical Music"
@@ -9270,10 +8972,9 @@ const RAW_DATA = [
     "fullName": "Richard Wagner",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/RichardWagner.jpg",
     "relations": [
-      "Clara Schumann",
-      "Claudio Monteverdi",
-      "Giuseppe Verdi",
-      "Henrik Ibsen"
+      "Robert Schumann",
+      "Frédéric Chopin",
+      "Clara Schumann"
     ],
     "themes": [
       "Classical Music"
@@ -9294,9 +8995,9 @@ const RAW_DATA = [
     "fullName": "Søren Kierkegaard (Søren Aabye Kierkegaard)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg/500px-S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg",
     "relations": [
-      "Franz Kafka",
-      "Johann Gottfried Herder",
-      "Martin Heidegger"
+      "Friedrich Nietzsche",
+      "Martin Heidegger",
+      "Franz Kafka"
     ],
     "themes": [
       null,
@@ -9321,9 +9022,8 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Giuseppe_Verdi_by_Ferdinand_Mulnier_BW.jpg",
     "relations": [
-      "Frédéric Chopin",
-      "Luca Guadagnino",
       "Richard Wagner",
+      "Frédéric Chopin",
       "Robert Schumann"
     ]
   },
@@ -9343,7 +9043,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Samuel_Colt_engraving_by_John_Chester_Buttre%2C_c1855.jpg/500px-Samuel_Colt_engraving_by_John_Chester_Buttre%2C_c1855.jpg",
     "relations": [
       "Alfred Nobel",
-      "Archimedes",
       "Chu Nguyên Chương",
       "Henry Ford"
     ],
@@ -9363,8 +9062,8 @@ const RAW_DATA = [
     ],
     "nationality": "Belgian",
     "relations": [
+      "Bernhard Riemann",
       "Ada Lovelace",
-      "Antonio Meucci",
       "Georg Cantor"
     ],
     "themes": [],
@@ -9385,11 +9084,9 @@ const RAW_DATA = [
     "fullName": "Otto von Bismarck",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/500px-Otto_von_Bismarck_1885_%28cropped%29.jpg",
     "relations": [
-      "Robert E. Lee",
-      "Simón Bolívar",
-      "Trịnh Xuân Thanh",
-      "Tô Định",
-      "Ulysses S. Grant"
+      "Napoleon Bonaparte",
+      "George Washington",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -9408,9 +9105,8 @@ const RAW_DATA = [
     "fullName": "Ada Lovelace",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg/500px-Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg",
     "relations": [
+      "Bernhard Riemann",
       "Carl Friedrich Gauss",
-      "Eugène Charles Catalan",
-      "Joseph John Thomson",
       "Joseph-Louis Lagrange"
     ],
     "themes": []
@@ -9430,10 +9126,9 @@ const RAW_DATA = [
     "fullName": "Ivan Turgenev",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Turgenev_by_Repin.jpg",
     "relations": [
-      "Daniel Defoe",
-      "Fyodor Dostoyevsky",
-      "Jules Verne",
-      "Vladimir Nabokov"
+      "Alexandre Dumas con",
+      "Lev Tolstoy",
+      "Fyodor Dostoyevsky"
     ],
     "themes": []
   },
@@ -9452,9 +9147,9 @@ const RAW_DATA = [
     "fullName": "Karl Marx",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png/500px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png",
     "relations": [
-      "Friedrich II",
-      "Friedrich Nietzsche",
-      "Jürgen Habermas"
+      "Jürgen Habermas",
+      "Virginia Woolf",
+      "Friedrich Nietzsche"
     ],
     "themes": []
   },
@@ -9473,11 +9168,9 @@ const RAW_DATA = [
     "fullName": "Clara Schumann",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Franz_Hanfstaengl_-_Clara_Schumann_%281857%29.jpg",
     "relations": [
-      "Camille Saint-Saëns",
-      "Công nương Kate",
-      "Fanny Mendelssohn",
-      "Henri Matisse",
-      "Richard Wagner"
+      "Robert Schumann",
+      "Johannes Brahms",
+      "Franz Liszt"
     ],
     "themes": [
       "Classical Music"
@@ -9498,11 +9191,9 @@ const RAW_DATA = [
     "fullName": "William T. G. Morton",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/WTG_Morton.jpg/500px-WTG_Morton.jpg",
     "relations": [
-      "Alfred Nobel",
-      "Florence Nightingale",
-      "Louis Pasteur",
-      "Tôn Thất Tùng",
-      "William Bateson"
+      "Wilhelm Wundt",
+      "William Bateson",
+      "Alfred Nobel"
     ],
     "themes": []
   },
@@ -9521,11 +9212,9 @@ const RAW_DATA = [
     "fullName": "Trương Định",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Truong_Dinh.JPG",
     "relations": [
-      "Nguyễn Trung Trực",
-      "Rigault de Genouilly",
-      "Robert E. Lee",
-      "Ulysses S. Grant",
-      "Đỗ Thúc Tịnh"
+      "Hoàng Hoa Thám",
+      "Tôn Thất Thuyết",
+      "Nguyễn Trung Trực"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9545,9 +9234,8 @@ const RAW_DATA = [
     ],
     "nationality": "British",
     "relations": [
-      "Carlos Finlay",
       "Gregor Mendel",
-      "Louis Pasteur",
+      "Carlos Finlay",
       "William T. G. Morton"
     ],
     "themes": [],
@@ -9567,8 +9255,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Châu Văn Tiếp",
       "Lê Đình Lý",
+      "Tôn Thất Thuyết",
       "Nguyễn Tri Phương"
     ],
     "themes": [],
@@ -9589,10 +9277,9 @@ const RAW_DATA = [
     "fullName": "Fyodor Dostoyevsky (Fyodor Mikhailovich Dostoevsky, Достоевский)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg",
     "relations": [
-      "Edgar Allan Poe",
-      "Ivan Turgenev",
-      "Jack London",
-      "Nguyễn Khuyến"
+      "Franz Kafka",
+      "Friedrich Nietzsche",
+      "Martin Heidegger"
     ],
     "themes": [
       null,
@@ -9614,11 +9301,9 @@ const RAW_DATA = [
     "fullName": "Louis Pasteur (pasteurization, vaccines)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
     "relations": [
-      "Florence Nightingale",
       "Gregor Mendel",
-      "Hamma Alloh",
-      "William T. G. Morton",
-      "Đồ U U"
+      "Florence Nightingale",
+      "William T. G. Morton"
     ],
     "themes": []
   },
@@ -9637,9 +9322,9 @@ const RAW_DATA = [
     "fullName": "Ulysses S. Grant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
     "relations": [
-      "Otto von Bismarck",
       "Robert E. Lee",
-      "Trương Định"
+      "Trương Định",
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -9657,9 +9342,8 @@ const RAW_DATA = [
     ],
     "nationality": "Austrian",
     "relations": [
+      "Wilhelm Wundt",
       "Carlos Finlay",
-      "Florence Nightingale",
-      "Louis Pasteur",
       "Thomas Hunt Morgan"
     ],
     "themes": [],
@@ -9680,11 +9364,9 @@ const RAW_DATA = [
     "fullName": "Alexandre Dumas con",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Alexandre_Dumas_fils_elderly.jpg",
     "relations": [
-      "Daniel Defoe",
-      "Honoré de Balzac",
-      "Katalin Karikó",
-      "Ocean Vuong",
-      "William Shakespeare"
+      "Jules Verne",
+      "Ivan Turgenev",
+      "E. M. Forster"
     ],
     "themes": []
   },
@@ -9703,11 +9385,9 @@ const RAW_DATA = [
     "fullName": "Henrik Ibsen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Henrik_Ibsen_av_Eilif_Peterssen_1895.jpg",
     "relations": [
-      "August Strindberg",
       "Ichikawa Takuji",
-      "Richard Wagner",
-      "Tove Jansson",
-      "Werner Herzog"
+      "Georges Bizet",
+      "Richard Wagner"
     ],
     "themes": []
   },
@@ -9726,10 +9406,8 @@ const RAW_DATA = [
     "fullName": "Lev Tolstoy (Leo Tolstoy, Count Lev Nikolayevich Tolstoy, Толстой)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
     "relations": [
-      "Hector Malot",
-      "Margaret Cavendish",
-      "Mark Twain",
-      "Ocean Vuong",
+      "Fyodor Dostoyevsky",
+      "Ivan Turgenev",
       "Octavio Paz"
     ],
     "themes": []
@@ -9749,11 +9427,9 @@ const RAW_DATA = [
     "fullName": "Henry Dunant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Henry_Dunant-young.jpg/500px-Henry_Dunant-young.jpg",
     "relations": [
-      "Alfred Adler",
-      "Flora Tristan",
-      "Jacob Bernoulli",
-      "Johann Bernoulli",
-      "Leonhard Euler"
+      "Cù Huy Hà Vũ",
+      "Phạm Đoan Trang",
+      "Flora Tristan"
     ],
     "themes": []
   },
@@ -9772,9 +9448,8 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/500px-Jules_Verne_by_%C3%89tienne_Carjat.jpg",
     "relations": [
-      "H. G. Wells",
-      "Hector Malot",
-      "Honoré de Balzac",
+      "Alexandre Dumas con",
+      "Éric-Emmanuel Schmitt",
       "Ivan Turgenev"
     ],
     "themes": []
@@ -9795,9 +9470,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Diệu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ho%C3%A0ng_Di%E1%BB%87u.jpg/500px-Ho%C3%A0ng_Di%E1%BB%87u.jpg",
     "relations": [
-      "Cao Biền",
-      "Lê Đình Lý",
-      "Triệu Quang Phục"
+      "Tôn Thất Thuyết",
+      "Nguyễn Tri Phương",
+      "Lê Đình Lý"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9818,11 +9493,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Vua_T%E1%BB%B1_%C4%90%E1%BB%A9c.jpg",
     "relations": [
-      "Phạm Phú Thứ",
-      "Phạm Văn Nghị",
-      "Rama V",
-      "Thiệu Trị",
-      "Đỗ Thúc Tịnh"
+      "Minh Mạng",
+      "Lê Khiết",
+      "Thành Thái"
     ],
     "themes": []
   },
@@ -9841,9 +9514,8 @@ const RAW_DATA = [
     "fullName": "Ōkubo Toshimichi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%C5%8Ckubo_Toshimichi_1872_%28cropped%29.jpg",
     "relations": [
-      "Duy Tân",
-      "Maximilian I của Mexico",
       "Sakamoto Ryoma",
+      "Duy Tân",
       "Tokugawa Yoshinobu"
     ],
     "themes": []
@@ -9863,9 +9535,9 @@ const RAW_DATA = [
     "fullName": "Hector Malot",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hector_Malot.jpg",
     "relations": [
+      "Alexandre Dumas con",
       "Jules Verne",
-      "Lev Tolstoy",
-      "Paul Verlaine"
+      "Gustave Flaubert"
     ],
     "themes": []
   },
@@ -9885,7 +9557,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/500px-James-Clerk-Maxwell-1831-1879.jpg",
     "relations": [
       "Alexander Graham Bell",
-      "Alfred Nobel",
+      "Bernhard Riemann",
       "Oliver Heaviside"
     ],
     "themes": []
@@ -9905,9 +9577,9 @@ const RAW_DATA = [
     "fullName": "Maximilian I của Mexico",
     "image": "",
     "relations": [
-      "Klemens von Metternich",
+      "Tự Đức",
       "Menelik II",
-      "Ōkubo Toshimichi"
+      "Phạm Như Xương"
     ],
     "themes": []
   },
@@ -9926,10 +9598,9 @@ const RAW_DATA = [
     "fullName": "Édouard Manet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/500px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
     "relations": [
-      "Claude Monet",
-      "Eugène Delacroix",
-      "Jean-Antoine Watteau",
-      "Paul Cézanne"
+      "Paul Cézanne",
+      "Hồ Chí Minh",
+      "Claude Monet"
     ],
     "themes": []
   },
@@ -9948,9 +9619,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Ngô Thì Sĩ",
       "Paul Verlaine",
-      "Tôn Thất Thuyết"
+      "Tôn Thất Thuyết",
+      "Trần Xuân Soạn"
     ],
     "themes": []
   },
@@ -9969,9 +9640,8 @@ const RAW_DATA = [
     "fullName": "Carlos Finlay",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Finlay_Carlos_1833-1915.jpg",
     "relations": [
-      "Florence Nightingale",
-      "Gregor Mendel",
       "Phạm Ngọc Thạch",
+      "Gregor Mendel",
       "Thánh Damien đảo Molokai"
     ],
     "themes": []
@@ -9991,11 +9661,9 @@ const RAW_DATA = [
     "fullName": "Alfred Nobel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/500px-Alfred_Nobel3.jpg",
     "relations": [
-      "Anna Anderson",
-      "Archimedes",
-      "James Clerk Maxwell",
-      "Samuel Colt",
-      "William T. G. Morton"
+      "Wilhelm Röntgen",
+      "Joseph John Thomson",
+      "Ernest Rutherford"
     ],
     "themes": [
       "Giai Nobel"
@@ -10016,9 +9684,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95_2.jpg/500px-T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95_2.jpg",
     "relations": [
-      "Hoàng Diệu",
+      "Nguyễn Tri Phương",
       "Hoàng Kế Viêm",
-      "Nguyễn Tri Phương"
+      "Tôn Thất Thuyết"
     ],
     "themes": []
   },
@@ -10040,11 +9708,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/JohannesBrahms_%28cropped%29.jpg",
     "relations": [
-      "Antonín Dvořák",
-      "Edvard Grieg",
-      "Franz Liszt",
-      "Richard Strauss",
-      "Sergei Rachmaninoff"
+      "Clara Schumann",
+      "Camille Saint-Saëns",
+      "Franz Liszt"
     ]
   },
   {
@@ -10062,10 +9728,9 @@ const RAW_DATA = [
     "fullName": "Dmitri Mendeleev",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dmitri_Mendeleev.jpg",
     "relations": [
-      "Alexander Borodin",
       "Alexander Graham Bell",
       "Georg Cantor",
-      "Laurent Simons"
+      "Albert Einstein"
     ],
     "themes": []
   },
@@ -10083,8 +9748,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Cao Bá Quát",
-      "Nguyễn Bỉnh Khiêm",
+      "Tự Đức",
+      "Tôn Thất Đạm",
       "Đặng Đức Siêu"
     ],
     "themes": [],
@@ -10105,9 +9770,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Khuyến",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Chan_dung_tam_nguyen_yen_do_nguyen_khuyen.jpg",
     "relations": [
+      "Mạc Ngôn",
       "Fyodor Dostoyevsky",
-      "Nguyễn Siêu",
-      "Phạm Duy Tốn"
+      "Cao Bá Quát"
     ],
     "themes": []
   },
@@ -10127,11 +9792,9 @@ const RAW_DATA = [
     "fullName": "Tôn Thất Thuyết",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ph%E1%BB%A5_ch%C3%ADnh_%C4%91%E1%BA%A1i_th%E1%BA%A7n_T%C3%B4n_Th%E1%BA%A5t_Thuy%E1%BA%BFt.jpg",
     "relations": [
-      "Nguyễn Duy Hiệu",
-      "Nguyễn Quang Bích",
-      "Trần Xuân Soạn",
       "Tôn Thất Đạm",
-      "Đinh Công Tráng"
+      "Hoàng Diệu",
+      "Trần Xuân Soạn"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10176,10 +9839,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Saint-Sa%C3%ABns-circa-1880.jpg",
     "relations": [
-      "Adrian Le Roy",
-      "Clara Schumann",
+      "Johannes Brahms",
       "Edvard Grieg",
-      "Felix Mendelssohn"
+      "Georges Bizet"
     ]
   },
   {
@@ -10197,11 +9859,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Hoa Thám",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%C4%90%E1%BB%81_Th%C3%A1m.jpg/500px-%C4%90%E1%BB%81_Th%C3%A1m.jpg",
     "relations": [
-      "Cao Thắng",
       "Nguyễn Trung Trực",
-      "Trưng Nhị",
-      "Tăng Bạt Hổ",
-      "Tống Duy Tân"
+      "Trương Định",
+      "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10223,8 +9883,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Enomoto_Takeaki.jpg",
     "relations": [
       "Henri Rivière",
-      "Hijikata Toshizō",
-      "Takeda Shingen"
+      "Otto von Bismarck",
+      "Tôn Thất Thuyết"
     ],
     "themes": []
   },
@@ -10243,9 +9903,9 @@ const RAW_DATA = [
     "fullName": "Sakamoto Ryoma",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sakamoto_Ryoma.jpg",
     "relations": [
-      "Nezumi Kozō",
+      "Ōkubo Toshimichi",
       "Tokugawa Yoshinobu",
-      "Ōkubo Toshimichi"
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -10266,8 +9926,7 @@ const RAW_DATA = [
     "relations": [
       "Sakamoto Ryoma",
       "Thiên hoàng Minh Trị",
-      "Đặng Dung",
-      "Ōkubo Toshimichi"
+      "Duy Tân"
     ],
     "themes": []
   },
@@ -10290,7 +9949,7 @@ const RAW_DATA = [
       "Khang chien chong Phap"
     ],
     "relations": [
-      "Cầm Bá Thước",
+      "Tôn Thất Thuyết",
       "Hoàng Hoa Thám",
       "Đinh Công Tráng"
     ]
@@ -10310,9 +9969,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Trung Trực (hỏa công Nhật Tảo, bắn cháy tàu L'Espérance)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nguyen_Trung_Truc_portrait.jpg/500px-Nguyen_Trung_Truc_portrait.jpg",
     "relations": [
-      "Francis Garnier",
       "Hoàng Hoa Thám",
-      "Trương Định"
+      "Trương Định",
+      "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10333,9 +9992,9 @@ const RAW_DATA = [
     "fullName": "Paul Cézanne",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg",
     "relations": [
+      "Édouard Manet",
       "Claude Monet",
-      "Pierre-Auguste Renoir",
-      "Édouard Manet"
+      "Pierre-Auguste Renoir"
     ],
     "themes": []
   },
@@ -10354,9 +10013,9 @@ const RAW_DATA = [
     "fullName": "John D. Rockefeller",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait_of_J._D._Rockefeller.jpg/500px-Portrait_of_J._D._Rockefeller.jpg",
     "relations": [
-      "Alexandre Dumas cha",
-      "Alfred Adler",
-      "Warren Buffett"
+      "Bill Gates",
+      "Donald Trump",
+      "Alfred Adler"
     ],
     "themes": []
   },
@@ -10374,10 +10033,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Christian de Castries",
       "Henri Rivière",
-      "Hijikata Toshizō",
-      "Nguyễn Trung Trực"
+      "Nguyễn Trung Trực",
+      "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10399,11 +10057,9 @@ const RAW_DATA = [
     "fullName": "Claude Monet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Claude_Monet_1899_Nadar_crop.jpg",
     "relations": [
-      "J. M. W. Turner",
-      "Paul Cézanne",
+      "Gustav Klimt",
       "Paul Gauguin",
-      "Pierre-Auguste Renoir",
-      "Édouard Manet"
+      "Vincent van Gogh"
     ],
     "themes": []
   },
@@ -10422,11 +10078,9 @@ const RAW_DATA = [
     "fullName": "Pyotr Ilyich Tchaikovsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
     "relations": [
-      "Alexander Borodin",
-      "Anton Arensky",
-      "Feliks Nowowiejski",
-      "Joseph Haydn",
-      "Nikolai Rimsky-Korsakov"
+      "Antonín Dvořák",
+      "Robert Schumann",
+      "Maurice Ravel"
     ],
     "themes": [
       "Classical Music"
@@ -10447,9 +10101,9 @@ const RAW_DATA = [
     "fullName": "Thánh Damien đảo Molokai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Father_Damien%2C_photograph_by_William_Brigham.jpg",
     "relations": [
+      "Mother Teresa",
       "Carlos Finlay",
-      "Công nương Diana",
-      "Mother Teresa"
+      "Công nương Diana"
     ],
     "themes": []
   },
@@ -10468,9 +10122,9 @@ const RAW_DATA = [
     "fullName": "Antonín Dvořák",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Dvorak.jpg",
     "relations": [
+      "Pyotr Ilyich Tchaikovsky",
       "Johannes Brahms",
-      "Nikolai Rimsky-Korsakov",
-      "Tomas Masaryk"
+      "Jean Sibelius"
     ],
     "themes": [
       "Classical Music"
@@ -10491,9 +10145,9 @@ const RAW_DATA = [
     "fullName": "Pierre-Auguste Renoir",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/500px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
     "relations": [
+      "Paul Gauguin",
       "Claude Monet",
-      "Paul Cézanne",
-      "Paul Gauguin"
+      "Paul Cézanne"
     ],
     "themes": []
   },
@@ -10515,9 +10169,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Georges_Clemenceau_par_Nadar.jpg",
     "relations": [
-      "Mustafa Kemal Atatürk",
       "Paul von Hindenburg",
-      "Woodrow Wilson"
+      "Woodrow Wilson",
+      "Mustafa Kemal Atatürk"
     ]
   },
   {
@@ -10561,10 +10215,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Edvard_Grieg_portrait_%28cropped%29.jpg",
     "relations": [
-      "Alexander Rybak",
       "Camille Saint-Saëns",
-      "Felix Mendelssohn",
-      "Johannes Brahms"
+      "Johannes Brahms",
+      "Felix Mendelssohn"
     ]
   },
   {
@@ -10582,10 +10235,9 @@ const RAW_DATA = [
     "fullName": "Nikolai Rimsky-Korsakov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Walentin_Alexandrowitsch_Serow_004_%28cropped_3x4%29.jpg",
     "relations": [
-      "Anton Arensky",
-      "Antonín Dvořák",
-      "Mikhail Ivanovich Glinka",
-      "Pyotr Ilyich Tchaikovsky"
+      "Pyotr Ilyich Tchaikovsky",
+      "Eugène Ysaÿe",
+      "Dmitri Shostakovich"
     ],
     "themes": [
       "Classical Music"
@@ -10606,11 +10258,9 @@ const RAW_DATA = [
     "fullName": "Friedrich Nietzsche (Friedrich Wilhelm Nietzsche, Thus Spoke Zarathustra)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/500px-Nietzsche187a.jpg",
     "relations": [
-      "Johann Wolfgang von Goethe",
-      "Karl Marx",
-      "Lou Andreas-Salomé",
-      "Wilhelm Wundt",
-      "Zarathustra"
+      "Martin Heidegger",
+      "Franz Kafka",
+      "Søren Kierkegaard"
     ],
     "themes": [
       null,
@@ -10632,9 +10282,9 @@ const RAW_DATA = [
     "fullName": "Menelik II",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Emperor_Menelik_II.png",
     "relations": [
+      "Thiên hoàng Minh Trị",
       "Lê Khiết",
-      "Maximilian I của Mexico",
-      "Thiên hoàng Minh Trị"
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -10654,10 +10304,9 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Netsurf17_-_Paul_Verlaine.png",
     "relations": [
+      "Nguyễn Quang Bích",
       "Guy de Maupassant",
-      "Hector Malot",
-      "Lương Văn Can",
-      "Nguyễn Quang Bích"
+      "Hector Malot"
     ],
     "themes": []
   },
@@ -10676,11 +10325,9 @@ const RAW_DATA = [
     "fullName": "Georg Cantor",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Georg_Cantor_%28Portr%C3%A4t%29.jpg/500px-Georg_Cantor_%28Portr%C3%A4t%29.jpg",
     "relations": [
-      "Bernhard Riemann",
-      "Dmitri Mendeleev",
-      "Eugène Charles Catalan",
-      "Henri Poincaré",
-      "Laurent Simons"
+      "Alfred Nobel",
+      "Karen Horney",
+      "Hendrik Lorentz"
     ],
     "themes": []
   },
@@ -10699,11 +10346,9 @@ const RAW_DATA = [
     "fullName": "Phan Đình Phùng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Phan_%C4%90%C3%ACnh_Ph%C3%B9ng.png/500px-Portrait_of_Phan_%C4%90%C3%ACnh_Ph%C3%B9ng.png",
     "relations": [
-      "Cao Thắng",
-      "Cầm Bá Thước",
-      "Trần Xuân Soạn",
-      "Tôn Thất Đạm",
-      "Đinh Công Tráng"
+      "Tôn Thất Thuyết",
+      "Đinh Công Tráng",
+      "Cao Thắng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -10725,8 +10370,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/500px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg",
     "relations": [
       "Georges Clemenceau",
-      "Kaiser Wilhelm II",
-      "Tomas Masaryk"
+      "Woodrow Wilson",
+      "Kaiser Wilhelm II"
     ],
     "themes": [
       "World War I"
@@ -10748,10 +10393,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/500px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
     "relations": [
       "Antonio Meucci",
-      "Dmitri Mendeleev",
-      "James Clerk Maxwell",
-      "Michael Faraday",
-      "Oliver Heaviside"
+      "Nikola Tesla",
+      "Joseph John Thomson"
     ],
     "themes": []
   },
@@ -10771,7 +10414,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Paul_Gauguin_1891.png",
     "relations": [
       "Claude Monet",
-      "Jean-Antoine Watteau",
+      "Gustav Klimt",
       "Pierre-Auguste Renoir"
     ],
     "themes": []
@@ -10791,10 +10434,9 @@ const RAW_DATA = [
     "fullName": "August Strindberg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/AugustStrindberg.jpg",
     "relations": [
+      "Agnès Varda",
       "Gustav Klimt",
-      "Henrik Ibsen",
-      "Maurice Maeterlinck",
-      "Tove Jansson"
+      "Maurice Maeterlinck"
     ],
     "themes": []
   },
@@ -10813,9 +10455,9 @@ const RAW_DATA = [
     "fullName": "Ivan Pavlov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg",
     "relations": [
-      "Sigmund Freud",
-      "William Bateson",
-      "Đặng Văn Ngữ"
+      "Alexander Fleming",
+      "Đồ U U",
+      "Thomas Hunt Morgan"
     ],
     "themes": [
       "Giai Nobel"
@@ -10836,11 +10478,9 @@ const RAW_DATA = [
     "fullName": "Guy de Maupassant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Maupassant_par_Nadar.jpg/500px-Maupassant_par_Nadar.jpg",
     "relations": [
-      "Anton Chekhov",
-      "Arthur Conan Doyle",
-      "Gustave Flaubert",
       "Milan Kundera",
-      "Paul Verlaine"
+      "Italo Calvino",
+      "Arthur Conan Doyle"
     ],
     "themes": []
   },
@@ -10859,10 +10499,9 @@ const RAW_DATA = [
     "fullName": "Tomas Masaryk",
     "image": "",
     "relations": [
-      "Antonín Dvořák",
-      "Charles de Gaulle",
-      "Paul Doumer",
-      "Paul von Hindenburg"
+      "Tomáš Masaryk",
+      "Paul von Hindenburg",
+      "Charles de Gaulle"
     ],
     "themes": []
   },
@@ -10882,8 +10521,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Oheaviside.jpg/500px-Oheaviside.jpg",
     "relations": [
       "Alexander Graham Bell",
-      "Hendrik Lorentz",
-      "James Clerk Maxwell"
+      "Joseph John Thomson",
+      "Hendrik Lorentz"
     ],
     "themes": []
   },
@@ -10902,11 +10541,9 @@ const RAW_DATA = [
     "fullName": "Thiên hoàng Minh Trị",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Meiji_Emperor_%28cropped%29%28b%29.jpg",
     "relations": [
-      "Duy Tân",
       "Hirohito",
       "Mehmed II",
-      "Menelik II",
-      "Tokugawa Yoshinobu"
+      "Duy Tân"
     ],
     "themes": []
   },
@@ -10925,11 +10562,9 @@ const RAW_DATA = [
     "fullName": "Vincent van Gogh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
     "relations": [
+      "Gustav Klimt",
       "Edvard Munch",
-      "Eugène Delacroix",
-      "Henri de Toulouse-Lautrec",
-      "Maurice Maeterlinck",
-      "Niko Pirosmani"
+      "Eugène Delacroix"
     ],
     "themes": []
   },
@@ -10948,10 +10583,9 @@ const RAW_DATA = [
     "fullName": "Hendrik Lorentz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg/500px-Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg",
     "relations": [
-      "Henri Poincaré",
       "Max Planck",
-      "Nikola Tesla",
-      "Oliver Heaviside"
+      "Wilhelm Röntgen",
+      "Albert Einstein"
     ],
     "themes": [
       "Quantum Physics",
@@ -10974,10 +10608,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg/500px-Oscar_Wilde_portrait_by_Napoleon_Sarony_-_albumen.jpg",
     "relations": [
       "Bernard Shaw",
-      "H. G. Wells",
-      "Joseph Merrick",
       "Rabindranath Tagore",
-      "Saki"
+      "H. G. Wells"
     ],
     "themes": []
   },
@@ -10996,9 +10628,9 @@ const RAW_DATA = [
     "fullName": "Henri Poincaré",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PSM_V82_D416_Henri_Poincare.png/500px-PSM_V82_D416_Henri_Poincare.png",
     "relations": [
-      "Blaise Pascal",
+      "Dorothy Maud Wrinch",
       "Georg Cantor",
-      "Hendrik Lorentz"
+      "Blaise Pascal"
     ],
     "themes": []
   },
@@ -11019,8 +10651,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Hữu Cầu",
       "Nguyễn Thượng Hiền",
-      "Paul Verlaine",
-      "Vũ Phạm Hàm"
+      "Paul Verlaine"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%E1%BA%A2nh_L%C6%B0%C6%A1ng_V%C4%83n_Can.jpg/500px-%E1%BA%A2nh_L%C6%B0%C6%A1ng_V%C4%83n_Can.jpg"
@@ -11040,9 +10671,9 @@ const RAW_DATA = [
     "fullName": "Bernard Shaw",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/George_Bernard_Shaw_-_Dec_1922_Shadowland.jpg",
     "relations": [
-      "Anton Chekhov",
-      "Oscar Wilde",
-      "Rabindranath Tagore"
+      "Kawabata Yasunari",
+      "Cao Hành Kiện",
+      "Maurice Maeterlinck"
     ],
     "themes": [
       "Giai Nobel"
@@ -11063,11 +10694,9 @@ const RAW_DATA = [
     "fullName": "Sigmund Freud (Sigismund Schlomo Freud, Father of Psychoanalysis)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
     "relations": [
-      "Ivan Pavlov",
-      "Jacques Lacan",
-      "Joseph Merrick",
-      "Lou Andreas-Salomé",
-      "Wilhelm Wundt"
+      "Sándor Ferenczi",
+      "Karen Horney",
+      "Lou Andreas-Salomé"
     ],
     "themes": [
       "Psychoanalysis"
@@ -11088,10 +10717,9 @@ const RAW_DATA = [
     "fullName": "Nikola Tesla",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/500px-Tesla_circa_1890.jpeg",
     "relations": [
-      "Antonio Meucci",
-      "Hendrik Lorentz",
-      "Max Planck",
-      "Tutankhamun"
+      "Alexander Graham Bell",
+      "Joseph John Thomson",
+      "Max Planck"
     ],
     "themes": []
   },
@@ -11114,11 +10742,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
     "relations": [
-      "Abraham Lincoln",
+      "Paul von Hindenburg",
       "Georges Clemenceau",
-      "Kaiser Wilhelm II",
-      "Theodore Roosevelt",
-      "Tomáš Masaryk"
+      "Kaiser Wilhelm II"
     ]
   },
   {
@@ -11136,9 +10762,9 @@ const RAW_DATA = [
     "fullName": "Lê Khiết",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lekhiet.png/500px-Lekhiet.png",
     "relations": [
-      "Menelik II",
-      "Thành Thái",
-      "Trần Cao Vân"
+      "Đỗ Thúc Tịnh",
+      "Tự Đức",
+      "Thành Thái"
     ],
     "themes": []
   },
@@ -11157,9 +10783,9 @@ const RAW_DATA = [
     "fullName": "Theodore Roosevelt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg",
     "relations": [
-      "Franklin D. Roosevelt",
-      "Mahatma Gandhi",
-      "Woodrow Wilson"
+      "Phan Châu Trinh",
+      "Woodrow Wilson",
+      "Rama V"
     ],
     "themes": []
   },
@@ -11178,9 +10804,8 @@ const RAW_DATA = [
     "fullName": "Max Planck",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/500px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
     "relations": [
+      "Albert Einstein",
       "Hendrik Lorentz",
-      "Max Born",
-      "Nikola Tesla",
       "Wilhelm Röntgen"
     ],
     "themes": [
@@ -11205,9 +10830,9 @@ const RAW_DATA = [
     "image": "",
     "themes": [],
     "relations": [
-      "Cao Thắng",
-      "Phan Đình Phùng",
-      "Tống Duy Tân"
+      "Tôn Thất Đạm",
+      "Trần Xuân Soạn",
+      "Nguyễn Duy Hiệu"
     ]
   },
   {
@@ -11228,9 +10853,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/GiacomoPuccini.jpg",
     "relations": [
-      "Antonio Canova",
-      "Jean Sibelius",
-      "Luca Giordano"
+      "Gustav Mahler",
+      "Claude Debussy",
+      "Richard Strauss"
     ]
   },
   {
@@ -11248,9 +10873,9 @@ const RAW_DATA = [
     "fullName": "Arthur Conan Doyle",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png/500px-Arthur_Conan_Doyle_by_Walter_Benington%2C_1914.png",
     "relations": [
-      "Guy de Maupassant",
+      "William Somerset Maugham",
       "W. Somerset Maugham",
-      "William Somerset Maugham"
+      "Guy de Maupassant"
     ],
     "themes": []
   },
@@ -11270,9 +10895,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pini_PParisien_15_05.png",
     "themes": [],
     "relations": [
-      "Edward Snowden",
-      "Michel Foucault",
-      "Simone de Beauvoir"
+      "Simone de Beauvoir",
+      "Hoàng Minh Chính",
+      "Michel Foucault"
     ]
   },
   {
@@ -11295,9 +10920,8 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg",
     "relations": [
-      "Mustafa Kemal Atatürk",
       "Nikolai II",
-      "Paul von Hindenburg",
+      "Mustafa Kemal Atatürk",
       "Woodrow Wilson"
     ]
   },
@@ -11316,9 +10940,9 @@ const RAW_DATA = [
     "fullName": "Henri Bergson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bergson.jpg/500px-Bergson.jpg",
     "relations": [
-      "Henri de Saint Simon",
+      "Albert Einstein",
       "Martin Heidegger",
-      "Yves Saint-Laurent"
+      "Edmund Husserl"
     ],
     "themes": [
       "Giai Nobel"
@@ -11339,11 +10963,9 @@ const RAW_DATA = [
     "fullName": "Anton Chekhov (Anton Pavlovich Chekhov, Chekhov, Sékhov)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Anton_Chekhov_1889.jpg",
     "relations": [
-      "Bernard Shaw",
-      "Guy de Maupassant",
-      "Rabindranath Tagore",
       "W. Somerset Maugham",
-      "William Somerset Maugham"
+      "William Somerset Maugham",
+      "Guy de Maupassant"
     ],
     "themes": []
   },
@@ -11365,11 +10987,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg/500px-Photo_of_Gustav_Mahler_by_Moritz_N%C3%A4hr_01.jpg",
     "relations": [
-      "Alban Berg",
-      "Anton Webern",
-      "Charles Ives",
-      "Feliks Nowowiejski",
-      "Richard Strauss"
+      "Richard Strauss",
+      "Eugène Ysaÿe",
+      "Jean Sibelius"
     ]
   },
   {
@@ -11388,10 +11008,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1926_Rabindrath_Tagore.jpg/500px-1926_Rabindrath_Tagore.jpg",
     "relations": [
       "Anton Chekhov",
-      "Bernard Shaw",
       "Oscar Wilde",
-      "Salman Rushdie",
-      "W. Somerset Maugham"
+      "Saki"
     ],
     "themes": []
   },
@@ -11409,9 +11027,9 @@ const RAW_DATA = [
     ],
     "nationality": "Russian-German",
     "relations": [
-      "Carl Jung",
+      "Sigmund Freud",
       "Friedrich Nietzsche",
-      "Sigmund Freud"
+      "Carl Jung"
     ],
     "themes": [
       "Existentialism",
@@ -11433,10 +11051,9 @@ const RAW_DATA = [
     ],
     "nationality": "English",
     "relations": [
-      "Alexander Fleming",
-      "Ivan Pavlov",
       "Thomas Hunt Morgan",
-      "William T. G. Morton"
+      "Ivan Pavlov",
+      "Alexander Fleming"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bateson2.jpg"
@@ -11456,11 +11073,9 @@ const RAW_DATA = [
     "fullName": "Claude Debussy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg",
     "relations": [
-      "Charles Ives",
-      "Eugène Ysaÿe",
-      "Georges Bizet",
-      "John Ireland",
-      "Karl Jenkins"
+      "Maurice Ravel",
+      "Gustav Mahler",
+      "Richard Strauss"
     ],
     "themes": [
       "Classical Music"
@@ -11481,11 +11096,9 @@ const RAW_DATA = [
     "fullName": "Gustav Klimt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Klimt.jpg",
     "relations": [
-      "August Strindberg",
-      "Edvard Munch",
-      "Edward Hopper",
-      "Henri de Toulouse-Lautrec",
-      "Léon Bakst"
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Paul Gauguin"
     ],
     "themes": []
   },
@@ -11504,10 +11117,9 @@ const RAW_DATA = [
     "fullName": "Maurice Maeterlinck",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Maurice_Maeterlinck_2.jpg",
     "relations": [
-      "August Strindberg",
-      "Edvard Munch",
       "Thomas Mann",
-      "Vincent van Gogh"
+      "Jean-Paul Sartre",
+      "Ernest Hemingway"
     ],
     "themes": [
       "Giai Nobel"
@@ -11528,9 +11140,9 @@ const RAW_DATA = [
     "fullName": "Henry Ford",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/500px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png",
     "relations": [
-      "Bill Gates",
+      "Samuel Colt",
       "Michael Jackson",
-      "Samuel Colt"
+      "Bill Gates"
     ],
     "themes": []
   },
@@ -11549,10 +11161,9 @@ const RAW_DATA = [
     "fullName": "Edvard Munch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Portrait_of_Edvard_Munch_%28cropped%29.png/500px-Portrait_of_Edvard_Munch_%28cropped%29.png",
     "relations": [
-      "Gustav Klimt",
+      "Vincent van Gogh",
       "Maurice Maeterlinck",
-      "Tove Jansson",
-      "Vincent van Gogh"
+      "Gustav Klimt"
     ],
     "themes": []
   },
@@ -11573,8 +11184,7 @@ const RAW_DATA = [
     "relations": [
       "Archduke Franz Ferdinand",
       "Gavrilo Princip",
-      "Klemens von Metternich",
-      "Nikolai II"
+      "Kaiser Wilhelm II"
     ],
     "themes": [
       "World War I"
@@ -11600,8 +11210,7 @@ const RAW_DATA = [
     "relations": [
       "Franz Ferdinand",
       "Gavrilo Princip",
-      "Klemens von Metternich",
-      "Nikolai II"
+      "Woodrow Wilson"
     ]
   },
   {
@@ -11619,10 +11228,9 @@ const RAW_DATA = [
     "fullName": "Cao Thắng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cao_Th%E1%BA%AFng.jpg/500px-Cao_Th%E1%BA%AFng.jpg",
     "relations": [
-      "Aleksandr Vasilyevich Kolchak",
-      "Cầm Bá Thước",
-      "Hoàng Hoa Thám",
-      "Phan Đình Phùng"
+      "Tôn Đức Thắng",
+      "Phan Đình Phùng",
+      "Hoàng Hoa Thám"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -11664,9 +11272,9 @@ const RAW_DATA = [
     "fullName": "Henri de Toulouse-Lautrec",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/500px-Photolautrec.jpg",
     "relations": [
-      "Gustav Klimt",
+      "Niko Pirosmani",
       "Henri Matisse",
-      "Vincent van Gogh"
+      "Richard Strauss"
     ],
     "themes": []
   },
@@ -11684,9 +11292,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "E. M. Forster",
-      "Lương Văn Can",
-      "Nguyễn Thượng Hiền"
+      "Nguyễn Thượng Hiền",
+      "Saki",
+      "E. M. Forster"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/%E6%AD%A6%E7%AF%84%E8%AB%B4.jpg"
@@ -11706,11 +11314,9 @@ const RAW_DATA = [
     "fullName": "Jean Sibelius",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jean_Sibelius_circa_1898-1900_%283x4_cropped%29.jpg",
     "relations": [
-      "Giacomo Puccini",
-      "Léon Bakst",
-      "Oskar Merikanto",
-      "Selim Palmgren",
-      "Toivo Kuula"
+      "Toivo Kuula",
+      "Richard Strauss",
+      "Gustav Mahler"
     ],
     "themes": [
       "Classical Music"
@@ -11735,9 +11341,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg",
     "relations": [
-      "Bernard Montgomery",
-      "Ion Antonescu",
-      "Manfred von Richthofen"
+      "Aleksandr Vasilyevich Kolchak",
+      "Manfred von Richthofen",
+      "Ion Antonescu"
     ]
   },
   {
@@ -11755,9 +11361,9 @@ const RAW_DATA = [
     "fullName": "Trần Cao Vân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tr%E1%BA%A7n_Cao_V%C3%A2n.JPG?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
+      "Hồ Chí Minh",
       "Hàm Nghi",
-      "Lê Khiết",
-      "Trưng Trắc"
+      "Lê Khiết"
     ],
     "themes": []
   },
@@ -11776,9 +11382,8 @@ const RAW_DATA = [
     "fullName": "Tôn Trung Sơn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg/500px-%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
     "relations": [
-      "Giuseppe Garibaldi",
-      "Leon Trotsky",
-      "Rudolf Kjellén",
+      "Tống Khánh Linh",
+      "Nguyễn Hải Thần",
       "Vladimir Lenin"
     ],
     "themes": []
@@ -11799,8 +11404,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/500px-H.G._Wells_by_Beresford.jpg",
     "relations": [
       "Jules Verne",
-      "Oscar Wilde",
-      "W. Somerset Maugham"
+      "W. Somerset Maugham",
+      "E. M. Forster"
     ],
     "themes": []
   },
@@ -11819,9 +11424,9 @@ const RAW_DATA = [
     "fullName": "Léon Bakst (Lev Samoylovich Rosenberg)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/L%C3%A9on_Bakst%2C_Self-Portrait%2C_1906%2C_Tretyakov_Gallery_9077.jpg",
     "relations": [
-      "Gustav Klimt",
       "Jean Sibelius",
-      "Ottorino Respighi"
+      "Gustav Klimt",
+      "Niko Pirosmani"
     ],
     "themes": []
   },
@@ -11839,8 +11444,8 @@ const RAW_DATA = [
     ],
     "nationality": "Japanese",
     "relations": [
-      "Grigori Yefimovich Rasputin",
-      "Miyamoto Musashi",
+      "Hồng y Trịnh Văn Căn",
+      "Thích Tuệ Sỹ",
       "Đường Tam Tạng"
     ],
     "themes": [],
@@ -11861,8 +11466,8 @@ const RAW_DATA = [
     "nationality": "American",
     "relations": [
       "Alexander Fleming",
-      "Gregor Mendel",
-      "William Bateson"
+      "Đồ U U",
+      "Wilhelm Röntgen"
     ],
     "themes": [
       "Giai Nobel"
@@ -11885,7 +11490,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Natsume_Soseki_photo.jpg",
     "relations": [
       "Marcel Proust",
-      "Thomas Mann",
+      "Willa Cather",
       "William Somerset Maugham"
     ],
     "themes": []
@@ -11905,10 +11510,8 @@ const RAW_DATA = [
     "fullName": "Phan Bội Châu (Phan Boi Chau, Sào Nam, ông già Bến Ngự)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mr._Phan_Boi_Chau.jpg/500px-Mr._Phan_Boi_Chau.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Nguyễn Hải Thần",
+      "Hồ Chí Minh",
       "Nguyễn Văn Cừ",
-      "Phạm Duy Tốn",
-      "Phạm Hồng Thái",
       "Tăng Bạt Hổ"
     ],
     "themes": [
@@ -11930,11 +11533,9 @@ const RAW_DATA = [
     "fullName": "Marie Curie",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg",
     "relations": [
-      "Dorothy Maud Wrinch",
-      "Linus Pauling",
-      "Rosalind Franklin",
-      "Wilhelm Röntgen",
-      "Đồ U U"
+      "Ernest Rutherford",
+      "Max Planck",
+      "Albert Einstein"
     ],
     "themes": [
       "Quantum Physics",
@@ -11956,10 +11557,9 @@ const RAW_DATA = [
     "fullName": "Nikolai II (Nicholas II)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mikola_II_%28cropped%29-2.jpg",
     "relations": [
-      "Archduke Franz Ferdinand",
-      "Franz Ferdinand",
       "Kaiser Wilhelm II",
-      "Thành Thái"
+      "Vladimir Lenin",
+      "Leon Trotsky"
     ],
     "themes": [
       "World War I"
@@ -11980,10 +11580,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lương Văn Can",
-      "Marcel Proust",
       "Nguyễn Hữu Cầu",
-      "Vũ Phạm Hàm"
+      "Saki",
+      "Lương Văn Can"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nguyen_Thuong_Hien.jpg"
@@ -12003,7 +11602,7 @@ const RAW_DATA = [
     "fullName": "Mahatma Gandhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
     "relations": [
-      "Indira Gandhi",
+      "Hàm Nghi",
       "Phan Châu Trinh",
       "Theodore Roosevelt"
     ],
@@ -12024,9 +11623,9 @@ const RAW_DATA = [
     "fullName": "Grigori Yefimovich Rasputin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rasputin_PA.jpg",
     "relations": [
-      "Ekai Kawaguchi",
-      "Phạm Công Tắc",
-      "Đổng Trác"
+      "Nguyễn Thiên Tích",
+      "Đổng Trác",
+      "Phạm Công Tắc"
     ],
     "themes": []
   },
@@ -12046,7 +11645,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg/500px-Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg",
     "relations": [
       "Clara Schumann",
-      "Henri de Toulouse-Lautrec",
+      "Gustav Klimt",
       "Pablo Picasso"
     ],
     "themes": []
@@ -12066,9 +11665,9 @@ const RAW_DATA = [
     "fullName": "Vladimir Lenin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lenin_in_1920_%28cropped%29.jpg",
     "relations": [
-      "Joseph Stalin",
       "Leon Trotsky",
-      "Tôn Trung Sơn"
+      "Joseph Stalin",
+      "Nikolai II"
     ],
     "themes": [
       "World War I"
@@ -12093,11 +11692,9 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Claude Lévi-Strauss",
-      "Francis Bacon",
-      "Henry Dunant",
-      "John D. Rockefeller",
-      "Madame de Maintenon"
+      "Karen Horney",
+      "Sándor Ferenczi",
+      "Otto Rank"
     ]
   },
   {
@@ -12115,11 +11712,9 @@ const RAW_DATA = [
     "fullName": "Marcel Proust (Valentin Louis Georges Eugène Marcel Proust)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Otto_Wegener_Proust_vers_1895_bis.jpg/500px-Otto_Wegener_Proust_vers_1895_bis.jpg",
     "relations": [
+      "Virginia Woolf",
       "Andre Maurois",
-      "Natsume Sōseki",
-      "Nguyễn Huy Thiệp",
-      "Nguyễn Thượng Hiền",
-      "Phan Kế Bính"
+      "E. M. Forster"
     ],
     "themes": []
   },
@@ -12138,11 +11733,9 @@ const RAW_DATA = [
     "fullName": "Hàm Nghi (Nguyễn Phúc Ưng Lịch, Ham Nghi, vua yêu nước)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg/500px-Vua_H%C3%A0m_Nghi_n%C4%83m_1900.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Nguyễn Duy Hiệu",
-      "Phạm Như Xương",
-      "Trần Cao Vân",
-      "Trần Xuân Soạn",
-      "Tôn Thất Đạm"
+      "Tôn Đức Thắng",
+      "Duy Tân",
+      "Cao Thắng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -12163,11 +11756,9 @@ const RAW_DATA = [
     "fullName": "Bertrand Russell (Bertrand Arthur William Russell)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bertrand_Russell_smoking_in_1936.jpg/500px-Bertrand_Russell_smoking_in_1936.jpg",
     "relations": [
-      "Alexius Meinong",
-      "Izydora Dąmbska",
-      "John Duns Scotus",
-      "Kurt Gödel",
-      "Otto Weininger"
+      "Edmund Husserl",
+      "Kazimierz Twardowski",
+      "Gilles Deleuze"
     ],
     "themes": []
   },
@@ -12186,11 +11777,9 @@ const RAW_DATA = [
     "fullName": "Phan Châu Trinh (Phan Chau Trinh, Tây Hồ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Phan_Chau_Trinh.jpg/500px-Phan_Chau_Trinh.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Mahatma Gandhi",
-      "Paul Doumer",
-      "Phạm Như Xương",
-      "Tutankhamun",
-      "Tăng Bạt Hổ"
+      "Tạ Thu Thâu",
+      "Tăng Bạt Hổ",
+      "Hàm Nghi"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -12211,10 +11800,9 @@ const RAW_DATA = [
     "fullName": "Sergei Rachmaninoff",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg",
     "relations": [
-      "Emil Gilels",
+      "Johannes Brahms",
       "Frédéric Chopin",
-      "Igor Stravinsky",
-      "Johannes Brahms"
+      "Igor Stravinsky"
     ],
     "themes": []
   },
@@ -12237,9 +11825,9 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Bạch Thái Bưởi",
-      "Martin Luther",
-      "Otto Rank"
+      "Otto Rank",
+      "Alfred Adler",
+      "Karen Horney"
     ]
   },
   {
@@ -12257,10 +11845,9 @@ const RAW_DATA = [
     "fullName": "Aleksandr Vasilyevich Kolchak",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Kolchak.jpg",
     "relations": [
-      "Cao Thắng",
-      "Douglas MacArthur",
-      "Joseph Stalin",
-      "Mikhail Timofeyevich Kalashnikov"
+      "Ion Antonescu",
+      "Erich Ludendorff",
+      "Bernard Montgomery"
     ],
     "themes": [
       "World War I"
@@ -12281,10 +11868,9 @@ const RAW_DATA = [
     "fullName": "Winston Churchill",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg",
     "relations": [
+      "Mustafa Kemal Atatürk",
       "Benito Mussolini",
-      "Carl Gustaf Emil Mannerheim",
-      "Kurt von Schleicher",
-      "Mustafa Kemal Atatürk"
+      "Franklin D. Roosevelt"
     ],
     "themes": [
       "World War II",
@@ -12306,10 +11892,9 @@ const RAW_DATA = [
     "fullName": "William Somerset Maugham",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Somerset_Maugham_%281934%29.jpg/500px-Somerset_Maugham_%281934%29.jpg",
     "relations": [
-      "Anton Chekhov",
-      "Arthur Conan Doyle",
-      "F. Scott Fitzgerald",
-      "Natsume Sōseki"
+      "W. Somerset Maugham",
+      "E. M. Forster",
+      "Anton Chekhov"
     ],
     "themes": []
   },
@@ -12328,11 +11913,9 @@ const RAW_DATA = [
     "fullName": "William Somerset Maugham (W. Somerset Maugham)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Somerset_Maugham_%281934%29.jpg/500px-Somerset_Maugham_%281934%29.jpg",
     "relations": [
+      "William Somerset Maugham",
       "Anton Chekhov",
-      "Arthur Conan Doyle",
-      "H. G. Wells",
-      "Rabindranath Tagore",
-      "William Shakespeare"
+      "E. M. Forster"
     ],
     "themes": []
   },
@@ -12350,11 +11933,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "David Beckham",
-      "Hjalmar Schacht",
-      "John Maynard Keynes",
       "Lee Byung-chul",
-      "Sándor Ferenczi"
+      "Phan Khôi",
+      "Vũ Khắc Khoan"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/vi/7/76/B%E1%BA%A1ch_Th%C3%A1i_B%C6%B0%E1%BB%9Fi.jpg"
@@ -12374,11 +11955,9 @@ const RAW_DATA = [
     "fullName": "Maurice Ravel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maurice_Ravel_1925.jpg",
     "relations": [
-      "Charlie Chaplin",
-      "Eugène Ysaÿe",
-      "Georges Bizet",
-      "John Ireland",
-      "Ottorino Respighi"
+      "Pyotr Ilyich Tchaikovsky",
+      "Frédéric Chopin",
+      "Robert Schumann"
     ],
     "themes": [
       "Classical Music"
@@ -12399,10 +11978,9 @@ const RAW_DATA = [
     "fullName": "Carl Jung (Carl Gustav Jung, Analytical Psychology, Collective Unconscious)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif/lossy-page1-500px-ETH-BIB-Jung%2C_Carl_Gustav_%281875-1961%29-Portrait-Portr_14163_%28cropped%29.tif.jpg",
     "relations": [
-      "Donald Winnicott",
-      "Jacob Bernoulli",
+      "Melanie Klein",
       "Lou Andreas-Salomé",
-      "Melanie Klein"
+      "Donald Winnicott"
     ],
     "themes": [
       "Psychoanalysis"
@@ -12423,10 +12001,9 @@ const RAW_DATA = [
     "fullName": "Gerd von Rundstedt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bundesarchiv_Bild_183-S37772%2C_Gerd_v._Rundstedt_%28cropped%29.jpg",
     "relations": [
-      "Bernard Montgomery",
-      "Erwin von Witzleben",
       "Fedor von Bock",
-      "Jean de Lattre de Tassigny"
+      "Bernard Montgomery",
+      "Carl Gustaf Emil Mannerheim"
     ],
     "themes": [
       "World War II"
@@ -12447,9 +12024,9 @@ const RAW_DATA = [
     "fullName": "Aleister Crowley",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aleister_Crowley%2C_thinker.jpg/500px-Aleister_Crowley%2C_thinker.jpg",
     "relations": [
-      "Mother Teresa",
-      "Ngô Bảo Châu",
-      "Simo Häyhä"
+      "Maria Gaetana Agnesi",
+      "Simo Häyhä",
+      "Mother Teresa"
     ],
     "themes": []
   },
@@ -12468,9 +12045,9 @@ const RAW_DATA = [
     "fullName": "Phan Kế Bính",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Portrait_of_Phan_K%E1%BA%BF_B%C3%ADnh_%28cropped%29.jpg",
     "relations": [
-      "Marcel Proust",
-      "Nguyễn Hữu Cầu",
-      "Virginia Woolf"
+      "Phạm Duy Tốn",
+      "Phan Khôi",
+      "Hồ Biểu Chánh"
     ],
     "themes": []
   },
@@ -12489,10 +12066,9 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thomas_Mann_1929.jpg",
     "relations": [
-      "Jack London",
+      "Kawabata Yasunari",
       "Maurice Maeterlinck",
-      "Natsume Sōseki",
-      "Nikos Kazantzakis"
+      "Ernest Hemingway"
     ],
     "themes": [
       "Giai Nobel"
@@ -12513,10 +12089,9 @@ const RAW_DATA = [
     "fullName": "Jack London",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jack_London_young.jpg/500px-Jack_London_young.jpg",
     "relations": [
-      "Daniel Defoe",
-      "E. M. Forster",
       "Fyodor Dostoyevsky",
-      "Thomas Mann"
+      "E. M. Forster",
+      "Daniel Defoe"
     ],
     "themes": []
   },
@@ -12535,9 +12110,9 @@ const RAW_DATA = [
     "fullName": "Huỳnh Thúc Kháng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Portrait_of_Mr._Hu%E1%BB%B3nh_Th%C3%BAc_Kh%C3%A1ng.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
-      "Ngô Tử Hạ",
-      "Trưng Nhị",
-      "Tôn Đức Thắng"
+      "Nguyễn Hải Thần",
+      "Hồ Chí Minh",
+      "Bùi Bằng Đoàn"
     ],
     "themes": []
   },
@@ -12578,9 +12153,9 @@ const RAW_DATA = [
     "fullName": "Lise Meitner",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lise_Meitner_NatGeo.jpg/500px-Lise_Meitner_NatGeo.jpg",
     "relations": [
-      "Enrico Fermi",
-      "Pavel Alekseyevich Cherenkov",
-      "Peter Debye"
+      "Albert Einstein",
+      "Peter Debye",
+      "Ernest Rutherford"
     ],
     "themes": [
       "Quantum Physics"
@@ -12606,11 +12181,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
     "relations": [
-      "Aleksandr Vasilyevich Kolchak",
-      "Lavrenty Pavlovich Beria",
+      "Vladimir Lenin",
       "Leon Trotsky",
-      "Leonid Ilyich Brezhnev",
-      "Vladimir Lenin"
+      "Adolf Hitler"
     ]
   },
   {
@@ -12628,7 +12201,7 @@ const RAW_DATA = [
     "fullName": "Ottorino Respighi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ottorino_Respighi%2C_1927_%28cropped%29.jpg",
     "relations": [
-      "Léon Bakst",
+      "Frédéric Chopin",
       "Maurice Ravel",
       "Robert Schumann"
     ],
@@ -12650,9 +12223,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Emperor_Thanh_Thai_in_court_costume_%28colored%29.jpg",
     "relations": [
       "Khải Định",
-      "Lê Khiết",
-      "Nikolai II",
-      "Rama V"
+      "Bùi Bằng Đoàn",
+      "Tự Đức"
     ],
     "themes": []
   },
@@ -12671,10 +12243,9 @@ const RAW_DATA = [
     "fullName": "Leon Trotsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
     "relations": [
+      "Vladimir Lenin",
       "Joseph Stalin",
-      "Martin Luther",
-      "Tôn Trung Sơn",
-      "Vladimir Lenin"
+      "Nikolai II"
     ],
     "themes": [
       "World War I"
@@ -12695,11 +12266,9 @@ const RAW_DATA = [
     "fullName": "Albert Einstein (Theory of Relativity, E=mc²)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/500px-Albert_Einstein_Head_cleaned.jpg",
     "relations": [
-      "Dorothy Maud Wrinch",
-      "Linus Pauling",
-      "Remo Ruffini",
-      "Rosalind Franklin",
-      "Wilhelm Röntgen"
+      "J. Robert Oppenheimer",
+      "Niels Bohr",
+      "Max Planck"
     ],
     "themes": [
       "Quantum Physics",
@@ -12721,9 +12290,9 @@ const RAW_DATA = [
     "fullName": "Kazimir Malevich",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Casimir_Malevich_photo.jpg",
     "relations": [
-      "Igor Stravinsky",
       "Pablo Picasso",
-      "Sergei Prokofiev"
+      "John Cage",
+      "Arnold Schönberg"
     ],
     "themes": []
   },
@@ -12742,11 +12311,9 @@ const RAW_DATA = [
     "fullName": "E. M. Forster (Edward Morgan Forster)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/E._M._Forster_von_Dora_Carrington%2C_1924-25.jpg/500px-E._M._Forster_von_Dora_Carrington%2C_1924-25.jpg",
     "relations": [
-      "Agatha Christie",
-      "Jack London",
-      "Matsuo Bashō",
-      "Nikos Kazantzakis",
-      "Vũ Phạm Hàm"
+      "Virginia Woolf",
+      "Marcel Proust",
+      "Alexandre Dumas con"
     ],
     "themes": []
   },
@@ -12770,8 +12337,7 @@ const RAW_DATA = [
     "relations": [
       "Adolf Hitler",
       "Kurt von Schleicher",
-      "Rudolf Hess",
-      "Trần Trọng Kim"
+      "Rudolf Hess"
     ]
   },
   {
@@ -12791,7 +12357,7 @@ const RAW_DATA = [
     "relations": [
       "Lương Văn Can",
       "Nguyễn Thượng Hiền",
-      "Phan Kế Bính"
+      "Phan Khôi"
     ],
     "themes": []
   },
@@ -12810,9 +12376,9 @@ const RAW_DATA = [
     "fullName": "Douglas MacArthur (I shall return)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MacArthur_Manila_%28cropped2%29.jpg",
     "relations": [
-      "Aleksandr Vasilyevich Kolchak",
+      "Ion Antonescu",
       "Fedor von Bock",
-      "George S. Patton"
+      "Joseph Stalin"
     ],
     "themes": [
       "World War II"
@@ -12833,11 +12399,9 @@ const RAW_DATA = [
     "fullName": "Fedor von Bock",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bundesarchiv_Bild_146-1977-120-11%2C_Fedor_von_Bock.jpg",
     "relations": [
-      "Bernard Montgomery",
-      "Douglas MacArthur",
       "Gerd von Rundstedt",
-      "Richard Sư Tử Tâm",
-      "Walter Model"
+      "Walter Model",
+      "Bernard Montgomery"
     ],
     "themes": [
       "World War II"
@@ -12859,9 +12423,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Otto_Weininger.jpg",
     "themes": [],
     "relations": [
-      "Bertrand Russell",
-      "Julia Kristeva",
-      "Martin Heidegger"
+      "Jan Łukasiewicz",
+      "Stanisław Leśniewski",
+      "Tadeusz Kotarbiński"
     ]
   },
   {
@@ -12879,11 +12443,9 @@ const RAW_DATA = [
     "fullName": "Pablo Picasso (Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Crispiniano María Remedios de la Santísima Trinidad Ruiz Picasso)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg",
     "relations": [
-      "Henri Matisse",
-      "Ingrid Bergman",
-      "Jean-Antoine Watteau",
+      "Igor Stravinsky",
       "Kazimir Malevich",
-      "Niko Pirosmani"
+      "Sergei Prokofiev"
     ],
     "themes": []
   },
@@ -12902,11 +12464,9 @@ const RAW_DATA = [
     "fullName": "Sir Alexander Fleming",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/500px-Synthetic_Production_of_Penicillin_TR1468.jpg",
     "relations": [
-      "David Rosenhan",
-      "Hamma Alloh",
+      "Đồ U U",
       "Thomas Hunt Morgan",
-      "William Bateson",
-      "Đồ U U"
+      "Wilhelm Röntgen"
     ],
     "themes": [
       "Giai Nobel"
@@ -12927,9 +12487,9 @@ const RAW_DATA = [
     "fullName": "Erwin von Witzleben",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Erwin_v._Witzleben_%283x4_cropped%29.jpg",
     "relations": [
-      "Erich von Manstein",
+      "Günther von Kluge",
       "Gerd von Rundstedt",
-      "Günther von Kluge"
+      "Erich von Manstein"
     ],
     "themes": [
       "World War II"
@@ -12953,9 +12513,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bart%C3%B3k_B%C3%A9la_1927.jpg",
     "relations": [
-      "Arthur Rubinstein",
+      "Frédéric Chopin",
       "Igor Stravinsky",
-      "Katalin Karikó"
+      "Arthur Rubinstein"
     ]
   },
   {
@@ -12978,9 +12538,8 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Portret_van_de_Turkse_leider_Mustafa_Kemal_Ataturk_%28Atat%C3%BCrk_Kemal_Pascha%29_%281881-1938%29_in_westers%2C_SFA003017837.jpg",
     "relations": [
-      "Georges Clemenceau",
-      "Ion Antonescu",
-      "Kaiser Wilhelm II",
+      "Harry Truman",
+      "Charles de Gaulle",
       "Winston Churchill"
     ]
   },
@@ -12999,11 +12558,9 @@ const RAW_DATA = [
     "fullName": "Igor Stravinsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg",
     "relations": [
-      "Arthur Rubinstein",
-      "Béla Bartók",
-      "Jacqueline du Pré",
-      "Kazimir Malevich",
-      "Sergei Rachmaninoff"
+      "Frédéric Chopin",
+      "Sergei Prokofiev",
+      "Béla Bartók"
     ],
     "themes": [
       "Classical Music"
@@ -13024,10 +12581,9 @@ const RAW_DATA = [
     "fullName": "Melanie Klein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Melanie_Klein_1952.jpg/500px-Melanie_Klein_1952.jpg",
     "relations": [
-      "Carl Jung",
       "Donald Winnicott",
-      "Lev Vygotsky",
-      "Wilhelm Reich"
+      "Anna Freud",
+      "Carl Jung"
     ],
     "themes": [
       "Psychoanalysis"
@@ -13049,9 +12605,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bundesarchiv_Bild_146-1973-139-14%2C_G%C3%BCnther_v._Kluge_%28cropped%29.jpg",
     "relations": [
       "Aleksandr Mikhailovich Vasilevsky",
-      "Erwin von Witzleben",
-      "Wilhelm Keitel",
-      "Yamamoto Isoroku"
+      "Yamamoto Isoroku",
+      "Wilhelm Keitel"
     ],
     "themes": [
       "World War II"
@@ -13073,8 +12628,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bundesarchiv_Bild_183-H30220%2C_Wilhelm_Keitel_%28cropped%29.jpg",
     "relations": [
       "Erwin Rommel",
-      "Günther von Kluge",
-      "Yamamoto Isoroku"
+      "Yamamoto Isoroku",
+      "Aleksandr Mikhailovich Vasilevsky"
     ],
     "themes": [
       "World War II"
@@ -13095,11 +12650,9 @@ const RAW_DATA = [
     "fullName": "Ion Antonescu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ion_Antonescu_1941.jpg/500px-Ion_Antonescu_1941.jpg",
     "relations": [
-      "Erich Ludendorff",
-      "Hermann Göring",
-      "Manfred von Richthofen",
-      "Mustafa Kemal Atatürk",
-      "T. E. Lawrence"
+      "Bernard Montgomery",
+      "Carl Gustaf Emil Mannerheim",
+      "Douglas MacArthur"
     ],
     "themes": [
       "World War I",
@@ -13121,11 +12674,9 @@ const RAW_DATA = [
     "fullName": "Franklin D. Roosevelt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
     "relations": [
-      "Carl Gustaf Emil Mannerheim",
-      "Claire Lee Chennault",
-      "Dwight D. Eisenhower",
       "Harry Truman",
-      "Theodore Roosevelt"
+      "Charles de Gaulle",
+      "Dwight D. Eisenhower"
     ],
     "themes": [
       "World War II"
@@ -13147,9 +12698,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bundesarchiv_Bild_183-B0527-0001-020%2C_Kurt_von_Schleicher_%28cropped%29%282%29.jpg",
     "relations": [
       "Franz von Papen",
-      "Otto Strasser",
-      "Rudolf Hess",
-      "Winston Churchill"
+      "Adolf Hitler",
+      "Rudolf Hess"
     ],
     "themes": [
       "World War II"
@@ -13170,9 +12720,9 @@ const RAW_DATA = [
     "fullName": "Arthur Eddington",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arthur_Stanley_Eddington.jpg/500px-Arthur_Stanley_Eddington.jpg",
     "relations": [
-      "Anna Anderson",
-      "Srinivasa Ramanujan",
-      "Werner Israel"
+      "Dorothy Maud Wrinch",
+      "Albert Einstein",
+      "Karen Horney"
     ],
     "themes": []
   },
@@ -13191,10 +12741,9 @@ const RAW_DATA = [
     "fullName": "Edward Hopper",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg/500px-Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg",
     "relations": [
-      "Buster Keaton",
-      "Eminem",
+      "Pablo Picasso",
       "Gustav Klimt",
-      "Sofia Coppola"
+      "Claude Monet"
     ],
     "themes": []
   },
@@ -13213,9 +12762,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Bùi Bằng Đoàn",
       "Huỳnh Thúc Kháng",
-      "Hồng y Trịnh Như Khuê",
-      "Trần Trọng Kim"
+      "Tôn Đức Thắng"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Mr._Ng%C3%B4_T%E1%BB%AD_H%E1%BA%A1.jpg"
@@ -13235,9 +12784,9 @@ const RAW_DATA = [
     "fullName": "John Maynard Keynes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/John_Maynard_Keynes_%281929%29.jpg/500px-John_Maynard_Keynes_%281929%29.jpg",
     "relations": [
-      "Bạch Thái Bưởi",
       "Hjalmar Schacht",
-      "Nguyễn Sơn Hà"
+      "Bạch Thái Bưởi",
+      "Italo Calvino"
     ],
     "themes": []
   },
@@ -13256,9 +12805,9 @@ const RAW_DATA = [
     "fullName": "Franz Kafka",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/500px-Franz_Kafka%2C_1923.jpg",
     "relations": [
-      "Albert Camus",
-      "Arthur Schopenhauer",
-      "Søren Kierkegaard"
+      "Martin Heidegger",
+      "Friedrich Nietzsche",
+      "Fyodor Dostoyevsky"
     ],
     "themes": [
       null,
@@ -13301,8 +12850,8 @@ const RAW_DATA = [
     "fullName": "Trần Trọng Kim",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mr._Tran_Trong_Kim.jpg",
     "relations": [
-      "Adolf Hitler",
       "Franz von Papen",
+      "Adolf Hitler",
       "Ngô Tử Hạ"
     ],
     "themes": []
@@ -13322,10 +12871,9 @@ const RAW_DATA = [
     "fullName": "Benito Mussolini",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
     "relations": [
-      "Dwight D. Eisenhower",
-      "Francisco Franco",
-      "Justin Trudeau",
-      "Winston Churchill"
+      "Adolf Hitler",
+      "Harry Truman",
+      "Charles de Gaulle"
     ],
     "themes": [
       "World War II"
@@ -13347,8 +12895,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Franklin D. Roosevelt",
-      "George Washington",
-      "Richard Nixon"
+      "Dwight D. Eisenhower",
+      "Benito Mussolini"
     ],
     "themes": [
       "World War II"
@@ -13369,9 +12917,9 @@ const RAW_DATA = [
     "fullName": "Peter Debye",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Debye100.jpg",
     "relations": [
-      "Johannes Gutenberg",
-      "Lise Meitner",
-      "Niels Bohr"
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "Max Born"
     ],
     "themes": [
       "Quantum Physics",
@@ -13396,11 +12944,9 @@ const RAW_DATA = [
       "World War II"
     ],
     "relations": [
-      "Aleksandr Mikhailovich Vasilevsky",
-      "Günther von Kluge",
-      "Hideki Tojo",
-      "Mikhail Tukhachevsky",
-      "Wilhelm Keitel"
+      "Wilhelm Keitel",
+      "Erich von Manstein",
+      "Erwin Rommel"
     ]
   },
   {
@@ -13424,8 +12970,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hideki_Tojo_Portrait_1941_%283x4_cropped%29%282%29.jpg",
     "relations": [
       "Heinz Guderian",
-      "Joseph Goebbels",
-      "Yamamoto Isoroku"
+      "Yamamoto Isoroku",
+      "George S. Patton"
     ]
   },
   {
@@ -13447,9 +12993,9 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Anna Freud",
       "Sándor Ferenczi",
-      "Wilhelm Reich"
+      "Alfred Adler",
+      "Anna Freud"
     ]
   },
   {
@@ -13467,11 +13013,9 @@ const RAW_DATA = [
     "fullName": "Niels Bohr",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/500px-Niels_Bohr.jpg",
     "relations": [
-      "Erwin Schrödinger",
-      "Joseph John Thomson",
-      "Lev Landau",
-      "Max Born",
-      "Peter Debye"
+      "Albert Einstein",
+      "Enrico Fermi",
+      "Hans Bethe"
     ],
     "themes": [
       "Quantum Physics",
@@ -13496,8 +13040,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Duy Tân",
-      "Lê Văn Thịnh",
-      "Tôn Đức Thắng"
+      "Tôn Đức Thắng",
+      "Hàm Nghi"
     ],
     "themes": []
   },
@@ -13516,9 +13060,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Khai_Dinh_throne.jpg/500px-Khai_Dinh_throne.jpg",
     "relations": [
-      "Lê Đại Hành",
-      "Nguyễn Hy",
-      "Thành Thái"
+      "Thành Thái",
+      "Tự Đức",
+      "Nguyễn Hy"
     ],
     "themes": []
   },
@@ -13540,9 +13084,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/General_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg",
     "relations": [
+      "Heinz Guderian",
       "Douglas MacArthur",
-      "Erich von Manstein",
-      "Heinz Guderian"
+      "Claire Lee Chennault"
     ]
   },
   {
@@ -13565,11 +13109,9 @@ const RAW_DATA = [
       "Feminism Movement"
     ],
     "relations": [
-      "Anna Freud",
-      "David Rosenhan",
-      "Edwin Hubble",
-      "Jacques Lacan",
-      "Laurent Simons"
+      "Erich Fromm",
+      "Alfred Adler",
+      "Sándor Ferenczi"
     ]
   },
   {
@@ -13588,9 +13130,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bundesarchiv_Bild_183-H01757%2C_Erich_von_Manstein.jpg",
     "relations": [
       "Erwin Rommel",
-      "Erwin von Witzleben",
-      "George S. Patton",
-      "Heinz Guderian"
+      "Yamamoto Isoroku",
+      "Claire Lee Chennault"
     ],
     "themes": [
       "World War II"
@@ -13611,9 +13152,9 @@ const RAW_DATA = [
     "fullName": "Tưởng Giới Thạch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
     "relations": [
-      "Adolf Hitler",
-      "Claire Lee Chennault",
-      "Hammurabi"
+      "Tống Mỹ Linh",
+      "Tưởng Kinh Quốc",
+      "Mao Trạch Đông"
     ],
     "themes": []
   },
@@ -13632,9 +13173,9 @@ const RAW_DATA = [
     "fullName": "Erwin Schrödinger",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg/500px-Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg",
     "relations": [
-      "Alexander Friedmann",
-      "Niels Bohr",
-      "Wolfgang Pauli"
+      "Albert Einstein",
+      "Wolfgang Pauli",
+      "Niels Bohr"
     ],
     "themes": [
       "Quantum Physics",
@@ -13660,11 +13201,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/General_Sir_Bernard_Montgomery_in_England%2C_1943_TR1036_%28cropped%29.jpg",
     "relations": [
-      "Erich Ludendorff",
-      "Fedor von Bock",
+      "Ion Antonescu",
       "Gerd von Rundstedt",
-      "Manfred von Richthofen",
-      "T. E. Lawrence"
+      "Fedor von Bock"
     ]
   },
   {
@@ -13681,8 +13220,8 @@ const RAW_DATA = [
     ],
     "nationality": "Indian",
     "relations": [
-      "Alexander Friedmann",
       "Arthur Eddington",
+      "Dorothy Maud Wrinch",
       "Werner Heisenberg"
     ],
     "themes": [],
@@ -13703,11 +13242,9 @@ const RAW_DATA = [
     "fullName": "Arthur Rubinstein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Arthur_Rubinstein.jpg/500px-Arthur_Rubinstein.jpg",
     "relations": [
-      "Béla Bartók",
+      "Frédéric Chopin",
       "Igor Stravinsky",
-      "Jacqueline du Pré",
-      "Louis Armstrong",
-      "Marina Abramovic"
+      "Béla Bartók"
     ],
     "themes": [
       "Classical Music"
@@ -13728,11 +13265,9 @@ const RAW_DATA = [
     "fullName": "Heinz Guderian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Heinz_Guderian_portrait.jpg",
     "relations": [
-      "Carl von Clausewitz",
-      "Erich von Manstein",
       "George S. Patton",
       "Hideki Tojo",
-      "Mikhail Tukhachevsky"
+      "Douglas MacArthur"
     ],
     "themes": [
       "World War II"
@@ -13777,10 +13312,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Aleksandr_Fridman.png",
     "relations": [
       "Edwin Hubble",
-      "Erich Fromm",
-      "Erwin Schrödinger",
-      "Lev Landau",
-      "Srinivasa Ramanujan"
+      "Bernhard Riemann",
+      "Dorothy Maud Wrinch"
     ],
     "themes": []
   },
@@ -13799,10 +13332,9 @@ const RAW_DATA = [
     "fullName": "Charlie Chaplin (Sạc-lô)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg",
     "relations": [
-      "Bong Joon-ho",
-      "Buster Keaton",
-      "Ingrid Bergman",
-      "Maurice Ravel"
+      "Maurice Ravel",
+      "Agnès Varda",
+      "Bong Joon-ho"
     ],
     "themes": []
   },
@@ -13821,11 +13353,9 @@ const RAW_DATA = [
     "fullName": "Martin Heidegger (Being and Time)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Freiburg%2C_Z%C3%A4hringen-_Jahnhalle%2C_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_%28cropped%29.jpeg",
     "relations": [
-      "Edmund Husserl",
+      "Hans-Georg Gadamer",
       "Henri Bergson",
-      "Jürgen Habermas",
-      "Otto Weininger",
-      "Søren Kierkegaard"
+      "Jürgen Habermas"
     ],
     "themes": [
       null,
@@ -13847,11 +13377,9 @@ const RAW_DATA = [
     "fullName": "Adolf Hitler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/500px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
     "relations": [
-      "Franz von Papen",
-      "Oskar Schindler",
-      "Rudolf Hess",
-      "Trần Trọng Kim",
-      "Tưởng Giới Thạch"
+      "Heinrich Himmler",
+      "Benito Mussolini",
+      "Hermann Göring"
     ],
     "themes": [
       "World War II"
@@ -13872,10 +13400,9 @@ const RAW_DATA = [
     "fullName": "Edwin Hubble",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG/500px-Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG",
     "relations": [
+      "Galileo Galilei",
       "Alexander Friedmann",
-      "John Nash",
-      "Karen Horney",
-      "Pavel Alekseyevich Cherenkov"
+      "Albert Einstein"
     ],
     "themes": []
   },
@@ -13893,9 +13420,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hồ Biểu Chánh",
-      "Phạm Duy Tốn",
-      "Thế Lữ"
+      "Phan Khôi",
+      "Thế Lữ",
+      "Xuân Diệu"
     ],
     "themes": [
       "Tho Moi"
@@ -13916,10 +13443,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Cù Chính Lan",
-      "Gerd von Rundstedt",
       "Henri Navarre",
-      "Philippe Leclerc"
+      "Philippe Leclerc",
+      "Charles de Gaulle"
     ],
     "themes": [
       "World War II",
@@ -13942,10 +13468,9 @@ const RAW_DATA = [
     "fullName": "Robert Ley",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Robert_Ley_%28cropped%29.jpg/500px-Robert_Ley_%28cropped%29.jpg",
     "relations": [
+      "Reinhard Heydrich",
       "Arthur Seyss-Inquart",
-      "Bảy Viễn",
-      "J. Edgar Hoover",
-      "Reinhard Heydrich"
+      "Klaus Fuchs"
     ],
     "themes": [
       "World War II"
@@ -13966,10 +13491,9 @@ const RAW_DATA = [
     "fullName": "Agatha Christie",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Agatha_Christie_in_Nederland_%28detectiveschrijfster%29%2C_bij_aankomst_op_Schiphol_me%2C_Bestanddeelnr_916-8898_%28cropped%29.jpg/500px-Agatha_Christie_in_Nederland_%28detectiveschrijfster%29%2C_bij_aankomst_op_Schiphol_me%2C_Bestanddeelnr_916-8898_%28cropped%29.jpg",
     "relations": [
-      "Ayn Rand",
       "E. M. Forster",
-      "Khái Hưng",
-      "Louis Aragon"
+      "Andre Maurois",
+      "Khái Hưng"
     ],
     "themes": []
   },
@@ -13988,11 +13512,9 @@ const RAW_DATA = [
     "fullName": "Hồ Chí Minh (Nguyễn Sinh Cung, Nguyễn Tất Thành, Nguyễn Ái Quốc, Văn Ba, Lý Thụy, Hồ Quang, Tống Văn Sơ, Thầu Chín, Trần Lực, Bác Hồ, Cụ Hồ, Ho Chi Minh)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ho_Chi_Minh_1946.jpg",
     "relations": [
-      "Hoàng Minh Chính",
-      "Hoàng Minh Giám",
-      "Hoàng Văn Thụ",
-      "Kim Đồng",
-      "Nguyễn Hải Thần"
+      "Võ Nguyên Giáp",
+      "Phan Bội Châu",
+      "Nguyễn Văn Cừ"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -14014,9 +13536,9 @@ const RAW_DATA = [
     "fullName": "Dwight D. Eisenhower",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
     "relations": [
-      "Benito Mussolini",
-      "Charles de Gaulle",
-      "Franklin D. Roosevelt"
+      "Harry Truman",
+      "Franklin D. Roosevelt",
+      "Charles de Gaulle"
     ],
     "themes": [
       "World War II"
@@ -14042,11 +13564,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/De_Gaulle-OWI.jpg",
     "relations": [
-      "Carl Gustaf Emil Mannerheim",
-      "Dwight D. Eisenhower",
-      "Francisco Franco",
-      "Otto Strasser",
-      "Tomas Masaryk"
+      "Hồ Chí Minh",
+      "Adolf Hitler",
+      "Tôn Đức Thắng"
     ]
   },
   {
@@ -14065,10 +13585,9 @@ const RAW_DATA = [
     "fullName": "Phạm Công Tắc",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Phamcongtac.jpg",
     "relations": [
-      "Bảo Đại",
-      "Grigori Yefimovich Rasputin",
       "Huỳnh Phú Sổ",
-      "Ngô Đình Diệm"
+      "Ngô Đình Diệm",
+      "Bảo Đại"
     ],
     "themes": []
   },
@@ -14087,11 +13606,9 @@ const RAW_DATA = [
     "fullName": "Sergei Prokofiev",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sergei_Prokofiev_circa_1918_over_Chair_Bain.jpg",
     "relations": [
-      "Aram Khachaturian",
-      "Emil Gilels",
-      "Kazimir Malevich",
-      "Mstislav Rostropovich",
-      "Nikolai Myaskovsky"
+      "Dmitri Shostakovich",
+      "Igor Stravinsky",
+      "Clara Schumann"
     ],
     "themes": [
       "Classical Music"
@@ -14113,8 +13630,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erwin-Rommel-1941_%282%29.jpg/500px-Erwin-Rommel-1941_%282%29.jpg",
     "relations": [
       "Erich von Manstein",
-      "Walter Model",
-      "Wilhelm Keitel"
+      "Wilhelm Keitel",
+      "Yamamoto Isoroku"
     ],
     "themes": [
       "World War II"
@@ -14135,10 +13652,9 @@ const RAW_DATA = [
     "fullName": "Walter Model",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Walther_Model_on_the_front_%28b%29_%28cropped%29.jpg",
     "relations": [
-      "Erwin Rommel",
       "Fedor von Bock",
-      "Georgy Zhukov",
-      "Simo Häyhä"
+      "Simo Häyhä",
+      "Aleksandr Mikhailovich Vasilevsky"
     ],
     "themes": [
       "World War II"
@@ -14159,9 +13675,9 @@ const RAW_DATA = [
     "fullName": "Akutagawa Ryūnosuke (芥川龍之介, Father of Japanese short story)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Akutagawa_portrait_Akutagawa_Sakuhinshu_6.jpg",
     "relations": [
-      "F. Scott Fitzgerald",
       "Kawabata Yasunari",
-      "Matsuo Bashō"
+      "F. Scott Fitzgerald",
+      "Phạm Duy Tốn"
     ],
     "themes": []
   },
@@ -14180,9 +13696,9 @@ const RAW_DATA = [
     "fullName": "J.R.R. Tolkien (John Ronald Reuel Tolkien, Lord of the Rings)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/500px-J._R._R._Tolkien%2C_ca._1925.jpg",
     "relations": [
-      "Daniel Defoe",
-      "Ernest Hemingway",
-      "Kawabata Yasunari"
+      "Phan Khôi",
+      "Virginia Woolf",
+      "Ernest Hemingway"
     ],
     "themes": []
   },
@@ -14201,8 +13717,8 @@ const RAW_DATA = [
     "fullName": "Francisco Franco",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Francisco_Franco_posed_portrait_photograph.jpg",
     "relations": [
-      "Benito Mussolini",
       "Charles de Gaulle",
+      "Benito Mussolini",
       "Mao Trạch Đông"
     ],
     "themes": []
@@ -14226,9 +13742,9 @@ const RAW_DATA = [
       "World War II"
     ],
     "relations": [
+      "Robert Ley",
       "Alfred Rosenberg",
-      "Joseph Goebbels",
-      "Robert Ley"
+      "Reinhard Heydrich"
     ]
   },
   {
@@ -14250,7 +13766,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Manfred_von_Richthofen.jpg",
     "relations": [
       "Bernard Montgomery",
-      "Erich Ludendorff",
       "Ion Antonescu",
       "T. E. Lawrence"
     ]
@@ -14270,11 +13785,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nguy%E1%BB%85n_Hy%2C_Souverains_et_notabilites_d%27Indochine_%28cropped%29.jpg",
     "relations": [
-      "Hirohito",
-      "Khải Định",
-      "Nikolai Yezhov",
-      "Phan Thanh Giản",
-      "Phạm Sư Mạnh"
+      "Đỗ Thúc Tịnh",
+      "Bùi Bằng Đoàn",
+      "Khải Định"
     ],
     "themes": []
   },
@@ -14293,10 +13806,9 @@ const RAW_DATA = [
     "fullName": "Hermann Göring (Hermann Wilhelm Göring, Luftwaffe chief)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg/500px-Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg",
     "relations": [
-      "Bành Đức Hoài",
-      "Gustav II Adolf",
+      "Adolf Hitler",
       "Heinrich Himmler",
-      "Ion Antonescu"
+      "Simo Häyhä"
     ],
     "themes": [
       "World War II"
@@ -14317,11 +13829,9 @@ const RAW_DATA = [
     "fullName": "Mao Trạch Đông",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mao_Zedong_1950_Portrait_%283x4_cropped%29.jpg/500px-Mao_Zedong_1950_Portrait_%283x4_cropped%29.jpg",
     "relations": [
-      "Anwar Al-Sadad",
-      "Francisco Franco",
-      "Lee Byung-chul",
-      "Nguyễn Sơn Hà",
-      "Phổ Nghi"
+      "Tăng Khánh Hồng",
+      "Lâm Bưu",
+      "Lưu Thiếu Kỳ"
     ],
     "themes": [
       "Chinese Communism"
@@ -14346,9 +13856,9 @@ const RAW_DATA = [
       "World War II"
     ],
     "relations": [
-      "Albert Speer",
       "Arthur Seyss-Inquart",
-      "Baldur von Schirach"
+      "Robert Ley",
+      "Reinhard Heydrich"
     ]
   },
   {
@@ -14365,9 +13875,9 @@ const RAW_DATA = [
     ],
     "nationality": "Russian",
     "relations": [
-      "Aleksandr Mikhailovich Vasilevsky",
       "Heinz Guderian",
-      "Yamamoto Isoroku"
+      "Yamamoto Isoroku",
+      "Aleksandr Mikhailovich Vasilevsky"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mikhail_Tukhachevsky.jpg/500px-Mikhail_Tukhachevsky.jpg"
@@ -14388,9 +13898,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bundesarchiv_Bild_183-1987-0313-507%2C_Rudolf_Hess_%28cropped%29%28b%29%282%29.jpg",
     "relations": [
       "Adolf Hitler",
-      "Franz von Papen",
-      "Kurt von Schleicher",
-      "Otto Strasser"
+      "Joseph Goebbels",
+      "Albert Speer"
     ],
     "themes": [
       "World War II"
@@ -14415,9 +13924,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg",
     "relations": [
-      "Archduke Franz Ferdinand",
       "Franz Ferdinand",
-      "Joseph Goebbels"
+      "Archduke Franz Ferdinand",
+      "Manfred von Richthofen"
     ]
   },
   {
@@ -14434,9 +13943,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "John Maynard Keynes",
-      "Mao Trạch Đông",
-      "Đinh La Thăng"
+      "Nguyễn Hải Thần",
+      "Trần Văn Trà",
+      "Trần Độ"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nguy%E1%BB%85n_S%C6%A1n_H%C3%A0_%281894_-_1980%29.jpg/500px-Nguy%E1%BB%85n_S%C6%A1n_H%C3%A0_%281894_-_1980%29.jpg"
@@ -14458,8 +13967,7 @@ const RAW_DATA = [
     "relations": [
       "Anna May Wong",
       "Charlie Chaplin",
-      "Edward Hopper",
-      "Jack Nicholson"
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -14478,9 +13986,9 @@ const RAW_DATA = [
     "fullName": "J. Edgar Hoover",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hoover-JEdgar-LOC.jpg/500px-Hoover-JEdgar-LOC.jpg",
     "relations": [
-      "Al Capone",
-      "Johannes Kepler",
-      "Robert Ley"
+      "Robert Ley",
+      "Michel Foucault",
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -14499,10 +14007,9 @@ const RAW_DATA = [
     "fullName": "Aleksandr Mikhailovich Vasilevsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Aleksandr_Vasilevsky_4.jpg",
     "relations": [
-      "Georgy Zhukov",
+      "Yamamoto Isoroku",
       "Günther von Kluge",
-      "Mikhail Tukhachevsky",
-      "Yamamoto Isoroku"
+      "Georgy Zhukov"
     ],
     "themes": [
       "World War II"
@@ -14523,9 +14030,9 @@ const RAW_DATA = [
     "fullName": "Khorloogiin Choibalsan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Horloogiyn_Choybalsan.jpg",
     "relations": [
-      "Hà Huy Tập",
-      "Tôn Đức Thắng",
-      "Y Doãn"
+      "Charles de Gaulle",
+      "Adolf Hitler",
+      "Harry Truman"
     ],
     "themes": [
       "World War II"
@@ -14546,9 +14053,9 @@ const RAW_DATA = [
     "fullName": "Nikolai Yezhov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ezhov_NI.jpg",
     "relations": [
-      "Heinrich Himmler",
       "Lavrenty Pavlovich Beria",
-      "Nguyễn Hy"
+      "Nguyễn Hy",
+      "Heinrich Himmler"
     ],
     "themes": []
   },
@@ -14567,10 +14074,9 @@ const RAW_DATA = [
     "fullName": "Santiago Bernabéu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Santiago_Bernabeu.jpg",
     "relations": [
-      "Alfredo Di Stefano",
-      "Ferenc Puskás",
       "José Mourinho",
-      "Pep Guardiola"
+      "Michael Laudrup",
+      "Paulino Alcantara"
     ],
     "themes": [
       "Football"
@@ -14595,9 +14101,9 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Erich Fromm",
       "Karen Horney",
-      "Otto Rank"
+      "Melanie Klein",
+      "Wilhelm Reich"
     ]
   },
   {
@@ -14615,9 +14121,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Ngọc Phách",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Portrait_of_Ho%C3%A0ng_Ng%E1%BB%8Dc_Ph%C3%A1ch.png",
     "relations": [
-      "Dương Quảng Hàm",
-      "Khái Hưng",
-      "Đặng Thai Mai"
+      "Hồ Biểu Chánh",
+      "Virginia Woolf",
+      "Khái Hưng"
     ],
     "themes": []
   },
@@ -14636,11 +14142,9 @@ const RAW_DATA = [
     "fullName": "Donald Winnicott",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Martin_van_Maele_-_La_Comtesse_au_fouet_01.jpg",
     "relations": [
-      "Carl Jung",
-      "Erich Fromm",
-      "Jacques Lacan",
       "Melanie Klein",
-      "Michael Faraday"
+      "Carl Jung",
+      "Erich Fromm"
     ],
     "themes": [
       "Psychoanalysis"
@@ -14661,9 +14165,9 @@ const RAW_DATA = [
     "fullName": "Lev Vygotsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lev_Vygotsky_1896-1934.jpg",
     "relations": [
+      "Melanie Klein",
       "Abraham Maslow",
-      "Klaus Fuchs",
-      "Melanie Klein"
+      "Klaus Fuchs"
     ],
     "themes": []
   },
@@ -14684,7 +14188,7 @@ const RAW_DATA = [
     "relations": [
       "Aleksandr Mikhailovich Vasilevsky",
       "Walter Model",
-      "Yermak Timofeyevich"
+      "Simo Häyhä"
     ],
     "themes": [
       "World War II"
@@ -14705,9 +14209,9 @@ const RAW_DATA = [
     "fullName": "Anna Anderson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/AnnaAnderson1922.jpg",
     "relations": [
-      "Alfred Nobel",
+      "Oskar Schindler",
       "Arthur Eddington",
-      "Oskar Schindler"
+      "Alfred Nobel"
     ],
     "themes": []
   },
@@ -14726,11 +14230,9 @@ const RAW_DATA = [
     "fullName": "Khái Hưng (Trần Khánh Giư)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Khaihung.jpg",
     "relations": [
-      "Agatha Christie",
-      "Federico García Lorca",
       "Hoàng Ngọc Phách",
-      "Louis Aragon",
-      "Nhất Linh"
+      "Hồ Biểu Chánh",
+      "Louis Aragon"
     ],
     "themes": []
   },
@@ -14749,9 +14251,8 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/F._Scott_Fitzgerald_%281921_portrait_-_crop%29_Retouched.jpg",
     "relations": [
-      "Akutagawa Ryūnosuke",
-      "Dazai Osamu",
-      "Willa Cather",
+      "Ernest Hemingway",
+      "Kawabata Yasunari",
       "William Somerset Maugham"
     ],
     "themes": []
@@ -14771,9 +14272,9 @@ const RAW_DATA = [
     "fullName": "Otto Strasser",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Otto_Strasser.jpg",
     "relations": [
-      "Charles de Gaulle",
-      "Kurt von Schleicher",
-      "Rudolf Hess"
+      "Joseph Goebbels",
+      "Rudolf Hess",
+      "Albert Speer"
     ],
     "themes": [
       "World War II"
@@ -14796,8 +14297,7 @@ const RAW_DATA = [
     "relations": [
       "Mother Teresa",
       "Ngô Đình Diệm",
-      "Thích Nhất Hạnh",
-      "Thích Quảng Độ"
+      "Võ Văn Kiệt"
     ],
     "themes": [
       "Khang chien chong My"
@@ -14818,9 +14318,9 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Portrait_Aragon.jpg/500px-Portrait_Aragon.jpg",
     "relations": [
-      "Agatha Christie",
-      "André Malraux",
-      "Khái Hưng"
+      "Ernest Hemingway",
+      "Hồ Biểu Chánh",
+      "Otto Strasser"
     ],
     "themes": [
       "World War II"
@@ -14845,11 +14345,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels_%28cropped%29%28b%29.jpg",
     "relations": [
-      "Arthur Seyss-Inquart",
-      "Baldur von Schirach",
-      "Gavrilo Princip",
-      "Hideki Tojo",
-      "Reinhard Heydrich"
+      "Heinrich Himmler",
+      "Adolf Hitler",
+      "Albert Speer"
     ]
   },
   {
@@ -14871,8 +14369,8 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Claude Lévi-Strauss",
-      "Melanie Klein",
+      "Anna Freud",
+      "Karen Horney",
       "Otto Rank"
     ]
   },
@@ -14891,9 +14389,9 @@ const RAW_DATA = [
     "fullName": "Dương Quảng Hàm",
     "image": "https://upload.wikimedia.org/wikipedia/vi/d/dc/D%C6%B0%C6%A1ng_Qu%E1%BA%A3ng_H%C3%A0m.jpg",
     "relations": [
-      "Hoàng Ngọc Phách",
-      "Thế Lữ",
-      "Đặng Thai Mai"
+      "Hồ Biểu Chánh",
+      "Phạm Duy Tốn",
+      "Hoàng Ngọc Phách"
     ],
     "themes": []
   },
@@ -14912,9 +14410,9 @@ const RAW_DATA = [
     "fullName": "Bành Đức Hoài",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/General_Peng_Dehuai.jpg",
     "relations": [
-      "Chu Ân Lai",
+      "Bạc Hy Lai",
       "Hermann Göring",
-      "Trịnh Thành Công"
+      "Chu Ân Lai"
     ],
     "themes": [
       "Chinese Communism"
@@ -14935,9 +14433,8 @@ const RAW_DATA = [
     "fullName": "Chu Ân Lai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zhou_Enlai_1972.jpg/500px-Zhou_Enlai_1972.jpg",
     "relations": [
-      "Bành Đức Hoài",
-      "Lâm Bưu",
-      "Trịnh Xuân Thanh",
+      "Mao Trạch Đông",
+      "Bạc Hy Lai",
       "Đặng Tiểu Bình"
     ],
     "themes": [
@@ -14959,7 +14456,7 @@ const RAW_DATA = [
     "nationality": "Spanish",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Federico_Garc%C3%ADa_Lorca._Huerta_de_San_Vicente%2C_Granada.jpg",
     "relations": [
-      "Albert Camus",
+      "Andre Maurois",
       "Ernest Hemingway",
       "Khái Hưng"
     ],
@@ -14980,11 +14477,9 @@ const RAW_DATA = [
     "fullName": "Al Capone",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Al_Capone_in_1930_%28manually_dusted%29.jpg/500px-Al_Capone_in_1930_%28manually_dusted%29.jpg",
     "relations": [
-      "Albert Speer",
       "Bảy Viễn",
-      "Gary Ridgway",
       "J. Edgar Hoover",
-      "Ted Bundy"
+      "Alfred Rosenberg"
     ],
     "themes": []
   },
@@ -15003,11 +14498,9 @@ const RAW_DATA = [
     "fullName": "Ernest Hemingway (Ernest Miller Hemingway, Papa)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ernest_Hemingway_1923_passport_photo.jpg",
     "relations": [
-      "Federico García Lorca",
-      "J.R.R. Tolkien",
-      "Mark Twain",
-      "Nguyễn Huy Thiệp",
-      "Willa Cather"
+      "Kawabata Yasunari",
+      "Toni Morrison",
+      "Octavio Paz"
     ],
     "themes": [
       "Giai Nobel"
@@ -15028,11 +14521,9 @@ const RAW_DATA = [
     "fullName": "Kawabata Yasunari (川端康成)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Yasunari_Kawabata_1938.jpg",
     "relations": [
-      "Akutagawa Ryūnosuke",
-      "André Malraux",
-      "Dazai Osamu",
-      "J.R.R. Tolkien",
-      "Yoko Ogawa"
+      "Ernest Hemingway",
+      "Octavio Paz",
+      "Thomas Mann"
     ],
     "themes": [
       "Giai Nobel"
@@ -15053,9 +14544,9 @@ const RAW_DATA = [
     "fullName": "Lavrenty Pavlovich Beria",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lavrentiy_Beria_portrait_2.jpg",
     "relations": [
-      "Ivan Bạo Chúa",
       "Joseph Stalin",
-      "Nikolai Yezhov"
+      "Otto Strasser",
+      "Joseph Goebbels"
     ],
     "themes": [
       "World War II"
@@ -15078,7 +14569,6 @@ const RAW_DATA = [
     "relations": [
       "Hoàng Tích Trí",
       "Phạm Ngọc Thạch",
-      "Tuệ Tĩnh",
       "Đặng Văn Ngữ"
     ],
     "themes": []
@@ -15098,11 +14588,9 @@ const RAW_DATA = [
     "fullName": "Duy Tân (Nguyễn Phúc Vĩnh San, Duy Tan)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vua_Duy_Tan_nho.jpg/500px-Vua_Duy_Tan_nho.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Hải Thượng Lãn Ông",
-      "Lê Đình Dương",
-      "Thiên hoàng Minh Trị",
-      "Yves Claude Vĩnh San",
-      "Ōkubo Toshimichi"
+      "Hoàng Văn Thụ",
+      "Hồ Chí Minh",
+      "Tôn Đức Thắng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -15123,11 +14611,9 @@ const RAW_DATA = [
     "fullName": "Heinrich Himmler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Heinrich_Himmler_%283x4_cropped%29_%282%29.jpg/500px-Heinrich_Himmler_%283x4_cropped%29_%282%29.jpg",
     "relations": [
-      "Albert Speer",
-      "Hermann Göring",
-      "Nikolai Yezhov",
-      "Oskar Schindler",
-      "Reinhard Heydrich"
+      "Adolf Hitler",
+      "Joseph Goebbels",
+      "Hermann Göring"
     ],
     "themes": [
       "World War II"
@@ -15148,10 +14634,9 @@ const RAW_DATA = [
     "fullName": "Wolfgang Pauli",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pauli.jpg",
     "relations": [
-      "Erwin Schrödinger",
+      "Enrico Fermi",
       "Hans Bethe",
-      "Paul Dirac",
-      "Subrahmanyan Chandrasekhar"
+      "Paul Dirac"
     ],
     "themes": [
       "Quantum Physics",
@@ -15177,11 +14662,9 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Alexander Friedmann",
-      "Anna Freud",
+      "Karen Horney",
       "Claude Lévi-Strauss",
-      "Donald Winnicott",
-      "IShowSpeed"
+      "Sigmund Freud"
     ]
   },
   {
@@ -15199,9 +14682,9 @@ const RAW_DATA = [
     "fullName": "Hans-Georg Gadamer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hans-Georg_Gadamer.jpg/500px-Hans-Georg_Gadamer.jpg",
     "relations": [
-      "Arthur Schopenhauer",
-      "Georg W. F. Hegel",
-      "Johann Gottfried Herder"
+      "Martin Heidegger",
+      "Stanisław Leśniewski",
+      "Edmund Husserl"
     ],
     "themes": []
   },
@@ -15220,8 +14703,8 @@ const RAW_DATA = [
     "fullName": "Jacques Lacan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Jacques_Lacan_during_an_interview_1969.jpg",
     "relations": [
-      "Donald Winnicott",
       "Karen Horney",
+      "Donald Winnicott",
       "Sigmund Freud"
     ],
     "themes": [
@@ -15244,9 +14727,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg/500px-President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
       "Phạm Công Tắc",
-      "Sukarno",
-      "Thích Quảng Đức",
-      "Trần Văn Hương"
+      "Trần Văn Hương",
+      "Hồ Chí Minh"
     ],
     "themes": [
       "Khang chien chong My"
@@ -15267,9 +14749,9 @@ const RAW_DATA = [
     "fullName": "Hirohito",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg",
     "relations": [
-      "Elizabeth II",
-      "Nguyễn Hy",
-      "Thiên hoàng Minh Trị"
+      "Harry Truman",
+      "Heinrich Himmler",
+      "Phổ Nghi"
     ],
     "themes": [
       "World War II"
@@ -15290,11 +14772,9 @@ const RAW_DATA = [
     "fullName": "Enrico Fermi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Enrico_Fermi_1943-49.jpg",
     "relations": [
-      "Lise Meitner",
-      "Lý Chính Đạo",
-      "Paul Dirac",
-      "Pavel Alekseyevich Cherenkov",
-      "Subrahmanyan Chandrasekhar"
+      "Hans Bethe",
+      "Richard Feynman",
+      "Werner Heisenberg"
     ],
     "themes": [
       "Quantum Physics",
@@ -15317,11 +14797,9 @@ const RAW_DATA = [
     "fullName": "Werner Heisenberg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Werner_Heisenberg_Portrait_%283x4_cropped%29.jpg/500px-Werner_Heisenberg_Portrait_%283x4_cropped%29.jpg",
     "relations": [
-      "J. Robert Oppenheimer",
-      "Max Born",
+      "Enrico Fermi",
       "Paul Dirac",
-      "Srinivasa Ramanujan",
-      "Terence Tao"
+      "Hans Bethe"
     ],
     "themes": [
       "Quantum Physics",
@@ -15343,9 +14821,9 @@ const RAW_DATA = [
     "fullName": "Sukarno (Kusno Sosrodihardjo)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Presiden_Sukarno_%28retouched%29.jpg/500px-Presiden_Sukarno_%28retouched%29.jpg",
     "relations": [
-      "Chế Bồng Nga",
-      "Juan José Arévalo",
-      "Ngô Đình Diệm"
+      "Ngô Đình Diệm",
+      "Hồ Chí Minh",
+      "Charles de Gaulle"
     ],
     "themes": []
   },
@@ -15364,9 +14842,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Dazai Osamu",
       "Kawabata Yasunari",
-      "Louis Aragon"
+      "Phan Khôi",
+      "Virginia Woolf"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Andr%C3%A9_Malraux%2C_Pic%2C_22.jpg/500px-Andr%C3%A9_Malraux%2C_Pic%2C_22.jpg"
@@ -15386,10 +14864,9 @@ const RAW_DATA = [
     "fullName": "Louis Daniel Armstrong",
     "image": "",
     "relations": [
-      "Arthur Rubinstein",
-      "David Fincher",
+      "John Cage",
       "Frank Sinatra",
-      "John Cage"
+      "Aram Khachaturian"
     ],
     "themes": []
   },
@@ -15409,9 +14886,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc.jpg/500px-Nguy%E1%BB%85n_Th%C3%A1i_H%E1%BB%8Dc.jpg",
     "relations": [
       "Lê Hồng Phong",
-      "Lương Nhữ Hộc",
-      "Phạm Hồng Thái",
-      "Đoàn Trần Nghiệp"
+      "Lê Duẩn",
+      "Trường Chinh"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -15432,11 +14908,9 @@ const RAW_DATA = [
     "fullName": "Paul Dirac",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paul_Dirac%2C_1933.jpg",
     "relations": [
-      "Abdus Salam",
       "Enrico Fermi",
-      "Richard Feynman",
       "Werner Heisenberg",
-      "Wolfgang Pauli"
+      "Lev Landau"
     ],
     "themes": [
       "Quantum Physics",
@@ -15458,9 +14932,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Le_Hong_Phong.gif",
     "relations": [
-      "Kim Đồng",
-      "Nguyễn Thái Học",
-      "Nguyễn Văn Cừ"
+      "Lê Duẩn",
+      "Trường Chinh",
+      "Hoàng Văn Thụ"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -15482,7 +14956,7 @@ const RAW_DATA = [
     "relations": [
       "Dương Quảng Hàm",
       "Hoàng Ngọc Phách",
-      "Hàn Mặc Tử"
+      "Quách Tấn"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Madame_Nguyen_Cao_Ky%2C_1970.jpg/500px-Madame_Nguyen_Cao_Ky%2C_1970.jpg"
@@ -15501,9 +14975,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Thị Minh Khai",
+      "Hoàng Văn Thụ",
       "Nguyễn Văn Cừ",
-      "Souphanouvong"
+      "Nguyễn Thị Minh Khai"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_of_Nguy%E1%BB%85n_Phong_S%E1%BA%AFc_%281902-1931%29.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
@@ -15523,11 +14997,9 @@ const RAW_DATA = [
     "fullName": "Trần Văn Hương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/The_vice_president_Tr%E1%BA%A7n_V%C4%83n_H%C6%B0%C6%A1ng_of_the_Republic_of_Viet_Nam.png/500px-The_vice_president_Tr%E1%BA%A7n_V%C4%83n_H%C6%B0%C6%A1ng_of_the_Republic_of_Viet_Nam.png",
     "relations": [
-      "Dương Văn Minh",
-      "Nguyễn Cao Kỳ",
-      "Nguyễn Văn Thiệu",
       "Ngô Đình Diệm",
-      "Phan Khắc Sửu"
+      "Lê Duẩn",
+      "Trần Văn Tuyên"
     ],
     "themes": [
       "Khang chien chong My"
@@ -15549,11 +15021,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Germ%C3%A1n_Busch_-_2.jpg",
     "themes": [],
     "relations": [
-      "Augusto Pinochet",
-      "Benito Juárez",
-      "Jacobo Árbenz",
+      "Hồ Chí Minh",
       "Salvador Allende",
-      "Simón Bolívar"
+      "Jacobo Árbenz"
     ]
   },
   {
@@ -15570,10 +15040,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hải Thượng Lãn Ông",
       "Hồ Đắc Di",
       "Phạm Ngọc Thạch",
-      "Tuệ Tĩnh",
       "Đặng Văn Ngữ"
     ],
     "themes": [],
@@ -15594,9 +15062,7 @@ const RAW_DATA = [
     "fullName": "Bảy Viễn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lieutenant_colonel_L%C3%AA_V%C4%83n_Vi%E1%BB%85n%2C_during_his_cooperation_with_the_French.jpg",
     "relations": [
-      "Al Capone",
       "Dung Hà",
-      "Nemesio Oseguera Cervantes",
       "Reinhard Heydrich",
       "Robert Ley"
     ],
@@ -15617,10 +15083,9 @@ const RAW_DATA = [
     "fullName": "Trần Phú",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tran_Phu.gif/500px-Tran_Phu.gif",
     "relations": [
-      "Nguyễn Chí Diểu",
-      "Nguyễn Lương Bằng",
-      "Nguyễn Thị Minh Khai",
-      "Nguyễn Đức Cảnh"
+      "Lê Duẩn",
+      "Trường Chinh",
+      "Nguyễn Văn Cừ"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -15641,8 +15106,8 @@ const RAW_DATA = [
     "fullName": "Đặng Tiểu Bình",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg/500px-Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg",
     "relations": [
-      "Chu Ân Lai",
       "Lâm Bưu",
+      "Mao Trạch Đông",
       "Triệu Tử Dương"
     ],
     "themes": [
@@ -15664,11 +15129,9 @@ const RAW_DATA = [
     "fullName": "J. Robert Oppenheimer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/500px-Oppenheimer_%28cropped%29.jpg",
     "relations": [
-      "Alan Turing",
-      "John von Neumann",
-      "Lý Chính Đạo",
-      "Ngô Kiện Hùng",
-      "Werner Heisenberg"
+      "Hans Bethe",
+      "Albert Einstein",
+      "Richard Feynman"
     ],
     "themes": [
       "Quantum Physics",
@@ -15690,10 +15153,9 @@ const RAW_DATA = [
     "fullName": "Pavel Alekseyevich Cherenkov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cerenkov.jpg",
     "relations": [
-      "Edwin Hubble",
       "Enrico Fermi",
-      "Lev Landau",
-      "Lise Meitner"
+      "Joseph John Thomson",
+      "Lev Landau"
     ],
     "themes": [
       "Giai Nobel"
@@ -15718,11 +15180,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Reinhard_Heydrich_1940_Portrait_%283x4_cropped%29_%282%29.jpg",
     "relations": [
-      "Bảy Viễn",
-      "Heinrich Himmler",
-      "Joseph Goebbels",
-      "Oskar Schindler",
-      "Robert Ley"
+      "Robert Ley",
+      "Arthur Seyss-Inquart",
+      "Heinrich Himmler"
     ]
   },
   {
@@ -15741,8 +15201,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Retrato_de_estudio_del_Dr._Juan_Jos%C3%A9_Ar%C3%A9valo_Bermejo_%28cropped%29.jpg",
     "relations": [
       "Jacobo Árbenz",
-      "Nguyễn Chí Diểu",
-      "Sukarno"
+      "Sukarno",
+      "Nguyễn Chí Diểu"
     ],
     "themes": []
   },
@@ -15760,9 +15220,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Khúc Thừa Dụ",
-      "Souphanouvong",
-      "Trần Phú"
+      "Võ Chí Công",
+      "Hoàng Quốc Việt",
+      "Phạm Văn Đồng"
     ],
     "themes": [
       "VN Modern Communism"
@@ -15784,8 +15244,8 @@ const RAW_DATA = [
     "fullName": "Anna May Wong",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Anna_May_Wong_-_portrait.jpg",
     "relations": [
-      "Buster Keaton",
-      "Hedy Lamarr",
+      "Frank Sinatra",
+      "Ingrid Bergman",
       "Marilyn Monroe"
     ],
     "themes": []
@@ -15805,9 +15265,9 @@ const RAW_DATA = [
     "fullName": "Ayn Rand (Alisa Zinovyevna Rosenbaum, Atlas Shrugged)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/500px-Ayn_Rand_%281943_Talbot_portrait%29.jpg",
     "relations": [
-      "Agatha Christie",
-      "John Mearsheimer",
-      "Nguyên Hồng"
+      "Nguyên Hồng",
+      "Marguerite Duras",
+      "Iris Murdoch"
     ],
     "themes": []
   },
@@ -15826,11 +15286,9 @@ const RAW_DATA = [
     "fullName": "Simo Häyhä (White Death, Bạch thần, Finnish sniper WWII)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mestariampuja_Simo_H%C3%A4yh%C3%A4_%22Saharan_kauhun%22_komppaniasta%2C_SAKuva-9479.jpg/500px-Mestariampuja_Simo_H%C3%A4yh%C3%A4_%22Saharan_kauhun%22_komppaniasta%2C_SAKuva-9479.jpg",
     "relations": [
-      "Aleister Crowley",
-      "Gustav II Adolf",
-      "Hannibal Barca",
-      "Nguyễn Hiền",
-      "Walter Model"
+      "Hermann Göring",
+      "Walter Model",
+      "Georgy Zhukov"
     ],
     "themes": [
       "World War II"
@@ -15851,11 +15309,9 @@ const RAW_DATA = [
     "fullName": "Jean-Paul Sartre (Jean-Paul Charles Aymard Sartre, Existentialism)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/500px-Jean_Paul_Sartre_1965.jpg",
     "relations": [
-      "Hubert Dreyfus",
-      "Iris Murdoch",
-      "Izydora Dąmbska",
-      "Marguerite Duras",
-      "Trần Đức Thảo"
+      "Simone de Beauvoir",
+      "Albert Camus",
+      "Martin Heidegger"
     ],
     "themes": [
       "Psychoanalysis",
@@ -15878,9 +15334,9 @@ const RAW_DATA = [
     "fullName": "Phan Khắc Sửu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Portrait_of_Phan_Kh%E1%BA%AFc_S%E1%BB%ADu%2C_Chief_of_State.jpg/500px-Portrait_of_Phan_Kh%E1%BA%AFc_S%E1%BB%ADu%2C_Chief_of_State.jpg",
     "relations": [
-      "Hà Thúc Ký",
+      "Trần Văn Tuyên",
       "Trần Văn Hương",
-      "Trần Văn Tuyên"
+      "Hà Thúc Ký"
     ],
     "themes": [
       "Khang chien chong My"
@@ -15905,10 +15361,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bundesarchiv_Bild_146II-277%2C_Albert_Speer.jpg",
     "relations": [
-      "Al Capone",
-      "Alfred Rosenberg",
-      "Baldur von Schirach",
-      "Heinrich Himmler"
+      "Joseph Goebbels",
+      "Heinrich Himmler",
+      "Baldur von Schirach"
     ]
   },
   {
@@ -15925,9 +15380,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hà Huy Tập",
-      "Nguyễn Bặc",
-      "Nguyễn Đức Cảnh"
+      "Đỗ Mười",
+      "Trường Chinh",
+      "Nguyễn Văn Linh"
     ],
     "themes": [
       "VN Modern Communism"
@@ -15949,11 +15404,9 @@ const RAW_DATA = [
     "fullName": "Dmitri Shostakovich",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87_%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87.jpg",
     "relations": [
-      "Aram Khachaturian",
-      "Emil Gilels",
-      "Mstislav Rostropovich",
-      "Nikolai Myaskovsky",
-      "Tô Ngọc Vân"
+      "Sergei Prokofiev",
+      "Robert Schumann",
+      "Thelonious Monk"
     ],
     "themes": [
       "Classical Music"
@@ -15974,10 +15427,9 @@ const RAW_DATA = [
     "fullName": "Hà Huy Tập",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ha_Huy_Tap.jpg/500px-Ha_Huy_Tap.jpg",
     "relations": [
-      "Hoàng Quốc Việt",
-      "Khorloogiin Choibalsan",
-      "Nguyễn Văn Cừ",
-      "Đoàn Trần Nghiệp"
+      "Trường Chinh",
+      "Hoàng Văn Thụ",
+      "Nguyễn Văn Cừ"
     ],
     "themes": []
   },
@@ -15996,8 +15448,8 @@ const RAW_DATA = [
     "fullName": "Tạ Thu Thâu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ta-Thu-Thau_1906-1945.jpg/500px-Ta-Thu-Thau_1906-1945.jpg",
     "relations": [
-      "Léopold Sédar Senghor",
-      "Nam Phương Hoàng hậu",
+      "Phan Châu Trinh",
+      "Hoàng Văn Thụ",
       "Tôn Đức Thắng"
     ],
     "themes": [
@@ -16019,9 +15471,9 @@ const RAW_DATA = [
     "fullName": "Phổ Nghi (Puyi, Last Emperor, Aisin-Gioro, 溥儀)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pu_Yi%2C_Qing_dynasty%2C_China%2C_Last_emperor.jpg/500px-Pu_Yi%2C_Qing_dynasty%2C_China%2C_Last_emperor.jpg",
     "relations": [
-      "Bảo Đại",
-      "Mao Trạch Đông",
-      "Triệu Tử Dương"
+      "Hirohito",
+      "Albert Speer",
+      "Baldur von Schirach"
     ],
     "themes": [
       "World War II"
@@ -16042,10 +15494,9 @@ const RAW_DATA = [
     "fullName": "Hans Bethe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hans_Bethe.jpg/500px-Hans_Bethe.jpg",
     "relations": [
-      "Klaus Fuchs",
-      "Ngô Kiện Hùng",
-      "Subrahmanyan Chandrasekhar",
-      "Wolfgang Pauli"
+      "J. Robert Oppenheimer",
+      "Enrico Fermi",
+      "Richard Feynman"
     ],
     "themes": [
       "Quantum Physics",
@@ -16068,10 +15519,9 @@ const RAW_DATA = [
     "fullName": "Kurt Gödel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kurt_g%C3%B6del.jpg",
     "relations": [
-      "Alan Turing",
       "Alfred Tarski",
-      "Bertrand Russell",
-      "Paul Erdős"
+      "Alan Turing",
+      "John von Neumann"
     ],
     "themes": []
   },
@@ -16090,9 +15540,9 @@ const RAW_DATA = [
     "fullName": "Léopold Sédar Senghor",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/L%C3%A9opold_S%C3%A9dar_Senghor.jpg",
     "relations": [
+      "Tạ Thu Thâu",
       "Nelson Mandela",
-      "Souphanouvong",
-      "Tạ Thu Thâu"
+      "Mao Trạch Đông"
     ],
     "themes": []
   },
@@ -16111,9 +15561,9 @@ const RAW_DATA = [
     "fullName": "Tô Ngọc Vân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Portrait_of_T%C3%B4_Ng%E1%BB%8Dc_V%C3%A2n.png/500px-Portrait_of_T%C3%B4_Ng%E1%BB%8Dc_V%C3%A2n.png",
     "relations": [
-      "Dmitri Shostakovich",
-      "Hedy Lamarr",
-      "Út Trà Ôn"
+      "John Cage",
+      "Út Trà Ôn",
+      "Dmitri Shostakovich"
     ],
     "themes": []
   },
@@ -16133,11 +15583,9 @@ const RAW_DATA = [
     "fullName": "Nhất Linh (Nguyễn Tường Tam)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/H%E1%BB%99i_Ngh%E1%BB%8B_%C4%90%C3%A0_L%E1%BA%A1t_%28cropped%29.jpg",
     "relations": [
-      "Bình Nguyên Lộc",
-      "Huy Cận",
-      "Hồ Biểu Chánh",
+      "Vũ Khắc Khoan",
       "Khái Hưng",
-      "Vũ Khắc Khoan"
+      "Thụy An"
     ],
     "themes": []
   },
@@ -16155,9 +15603,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hoàng Minh Giám",
+      "Huỳnh Tấn Phát",
       "Lê Duẩn",
-      "Trường Chinh"
+      "Phạm Hùng"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -16181,10 +15629,8 @@ const RAW_DATA = [
     "fullName": "Lê Duẩn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Le_duan.png/500px-Le_duan.png",
     "relations": [
-      "Leonid Ilyich Brezhnev",
-      "Phạm Văn Đồng",
-      "Stepan Bandera",
-      "Trần Văn Trà",
+      "Trường Chinh",
+      "Phạm Hùng",
       "Võ Chí Công"
     ],
     "themes": [
@@ -16208,11 +15654,9 @@ const RAW_DATA = [
     "fullName": "Trường Chinh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg/500px-Truong_Chinh_circa_1951_Edit_Crop_Provisional.jpg",
     "relations": [
-      "Hoàng Văn Thụ",
-      "Nguyễn Văn Linh",
-      "Phạm Ngọc Thảo",
-      "Phạm Văn Đồng",
-      "Stepan Bandera"
+      "Lê Duẩn",
+      "Phạm Hùng",
+      "Huỳnh Tấn Phát"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -16235,9 +15679,9 @@ const RAW_DATA = [
     "fullName": "Lâm Bưu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Linbiao.jpg",
     "relations": [
-      "Chu Ân Lai",
-      "Triệu Tử Dương",
-      "Đặng Tiểu Bình"
+      "Mao Trạch Đông",
+      "Đặng Tiểu Bình",
+      "Triệu Tử Dương"
     ],
     "themes": [
       "Chinese Communism"
@@ -16263,8 +15707,8 @@ const RAW_DATA = [
     ],
     "relations": [
       "Albert Speer",
-      "Alfred Rosenberg",
-      "Joseph Goebbels"
+      "Joseph Goebbels",
+      "Rudolf Hess"
     ]
   },
   {
@@ -16281,11 +15725,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Dương Quảng Hàm",
-      "Hồ Dzếnh",
+      "Chế Lan Viên",
       "Nguyễn Bính",
-      "Tản Đà",
-      "Tế Hanh"
+      "Huy Cận"
     ],
     "themes": [
       "Tho Moi"
@@ -16307,9 +15749,9 @@ const RAW_DATA = [
     "fullName": "Abraham Maslow",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Photo_of_Abraham_Harold_Maslow_by_William_Carter_%28cropped%29.jpg/500px-Photo_of_Abraham_Harold_Maslow_by_William_Carter_%28cropped%29.jpg",
     "relations": [
+      "Tôn Thất Tùng",
       "Edward Teller",
-      "Lev Vygotsky",
-      "Tôn Thất Tùng"
+      "Lev Vygotsky"
     ],
     "themes": []
   },
@@ -16328,11 +15770,9 @@ const RAW_DATA = [
     "fullName": "Oskar Schindler (Schindler's List, saved 1200 Jews)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Schindler%2C_Oskar_%283x4_cropped%29.jpg/500px-Schindler%2C_Oskar_%283x4_cropped%29.jpg",
     "relations": [
-      "Adolf Hitler",
-      "Anna Anderson",
-      "Heinrich Himmler",
-      "Hermann Gmeiner",
-      "Reinhard Heydrich"
+      "Anne Frank",
+      "Klaus Fuchs",
+      "Heinrich Himmler"
     ],
     "themes": [
       "World War II"
@@ -16353,11 +15793,9 @@ const RAW_DATA = [
     "fullName": "Simone de Beauvoir",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Simone_De_Beauvoir_%28cropped%29.jpg/500px-Simone_De_Beauvoir_%28cropped%29.jpg",
     "relations": [
-      "Hélène Cixous",
-      "Iris Murdoch",
-      "Kimberle Crenshaw",
-      "Trần Đức Thảo",
-      "Vittorio Pini"
+      "Jean-Paul Sartre",
+      "Martin Heidegger",
+      "Flora Tristan"
     ],
     "themes": [
       "Existentialism",
@@ -16379,9 +15817,9 @@ const RAW_DATA = [
     "fullName": "Claude Lévi-Strauss (structural anthropology)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Levi-strauss_260_%28cropped2%29.jpg/500px-Levi-strauss_260_%28cropped2%29.jpg",
     "relations": [
-      "Alfred Adler",
       "Erich Fromm",
-      "Wilhelm Reich"
+      "Anna Freud",
+      "Alfred Adler"
     ],
     "themes": [
       "Psychoanalysis"
@@ -16402,11 +15840,9 @@ const RAW_DATA = [
     "fullName": "Edward Teller",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/EdwardTeller1958_fewer_smudges.jpg/500px-EdwardTeller1958_fewer_smudges.jpg",
     "relations": [
-      "Abraham Maslow",
-      "Klaus Fuchs",
-      "Ngô Kiện Hùng",
-      "Paul Erdős",
-      "Richard Feynman"
+      "Hans Bethe",
+      "J. Robert Oppenheimer",
+      "Ngô Kiện Hùng"
     ],
     "themes": [
       "Quantum Physics",
@@ -16429,11 +15865,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg",
     "themes": [],
     "relations": [
-      "Augusto Pinochet",
-      "Carlos Prats",
       "Germán Busch",
-      "Nelson Mandela",
-      "Ronald Reagan"
+      "Augusto Pinochet",
+      "Lê Duẩn"
     ]
   },
   {
@@ -16450,10 +15884,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Juan José Arévalo",
+      "Hoàng Văn Thụ",
       "Lê Thanh Nghị",
-      "Trần Phú",
-      "Đoàn Trần Nghiệp"
+      "Phạm Hồng Thái"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg/500px-Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg"
@@ -16472,8 +15905,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hoàng Quốc Việt",
       "Nguyễn Thị Minh Khai",
+      "Hoàng Quốc Việt",
       "Trần Phú"
     ],
     "themes": [],
@@ -16494,9 +15927,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Hoàng Văn Thụ",
       "Hà Huy Tập",
-      "Nguyễn Chí Diểu",
-      "Nguyễn Thái Học",
       "Nguyễn Thị Minh Khai"
     ],
     "themes": [],
@@ -16517,9 +15949,9 @@ const RAW_DATA = [
     "fullName": "Dazai Osamu (太宰治, Tsushima Shuji)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Osamu_Dazai.jpg",
     "relations": [
-      "André Malraux",
+      "Kawabata Yasunari",
       "F. Scott Fitzgerald",
-      "Kawabata Yasunari"
+      "Thụy An"
     ],
     "themes": []
   },
@@ -16539,10 +15971,9 @@ const RAW_DATA = [
     "fullName": "Phạm Ngọc Thạch",
     "image": "https://upload.wikimedia.org/wikipedia/vi/b/bb/Phamngocthach.jpg",
     "relations": [
-      "Carlos Finlay",
-      "Hoàng Tích Trí",
+      "Đặng Văn Ngữ",
       "Hồ Đắc Di",
-      "Đặng Văn Ngữ"
+      "Phạm Hùng"
     ],
     "themes": []
   },
@@ -16563,9 +15994,9 @@ const RAW_DATA = [
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Stepan_Bandera_photo.jpg",
     "relations": [
-      "Lê Duẩn",
-      "Nguyễn Hữu Thọ",
-      "Trường Chinh"
+      "Trường Chinh",
+      "Võ Chí Công",
+      "Nguyễn Hữu Thọ"
     ]
   },
   {
@@ -16604,11 +16035,9 @@ const RAW_DATA = [
     "fullName": "Akira Kurosawa (Kurosawa Akira, Tenno - The Emperor of cinema)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
     "relations": [
-      "Fujiko Fujio",
-      "Roberto Rossellini",
-      "Sen no Rikyū",
-      "Theo Angelopoulos",
-      "Władysław Szpilman"
+      "Władysław Szpilman",
+      "Ingrid Bergman",
+      "Sergei Parajanov"
     ],
     "themes": []
   },
@@ -16648,11 +16077,9 @@ const RAW_DATA = [
     "fullName": "Đặng Văn Ngữ",
     "image": "https://upload.wikimedia.org/wikipedia/vi/5/56/%C4%90%E1%BA%B7ng_V%C4%83n_Ng%E1%BB%AF.jpeg",
     "relations": [
-      "Hoàng Tích Trí",
-      "Hồ Đắc Di",
-      "Ivan Pavlov",
       "Phạm Ngọc Thạch",
-      "Tôn Thất Tùng"
+      "Tôn Thất Tùng",
+      "Hoàng Tích Trí"
     ],
     "themes": []
   },
@@ -16671,11 +16098,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hữu Thọ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Nguy%E1%BB%85n_H%E1%BB%AFu_Th%E1%BB%8D.jpg",
     "relations": [
-      "Huỳnh Tấn Phát",
-      "Lê Thanh Nghị",
-      "Lê Đức Thọ",
-      "Stepan Bandera",
-      "Trần Văn Tuyên"
+      "Phạm Hùng",
+      "Lê Duẩn",
+      "Trường Chinh"
     ],
     "themes": [
       "Khang chien chong My",
@@ -16697,11 +16122,9 @@ const RAW_DATA = [
     "fullName": "Mother Teresa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/500px-Mother_Teresa_1.jpg",
     "relations": [
-      "Aleister Crowley",
-      "Huỳnh Phú Sổ",
       "Malala Yousafzai",
       "Thánh Damien đảo Molokai",
-      "Thích Quảng Đức"
+      "Đồ U U"
     ],
     "themes": [
       "Giai Nobel"
@@ -16722,8 +16145,8 @@ const RAW_DATA = [
     "fullName": "Subrahmanyan Chandrasekhar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Subrahmanyan_Chandrasekhar.jpg/500px-Subrahmanyan_Chandrasekhar.jpg",
     "relations": [
-      "Enrico Fermi",
       "Hans Bethe",
+      "Enrico Fermi",
       "Wolfgang Pauli"
     ],
     "themes": [
@@ -16744,9 +16167,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lê Thanh Nghị",
       "Lê Đức Thọ",
-      "Xuân Thủy"
+      "Xuân Thủy",
+      "Huỳnh Tấn Phát"
     ],
     "themes": [
       "Khang chien chong My",
@@ -16769,9 +16192,9 @@ const RAW_DATA = [
     "fullName": "Władysław Szpilman",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/W%C5%82adys%C5%82aw_Szpilman.jpg",
     "relations": [
-      "Akira Kurosawa",
       "Frank Sinatra",
-      "Thelonious Monk"
+      "John Cage",
+      "Dmitri Shostakovich"
     ],
     "themes": []
   },
@@ -16792,7 +16215,7 @@ const RAW_DATA = [
     "relations": [
       "Edward Teller",
       "Hans Bethe",
-      "Lev Vygotsky"
+      "Robert Ley"
     ],
     "themes": [
       "World War II"
@@ -16813,11 +16236,9 @@ const RAW_DATA = [
     "fullName": "Võ Nguyên Giáp (Vo Nguyen Giap, General Giap, tướng huyền thoại Điện Biên Phủ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mr._Vo_Nguyen_Giap_%28cropped%29.jpg",
     "relations": [
-      "Hoàng Minh Giám",
-      "Hoàng Văn Thụ",
-      "Trần Độ",
-      "Võ Chí Công",
-      "Đặng Thùy Trâm"
+      "Hồ Chí Minh",
+      "Napoleon Bonaparte",
+      "Trần Hưng Đạo"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -16840,8 +16261,8 @@ const RAW_DATA = [
     "fullName": "Lê Đức Thọ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Le_Duc_Tho_at_Orly_Field_1972_%28cropped%29.jpg",
     "relations": [
-      "Lê Thanh Nghị",
       "Nguyễn Duy Trinh",
+      "Huỳnh Tấn Phát",
       "Nguyễn Hữu Thọ"
     ],
     "themes": [
@@ -16865,9 +16286,9 @@ const RAW_DATA = [
     "fullName": "Ronald Reagan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/500px-Official_Portrait_of_President_Reagan_1981.jpg",
     "relations": [
-      "Jacobo Árbenz",
       "John F. Kennedy",
-      "Salvador Allende"
+      "Tưởng Kinh Quốc",
+      "Jacobo Árbenz"
     ],
     "themes": []
   },
@@ -16886,8 +16307,7 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Lê Đức Thọ",
-      "Nguyễn Chí Diểu",
-      "Nguyễn Duy Trinh",
+      "Huỳnh Tấn Phát",
       "Nguyễn Hữu Thọ"
     ],
     "themes": [
@@ -16910,11 +16330,9 @@ const RAW_DATA = [
     "fullName": "Hàn Mặc Tử (Nguyễn Trọng Trí)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Hanmactu.jpg",
     "relations": [
+      "Xuân Diệu",
       "Chế Lan Viên",
-      "Nguyễn Nhược Pháp",
-      "Quách Tấn",
-      "Vũ Trọng Phụng",
-      "Đặng Thai Mai"
+      "Quách Tấn"
     ],
     "themes": [
       "Tho Moi"
@@ -16935,10 +16353,9 @@ const RAW_DATA = [
     "fullName": "Vũ Trọng Phụng (Ông vua phóng sự đất Bắc, Số đỏ)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vu_Trong_Phung.jpg",
     "relations": [
-      "Bình Nguyên Lộc",
       "Hàn Mặc Tử",
-      "Italo Calvino",
-      "Vũ Khắc Khoan"
+      "Xuân Diệu",
+      "Hồ Dzếnh"
     ],
     "themes": []
   },
@@ -16958,10 +16375,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Professor_T%C3%B4n_Th%E1%BA%A5t_T%C3%B9ng_%281947%29.jpg",
     "relations": [
       "Abraham Maslow",
-      "Hàn Thuyên",
-      "William T. G. Morton",
-      "Đặng Thùy Trâm",
-      "Đặng Văn Ngữ"
+      "Đặng Văn Ngữ",
+      "Hồ Đắc Di"
     ],
     "themes": []
   },
@@ -16980,11 +16395,9 @@ const RAW_DATA = [
     "fullName": "Alan Turing",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alan_turing_header.jpg/500px-Alan_turing_header.jpg",
     "relations": [
-      "J. Robert Oppenheimer",
-      "John Nash",
       "John von Neumann",
-      "Kurt Gödel",
-      "Paul Erdős"
+      "J. Robert Oppenheimer",
+      "Edward Teller"
     ],
     "themes": [
       "World War II"
@@ -16995,7 +16408,7 @@ const RAW_DATA = [
     "died": 1992,
     "title": "John Cage",
     "fullName": "John Cage (John Milton Cage Jr.)",
-    "desc": "Nhà soạn nhạc và nhà lý luận âm nhạc người Mỹ, người tiên phong trong việc sử dụng các nhạc cụ không theo tiêu chuẩn và không xác định.",
+    "desc": "Nhà soạn nhạc, nhà lý luận âm nhạc kiêm nghệ sĩ người Mỹ, một trong những gương mặt tiên phong có tầm ảnh hưởng lớn nhất của nghệ thuật Avant-garde thế kỷ 20. Ông nổi tiếng với việc định nghĩa lại khái niệm âm nhạc qua các thử nghiệm âm thanh ngẫu nhiên, đàn piano cải biên (prepared piano) và tác phẩm tĩnh lặng nổi tiếng '4′33″' (1952).",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -17005,9 +16418,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/John_Cage_%281988%29.jpg/500px-John_Cage_%281988%29.jpg",
     "relations": [
+      "Thelonious Monk",
       "Louis Armstrong",
-      "Miles Davis",
-      "Thelonious Monk"
+      "Dmitri Shostakovich"
     ],
     "themes": []
   },
@@ -17049,10 +16462,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Indira Gandhi",
       "Nguyễn Duy Trinh",
-      "Nguyễn Thị Bình",
-      "Phạm Xuân Ẩn"
+      "Phạm Hùng",
+      "Nguyễn Thị Bình"
     ],
     "themes": [
       "Khang chien chong My",
@@ -17075,11 +16487,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Văn Cừ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nguy%E1%BB%85n_V%C4%83n_C%E1%BB%AB.jpg",
     "relations": [
-      "Hà Huy Tập",
-      "Lê Hồng Phong",
-      "Mohammad Reza Pahlavi",
-      "Nguyễn Phong Sắc",
-      "Phan Bội Châu"
+      "Hồ Chí Minh",
+      "Phan Bội Châu",
+      "Võ Nguyên Giáp"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -17100,11 +16510,9 @@ const RAW_DATA = [
     "fullName": "Albert Camus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/500px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg",
     "relations": [
-      "Andre Maurois",
-      "Federico García Lorca",
+      "Jean-Paul Sartre",
       "Franz Kafka",
-      "Izydora Dąmbska",
-      "Marguerite Duras"
+      "Fyodor Dostoyevsky"
     ],
     "themes": [
       null,
@@ -17116,7 +16524,7 @@ const RAW_DATA = [
     "born": 1913,
     "died": 1963,
     "title": "Nam Phương Hoàng hậu",
-    "desc": "Hoàng hậu Bảo Đại của Việt Nam, được biết đến với sự sang trọng và nỗ lực trong phúc lợi xã hội và giáo dục trong thời kỳ thuộc địa ở Việt Nam.",
+    "desc": "Hoàng hậu cuối cùng của triều đại nhà Nguyễn và lịch sử quân chủ Việt Nam, kết hôn với Hoàng đế Bảo Đại. Bà nổi tiếng với vẻ đẹp đài các, sự thông tuệ, phong cách thời trang chuẩn mực kết hợp Đông - Tây và những đóng góp tích cực cho công tác từ thiện, giáo dục và y tế thời kỳ bấy giờ.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -17129,7 +16537,7 @@ const RAW_DATA = [
     "relations": [
       "Bảo Đại",
       "Thái tử Bảo Long",
-      "Tạ Thu Thâu"
+      "Hoàng tử Bảo Thăng"
     ],
     "themes": []
   },
@@ -17148,10 +16556,9 @@ const RAW_DATA = [
     "fullName": "Rosa Parks",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rosa_Parks%2C_November_1956_%28cropped%29.jpg/500px-Rosa_Parks%2C_November_1956_%28cropped%29.jpg",
     "relations": [
-      "Greta Thunberg",
-      "Malcolm X",
       "Nelson Mandela",
-      "Thái Văn Lung"
+      "Malcolm X",
+      "Võ Chí Công"
     ],
     "themes": []
   },
@@ -17171,8 +16578,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Erdos_budapest_fall_1992_%28cropped%29.jpg",
     "relations": [
       "Alan Turing",
-      "Edward Teller",
-      "Kurt Gödel"
+      "Kurt Gödel",
+      "John von Neumann"
     ],
     "themes": []
   },
@@ -17193,9 +16600,7 @@ const RAW_DATA = [
     "relations": [
       "Hà Thúc Ký",
       "Nguyễn Hữu Thọ",
-      "Phan Khắc Sửu",
-      "Thái Văn Lung",
-      "Trần Lệ Xuân"
+      "Trường Chinh"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17218,10 +16623,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Germán Busch",
-      "Juan José Arévalo",
-      "Juan José Torres",
       "Nguyễn Văn Thiệu",
-      "Ronald Reagan"
+      "Juan José Torres"
     ]
   },
   {
@@ -17240,8 +16643,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Octavio_Paz_-_1988_Malm%C3%B6.jpg",
     "relations": [
       "Gabriel García Márquez",
-      "Jane Austen",
-      "Lev Tolstoy"
+      "Kawabata Yasunari",
+      "Wisława Szymborska"
     ],
     "themes": [
       "Giai Nobel"
@@ -17263,9 +16666,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Hoàng Minh Thảo",
-      "Hoàng Văn Thái",
       "Hoàng Đan",
-      "Mikhail Timofeyevich Kalashnikov"
+      "Hoàng Văn Thái"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17286,11 +16688,9 @@ const RAW_DATA = [
     "fullName": "Đinh Núp (anh hùng Tây Nguyên)",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/3c/Anhhung_Nup.jpg/250px-Anhhung_Nup.jpg",
     "relations": [
-      "Bà Triệu",
-      "Jeanne d'Arc",
-      "Nùng Trí Cao",
-      "Robert McNamara",
-      "Thái Văn Lung"
+      "Hồ Chí Minh",
+      "Phạm Hùng",
+      "Tôn Đức Thắng"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17312,8 +16712,8 @@ const RAW_DATA = [
     "fullName": "Hedy Lamarr",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg/500px-Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg",
     "relations": [
+      "Frank Sinatra",
       "Anna May Wong",
-      "Tô Ngọc Vân",
       "Út Trà Ôn"
     ],
     "themes": []
@@ -17332,9 +16732,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Hàn Mặc Tử",
       "Nguyễn Bính",
-      "Tế Hanh"
+      "Tế Hanh",
+      "Hàn Mặc Tử"
     ],
     "themes": [
       "Tho Moi"
@@ -17356,11 +16756,9 @@ const RAW_DATA = [
     "fullName": "Frank Sinatra (Francis Albert Sinatra, The Voice, Ol' Blue Eyes)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Frank_Sinatra_1961.jpg",
     "relations": [
-      "Louis Armstrong",
-      "Marilyn Monroe",
-      "Nicolas Flamel",
-      "Thân Nhân Trung",
-      "Władysław Szpilman"
+      "Władysław Szpilman",
+      "Anna May Wong",
+      "Marilyn Monroe"
     ],
     "themes": []
   },
@@ -17379,11 +16777,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Văn Thái",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%C4%90%E1%BA%A1i_t%C6%B0%E1%BB%9Bng_Ho%C3%A0ng_V%C4%83n_Th%C3%A1i.jpg/500px-%C4%90%E1%BA%A1i_t%C6%B0%E1%BB%9Bng_Ho%C3%A0ng_V%C4%83n_Th%C3%A1i.jpg",
     "relations": [
-      "Carlos Prats",
-      "Hoàng Đan",
-      "Lê Trọng Tấn",
-      "Robert McNamara",
-      "Văn Tiến Dũng"
+      "Võ Nguyên Giáp",
+      "Hoàng Minh Thảo",
+      "Lê Trọng Tấn"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17405,10 +16801,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Augusto_Pinochet_foto_oficial_%28cropped%29%28b%29.jpg",
     "themes": [],
     "relations": [
-      "Benito Juárez",
-      "Germán Busch",
+      "Salvador Allende",
       "Jorge Rafael Videla",
-      "Salvador Allende"
+      "Germán Busch"
     ]
   },
   {
@@ -17427,8 +16822,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Gral._Prats.jpg",
     "themes": [],
     "relations": [
-      "Hoàng Văn Thái",
       "Robert McNamara",
+      "Trần Văn Trà",
       "Salvador Allende"
     ]
   },
@@ -17447,11 +16842,9 @@ const RAW_DATA = [
     "fullName": "Xuân Diệu (Ngô Xuân Diệu, ông hoàng thơ tình)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Xuandieupoet.jpg",
     "relations": [
-      "Bình Nguyên Lộc",
-      "Hồ Biểu Chánh",
-      "Hồ Dzếnh",
-      "Quách Tấn",
-      "Vũ Khắc Khoan"
+      "Hàn Mặc Tử",
+      "Chế Lan Viên",
+      "Quách Tấn"
     ],
     "themes": [
       "Tho Moi"
@@ -17473,7 +16866,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Portrait_of_D%C6%B0%C6%A1ng_V%C4%83n_Minh%2C_Vietnam_Fights_and_Builds_No.1%2C_July_1964.jpg/500px-Portrait_of_D%C6%B0%C6%A1ng_V%C4%83n_Minh%2C_Vietnam_Fights_and_Builds_No.1%2C_July_1964.jpg",
     "relations": [
       "Cao Văn Viên",
-      "Nguyễn Khánh",
       "Trần Thiện Khiêm",
       "Trần Văn Hương"
     ],
@@ -17497,8 +16889,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Rosa Parks",
-      "Trần Văn Tuyên",
-      "Đinh Núp"
+      "Đinh Núp",
+      "Phạm Hùng"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Thaivanlung.jpg/500px-Thaivanlung.jpg"
@@ -17518,10 +16910,9 @@ const RAW_DATA = [
     "fullName": "Thelonious Monk",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Thelonious_Monk%2C_Minton%27s_Playhouse%2C_New_York%2C_N.Y.%2C_ca._Sept._1947_%28William_P._Gottlieb_06191%29.jpg",
     "relations": [
-      "John Cage",
+      "Dmitri Shostakovich",
       "Miles Davis",
-      "Nat King Cole",
-      "Władysław Szpilman"
+      "John Cage"
     ],
     "themes": []
   },
@@ -17540,9 +16931,9 @@ const RAW_DATA = [
     "fullName": "Văn Tiến Dũng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Van_Tien_Dung_1954.jpg",
     "relations": [
-      "Hoàng Minh Thảo",
       "Hoàng Văn Thái",
-      "Thi Sách"
+      "Võ Nguyên Giáp",
+      "Hoàng Minh Thảo"
     ],
     "themes": [
       "Khang chien chong My"
@@ -17563,9 +16954,8 @@ const RAW_DATA = [
     "fullName": "Indira Gandhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/500px-IndiraGandhi.png",
     "relations": [
-      "Mahatma Gandhi",
-      "Margaret Thatcher",
       "Patrice Lumumba",
+      "Fidel Castro",
       "Xuân Thủy"
     ],
     "themes": []
@@ -17585,8 +16975,8 @@ const RAW_DATA = [
     "fullName": "John F. Kennedy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
     "relations": [
-      "Ronald Reagan",
-      "Ted Kennedy",
+      "Henry Kissinger",
+      "Lê Duẩn",
       "Võ Văn Kiệt"
     ],
     "themes": [
@@ -17608,11 +16998,9 @@ const RAW_DATA = [
     "fullName": "Park Chung-hee",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg",
     "relations": [
-      "Emmanuel Macron",
-      "Juan José Torres",
-      "Nguyễn Cao Kỳ",
-      "Nguyễn Văn Thiệu",
-      "Nguyễn Xuân Oánh"
+      "Leonid Ilyich Brezhnev",
+      "Nguyễn Xuân Oánh",
+      "Nguyễn Cao Kỳ"
     ],
     "themes": []
   },
@@ -17632,8 +17020,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tran_Duc_Thao.jpg",
     "relations": [
       "Edmund Husserl",
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir"
+      "Nguyễn Hữu Đang",
+      "Phùng Quán"
     ],
     "themes": [
       "Bat dong chinh kien VN"
@@ -17654,9 +17042,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nh%C3%A0_th%C6%A1_Th%C3%A2m_T%C3%A2m_%281917%E2%80%931950%29.JPG/500px-Nh%C3%A0_th%C6%A1_Th%C3%A2m_T%C3%A2m_%281917%E2%80%931950%29.JPG",
     "relations": [
+      "Tế Hanh",
       "Huy Cận",
-      "Hàn Thuyên",
-      "Tế Hanh"
+      "Chế Lan Viên"
     ],
     "themes": []
   },
@@ -17675,9 +17063,9 @@ const RAW_DATA = [
     "fullName": "Nguyên Hồng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nguy%E1%BB%85n_Nguy%C3%AAn_H%E1%BB%93ng.jpg",
     "relations": [
-      "Ayn Rand",
-      "Huy Cận",
-      "Italo Calvino"
+      "Thụy An",
+      "Italo Calvino",
+      "Ayn Rand"
     ],
     "themes": []
   },
@@ -17696,11 +17084,9 @@ const RAW_DATA = [
     "fullName": "Nelson Mandela",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg",
     "relations": [
-      "José Mujica",
-      "Léopold Sédar Senghor",
-      "Rosa Parks",
-      "Salvador Allende",
-      "Thomas Sankara"
+      "Henry Kissinger",
+      "Anwar Al-Sadad",
+      "Rosa Parks"
     ],
     "themes": [
       "Giai Nobel"
@@ -17722,8 +17108,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg/500px-Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg",
     "relations": [
       "Giang Trạch Dân",
-      "Marina Abramovic",
-      "Nguyễn Xuân Oánh",
+      "Leonid Ilyich Brezhnev",
       "Triệu Tử Dương"
     ],
     "themes": []
@@ -17743,11 +17128,9 @@ const RAW_DATA = [
     "fullName": "Richard Feynman",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/500px-Richard_Feynman_Nobel.jpg",
     "relations": [
-      "Edward Teller",
-      "Paul Dirac",
-      "Roger Penrose",
-      "Steven Weinberg",
-      "Werner Israel"
+      "J. Robert Oppenheimer",
+      "Hans Bethe",
+      "Enrico Fermi"
     ],
     "themes": [
       "Quantum Physics",
@@ -17769,9 +17152,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Nhược Pháp",
+      "Tế Hanh",
       "Thế Lữ",
-      "Tế Hanh"
+      "Huy Cận"
     ],
     "themes": [
       "Tho Moi"
@@ -17793,8 +17176,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nat_King_Cole_1947.jpg",
     "relations": [
       "Chet Baker",
-      "Miles Davis",
-      "Thelonious Monk"
+      "Thelonious Monk",
+      "Frank Sinatra"
     ],
     "themes": []
   },
@@ -17813,11 +17196,9 @@ const RAW_DATA = [
     "fullName": "Út Trà Ôn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ca_s%C4%A9_Ng%E1%BB%8Dc_Huy%E1%BB%81n.jpg/500px-Ca_s%C4%A9_Ng%E1%BB%8Dc_Huy%E1%BB%81n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Bùi Xuân Phái",
-      "Hedy Lamarr",
+      "Tôn-Thất Tiết",
       "Phạm Duy",
-      "Tô Ngọc Vân",
-      "Võ Trường Toản"
+      "Thelonious Monk"
     ],
     "themes": []
   },
@@ -17836,11 +17217,9 @@ const RAW_DATA = [
     "fullName": "Huy Cận",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_of_poet_Huy_C%E1%BA%ADn_%28cropped%29.jpg",
     "relations": [
-      "Cù Huy Hà Vũ",
-      "Hồ Dzếnh",
-      "Nguyên Hồng",
-      "Nhất Linh",
-      "Thâm Tâm"
+      "Chế Lan Viên",
+      "Thế Lữ",
+      "Phan Khôi"
     ],
     "themes": [
       "Tho Moi"
@@ -17861,9 +17240,9 @@ const RAW_DATA = [
     "fullName": "Mikhail Timofeyevich Kalashnikov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kalashnikov_Mikhail_%281%29.jpg",
     "relations": [
-      "Aleksandr Vasilyevich Kolchak",
+      "Trần Văn Trà",
       "Lê Trọng Tấn",
-      "Nguyễn Ngọc Loan"
+      "Võ Nguyên Giáp"
     ],
     "themes": []
   },
@@ -17883,10 +17262,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Edmund_Hillary%2C_c._1953%2C_autograph_removed.jpg/500px-Edmund_Hillary%2C_c._1953%2C_autograph_removed.jpg",
     "relations": [
       "Anne Frank",
-      "Hermann Gmeiner",
-      "Neil Armstrong",
-      "Phạm Tuân",
-      "Yuri Gagarin"
+      "Yuri Gagarin",
+      "Phạm Tuân"
     ],
     "themes": []
   },
@@ -17905,8 +17282,8 @@ const RAW_DATA = [
     "fullName": "Hermann Gmeiner",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Herman_Gmeiner_cropped.jpg/500px-Herman_Gmeiner_cropped.jpg",
     "relations": [
-      "Anne Frank",
       "Edmund Hillary",
+      "Anne Frank",
       "Oskar Schindler"
     ],
     "themes": []
@@ -17926,10 +17303,8 @@ const RAW_DATA = [
     "fullName": "Bảo Đại (Nguyễn Phúc Vĩnh Thụy, Nguyen Phuc Vinh Thuy, vua cuối triều Nguyễn)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emperor_B%E1%BA%A3o_%C4%90%E1%BA%A1i_on_his_throne_%28cropped%29.jpg",
     "relations": [
-      "Hoàng tử Bảo Thăng",
-      "Nam Phương Hoàng hậu",
       "Phạm Công Tắc",
-      "Phổ Nghi",
+      "Nam Phương Hoàng hậu",
       "Thái tử Bảo Long"
     ],
     "themes": []
@@ -17951,8 +17326,6 @@ const RAW_DATA = [
     "relations": [
       "Giang Trạch Dân",
       "Lâm Bưu",
-      "Nicolae Ceaușescu",
-      "Phổ Nghi",
       "Đặng Tiểu Bình"
     ],
     "themes": [
@@ -17976,7 +17349,7 @@ const RAW_DATA = [
     "relations": [
       "Ali Shariati",
       "Nguyễn Thị Minh Khai",
-      "Nguyễn Văn Cừ"
+      "Nam Phương Hoàng hậu"
     ],
     "themes": []
   },
@@ -17995,10 +17368,9 @@ const RAW_DATA = [
     "fullName": "Hà Thúc Ký",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/H%C3%A0_Th%C3%BAc_K%C3%BD.png/500px-H%C3%A0_Th%C3%BAc_K%C3%BD.png",
     "relations": [
-      "Nguyễn Cao Kỳ",
-      "Phan Khắc Sửu",
+      "Trần Văn Tuyên",
       "Trần Lệ Xuân",
-      "Trần Văn Tuyên"
+      "Võ Chí Công"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18019,9 +17391,8 @@ const RAW_DATA = [
     "fullName": "Huỳnh Phú Sổ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Duc_huynh_phu_so.jpg",
     "relations": [
-      "Mother Teresa",
       "Phạm Công Tắc",
-      "Sư Vạn Hạnh",
+      "Thích Quảng Độ",
       "Thích Nhất Hạnh"
     ],
     "themes": []
@@ -18041,9 +17412,9 @@ const RAW_DATA = [
     "fullName": "Bùi Xuân Phái",
     "image": "",
     "relations": [
+      "Út Trà Ôn",
       "Phạm Duy",
-      "Tôn-Thất Tiết",
-      "Út Trà Ôn"
+      "Tôn-Thất Tiết"
     ],
     "themes": []
   },
@@ -18063,10 +17434,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Juan_Jos%C3%A9_Torres._Eguino%2C_Antonio._c._1970%E2%80%931971._Palacio_Quemado%2C_La_Paz.png/500px-Juan_Jos%C3%A9_Torres._Eguino%2C_Antonio._c._1970%E2%80%931971._Palacio_Quemado%2C_La_Paz.png",
     "themes": [],
     "relations": [
-      "Isabel Perón",
       "Jacobo Árbenz",
-      "Nguyễn Văn Thiệu",
-      "Park Chung-hee"
+      "Park Chung-hee",
+      "Nguyễn Văn Thiệu"
     ]
   },
   {
@@ -18087,9 +17457,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Eric_Rohmer_cinematheque_2004-04.jpg",
     "relations": [
-      "Chris Marker",
+      "Jean-Luc Godard",
       "François Truffaut",
-      "Jean-Luc Godard"
+      "Chris Marker"
     ]
   },
   {
@@ -18107,10 +17477,9 @@ const RAW_DATA = [
     "fullName": "Phạm Duy (Phạm Duy Cẩn)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Phamduy.jpg",
     "relations": [
-      "Bùi Xuân Phái",
       "Tôn-Thất Tiết",
-      "Văn Cao",
-      "Út Trà Ôn"
+      "Út Trà Ôn",
+      "Dmitri Shostakovich"
     ],
     "themes": []
   },
@@ -18129,9 +17498,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Minh Thảo",
     "image": "https://upload.wikimedia.org/wikipedia/vi/0/00/Hoangminhthao.gif",
     "relations": [
-      "Hoàng Đan",
+      "Hoàng Văn Thái",
       "Lê Trọng Tấn",
-      "Văn Tiến Dũng"
+      "Hoàng Đan"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18152,10 +17521,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Xuân Oánh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nguy%E1%BB%85n_Xu%C3%A2n_O%C3%A1nh%2C_Viet-Nam_Bulletin_Viet-Nam_info_series.jpg/500px-Nguy%E1%BB%85n_Xu%C3%A2n_O%C3%A1nh%2C_Viet-Nam_Bulletin_Viet-Nam_info_series.jpg",
     "relations": [
-      "Bùi Thiện Ngộ",
-      "Nicolae Ceaușescu",
-      "Park Chung-hee",
-      "Patrice Lumumba"
+      "Leonid Ilyich Brezhnev",
+      "Lê Khả Phiêu",
+      "Lê Duẩn"
     ],
     "themes": []
   },
@@ -18174,11 +17542,9 @@ const RAW_DATA = [
     "fullName": "Cao Văn Viên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Cao_V%C4%83n_Vi%C3%AAn%2C_Commander_of_the_Vietnamese_Armed_Forces_General_Staff.jpg/500px-Portrait_of_Cao_V%C4%83n_Vi%C3%AAn%2C_Commander_of_the_Vietnamese_Armed_Forces_General_Staff.jpg",
     "relations": [
+      "Trần Thiện Khiêm",
       "Dương Văn Minh",
-      "Nguyễn Chánh Thi",
-      "Nguyễn Hữu Có",
-      "Nguyễn Ngọc Loan",
-      "Trần Thiện Khiêm"
+      "Nguyễn Chánh Thi"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18199,9 +17565,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Nguyễn Bính",
-      "Nguyễn Nhược Pháp",
-      "Thâm Tâm",
-      "Thế Lữ"
+      "Chế Lan Viên",
+      "Huy Cận"
     ],
     "themes": [
       "Tho Moi"
@@ -18223,10 +17588,9 @@ const RAW_DATA = [
     "fullName": "Chris Marker (Christian-François Bouche-Villeneuve)",
     "image": "",
     "relations": [
-      "Agnès Varda",
       "Alain Resnais",
-      "François Truffaut",
-      "Éric Rohmer"
+      "Agnès Varda",
+      "Jean-Luc Godard"
     ],
     "themes": [
       "French New Wave"
@@ -18247,9 +17611,9 @@ const RAW_DATA = [
     "fullName": "Phạm Ngọc Thảo",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png",
     "relations": [
-      "Lý Nam Đế",
-      "Trường Chinh",
-      "Võ Văn Kiệt"
+      "Huỳnh Tấn Phát",
+      "Võ Chí Công",
+      "Lê Duẩn"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -18271,10 +17635,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Huỳnh Tấn Phát",
-      "John F. Kennedy",
-      "Lê Khả Phiêu",
-      "Phạm Ngọc Thảo",
-      "Đỗ Mười"
+      "Phạm Hùng",
+      "Lê Duẩn"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -18298,11 +17660,9 @@ const RAW_DATA = [
     "fullName": "Alain Resnais",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Alain%20Resnais%20C%C3%A9sars%202.jpg",
     "relations": [
-      "Andrei Tarkovsky",
       "Chris Marker",
-      "El Greco",
-      "François Truffaut",
-      "Jacques Demy"
+      "Agnès Varda",
+      "François Truffaut"
     ],
     "themes": [
       "French New Wave"
@@ -18323,11 +17683,9 @@ const RAW_DATA = [
     "fullName": "Italo Calvino",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Italo-Calvino.jpg",
     "relations": [
-      "Alexander Pushkin",
-      "Jean de La Fontaine",
-      "Nguyên Hồng",
-      "Vũ Trọng Phụng",
-      "Ōe Kenzaburo"
+      "Gabriel García Márquez",
+      "Chế Lan Viên",
+      "Ernest Hemingway"
     ],
     "themes": []
   },
@@ -18346,8 +17704,8 @@ const RAW_DATA = [
     "fullName": "Nguyễn Chánh Thi",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/9/90/Nguyen_Chanh_Thi.png/250px-Nguyen_Chanh_Thi.png",
     "relations": [
-      "Cao Văn Viên",
       "Nguyễn Hữu Có",
+      "Cao Văn Viên",
       "Trần Thiện Khiêm"
     ],
     "themes": [
@@ -18369,10 +17727,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Văn Thiệu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Official_Portrait_of_Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u%2C_President_of_the_Republic_of_Vietnam_%28cropped%29.jpg/500px-Official_Portrait_of_Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u%2C_President_of_the_Republic_of_Vietnam_%28cropped%29.jpg",
     "relations": [
-      "Jacobo Árbenz",
-      "Juan José Torres",
-      "Park Chung-hee",
-      "Trần Văn Hương"
+      "Nguyễn Cao Kỳ",
+      "Trần Văn Hương",
+      "Henry Kissinger"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18393,10 +17750,8 @@ const RAW_DATA = [
     "fullName": "Henry Kissinger (Heinz Alfred Kissinger, Secretary of State)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/500px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
     "relations": [
-      "Anwar Al-Sadad",
-      "Bùi Thiện Ngộ",
-      "Dương Trung Quốc",
-      "Kofi Annan",
+      "Xuân Thủy",
+      "Lê Đức Thọ",
       "Phạm Xuân Ẩn"
     ],
     "themes": [
@@ -18420,10 +17775,9 @@ const RAW_DATA = [
     "fullName": "Văn Cao",
     "image": "",
     "relations": [
-      "Lê Đạt",
-      "Phùng Quán",
       "Phạm Duy",
-      "Trần Dần"
+      "Út Trà Ôn",
+      "Tôn-Thất Tiết"
     ],
     "themes": []
   },
@@ -18444,9 +17798,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ren%C3%A9_Girard.jpg/500px-Ren%C3%A9_Girard.jpg",
     "themes": [],
     "relations": [
+      "Michel Foucault",
       "Gilles Deleuze",
-      "Jacques Derrida",
-      "Michel Foucault"
+      "Jacques Derrida"
     ]
   },
   {
@@ -18466,9 +17820,7 @@ const RAW_DATA = [
     "relations": [
       "Hà Thúc Ký",
       "Nguyễn Cao Kỳ",
-      "Ted Kennedy",
-      "Trần Văn Tuyên",
-      "Võ Trường Toản"
+      "Trần Văn Tuyên"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18489,7 +17841,7 @@ const RAW_DATA = [
     "fullName": "Yukio Mishima (三島由紀夫, Kimitake Hiraoka)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg",
     "relations": [
-      "Abbas Kiarostami",
+      "Thụy An",
       "Cao Hành Kiện",
       "Ichikawa Takuji"
     ],
@@ -18510,9 +17862,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hữu Có",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nguy%E1%BB%85n_H%E1%BB%AFu_C%C3%B3.jpg",
     "relations": [
-      "Cao Văn Viên",
       "Nguyễn Chánh Thi",
-      "Trần Thiện Khiêm"
+      "Trần Thiện Khiêm",
+      "Cao Văn Viên"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18533,11 +17885,9 @@ const RAW_DATA = [
     "fullName": "Gilles Deleuze",
     "image": "",
     "relations": [
-      "Adam Smith",
-      "Han Byung-chul",
-      "Muhammad ibn Mūsā al-Khwārizmī",
-      "René Descartes",
-      "René Girard"
+      "Michel Foucault",
+      "Jacques Derrida",
+      "Julia Kristeva"
     ],
     "themes": [
       "Psychoanalysis"
@@ -18558,10 +17908,9 @@ const RAW_DATA = [
     "fullName": "Malcolm X",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Malcolm_X_1963_press_photo.jpg/500px-Malcolm_X_1963_press_photo.jpg",
     "relations": [
-      "Malala Yousafzai",
-      "Martin Luther King Jr.",
       "Rosa Parks",
-      "Saddam Hussein"
+      "Bùi Tín",
+      "Hoàng Minh Chính"
     ],
     "themes": []
   },
@@ -18581,8 +17930,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Baroness_Thatcher_in_2005.jpg/500px-Baroness_Thatcher_in_2005.jpg",
     "relations": [
       "Elizabeth II",
-      "Indira Gandhi",
-      "Pol Pot"
+      "Fidel Castro",
+      "Indira Gandhi"
     ],
     "themes": []
   },
@@ -18601,8 +17950,8 @@ const RAW_DATA = [
     "fullName": "Patrice Lumumba",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Patrice_Lumumba%2C_1960_%28cropped%29.jpg",
     "relations": [
-      "Giang Trạch Dân",
       "Indira Gandhi",
+      "Giang Trạch Dân",
       "Nguyễn Xuân Oánh"
     ],
     "themes": []
@@ -18623,9 +17972,9 @@ const RAW_DATA = [
     "fullName": "Pol Pot (Saloth Sâr)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pol_Pot_%28cropped%29.jpg",
     "relations": [
-      "Che Guevara",
+      "Margaret Thatcher",
       "Fidel Castro",
-      "Margaret Thatcher"
+      "Che Guevara"
     ],
     "themes": []
   },
@@ -18647,9 +17996,7 @@ const RAW_DATA = [
     "relations": [
       "Cao Văn Viên",
       "Dương Văn Minh",
-      "Nguyễn Chánh Thi",
-      "Nguyễn Hữu Có",
-      "Nguyễn Khánh"
+      "Nguyễn Hữu Có"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18672,9 +18019,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Retrato_Oficial_Jorge_Rafael_Videla_1976_%28cropped%29_%28b%29.jpg",
     "themes": [],
     "relations": [
-      "Alberto Fujimori",
+      "Saddam Hussein",
       "Augusto Pinochet",
-      "Saddam Hussein"
+      "Alberto Fujimori"
     ]
   },
   {
@@ -18692,11 +18039,9 @@ const RAW_DATA = [
     "fullName": "Marilyn Monroe (Norma Jeane Mortenson, Norma Jeane Baker)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monroecirca1953.jpg",
     "relations": [
-      "Anna May Wong",
-      "Asia Argento",
+      "John Lennon",
       "Frank Sinatra",
-      "Ingrid Bergman",
-      "John Lennon"
+      "Sergei Parajanov"
     ],
     "themes": []
   },
@@ -18715,11 +18060,9 @@ const RAW_DATA = [
     "fullName": "Miles Davis",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Miles_Davis_1987.png",
     "relations": [
+      "Thelonious Monk",
       "Chet Baker",
-      "Grover Washington Jr.",
-      "John Cage",
-      "Nat King Cole",
-      "Thelonious Monk"
+      "Nat King Cole"
     ],
     "themes": []
   },
@@ -18738,9 +18081,9 @@ const RAW_DATA = [
     "fullName": "Trần Dần",
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/49/Tr%E1%BA%A7n_D%E1%BA%A7n.jpg",
     "relations": [
-      "Lê Đạt",
       "Phùng Quán",
-      "Văn Cao"
+      "Phan Khôi",
+      "Phùng Cung"
     ],
     "themes": [
       "Bat dong chinh kien VN"
@@ -18761,9 +18104,9 @@ const RAW_DATA = [
     "fullName": "Bùi Giáng",
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/41/Buigiang-chandung.jpg",
     "relations": [
-      "Nguyễn Bỉnh Khiêm",
-      "Nguyễn Du",
-      "Đặng Đức Siêu"
+      "Trần Dần",
+      "Bình Nguyên Lộc",
+      "Phùng Cung"
     ],
     "themes": []
   },
@@ -18782,11 +18125,9 @@ const RAW_DATA = [
     "fullName": "Michel Foucault",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg",
     "relations": [
-      "Edward Said",
-      "Jacques Derrida",
-      "Jürgen Habermas",
-      "René Girard",
-      "Vittorio Pini"
+      "Julia Kristeva",
+      "Gilles Deleuze",
+      "Karen Horney"
     ],
     "themes": [
       "Psychoanalysis"
@@ -18807,9 +18148,9 @@ const RAW_DATA = [
     "fullName": "Elizabeth II",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/500px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg",
     "relations": [
-      "Hirohito",
       "Margaret Thatcher",
-      "Robert Hanssen"
+      "Tăng Khánh Hồng",
+      "Rama IX"
     ],
     "themes": []
   },
@@ -18828,11 +18169,9 @@ const RAW_DATA = [
     "fullName": "Fidel Castro",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fidel_Castro_1950s.jpg",
     "relations": [
-      "José Mujica",
-      "Martin Luther King Jr.",
-      "Pol Pot",
-      "Raul Castro",
-      "Thomas Sankara"
+      "Indira Gandhi",
+      "Saddam Hussein",
+      "Margaret Thatcher"
     ],
     "themes": []
   },
@@ -18851,11 +18190,9 @@ const RAW_DATA = [
     "fullName": "Giang Trạch Dân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jiang_Zemin_2002.jpg",
     "relations": [
-      "Hồ Cẩm Đào",
-      "Nicolae Ceaușescu",
-      "Patrice Lumumba",
-      "Triệu Tử Dương",
-      "Tập Cận Bình"
+      "Tăng Khánh Hồng",
+      "Tập Cận Bình",
+      "Hồ Cẩm Đào"
     ],
     "themes": [
       "Chinese Communism"
@@ -18876,10 +18213,9 @@ const RAW_DATA = [
     "fullName": "Thích Nhất Hạnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Thich_Nhat_Hanh_12_%28cropped%29.jpg/500px-Thich_Nhat_Hanh_12_%28cropped%29.jpg",
     "relations": [
+      "Thích Quảng Độ",
       "Huỳnh Phú Sổ",
-      "Hồng y Trịnh Văn Căn",
-      "Thích Quảng Đức",
-      "Thích-ca Mâu-ni"
+      "Thích Tuệ Sỹ"
     ],
     "themes": []
   },
@@ -18898,9 +18234,9 @@ const RAW_DATA = [
     "fullName": "Danny Blanchflower",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Danny_Blanchflower_%28cropped2%29.jpg/500px-Danny_Blanchflower_%28cropped2%29.jpg",
     "relations": [
-      "Justin Fontaine",
-      "Sir Bobby Charlton",
-      "Son Heung-min"
+      "Alfredo Di Stefano",
+      "Son Heung-min",
+      "Sir Bobby Charlton"
     ],
     "themes": [
       "Football"
@@ -18922,9 +18258,9 @@ const RAW_DATA = [
     "fullName": "René Goscinny",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ren%C3%A9_Goscinny.jpg/500px-Ren%C3%A9_Goscinny.jpg",
     "relations": [
-      "Annie Ernaux",
+      "Tove Jansson",
       "Jean Teulé",
-      "Milan Kundera"
+      "Marguerite Duras"
     ],
     "themes": []
   },
@@ -18944,8 +18280,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/44/PhamXuanAn.jpg",
     "relations": [
       "Henry Kissinger",
-      "Richard Nixon",
-      "Xuân Thủy"
+      "Xuân Thủy",
+      "Phạm Hùng"
     ],
     "themes": [
       "Khang chien chong My"
@@ -18966,10 +18302,9 @@ const RAW_DATA = [
     "fullName": "Ferenc Puskás",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ferenc_Puskas_en_1965.jpg",
     "relations": [
-      "Alfredo Di Stefano",
-      "Otto Rehhagel",
-      "Santiago Bernabéu",
-      "Thân Nhân Trung"
+      "Pelé",
+      "Garrincha",
+      "Sir Bobby Robson"
     ],
     "themes": [
       "Football"
@@ -18990,9 +18325,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thị Bình (Nguyễn Thị Châu Sa, Madame Bình)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Nguyen_Thi_Binh.jpg",
     "relations": [
-      "Kofi Annan",
       "Xuân Thủy",
-      "Đặng Thùy Trâm"
+      "Phạm Hùng",
+      "Võ Chí Công"
     ],
     "themes": [
       "Khang chien chong My",
@@ -19015,11 +18350,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Khánh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nguy%E1%BB%85n_Kh%C3%A1nh_1964.jpg/500px-Nguy%E1%BB%85n_Kh%C3%A1nh_1964.jpg",
     "relations": [
-      "Dương Văn Minh",
-      "Nguyễn Chí Vịnh",
-      "Nguyễn Hữu Cảnh",
-      "Ngô Xuân Lịch",
-      "Trần Thiện Khiêm"
+      "Trần Văn Trà",
+      "Trần Thiện Khiêm",
+      "Dương Văn Minh"
     ],
     "themes": []
   },
@@ -19038,10 +18371,8 @@ const RAW_DATA = [
     "fullName": "Agnès Varda (Arlette Varda, Mother of the French New Wave)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Agn%C3%A8s_Varda_%28Berlinale_2019%29_%28cropped%29.jpg",
     "relations": [
-      "Chantal Akerman",
       "Chris Marker",
-      "Flora Tristan",
-      "Hippocrates",
+      "Alain Resnais",
       "Pedro Almodóvar"
     ],
     "themes": [
@@ -19064,10 +18395,9 @@ const RAW_DATA = [
     "fullName": "Gabriel García Márquez (Gabo, One Hundred Years of Solitude)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Gabriel_Garcia_Marquez.jpg",
     "relations": [
-      "Dương Nghiễm Mậu",
-      "Margaret Atwood",
+      "Mạc Ngôn",
       "Octavio Paz",
-      "Ōe Kenzaburo"
+      "Toni Morrison"
     ],
     "themes": [
       "Giai Nobel"
@@ -19089,8 +18419,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/7b/HoangDan_02.jpg/250px-HoangDan_02.jpg",
     "relations": [
       "Hoàng Minh Thảo",
-      "Hoàng Văn Thái",
-      "Lê Trọng Tấn"
+      "Lê Trọng Tấn",
+      "Hoàng Văn Thái"
     ],
     "themes": [
       "Khang chien chong My"
@@ -19112,11 +18442,9 @@ const RAW_DATA = [
     "nationality": "Cuban",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
     "relations": [
-      "Ali Shariati",
-      "José Mujica",
-      "Pol Pot",
       "Raul Castro",
-      "Thomas Sankara"
+      "Fidel Castro",
+      "Muammar Gaddafi"
     ],
     "themes": []
   },
@@ -19135,9 +18463,9 @@ const RAW_DATA = [
     "fullName": "Chet Baker",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chet_Baker_%281955_portrait%29.jpg",
     "relations": [
+      "Nat King Cole",
       "Grover Washington Jr.",
-      "Miles Davis",
-      "Nat King Cole"
+      "Miles Davis"
     ],
     "themes": []
   },
@@ -19156,10 +18484,9 @@ const RAW_DATA = [
     "fullName": "Milan Kundera (Unbearable Lightness of Being)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Milan_Kundera_redux.jpg/500px-Milan_Kundera_redux.jpg",
     "relations": [
-      "Alexis de Tocqueville",
-      "Guy de Maupassant",
-      "René Goscinny",
-      "Ōe Kenzaburo"
+      "Marguerite Duras",
+      "Ōe Kenzaburo",
+      "Guy de Maupassant"
     ],
     "themes": []
   },
@@ -19178,9 +18505,9 @@ const RAW_DATA = [
     "fullName": "David Rosenhan",
     "image": "",
     "relations": [
-      "Alexander Fleming",
       "Karen Horney",
-      "Margaret Cavendish"
+      "Margaret Cavendish",
+      "Wilhelm Wundt"
     ],
     "themes": []
   },
@@ -19199,9 +18526,8 @@ const RAW_DATA = [
     "fullName": "Anne Frank (Annelies Marie Frank, The Diary of a Young Girl)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg/500px-Anne_Frank_passport_photo%2C_May_1942_%28cropped%29.jpg",
     "relations": [
-      "Buzz Aldrin",
-      "Edmund Hillary",
-      "Hermann Gmeiner",
+      "J. Robert Oppenheimer",
+      "Oskar Schindler",
       "Yuri Gagarin"
     ],
     "themes": [
@@ -19223,9 +18549,9 @@ const RAW_DATA = [
     "fullName": "Bùi Thiện Ngộ",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/ec/B%C3%B9i_Thi%E1%BB%87n_Ng%E1%BB%99.jpg/250px-B%C3%B9i_Thi%E1%BB%87n_Ng%E1%BB%99.jpg",
     "relations": [
-      "Henry Kissinger",
-      "Khúc Hạo",
-      "Nguyễn Xuân Oánh"
+      "Đỗ Mười",
+      "Nguyễn Văn Linh",
+      "Lê Khả Phiêu"
     ],
     "themes": [
       "VN Modern Communism"
@@ -19246,9 +18572,9 @@ const RAW_DATA = [
     "fullName": "Martin Luther King Jr.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg",
     "relations": [
-      "Fidel Castro",
-      "Malcolm X",
-      "Saddam Hussein"
+      "Nelson Mandela",
+      "Aung San Suu Kyi",
+      "Henry Kissinger"
     ],
     "themes": [
       "Giai Nobel"
@@ -19269,9 +18595,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hubert_Dreyfus_%28cropped%29.jpg/500px-Hubert_Dreyfus_%28cropped%29.jpg",
     "relations": [
-      "Edward Said",
       "Jean-Paul Sartre",
-      "Phạm Công Thiện"
+      "Phạm Công Thiện",
+      "Friedrich Nietzsche"
     ],
     "themes": []
   },
@@ -19292,8 +18618,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/M%E1%BB%99_Kim_%C4%90%E1%BB%93ng%2C_Cao_B%E1%BA%B1ng.JPG/500px-M%E1%BB%99_Kim_%C4%90%E1%BB%93ng%2C_Cao_B%E1%BA%B1ng.JPG",
     "relations": [
       "Hồ Chí Minh",
-      "Lê Hồng Phong",
-      "Tôn Đức Thắng"
+      "Phạm Hùng",
+      "Hoàng Văn Thụ"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -19314,9 +18640,9 @@ const RAW_DATA = [
     "fullName": "Jürgen Habermas",
     "image": "",
     "relations": [
-      "Karl Marx",
       "Martin Heidegger",
-      "Michel Foucault"
+      "Karl Marx",
+      "Tadeusz Kotarbiński"
     ],
     "themes": []
   },
@@ -19335,11 +18661,9 @@ const RAW_DATA = [
     "fullName": "Jean-Luc Godard",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jean-Luc_Godard_at_Berkeley%2C_1968.jpg",
     "relations": [
-      "Roberto Rossellini",
-      "Sergei Parajanov",
-      "Theo Angelopoulos",
-      "Yves Saint-Laurent",
-      "Éric Rohmer"
+      "Chris Marker",
+      "Pedro Almodóvar",
+      "Alain Resnais"
     ],
     "themes": [
       "French New Wave"
@@ -19360,9 +18684,9 @@ const RAW_DATA = [
     "fullName": "Warren Buffett",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/500px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
     "relations": [
-      "Bill Gates",
+      "Yves Saint-Laurent",
       "John D. Rockefeller",
-      "Yves Saint-Laurent"
+      "Bill Gates"
     ],
     "themes": []
   },
@@ -19381,9 +18705,9 @@ const RAW_DATA = [
     "fullName": "Buzz Aldrin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/500px-Buzz_Aldrin.jpg",
     "relations": [
-      "Anne Frank",
       "Neil Armstrong",
-      "Yuri Gagarin"
+      "Yuri Gagarin",
+      "Anne Frank"
     ],
     "themes": []
   },
@@ -19403,8 +18727,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/500px-Neil_Armstrong_pose.jpg",
     "relations": [
       "Buzz Aldrin",
-      "Edmund Hillary",
-      "Yuri Gagarin"
+      "Yuri Gagarin",
+      "Edmund Hillary"
     ],
     "themes": []
   },
@@ -19423,9 +18747,9 @@ const RAW_DATA = [
     "fullName": "Jacques Derrida",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Derrida_EHESS_%28cropped%29.png/500px-Derrida_EHESS_%28cropped%29.png",
     "relations": [
-      "Julia Kristeva",
+      "Gilles Deleuze",
       "Michel Foucault",
-      "René Girard"
+      "Julia Kristeva"
     ],
     "themes": [
       "Psychoanalysis"
@@ -19446,11 +18770,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Cao Kỳ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/USIA_66-1476.jpg",
     "relations": [
-      "Hà Thúc Ký",
-      "Park Chung-hee",
-      "Silvio Berlusconi",
-      "Trần Lệ Xuân",
-      "Trần Văn Hương"
+      "Nguyễn Văn Thiệu",
+      "Trần Văn Hương",
+      "Trần Lệ Xuân"
     ],
     "themes": [
       "Khang chien chong My"
@@ -19471,9 +18793,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ph%E1%BA%A1m_Minh_Ch%C3%ADnh_20260129.jpg/500px-Ph%E1%BA%A1m_Minh_Ch%C3%ADnh_20260129.jpg",
     "relations": [
-      "Bế Văn Đàn",
-      "Jean de Lattre de Tassigny",
-      "Võ Thị Sáu"
+      "Võ Thị Sáu",
+      "Trần Văn Trà",
+      "Jean de Lattre de Tassigny"
     ],
     "themes": []
   },
@@ -19493,8 +18815,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/1/10/Nguyen_Ngoc_Loan.jpg",
     "relations": [
       "Cao Văn Viên",
-      "Mikhail Timofeyevich Kalashnikov",
-      "Nguyễn Chí Vịnh",
+      "Hoàng Văn Thái",
       "Robert McNamara"
     ],
     "themes": [
@@ -19516,9 +18837,9 @@ const RAW_DATA = [
     "fullName": "Roger Penrose",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Roger_Penrose_at_Festival_della_Scienza_Oct_29_2011.jpg/500px-Roger_Penrose_at_Festival_della_Scienza_Oct_29_2011.jpg",
     "relations": [
-      "Richard Feynman",
-      "Stephen Hawking",
-      "Werner Israel"
+      "John Nash",
+      "Dương Chấn Ninh",
+      "Steven Weinberg"
     ],
     "themes": [
       "Giai Nobel"
@@ -19539,10 +18860,9 @@ const RAW_DATA = [
     "fullName": "Werner Israel",
     "image": "",
     "relations": [
-      "Arthur Eddington",
-      "Richard Feynman",
-      "Roger Penrose",
-      "Stephen Hawking"
+      "Lý Chính Đạo",
+      "Steven Weinberg",
+      "Dương Chấn Ninh"
     ],
     "themes": []
   },
@@ -19561,9 +18881,9 @@ const RAW_DATA = [
     "fullName": "Jacques Demy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Identite-Demy-1956-Sacem.jpg/500px-Identite-Demy-1956-Sacem.jpg",
     "relations": [
-      "Alain Resnais",
-      "Claire Denis",
-      "François Truffaut"
+      "Jean-Luc Godard",
+      "Agnès Varda",
+      "Alain Resnais"
     ],
     "themes": [
       "French New Wave"
@@ -19607,9 +18927,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Isabel_Martinez_de_Peron.jpg",
     "themes": [],
     "relations": [
+      "José Mujica",
       "Alberto Fujimori",
-      "Jaime Roldós Aguilera",
-      "Juan José Torres"
+      "Jaime Roldós Aguilera"
     ]
   },
   {
@@ -19627,9 +18947,9 @@ const RAW_DATA = [
     "fullName": "Andrei Tarkovsky (Andrei Arsenievich Tarkovsky, Андрей Тарковский)",
     "image": "https://d2csxpduxe849s.cloudfront.net/media/7F8951FF-19D4-45D4-B982D6125B7E7BD3/0BE90231-536D-4EBE-9B24BC53C9116824/600D6BB2-2679-4EE1-8AEF4B6EC15C8FB3/web%20hires%20jpg%2072dpi-Andrei%20Arsenyevich%20Tarkovsky.jpg",
     "relations": [
-      "Alain Resnais",
-      "Fujiko Fujio",
-      "Sergei Parajanov"
+      "Theo Angelopoulos",
+      "Agnès Varda",
+      "Alain Resnais"
     ],
     "themes": []
   },
@@ -19648,9 +18968,9 @@ const RAW_DATA = [
     "fullName": "Ted Kennedy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ted_Kennedy%2C_official_photo_portrait_crop.jpg/500px-Ted_Kennedy%2C_official_photo_portrait_crop.jpg",
     "relations": [
-      "Donald Trump",
-      "John F. Kennedy",
-      "Trần Lệ Xuân"
+      "Lê Khả Phiêu",
+      "Trần Lệ Xuân",
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -19673,9 +18993,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fran%C3%A7ois_Truffaut_%281965%29.jpg",
     "relations": [
       "Alain Resnais",
-      "Chris Marker",
-      "Jacques Demy",
-      "Éric Rohmer"
+      "Jean-Luc Godard",
+      "Agnès Varda"
     ]
   },
   {
@@ -19693,11 +19012,9 @@ const RAW_DATA = [
     "fullName": "Tôn-Thất Tiết",
     "image": "",
     "relations": [
-      "Bob Marley",
-      "Bùi Xuân Phái",
-      "Homer",
-      "Nguyễn Ánh 9",
-      "Phạm Duy"
+      "Phạm Duy",
+      "Út Trà Ôn",
+      "Bob Marley"
     ],
     "themes": []
   },
@@ -19716,10 +19033,9 @@ const RAW_DATA = [
     "fullName": "Fujiko Fujio (藤子・F・不二雄, Doraemon)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Fujikots-en.png",
     "relations": [
-      "Akira Kurosawa",
       "Andrei Tarkovsky",
-      "Arnold Schwarzenegger",
-      "Trịnh Công Sơn"
+      "Trịnh Công Sơn",
+      "Arnold Schwarzenegger"
     ],
     "themes": []
   },
@@ -19738,9 +19054,9 @@ const RAW_DATA = [
     "fullName": "Justin Fontaine",
     "image": "",
     "relations": [
-      "Danny Blanchflower",
-      "Pelé",
-      "Sir Bobby Charlton"
+      "Lionel Messi",
+      "Sir Bobby Charlton",
+      "Pelé"
     ],
     "themes": [
       "Football"
@@ -19762,9 +19078,9 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dr_Ali_Shariati.jpg",
     "relations": [
-      "Ali Khamenei",
-      "Che Guevara",
-      "Mohammad Reza Pahlavi"
+      "Mohammad Reza Pahlavi",
+      "Tăng Khánh Hồng",
+      "Che Guevara"
     ],
     "themes": []
   },
@@ -19783,11 +19099,9 @@ const RAW_DATA = [
     "fullName": "Yuri Gagarin (Юрий Гагарин, first human in space, Vostok 1)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Yuri_Gagarin_with_awards_%28cropped%29_2.jpg",
     "relations": [
+      "Phạm Tuân",
       "Anne Frank",
-      "Buzz Aldrin",
-      "Edmund Hillary",
-      "Mehmed II",
-      "Neil Armstrong"
+      "Edmund Hillary"
     ],
     "themes": []
   },
@@ -19806,9 +19120,9 @@ const RAW_DATA = [
     "fullName": "Yves Claude Vĩnh San (Nguyễn Phúc Bảo Vàng)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Baovangnguyen.jpg",
     "relations": [
-      "Duy Tân",
+      "Thái tử Bảo Long",
       "Hoàng tử Bảo Thăng",
-      "Thái tử Bảo Long"
+      "Duy Tân"
     ],
     "themes": []
   },
@@ -19827,11 +19141,9 @@ const RAW_DATA = [
     "fullName": "Ōe Kenzaburo (大江健三郎)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Paris_-_Salon_du_livre_2012_-_Kenzabur%C5%8D_%C5%8Ce_-_003.jpg",
     "relations": [
-      "Annie Ernaux",
+      "Toni Morrison",
       "Gabriel García Márquez",
-      "Italo Calvino",
-      "Milan Kundera",
-      "Yoko Ogawa"
+      "Cao Hành Kiện"
     ],
     "themes": [
       "Giai Nobel"
@@ -19853,9 +19165,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002_%28Said%29.jpg/500px-Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002_%28Said%29.jpg",
     "relations": [
-      "Hubert Dreyfus",
       "Michel Foucault",
-      "Phạm Công Thiện"
+      "Phạm Công Thiện",
+      "Huy Đức"
     ],
     "themes": []
   },
@@ -19875,8 +19187,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/500px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
     "relations": [
       "John Lennon",
-      "Ringo Starr",
-      "Trần Tiến"
+      "Trần Tiến",
+      "Ringo Starr"
     ],
     "themes": [
       "Rocker"
@@ -19920,7 +19232,7 @@ const RAW_DATA = [
     "relations": [
       "Du Tử Lê",
       "Dương Nghiễm Mậu",
-      "Nguyễn Siêu"
+      "Phạm Hùng"
     ],
     "themes": []
   },
@@ -19939,9 +19251,9 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "",
     "relations": [
-      "Henri Bergson",
+      "Warren Buffett",
       "Jean-Luc Godard",
-      "Warren Buffett"
+      "Henri Bergson"
     ],
     "themes": []
   },
@@ -19960,9 +19272,9 @@ const RAW_DATA = [
     "fullName": "Dương Nghiễm Mậu (Dương Nghiêm Mậu, Phí Ích Nghiễm)",
     "image": "",
     "relations": [
-      "Du Tử Lê",
       "Gabriel García Márquez",
-      "Thanh Tâm Tuyền"
+      "Thanh Tâm Tuyền",
+      "Du Tử Lê"
     ],
     "themes": []
   },
@@ -19982,8 +19294,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Chikatilo-mugshot.jpg",
     "themes": [],
     "relations": [
-      "Năm Cam",
-      "Pablo Escobar",
+      "Gary Ridgway",
+      "Ted Bundy",
       "Robert Hanssen"
     ]
   },
@@ -20002,10 +19314,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Phúc Bảo Long",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Crown_prince_Bao_Long.jpg",
     "relations": [
-      "Bảo Đại",
-      "Hoàng tử Bảo Thăng",
       "Nam Phương Hoàng hậu",
-      "Yves Claude Vĩnh San"
+      "Hoàng tử Bảo Thăng",
+      "Bảo Đại"
     ],
     "themes": []
   },
@@ -20024,8 +19335,8 @@ const RAW_DATA = [
     "fullName": "Yilmaz Güney",
     "image": "",
     "relations": [
-      "Jack Nicholson",
-      "Nuri Bilge Ceylan",
+      "Theo Angelopoulos",
+      "Hầu Hiếu Hiền",
       "Sally Potter"
     ],
     "themes": []
@@ -20046,8 +19357,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jack_Nicholson_2002.jpg",
     "relations": [
       "Arnold Schwarzenegger",
-      "Buster Keaton",
-      "Dương Đức Xương",
       "Robin Williams",
       "Yilmaz Güney"
     ],
@@ -20068,9 +19377,9 @@ const RAW_DATA = [
     "fullName": "Hélène Cixous",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/H%C3%A9l%C3%A8ne_Cixous_par_Claude_Truong-Ngoc_2011.jpg/500px-H%C3%A9l%C3%A8ne_Cixous_par_Claude_Truong-Ngoc_2011.jpg",
     "relations": [
-      "Cao Hành Kiện",
-      "Ninon de Lenclos",
-      "Simone de Beauvoir"
+      "Margaret Atwood",
+      "Rosalind Miles",
+      "Marguerite Duras"
     ],
     "themes": [
       "Feminism Movement"
@@ -20092,10 +19401,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saddam_Hussein_in_1998.png/500px-Saddam_Hussein_in_1998.png",
     "relations": [
       "Alberto Fujimori",
-      "Jaime Roldós Aguilera",
-      "Jorge Rafael Videla",
-      "Malcolm X",
-      "Martin Luther King Jr."
+      "Aung San Suu Kyi",
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -20114,9 +19421,9 @@ const RAW_DATA = [
     "fullName": "Sir Bobby Charlton",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/LondonHouseAmsterdam1966_Bobby_Charlton.jpg/500px-LondonHouseAmsterdam1966_Bobby_Charlton.jpg",
     "relations": [
-      "Danny Blanchflower",
+      "Pelé",
       "George Best",
-      "Justin Fontaine"
+      "Sir Alex Ferguson"
     ],
     "themes": [
       "Football"
@@ -20137,9 +19444,9 @@ const RAW_DATA = [
     "fullName": "Xavier Le Pichon",
     "image": "",
     "relations": [
-      "Dương Trung Quốc",
-      "Georges Danton",
-      "Stephen Hawking"
+      "Hồ Chí Minh",
+      "Bernhard Riemann",
+      "Steven Weinberg"
     ],
     "themes": []
   },
@@ -20158,10 +19465,9 @@ const RAW_DATA = [
     "fullName": "Alberto Fujimori",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg",
     "relations": [
-      "Isabel Perón",
-      "Jaime Roldós Aguilera",
-      "Jorge Rafael Videla",
-      "Saddam Hussein"
+      "Saddam Hussein",
+      "Tăng Khánh Hồng",
+      "Jaime Roldós Aguilera"
     ],
     "themes": []
   },
@@ -20180,11 +19486,9 @@ const RAW_DATA = [
     "fullName": "Kofi Annan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kofi_Annan_2012_%28cropped%29.jpg",
     "relations": [
-      "Antonio Guterres",
-      "Ban Ki-moon",
       "Henry Kissinger",
-      "Nguyễn Thị Bình",
-      "Tăng Khánh Hồng"
+      "Aung San Suu Kyi",
+      "Ban Ki-moon"
     ],
     "themes": [
       "Giai Nobel"
@@ -20205,9 +19509,9 @@ const RAW_DATA = [
     "fullName": "Otto Rehhagel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Otto_Rehhagel_01-2.jpg/500px-Otto_Rehhagel_01-2.jpg",
     "relations": [
+      "Lê Thụy Hải",
       "Ferenc Puskás",
-      "Henrique Calisto",
-      "Pelé"
+      "Sir Alex Ferguson"
     ],
     "themes": [
       "Football"
@@ -20228,10 +19532,9 @@ const RAW_DATA = [
     "fullName": "Trịnh Công Sơn (Trich Cong Son, nhạc sĩ thiên tài Việt Nam)",
     "image": "",
     "relations": [
-      "Fujiko Fujio",
+      "John Lennon",
       "Joan Baez",
-      "Nguyễn Ánh 9",
-      "Phạm Nhật Vượng"
+      "Tôn-Thất Tiết"
     ],
     "themes": []
   },
@@ -20250,11 +19553,9 @@ const RAW_DATA = [
     "fullName": "Tăng Khánh Hồng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Zeng_Qinghong_in_2000.jpg",
     "relations": [
-      "Kofi Annan",
-      "Silvio Berlusconi",
-      "Thái Kỳ",
-      "Thân Nhân Trung",
-      "Từ Tài Hậu"
+      "Tập Cận Bình",
+      "Giang Trạch Dân",
+      "Bạc Hy Lai"
     ],
     "themes": [
       "Chinese Communism"
@@ -20275,9 +19576,9 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ali_Khamenei_Nowruz_message_official_portrait_1397_02.jpg",
     "relations": [
-      "Ali Shariati",
+      "Mojtaba Khamenei",
       "Hossein Mousavi",
-      "Mojtaba Khamenei"
+      "Ali Shariati"
     ],
     "themes": []
   },
@@ -20296,9 +19597,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Ánh 9",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Nguy%E1%BB%85n_%C3%81nh_9.jpg",
     "relations": [
-      "Trần Tiến",
+      "Tôn-Thất Tiết",
       "Trịnh Công Sơn",
-      "Tôn-Thất Tiết"
+      "Trần Tiến"
     ],
     "themes": []
   },
@@ -20317,10 +19618,9 @@ const RAW_DATA = [
     "fullName": "Abbas Kiarostami (عباس کیارستمی)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Abbas_Kiarostami%27s_Portrait.jpg",
     "relations": [
+      "Hầu Hiếu Hiền",
       "Pedro Almodóvar",
-      "Wim Wenders",
-      "Yoshitaka Amano",
-      "Yukio Mishima"
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -20339,11 +19639,9 @@ const RAW_DATA = [
     "fullName": "John Lennon (John Winston Ono Lennon, The Beatles)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg",
     "relations": [
-      "Arnold Schwarzenegger",
-      "Elton John",
-      "Elvis Presley",
-      "Marilyn Monroe",
-      "Paul McCartney"
+      "Paul McCartney",
+      "Ringo Starr",
+      "Elvis Presley"
     ],
     "themes": [
       "Rocker"
@@ -20364,11 +19662,9 @@ const RAW_DATA = [
     "fullName": "Cao Hành Kiện (Gao Xingjian, 高行健)",
     "image": "",
     "relations": [
-      "Annie Ernaux",
-      "Hélène Cixous",
-      "Jean Teulé",
-      "Kazuo Ishiguro",
-      "Yukio Mishima"
+      "Toni Morrison",
+      "Gabriel García Márquez",
+      "László Krasznahorkai"
     ],
     "themes": [
       "Giai Nobel"
@@ -20389,11 +19685,9 @@ const RAW_DATA = [
     "fullName": "Pelé",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
     "relations": [
-      "Alfredo Di Stefano",
       "Garrincha",
-      "Justin Fontaine",
-      "Mario Kempes",
-      "Otto Rehhagel"
+      "Sir Bobby Charlton",
+      "George Best"
     ],
     "themes": [
       "Football"
@@ -20415,8 +19709,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg/500px-Annie_Ernaux_in_2022_%284_av_11%29.jpg",
     "relations": [
       "Cao Hành Kiện",
-      "René Goscinny",
-      "Ōe Kenzaburo"
+      "Ōe Kenzaburo",
+      "Toni Morrison"
     ],
     "themes": [
       "Giai Nobel"
@@ -20438,9 +19732,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jaime_Rold%C3%B3s_Aguilera_%28cropped%29.png",
     "themes": [],
     "relations": [
+      "Saddam Hussein",
       "Alberto Fujimori",
-      "Isabel Perón",
-      "Saddam Hussein"
+      "Donald Trump"
     ]
   },
   {
@@ -20458,11 +19752,9 @@ const RAW_DATA = [
     "fullName": "Ringo Starr (Sir Richard Starkey, The Beatles)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg/500px-ARTIST_INTERVIEW_-_Ringo_Starr_%28Former_the_Beatles%29_exclusive_interview_0-14_screenshot_%28portrait_crop%29.jpg",
     "relations": [
-      "Elvis Presley",
-      "George Harrison",
+      "John Lennon",
       "Paul McCartney",
-      "Trần Lập",
-      "Trần Tiến"
+      "George Harrison"
     ],
     "themes": [
       "Rocker"
@@ -20483,10 +19775,9 @@ const RAW_DATA = [
     "fullName": "Phạm Công Thiện (J. Krishnamurti của Việt Nam)",
     "image": "https://phamcongthien.com/images/oziogallery3/gal1/pct.jpg",
     "relations": [
-      "Edward Said",
-      "Hubert Dreyfus",
-      "Lê Mạnh Thát",
-      "Thích Tuệ Sỹ"
+      "Michel Foucault",
+      "Simone de Beauvoir",
+      "Edward Said"
     ],
     "themes": []
   },
@@ -20505,10 +19796,9 @@ const RAW_DATA = [
     "fullName": "Julia Kristeva",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Julia_Kristeva_%C3%A0_Paris_en_2008.jpg",
     "relations": [
-      "Adam Smith",
-      "Han Byung-chul",
-      "Jacques Derrida",
-      "Otto Weininger"
+      "Karen Horney",
+      "Michel Foucault",
+      "Han Byung-chul"
     ],
     "themes": [
       "Psychoanalysis",
@@ -20532,9 +19822,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Joan_Baez_at_The_Egg_%28Albany%2C_NY%29%2C_March_2016_%28cropped%29.jpg",
     "themes": [],
     "relations": [
+      "Trịnh Công Sơn",
       "Bob Marley",
-      "Grover Washington Jr.",
-      "Trịnh Công Sơn"
+      "Grover Washington Jr."
     ]
   },
   {
@@ -20552,11 +19842,9 @@ const RAW_DATA = [
     "fullName": "Chu Vĩnh Khang",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zhou_Yongkang.png",
     "relations": [
+      "Tăng Khánh Hồng",
       "Bạc Hy Lai",
-      "John Mearsheimer",
-      "Ngụy Trung Hiền",
-      "Thái Kỳ",
-      "Tô Đông Pha"
+      "Thái Kỳ"
     ],
     "themes": [
       "Chinese Communism"
@@ -20577,9 +19865,9 @@ const RAW_DATA = [
     "fullName": "Hồ Cẩm Đào",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hu_Jintao_2012.jpg/500px-Hu_Jintao_2012.jpg",
     "relations": [
-      "Giang Trạch Dân",
       "Tập Cận Bình",
-      "Vương Hỗ Ninh"
+      "Tăng Khánh Hồng",
+      "Giang Trạch Dân"
     ],
     "themes": [
       "Chinese Communism"
@@ -20600,11 +19888,9 @@ const RAW_DATA = [
     "fullName": "Stephen Hawking",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
     "relations": [
-      "Abdus Salam",
       "Remo Ruffini",
-      "Roger Penrose",
-      "Werner Israel",
-      "Xavier Le Pichon"
+      "Steven Weinberg",
+      "Werner Israel"
     ],
     "themes": []
   },
@@ -20623,9 +19909,9 @@ const RAW_DATA = [
     "fullName": "Muhammad Ali",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/500px-Muhammad_Ali_NYWTS.jpg",
     "relations": [
+      "Rafael Nadal",
       "George Best",
-      "Michael Jordan",
-      "Rafael Nadal"
+      "Pelé"
     ],
     "themes": []
   },
@@ -20644,9 +19930,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/d/dd/Nh%C3%A0_th%C6%A1_Du_T%E1%BB%AD_L%C3%AA.jpeg",
     "relations": [
+      "Thanh Tâm Tuyền",
       "Dương Nghiễm Mậu",
-      "Mircea Cărtărescu",
-      "Thanh Tâm Tuyền"
+      "Rosalind Miles"
     ],
     "themes": []
   },
@@ -20655,7 +19941,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Werner Herzog",
     "fullName": "Werner Herzog (Werner H. Stipetić)",
-    "desc": "Đạo diễn, nhà biên kịch và tác giả phim huyền thoại người Đức nổi tiếng với những tác phẩm điện ảnh hoành tráng, đầy không khí và thường siêu thực.",
+    "desc": "Đạo diễn, nhà biên kịch kiêm tác giả phim huyền thoại người Đức, nhân vật tiên phong của trào lưu Điện ảnh Đức Mới. Ông nổi tiếng với những bộ phim có không khí hoành tráng, kỳ bí và siêu thực phản ánh những khát vọng cực đoan của con người như 'Aguirre, the Wrath of God' (1972), 'Fitzcarraldo' (1982), 'Nosferatu the Vampyre' (1979) cùng hàng loạt phim tài liệu xuất sắc.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -20665,10 +19951,9 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Werner_Herzog_Venice_Film_Festival_2025.jpg/500px-Werner_Herzog_Venice_Film_Festival_2025.jpg",
     "relations": [
-      "Béla Tarr",
-      "Claire Denis",
-      "David Lynch",
-      "Henrik Ibsen"
+      "Hầu Hiếu Hiền",
+      "Theo Angelopoulos",
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -20687,10 +19972,9 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mir-Hossein_Mousavi_in_1981.jpg",
     "relations": [
-      "Ali Khamenei",
+      "Muammar Gaddafi",
       "Benjamin Netanyahu",
-      "Hun Sen",
-      "Muammar Gaddafi"
+      "Hun Sen"
     ],
     "themes": []
   },
@@ -20710,9 +19994,9 @@ const RAW_DATA = [
     "nationality": "African",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg",
     "relations": [
-      "Hossein Mousavi",
+      "Raul Castro",
       "Hugo Chávez",
-      "Raul Castro"
+      "Che Guevara"
     ],
     "themes": []
   },
@@ -20731,8 +20015,8 @@ const RAW_DATA = [
     "fullName": "Paul McCartney (Sir James Paul McCartney, The Beatles)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg/500px-MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg",
     "relations": [
-      "George Harrison",
       "John Lennon",
+      "George Harrison",
       "Ringo Starr"
     ],
     "themes": [
@@ -20756,7 +20040,6 @@ const RAW_DATA = [
     "relations": [
       "Chet Baker",
       "Elton John",
-      "Joan Baez",
       "Miles Davis"
     ],
     "themes": []
@@ -20778,7 +20061,7 @@ const RAW_DATA = [
     "relations": [
       "Bạc Hy Lai",
       "Tăng Khánh Hồng",
-      "Tề Hoàn công"
+      "Chu Vĩnh Khang"
     ],
     "themes": [
       "Chinese Communism"
@@ -20799,11 +20082,9 @@ const RAW_DATA = [
     "fullName": "Bobby Fischer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/500px-Bobby_Fischer_1972.jpg",
     "relations": [
-      "Akiba Rubinstein",
-      "Alexander Alekhine",
       "Anatoly Karpov",
-      "José Raúl Capablanca",
-      "Judit Polgár"
+      "Magnus Carlsen",
+      "Garry Kasparov"
     ],
     "themes": [
       "Chess"
@@ -20823,9 +20104,9 @@ const RAW_DATA = [
     ],
     "nationality": "German",
     "relations": [
-      "Chantal Akerman",
-      "David Cronenberg",
-      "Sally Potter"
+      "Sally Potter",
+      "Agnès Varda",
+      "David Cronenberg"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ulay.jpg/500px-Ulay.jpg"
@@ -20845,10 +20126,8 @@ const RAW_DATA = [
     "fullName": "George Harrison (The Beatles)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/George-wa-portrait.jpg/500px-George-wa-portrait.jpg",
     "relations": [
-      "David Lynch",
-      "Elton John",
-      "Kurt Cobain",
       "Paul McCartney",
+      "John Lennon",
       "Ringo Starr"
     ],
     "themes": [
@@ -20870,11 +20149,9 @@ const RAW_DATA = [
     "fullName": "David Cronenberg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/David_Cronenberg.jpg",
     "relations": [
-      "David Lynch",
-      "Kiyoshi Kurosawa",
-      "Marina Abramovic",
-      "Roberto Benigni",
-      "Ulay"
+      "Spike Jonze",
+      "Luca Guadagnino",
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -20893,8 +20170,8 @@ const RAW_DATA = [
     "fullName": "Nguyễn Phúc Bảo Thăng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bao_Thang.jpg",
     "relations": [
-      "Bảo Đại",
       "Thái tử Bảo Long",
+      "Nam Phương Hoàng hậu",
       "Yves Claude Vĩnh San"
     ],
     "themes": []
@@ -20914,9 +20191,9 @@ const RAW_DATA = [
     "fullName": "Robert Hanssen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/500px-Robert_Hanssen.jpg",
     "relations": [
+      "Gary Ridgway",
       "Andrei Chikatilo",
-      "Elizabeth II",
-      "Jeffrey Epstein"
+      "Elizabeth II"
     ],
     "themes": []
   },
@@ -20934,11 +20211,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Thị Kim Ngân",
       "Nông Đức Mạnh",
-      "Rama IX",
-      "Trương Hòa Bình",
-      "Trương Tấn Sang"
+      "Tô Lâm",
+      "Lê Khả Phiêu"
     ],
     "themes": [
       "VN Modern Communism"
@@ -20960,8 +20235,8 @@ const RAW_DATA = [
     "fullName": "Bob Marley (Robert Nesta Marley)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg",
     "relations": [
+      "Jafar Panahi",
       "Joan Baez",
-      "Simón Bolívar",
       "Tôn-Thất Tiết"
     ],
     "themes": []
@@ -20981,9 +20256,9 @@ const RAW_DATA = [
     "fullName": "Wim Wenders",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Wim_Wenders_at_Berlinale_2026.jpg",
     "relations": [
-      "Abbas Kiarostami",
-      "Lars von Trier",
-      "Martin Luther"
+      "Werner Herzog",
+      "Hầu Hiếu Hiền",
+      "Abbas Kiarostami"
     ],
     "themes": []
   },
@@ -21002,11 +20277,9 @@ const RAW_DATA = [
     "fullName": "Aung San Suu Kyi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg",
     "relations": [
-      "Aleksey Navalny",
-      "Angela Merkel",
-      "Cù Huy Hà Vũ",
       "Malala Yousafzai",
-      "Phạm Đoan Trang"
+      "Kofi Annan",
+      "Saddam Hussein"
     ],
     "themes": [
       "Giai Nobel"
@@ -21028,8 +20301,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Arthur Rubinstein",
-      "Frédéric Chopin",
-      "Igor Stravinsky"
+      "Karl Jenkins",
+      "Frédéric Chopin"
     ],
     "themes": [
       "Classical Music"
@@ -21050,9 +20323,9 @@ const RAW_DATA = [
     "fullName": "David Lynch (David Keith Lynch)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/David_Lynch_%281990%29.jpg",
     "relations": [
-      "David Cronenberg",
       "George Harrison",
-      "Werner Herzog"
+      "David Cronenberg",
+      "Sally Potter"
     ],
     "themes": []
   },
@@ -21071,9 +20344,9 @@ const RAW_DATA = [
     "fullName": "Marina Abramović (Marina Abramovic)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Glasto24_28_300624_%28130_of_545%29_%2853838092455%29_%28cropped%29.jpg",
     "relations": [
-      "Arthur Rubinstein",
       "David Cronenberg",
-      "Nicolae Ceaușescu"
+      "Theo Angelopoulos",
+      "Tilda Swinton"
     ],
     "themes": []
   },
@@ -21092,11 +20365,9 @@ const RAW_DATA = [
     "fullName": "Donald Trump",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg",
     "relations": [
-      "Jimmy Fallon",
-      "Jimmy Kimmel",
-      "Kim Kardashian",
-      "Silvio Berlusconi",
-      "Ted Kennedy"
+      "Bạc Hy Lai",
+      "Phạm Minh Chính",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -21115,9 +20386,9 @@ const RAW_DATA = [
     "fullName": "George Best",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/George_Best_%281976%29.jpg/500px-George_Best_%281976%29.jpg",
     "relations": [
-      "Muhammad Ali",
-      "Pierluigi Collina",
-      "Sir Bobby Charlton"
+      "Diego Maradona",
+      "Pelé",
+      "Sir Alex Ferguson"
     ],
     "themes": [
       "Football"
@@ -21138,9 +20409,9 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Claire_Denis_at_Berlinale_2022_Ausschnitt.jpg/500px-Claire_Denis_at_Berlinale_2022_Ausschnitt.jpg",
     "relations": [
-      "Jacques Demy",
       "Jafar Panahi",
-      "Werner Herzog"
+      "Jacques Demy",
+      "Mike de Leon"
     ],
     "themes": []
   },
@@ -21160,8 +20431,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg",
     "relations": [
       "George Harrison",
-      "Grover Washington Jr.",
-      "John Lennon"
+      "John Lennon",
+      "Grover Washington Jr."
     ],
     "themes": []
   },
@@ -21180,11 +20451,9 @@ const RAW_DATA = [
     "fullName": "Hầu Hiếu Hiền (Hou Hsiao-hsien, 侯孝賢)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_Assassin_Paris_premiere_7.JPG",
     "relations": [
-      "Dương Đức Xương",
-      "Lương Triều Vỹ",
-      "Mohsen Makhmalbaf",
-      "Thái Minh Lượng",
-      "Trần Anh Hùng"
+      "Werner Herzog",
+      "Theo Angelopoulos",
+      "Abbas Kiarostami"
     ],
     "themes": []
   },
@@ -21204,8 +20473,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E7%AC%AC31%E5%B1%86%E9%87%91%E9%A6%AC%E3%80%8C%E6%9C%80%E4%BD%B3%E5%8E%9F%E8%91%97%E5%8A%87%E6%9C%AC%E7%8D%8E%E3%80%8D%E5%BE%97%E4%B8%BB%E6%A5%8A%E5%BE%B7%E6%98%8C.jpg",
     "relations": [
       "Hầu Hiếu Hiền",
-      "Jack Nicholson",
-      "Mike de Leon"
+      "Mike de Leon",
+      "Jack Nicholson"
     ],
     "themes": []
   },
@@ -21224,9 +20493,9 @@ const RAW_DATA = [
     "fullName": "Arnold Schwarzenegger (The Terminator, The Austrian Oak, Governor of California)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Arnold_Schwarzenegger_-_2019_%2833730956438%29_%28cropped%29.jpg",
     "relations": [
-      "Fujiko Fujio",
-      "Jack Nicholson",
-      "John Lennon"
+      "John Lennon",
+      "Jafar Panahi",
+      "Jack Nicholson"
     ],
     "themes": []
   },
@@ -21246,9 +20515,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tran_Tien_%287766740934%29_%28cropped%29.jpg",
     "relations": [
       "Elvis Presley",
-      "Nguyễn Ánh 9",
       "Ringo Starr",
-      "XXXTENTACION"
+      "Kurt Cobain"
     ],
     "themes": [
       "Rocker"
@@ -21269,10 +20537,8 @@ const RAW_DATA = [
     "fullName": "Năm Cam",
     "image": "https://upload.wikimedia.org/wikipedia/vi/c/c4/Daicanamcam.jpg",
     "relations": [
-      "Andrei Chikatilo",
-      "Gary Ridgway",
-      "Pablo Escobar",
-      "Ted Bundy",
+      "Hồ Chí Minh",
+      "Jeffrey Epstein",
       "Đinh La Thăng"
     ],
     "themes": []
@@ -21292,11 +20558,9 @@ const RAW_DATA = [
     "fullName": "Phạm Tuân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ph%E1%BA%A1m_Tu%C3%A2n_.JPG/500px-Ph%E1%BA%A1m_Tu%C3%A2n_.JPG?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Edmund Hillary",
-      "IShowSpeed",
+      "Yuri Gagarin",
       "Mạc Cửu",
-      "Phùng Thanh Độ",
-      "Shimon Sakaguchi"
+      "Nguyễn Bá Thanh"
     ],
     "themes": []
   },
@@ -21316,8 +20580,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/d/d9/D%C6%B0%C6%A1ng_Trung_Qu%E1%BB%91c.jpg",
     "relations": [
       "Henry Kissinger",
-      "Lê Bá Khánh Trình",
-      "Xavier Le Pichon"
+      "Lê Mạnh Thát",
+      "Lê Bá Khánh Trình"
     ],
     "themes": []
   },
@@ -21336,9 +20600,9 @@ const RAW_DATA = [
     "nationality": "Filipino",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mike_de_Leon.jpg/500px-Mike_de_Leon.jpg",
     "relations": [
+      "Pedro Almodóvar",
       "Béla Tarr",
-      "Dương Đức Xương",
-      "Pedro Almodóvar"
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -21358,11 +20622,9 @@ const RAW_DATA = [
     "fullName": "John Mearsheimer (John J. Mearsheimer)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/John_Mearsheimer.jpg",
     "relations": [
-      "Ayn Rand",
-      "Chu Vĩnh Khang",
+      "Nguyễn Bá Thanh",
       "Mã Anh Cửu",
-      "Rudolf Kjellén",
-      "Shimon Sakaguchi"
+      "Nguyễn Thị Kim Ngân"
     ],
     "themes": []
   },
@@ -21381,10 +20643,9 @@ const RAW_DATA = [
     "fullName": "Pablo Escobar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Pablo_Escobar_Mug_%28cropped%29%28b%29.jpg",
     "relations": [
-      "Andrei Chikatilo",
-      "Nemesio Oseguera Cervantes",
       "Năm Cam",
-      "Osama bin Laden"
+      "Osama bin Laden",
+      "Nemesio Oseguera Cervantes"
     ],
     "themes": []
   },
@@ -21403,9 +20664,8 @@ const RAW_DATA = [
     "fullName": "Bạc Hy Lai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bo_Xilai_%282004%29.jpg/500px-Bo_Xilai_%282004%29.jpg",
     "relations": [
-      "Anna Politkovskaya",
-      "Chu Vĩnh Khang",
-      "Mã Anh Cửu",
+      "Tăng Khánh Hồng",
+      "Tập Cận Bình",
       "Từ Tài Hậu"
     ],
     "themes": [
@@ -21427,10 +20687,9 @@ const RAW_DATA = [
     "fullName": "Benjamin Netanyahu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/500px-Benjamin_Netanyahu%2C_February_2023.jpg",
     "relations": [
-      "Angela Merkel",
-      "Hossein Mousavi",
-      "Hun Sen",
-      "Phan Văn Giang"
+      "Phạm Minh Chính",
+      "Antonio Guterres",
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -21448,9 +20707,9 @@ const RAW_DATA = [
     ],
     "nationality": "Chinese",
     "relations": [
-      "Hân Nhiên",
       "Mạc Ngôn",
-      "Tàn Tuyết"
+      "Tàn Tuyết",
+      "Hân Nhiên"
     ],
     "themes": [],
     "image": ""
@@ -21470,9 +20729,9 @@ const RAW_DATA = [
     "fullName": "Pedro Almodóvar (Pedro Almodóvar Caballero)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pedro%20Almod%C3%B3var-69720.jpg",
     "relations": [
-      "Abbas Kiarostami",
+      "Jean-Luc Godard",
       "Agnès Varda",
-      "Mike de Leon"
+      "Sally Potter"
     ],
     "themes": []
   },
@@ -21491,11 +20750,9 @@ const RAW_DATA = [
     "fullName": "Sally Potter (Charlotte Sally Potter)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sallypotter.jpg",
     "relations": [
-      "Isabelle Huppert",
-      "Lee Chang-dong",
-      "Robin Williams",
-      "Ulay",
-      "Yilmaz Güney"
+      "Tilda Swinton",
+      "David Cronenberg",
+      "Lars von Trier"
     ],
     "themes": []
   },
@@ -21515,8 +20772,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Chantal_Akerman_-_video_still_%28cropped%29.jpg",
     "relations": [
       "Agnès Varda",
-      "Thái Minh Lượng",
-      "Ulay"
+      "Sally Potter",
+      "Jean-Luc Godard"
     ],
     "themes": [
       "French New Wave",
@@ -21538,10 +20795,9 @@ const RAW_DATA = [
     "fullName": "Marianne Bachmeier",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Marianne_Bachmeier_1982.jpg",
     "relations": [
-      "Alexandre Dumas cha",
       "Edward Snowden",
-      "Hammurabi",
-      "Johannes Gutenberg"
+      "Hồ Chí Minh",
+      "Alexandre Dumas cha"
     ],
     "themes": []
   },
@@ -21561,8 +20817,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Ernest Hemingway",
-      "Marcel Proust",
-      "Trịnh Hoài Đức"
+      "Virginia Woolf",
+      "Marcel Proust"
     ],
     "themes": []
   },
@@ -21581,11 +20837,9 @@ const RAW_DATA = [
     "fullName": "Mã Anh Cửu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ma_Ying-jeou_MOFA_Presidential_Portrait_2008.png",
     "relations": [
-      "Bạc Hy Lai",
-      "Công nương Diana",
-      "John Mearsheimer",
       "Thái Anh Văn",
-      "Trần Thủy Biển"
+      "Trần Thủy Biển",
+      "Bạc Hy Lai"
     ],
     "themes": []
   },
@@ -21604,10 +20858,9 @@ const RAW_DATA = [
     "fullName": "Trần Thủy Biển",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%E9%99%B3%E6%B0%B4%E6%89%81%E7%B8%BD%E7%B5%B1_1.jpg",
     "relations": [
-      "Hugo Chávez",
+      "Donald Trump",
       "Mã Anh Cửu",
-      "Thái Anh Văn",
-      "Viktor Yanukovych"
+      "Thái Anh Văn"
     ],
     "themes": []
   },
@@ -21626,9 +20879,9 @@ const RAW_DATA = [
     "fullName": "Viktor Yanukovych",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Viktor_Yanukovych_official_portrait.jpg",
     "relations": [
-      "Dmitry Medvedev",
+      "Donald Trump",
       "Hugo Chávez",
-      "Trần Thủy Biển"
+      "Lê Duẩn"
     ],
     "themes": []
   },
@@ -21647,8 +20900,8 @@ const RAW_DATA = [
     "fullName": "Robin Williams (Robin McLaurin Williams)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Robin_Williams_1996_%28cropped%29_2.jpg",
     "relations": [
-      "Jack Nicholson",
       "Ricky Gervais",
+      "Jack Nicholson",
       "Sally Potter"
     ],
     "themes": []
@@ -21668,9 +20921,9 @@ const RAW_DATA = [
     "fullName": "Shimon Sakaguchi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Shimon_Sakaguchi_cropped_2_Shimon_Sakaguchi_201711.jpg",
     "relations": [
-      "John Mearsheimer",
-      "Katalin Karikó",
-      "Phạm Tuân"
+      "Đồ U U",
+      "Galileo Galilei",
+      "Hamma Alloh"
     ],
     "themes": []
   },
@@ -21689,10 +20942,9 @@ const RAW_DATA = [
     "fullName": "Harvey Weinstein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Harvey_Weinstein_2011_Shankbone.JPG/500px-Harvey_Weinstein_2011_Shankbone.JPG",
     "relations": [
-      "Asia Argento",
-      "Dung Hà",
       "Jeffrey Epstein",
-      "Osama bin Laden"
+      "Osama bin Laden",
+      "Dung Hà"
     ],
     "themes": []
   },
@@ -21712,9 +20964,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hun_Sen_July_2019.jpg/500px-Hun_Sen_July_2019.jpg",
     "relations": [
       "Angela Merkel",
-      "Benjamin Netanyahu",
-      "Hossein Mousavi",
-      "Tập Cận Bình"
+      "Tập Cận Bình",
+      "Benjamin Netanyahu"
     ],
     "themes": []
   },
@@ -21733,9 +20984,8 @@ const RAW_DATA = [
     "fullName": "Yoshitaka Amano (天野 喜孝)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Yoshitaka_Amano_Oct_2006.jpg",
     "relations": [
-      "Abbas Kiarostami",
       "Aoyama Gōshō",
-      "Sen no Rikyū",
+      "Abbas Kiarostami",
       "Shunji Iwai"
     ],
     "themes": []
@@ -21754,7 +21004,7 @@ const RAW_DATA = [
     ],
     "nationality": "Italian",
     "relations": [
-      "Carlo Dolci",
+      "Tilda Swinton",
       "David Cronenberg",
       "Edward Norton"
     ],
@@ -21776,9 +21026,9 @@ const RAW_DATA = [
     "fullName": "Isabelle Huppert",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Isabelle_Huppert_at_Berlinale_2026-1.jpg",
     "relations": [
-      "Jafar Panahi",
-      "Nuri Bilge Ceylan",
-      "Sally Potter"
+      "Tilda Swinton",
+      "Sally Potter",
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -21798,9 +21048,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%C4%90o%E1%BA%A1n_tr%C6%B0%E1%BB%9Dng_t%C3%A2n_thanh.png/500px-%C4%90o%E1%BA%A1n_tr%C6%B0%E1%BB%9Dng_t%C3%A2n_thanh.png",
     "relations": [
       "Hako Yamasaki",
-      "Nezumi Kozō",
       "Phum Viphurit",
-      "Yukiko Okada"
+      "Tôn-Thất Tiết"
     ],
     "themes": []
   },
@@ -21819,10 +21068,9 @@ const RAW_DATA = [
     "fullName": "Jeffrey Epstein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jeffrey_epstein_2008_mugshot_%28cropped%29.jpg",
     "relations": [
-      "Harvey Weinstein",
-      "Osama bin Laden",
-      "Robert Hanssen",
-      "Ross Ulbricht"
+      "Năm Cam",
+      "Dung Hà",
+      "Harvey Weinstein"
     ],
     "themes": []
   },
@@ -21841,10 +21089,9 @@ const RAW_DATA = [
     "fullName": "Jean Teulé",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jean_Teul%C3%A9_-_Salon_du_livre_de_Paris_2010_2.jpg/500px-Jean_Teul%C3%A9_-_Salon_du_livre_de_Paris_2010_2.jpg",
     "relations": [
+      "Éric-Emmanuel Schmitt",
       "Cao Hành Kiện",
-      "Jean-Philippe Toussaint",
-      "René Goscinny",
-      "Éric-Emmanuel Schmitt"
+      "Jean-Philippe Toussaint"
     ],
     "themes": []
   },
@@ -21863,10 +21110,9 @@ const RAW_DATA = [
     "fullName": "Tàn Tuyết (Can Xue, 残雪)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%E6%AE%8B%E9%9B%AA1.jpg",
     "relations": [
-      "Bắc Đảo",
-      "Hân Nhiên",
-      "Lexie Liu",
-      "Lưu Từ Hân"
+      "Mạc Ngôn",
+      "Lưu Từ Hân",
+      "Theresa Hak Kyung Cha"
     ],
     "themes": []
   },
@@ -21885,11 +21131,9 @@ const RAW_DATA = [
     "fullName": "Tập Cận Bình",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
     "relations": [
-      "Giang Trạch Dân",
-      "Hun Sen",
+      "Tăng Khánh Hồng",
       "Hồ Cẩm Đào",
-      "Thái Kỳ",
-      "Vương Hỗ Ninh"
+      "Giang Trạch Dân"
     ],
     "themes": [
       "Chinese Communism"
@@ -21910,9 +21154,9 @@ const RAW_DATA = [
     "fullName": "Henrique Calisto",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Henrique_Calisto.jpg",
     "relations": [
-      "Ange Postecoglou",
-      "Otto Rehhagel",
-      "Park Hang-seo"
+      "Park Hang-seo",
+      "Lê Thụy Hải",
+      "Ange Postecoglou"
     ],
     "themes": [
       "Football"
@@ -21933,8 +21177,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mrs._Nguyen_Thi_Kim_Tien.jpg",
     "relations": [
-      "Khúc Hạo",
-      "Phạm Minh Chính",
+      "Nguyễn Bá Thanh",
+      "Nguyễn Thị Kim Ngân",
       "Tô Lâm"
     ],
     "themes": [
@@ -21956,9 +21200,9 @@ const RAW_DATA = [
     "fullName": "Lee Chang-dong (이창동)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lee_Chang-dong_2010.jpg",
     "relations": [
-      "Lars von Trier",
+      "Sally Potter",
       "Park Chan-wook",
-      "Sally Potter"
+      "Lars von Trier"
     ],
     "themes": []
   },
@@ -21977,10 +21221,9 @@ const RAW_DATA = [
     "fullName": "László Krasznahorkai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Krasznahorkai_L%C3%A1szl%C3%B3_%28D%C3%A9ri_Mikl%C3%B3s%29_%283x4_cropped%29.jpg/500px-Krasznahorkai_L%C3%A1szl%C3%B3_%28D%C3%A9ri_Mikl%C3%B3s%29_%283x4_cropped%29.jpg",
     "relations": [
-      "Béla Tarr",
-      "Jean-Philippe Toussaint",
+      "Cao Hành Kiện",
       "Kazuo Ishiguro",
-      "Éric-Emmanuel Schmitt"
+      "Mạc Ngôn"
     ],
     "themes": [
       "Giai Nobel"
@@ -22002,7 +21245,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gen._Ng%C3%B4_Xu%C3%A2n_L%E1%BB%8Bch.jpg/500px-Gen._Ng%C3%B4_Xu%C3%A2n_L%E1%BB%8Bch.jpg",
     "relations": [
       "Nguyễn Chí Vịnh",
-      "Nguyễn Khánh",
+      "Trần Văn Trà",
       "Phan Văn Giang"
     ],
     "themes": []
@@ -22022,10 +21265,9 @@ const RAW_DATA = [
     "fullName": "Angela Merkel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Angela_Merkel_2019_cropped.jpg/500px-Angela_Merkel_2019_cropped.jpg",
     "relations": [
-      "Aung San Suu Kyi",
-      "Benjamin Netanyahu",
       "Hun Sen",
-      "Phạm Minh Chính"
+      "Phạm Minh Chính",
+      "Benjamin Netanyahu"
     ],
     "themes": []
   },
@@ -22044,9 +21286,9 @@ const RAW_DATA = [
     "fullName": "Kazuo Ishiguro (石黒一雄, Nobel Prize 2017, Never Let Me Go, Remains of the Day)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kazuo_Ishiguro_in_Stockholm_2017_02.jpg/500px-Kazuo_Ishiguro_in_Stockholm_2017_02.jpg",
     "relations": [
-      "Cao Hành Kiện",
       "László Krasznahorkai",
-      "Mạc Ngôn"
+      "Mạc Ngôn",
+      "Cao Hành Kiện"
     ],
     "themes": [
       "Giai Nobel"
@@ -22068,10 +21310,9 @@ const RAW_DATA = [
     "nationality": "Latin American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Hugo_Ch%C3%A1vez_official_portrait_%28cropped%29.jpg",
     "relations": [
-      "Muammar Gaddafi",
-      "Thái Anh Văn",
-      "Trần Thủy Biển",
-      "Viktor Yanukovych"
+      "Viktor Yanukovych",
+      "Donald Trump",
+      "Trần Thủy Biển"
     ],
     "themes": []
   },
@@ -22089,11 +21330,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lê Minh Hưng",
+      "Tô Lâm",
       "Nguyễn Bá Thanh",
-      "Rama X",
-      "Trương Hòa Bình",
-      "Trương Tấn Sang"
+      "Phạm Minh Chính"
     ],
     "themes": [
       "VN Modern Communism"
@@ -22115,9 +21354,9 @@ const RAW_DATA = [
     "fullName": "Béla Tarr",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/B%C3%A9la_Tarr.jpg",
     "relations": [
-      "László Krasznahorkai",
       "Mike de Leon",
-      "Werner Herzog"
+      "Agnès Varda",
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -22137,8 +21376,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Kiyoshi_Kurosawa_at_the_2024_Toronto_International_Film_Festival.jpg",
     "relations": [
       "David Cronenberg",
-      "Hirokazu Kore-eda",
-      "Koji Yakusho"
+      "Koji Yakusho",
+      "Hirokazu Kore-eda"
     ],
     "themes": []
   },
@@ -22157,11 +21396,9 @@ const RAW_DATA = [
     "fullName": "William Henry Gates III",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/500px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
     "relations": [
-      "Anne Boleyn",
-      "Henry Ford",
-      "Vitalik Buterin",
-      "Warren Buffett",
-      "Zarathustra"
+      "Jack Ma",
+      "Lôi Quân",
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -22180,11 +21417,9 @@ const RAW_DATA = [
     "fullName": "Mạc Ngôn (Mo Yan, 莫言, Nobel)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/MoYan_Hamburg_2008.jpg",
     "relations": [
-      "Bắc Đảo",
-      "Hân Nhiên",
-      "Kazuo Ishiguro",
-      "Yoko Ogawa",
-      "Đặng Hoàng Giang"
+      "Gabriel García Márquez",
+      "Cao Hành Kiện",
+      "László Krasznahorkai"
     ],
     "themes": [
       "Giai Nobel"
@@ -22205,10 +21440,9 @@ const RAW_DATA = [
     "fullName": "Katalin Karikó",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/500px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg",
     "relations": [
+      "Shimon Sakaguchi",
       "Alexandre Dumas con",
-      "Béla Bartók",
-      "Hamma Alloh",
-      "Shimon Sakaguchi"
+      "Wilhelm Wundt"
     ],
     "themes": []
   },
@@ -22227,10 +21461,9 @@ const RAW_DATA = [
     "fullName": "Vương Hỗ Ninh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wang_Huning_2025_National_People%27s_Congress.jpg/500px-Wang_Huning_2025_National_People%27s_Congress.jpg",
     "relations": [
-      "Hồ Cẩm Đào",
-      "Mojtaba Khamenei",
       "Thái Kỳ",
-      "Tập Cận Bình"
+      "Tập Cận Bình",
+      "Hồ Cẩm Đào"
     ],
     "themes": [
       "Chinese Communism"
@@ -22251,10 +21484,9 @@ const RAW_DATA = [
     "fullName": "Thái Kỳ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cai_in_Vietnam.jpg/500px-Cai_in_Vietnam.jpg",
     "relations": [
-      "Chu Vĩnh Khang",
+      "Vương Hỗ Ninh",
       "Tăng Khánh Hồng",
-      "Tập Cận Bình",
-      "Vương Hỗ Ninh"
+      "Tập Cận Bình"
     ],
     "themes": [
       "Chinese Communism"
@@ -22275,11 +21507,9 @@ const RAW_DATA = [
     "fullName": "Marcelo Bielsa",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Marcelo_Bielsa.jpg",
     "relations": [
-      "Ange Postecoglou",
-      "José Luis Chilavert",
-      "José Mourinho",
-      "Michael Schumacher",
-      "Pierluigi Collina"
+      "Lê Thụy Hải",
+      "Diego Simeone",
+      "Ange Postecoglou"
     ],
     "themes": [
       "Football"
@@ -22300,10 +21530,9 @@ const RAW_DATA = [
     "fullName": "Koji Yakusho (役所広司)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Yakusho_Koji_from_%22Perfect_Days%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348111441%29.jpg",
     "relations": [
-      "Hirokazu Kore-eda",
+      "Tilda Swinton",
       "Jim Carrey",
-      "Kiyoshi Kurosawa",
-      "Yukiko Okada"
+      "Edward Norton"
     ],
     "themes": []
   },
@@ -22322,9 +21551,9 @@ const RAW_DATA = [
     "fullName": "Lars von Trier",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Lars_von_Trier_2014_%28cropped%29.jpg",
     "relations": [
-      "Lee Chang-dong",
-      "Ricky Gervais",
-      "Wim Wenders"
+      "Sally Potter",
+      "Spike Jonze",
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -22343,9 +21572,9 @@ const RAW_DATA = [
     "fullName": "Mircea Cărtărescu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mircea_Cartarescu_-_Zsolnay-Lesefest.JPG/500px-Mircea_Cartarescu_-_Zsolnay-Lesefest.JPG",
     "relations": [
-      "Du Tử Lê",
       "Ichikawa Takuji",
-      "Jean-Philippe Toussaint"
+      "Salman Rushdie",
+      "Thuận"
     ],
     "themes": []
   },
@@ -22364,10 +21593,9 @@ const RAW_DATA = [
     "fullName": "Thái Anh Văn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tsai_Ing-wen_2016_MOFA_Portrait.png",
     "relations": [
-      "Barack Obama",
-      "Hugo Chávez",
       "Mã Anh Cửu",
-      "Trần Thủy Biển"
+      "Trần Thủy Biển",
+      "Hugo Chávez"
     ],
     "themes": []
   },
@@ -22386,9 +21614,9 @@ const RAW_DATA = [
     "fullName": "Thái Minh Lượng (Tsai Ming-liang, 蔡明亮)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tsai_Ming-liang_at_82nd_Venice_International_Film_Festival-1.jpg",
     "relations": [
-      "Bong Joon-ho",
       "Chantal Akerman",
-      "Hầu Hiếu Hiền"
+      "Hầu Hiếu Hiền",
+      "Bong Joon-ho"
     ],
     "themes": []
   },
@@ -22407,10 +21635,9 @@ const RAW_DATA = [
     "fullName": "Osama bin Laden",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg",
     "relations": [
-      "Harvey Weinstein",
+      "Trịnh Xuân Thanh",
       "Jeffrey Epstein",
-      "Pablo Escobar",
-      "Trịnh Xuân Thanh"
+      "Harvey Weinstein"
     ],
     "themes": []
   },
@@ -22429,9 +21656,9 @@ const RAW_DATA = [
     "fullName": "Cù Huy Hà Vũ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/C%C3%B9_Huy_H%C3%A0_V%C5%A9_in_an_interview_with_VOA.png",
     "relations": [
-      "Aung San Suu Kyi",
-      "Huy Cận",
-      "Phạm Đoan Trang"
+      "Huy Đức",
+      "Bùi Tín",
+      "Hoàng Minh Chính"
     ],
     "themes": [
       "Bat dong chinh kien VN"
@@ -22452,11 +21679,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Park_Hang-seo_1_%28cropped%29.JPG",
     "relations": [
-      "Ange Postecoglou",
       "Henrique Calisto",
-      "Lê Công Vinh",
       "Lê Thụy Hải",
-      "Park Ji-sung"
+      "Ange Postecoglou"
     ],
     "themes": [
       "Football"
@@ -22477,11 +21702,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/T%C3%B4_L%C3%A2m_%282026-01-29%29_%28cropped%29.jpg/500px-T%C3%B4_L%C3%A2m_%282026-01-29%29_%28cropped%29.jpg",
     "relations": [
-      "Lê Minh Hưng",
-      "Nguyễn Thị Kim Tiến",
-      "Rama X",
-      "Trương Hòa Bình",
-      "Đỗ Văn Chiến"
+      "Phan Văn Giang",
+      "Đỗ Mười",
+      "Trương Tấn Sang"
     ],
     "themes": [
       "VN Modern Communism"
@@ -22502,9 +21725,9 @@ const RAW_DATA = [
     "nationality": "Iranian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mohsen_makhmalbaf.jpg",
     "relations": [
-      "Asghar Farhadi",
       "Hầu Hiếu Hiền",
-      "Jafar Panahi"
+      "Jafar Panahi",
+      "Asghar Farhadi"
     ],
     "themes": []
   },
@@ -22523,10 +21746,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "",
     "relations": [
-      "Aoyama Gōshō",
-      "Michael Jackson",
+      "Yoshiko Sai",
       "Rei Harakami",
-      "Yoshiko Sai"
+      "Michael Jackson"
     ],
     "themes": []
   },
@@ -22545,10 +21767,9 @@ const RAW_DATA = [
     "fullName": "Jean-Philippe Toussaint",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jean-Philippe_Toussaint%2C_Florence_%28Italie%29%2C_2013.JPG/500px-Jean-Philippe_Toussaint%2C_Florence_%28Italie%29%2C_2013.JPG",
     "relations": [
+      "Éric-Emmanuel Schmitt",
       "Jean Teulé",
-      "László Krasznahorkai",
-      "Mircea Cărtărescu",
-      "Éric-Emmanuel Schmitt"
+      "László Krasznahorkai"
     ],
     "themes": []
   },
@@ -22568,10 +21789,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg",
     "relations": [
       "Hako Yamasaki",
-      "Henry Ford",
-      "Joseph Merrick",
-      "Kurt Cobain",
-      "Rei Harakami"
+      "Rei Harakami",
+      "Kurt Cobain"
     ],
     "themes": []
   },
@@ -22590,11 +21809,9 @@ const RAW_DATA = [
     "fullName": "Phạm Minh Chính",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pham_Minh_Chinh_2021.jpg/500px-Pham_Minh_Chinh_2021.jpg",
     "relations": [
-      "Angela Merkel",
-      "Justin Trudeau",
-      "Lê Minh Hưng",
-      "Nguyễn Thị Kim Tiến",
-      "Tô Ân Xô"
+      "Phan Văn Giang",
+      "Tô Lâm",
+      "Nguyễn Xuân Phúc"
     ],
     "themes": [
       "VN Modern Communism"
@@ -22615,9 +21832,9 @@ const RAW_DATA = [
     "fullName": "Hân Nhiên (Tiết Hân Nhiên, Xinran, 薛欣然)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hayfestival-2016-Xin-Ran.jpg/500px-Hayfestival-2016-Xin-Ran.jpg",
     "relations": [
-      "Bắc Đảo",
       "Mạc Ngôn",
-      "Tàn Tuyết"
+      "Theresa Hak Kyung Cha",
+      "Otto von Bismarck"
     ],
     "themes": []
   },
@@ -22638,9 +21855,9 @@ const RAW_DATA = [
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Anna_Politkovskaja_im_Gespr%C3%A4ch_mit_Christhard_L%C3%A4pple.jpg",
     "relations": [
-      "Bạc Hy Lai",
-      "Pyotr Đại đế",
-      "Đinh La Thăng"
+      "Donald Trump",
+      "Đinh La Thăng",
+      "Nguyễn Xuân Phúc"
     ]
   },
   {
@@ -22658,9 +21875,9 @@ const RAW_DATA = [
     "fullName": "Nuri Bilge Ceylan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Nuri_Bilge_Ceylan%2C_Cines_del_Sur.jpg/500px-Nuri_Bilge_Ceylan%2C_Cines_del_Sur.jpg",
     "relations": [
-      "Isabelle Huppert",
       "Jafar Panahi",
-      "Yilmaz Güney"
+      "Tilda Swinton",
+      "Alejandro González Iñárritu"
     ],
     "themes": []
   },
@@ -22668,7 +21885,7 @@ const RAW_DATA = [
     "born": 1959,
     "died": 2023,
     "title": "Nguyễn Chí Vịnh",
-    "desc": "Thượng tướng, nguyên Thứ trưởng Bộ Quốc phòng Việt Nam. Ông là nhân vật có ảnh hưởng trong giới tình báo quân sự và quan hệ đối ngoại của Việt Nam.",
+    "desc": "Thượng tướng, Giáo sư, Tiến sĩ, nguyên Thứ trưởng Bộ Quốc phòng Việt Nam kiêm Tổng cục trưởng Tổng cục Tình báo Quốc phòng (Tổng cục II). Ông là một nhà ngoại giao quốc phòng xuất sắc, có tầm ảnh hưởng lớn trong việc xây dựng quan hệ đối ngoại quân sự của Việt Nam thời kỳ hội nhập quốc tế.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -22679,9 +21896,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Chí Vịnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nguyen_Chi_Vinh_-_United_States_and_Vietnam_Sign_Land_Handover_Memorandum_to_Initiate_Dioxin_Remediation_at_Bien_Hoa_Airbase_Area.jpg/500px-Nguyen_Chi_Vinh_-_United_States_and_Vietnam_Sign_Land_Handover_Memorandum_to_Initiate_Dioxin_Remediation_at_Bien_Hoa_Airbase_Area.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
-      "Nguyễn Khánh",
-      "Nguyễn Ngọc Loan",
-      "Ngô Xuân Lịch"
+      "Trần Văn Trà",
+      "Ngô Xuân Lịch",
+      "Robert McNamara"
     ],
     "themes": []
   },
@@ -22703,9 +21920,9 @@ const RAW_DATA = [
       "Psychoanalysis"
     ],
     "relations": [
-      "Georg W. F. Hegel",
+      "Julia Kristeva",
       "Gilles Deleuze",
-      "Julia Kristeva"
+      "Jean-Paul Sartre"
     ]
   },
   {
@@ -22724,9 +21941,9 @@ const RAW_DATA = [
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Boris_Nemtsov_2014.jpg",
     "relations": [
-      "Bohdan Khmelnytsky",
       "Dmitry Medvedev",
-      "Justin Trudeau"
+      "Nguyễn Thị Kim Ngân",
+      "Antonio Guterres"
     ]
   },
   {
@@ -22744,11 +21961,9 @@ const RAW_DATA = [
     "fullName": "Jafar Panahi (جعفر پناهی)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jafar_Panahi%2C_Cines_del_Sur_2007-1_%28cropped%29.jpg",
     "relations": [
-      "Asghar Farhadi",
-      "Claire Denis",
-      "Isabelle Huppert",
-      "Mohsen Makhmalbaf",
-      "Nuri Bilge Ceylan"
+      "Alejandro González Iñárritu",
+      "Sally Potter",
+      "Sofia Coppola"
     ],
     "themes": []
   },
@@ -22767,9 +21982,9 @@ const RAW_DATA = [
     "fullName": "Kim Ki-duk (김기덕)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kim_Ki-duk_at_the_69th_Venice_International_Film_Festival_%28cropped%29.jpg",
     "relations": [
-      "Aoyama Gōshō",
       "Bong Joon-ho",
-      "Park Chan-wook"
+      "Park Chan-wook",
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -22788,9 +22003,7 @@ const RAW_DATA = [
     "fullName": "Phan Văn Giang",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Phan_Van_Giang_at_the_Asian_Security_Summit%2C_2025%29.jpg/500px-Phan_Van_Giang_at_the_Asian_Security_Summit%2C_2025%29.jpg",
     "relations": [
-      "Benjamin Netanyahu",
-      "Dmitry Medvedev",
-      "Ngô Xuân Lịch",
+      "Tô Lâm",
       "Tô Ân Xô",
       "Đinh La Thăng"
     ],
@@ -22813,11 +22026,9 @@ const RAW_DATA = [
     "fullName": "Diego Maradona",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg",
     "relations": [
-      "Ayrton Senna",
-      "Garrincha",
-      "Graeme Souness",
-      "Osvaldo Ardiles",
-      "Pierluigi Collina"
+      "George Best",
+      "Pierluigi Collina",
+      "Pelé"
     ],
     "themes": [
       "Football"
@@ -22838,9 +22049,9 @@ const RAW_DATA = [
     "fullName": "Ayrton Senna",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ayrton_Senna_9_%28cropped%29.jpg",
     "relations": [
-      "Diego Maradona",
       "Garry Kasparov",
-      "Pierluigi Collina"
+      "Mario Kempes",
+      "Graeme Souness"
     ],
     "themes": []
   },
@@ -22859,11 +22070,9 @@ const RAW_DATA = [
     "fullName": "Đinh La Thăng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mr._Dinh_La_Thang.jpg/500px-Mr._Dinh_La_Thang.jpg",
     "relations": [
-      "Anna Politkovskaya",
-      "Nguyễn Bá Thanh",
-      "Nguyễn Sơn Hà",
-      "Năm Cam",
-      "Phan Văn Giang"
+      "Tô Lâm",
+      "Phan Văn Giang",
+      "Lê Minh Hưng"
     ],
     "themes": [
       "VN Modern Communism"
@@ -22884,11 +22093,9 @@ const RAW_DATA = [
     "fullName": "Éric-Emmanuel Schmitt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%C3%89ric-Emmanuel_Schmitt_2011-04-13.jpg/500px-%C3%89ric-Emmanuel_Schmitt_2011-04-13.jpg",
     "relations": [
-      "Han Kang",
-      "Jean Teulé",
       "Jean-Philippe Toussaint",
-      "László Krasznahorkai",
-      "Molière"
+      "Lưu Từ Hân",
+      "Jean Teulé"
     ],
     "themes": []
   },
@@ -22906,10 +22113,9 @@ const RAW_DATA = [
     ],
     "nationality": "Italian",
     "relations": [
-      "Ayrton Senna",
       "Diego Maradona",
       "George Best",
-      "Marcelo Bielsa"
+      "Michael Laudrup"
     ],
     "themes": [
       "Football"
@@ -22931,11 +22137,9 @@ const RAW_DATA = [
     "fullName": "Tilda Swinton (Katherine Matilda Swinton)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Tilda_Swinton_by_Gage_Skidmore_%28cropped%29.jpg",
     "relations": [
-      "Cate Blanchett",
-      "Lương Triều Vỹ",
-      "Nicole Kidman",
-      "Sofia Coppola",
-      "Trần Anh Hùng"
+      "Sally Potter",
+      "Luca Guadagnino",
+      "Alejandro González Iñárritu"
     ],
     "themes": []
   },
@@ -22954,8 +22158,8 @@ const RAW_DATA = [
     "fullName": "Ricky Gervais",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/GervaisPall230921_%285_of_17%29_%2851528328440%29_%28cropped%29.jpg",
     "relations": [
-      "J. M. W. Turner",
-      "Lars von Trier",
+      "Owen Cooper",
+      "Tilda Swinton",
       "Robin Williams"
     ],
     "themes": []
@@ -22975,10 +22179,9 @@ const RAW_DATA = [
     "fullName": "Barack Obama",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
     "relations": [
-      "Antonio Guterres",
-      "Ban Ki-moon",
-      "Dmitry Medvedev",
-      "Thái Anh Văn"
+      "Henry Kissinger",
+      "Nelson Mandela",
+      "Donald Trump"
     ],
     "themes": [
       "Giai Nobel"
@@ -22999,9 +22202,9 @@ const RAW_DATA = [
     "fullName": "Công nương Diana",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg/500px-Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
     "relations": [
-      "Mã Anh Cửu",
-      "Thánh Damien đảo Molokai",
-      "William I"
+      "Cù Huy Hà Vũ",
+      "Tô Lâm",
+      "Nguyễn Bá Thanh"
     ],
     "themes": []
   },
@@ -23020,9 +22223,9 @@ const RAW_DATA = [
     "fullName": "David Fincher",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg/500px-TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg",
     "relations": [
-      "Edward Norton",
-      "Louis Armstrong",
-      "Park Chan-wook"
+      "Park Chan-wook",
+      "Spike Jonze",
+      "Edward Norton"
     ],
     "themes": []
   },
@@ -23041,10 +22244,9 @@ const RAW_DATA = [
     "fullName": "Hirokazu Kore-eda (是枝裕和)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Hirokazu_Kore-eda_-_The_Egyptian_Theatre.jpg",
     "relations": [
-      "Kiyoshi Kurosawa",
-      "Koji Yakusho",
       "Kon Satoshi",
-      "Shunji Iwai"
+      "Shunji Iwai",
+      "Koji Yakusho"
     ],
     "themes": []
   },
@@ -23063,9 +22265,9 @@ const RAW_DATA = [
     "fullName": "Lương Triều Vỹ (Tony Leung Chiu-wai, 梁朝偉)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tony_Leung_as_the_President_of_the_International_Competition_Jury_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2024_%2854578353950%29.jpg",
     "relations": [
-      "Hầu Hiếu Hiền",
-      "Tilda Swinton",
-      "Trương Nghệ Mưu"
+      "Bong Joon-ho",
+      "Trương Mạn Ngọc",
+      "Tilda Swinton"
     ],
     "themes": []
   },
@@ -23085,7 +22287,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tran_Anh_Hung_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822453104525%29_%28cropped%29.jpg",
     "relations": [
       "Hầu Hiếu Hiền",
-      "Spike Jonze",
+      "Alejandro González Iñárritu",
       "Tilda Swinton"
     ],
     "themes": []
@@ -23106,8 +22308,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg",
     "relations": [
       "Edward Norton",
-      "Koji Yakusho",
-      "Sydney Sweeney"
+      "Sydney Sweeney",
+      "Leonardo DiCaprio"
     ],
     "themes": []
   },
@@ -23126,11 +22328,9 @@ const RAW_DATA = [
     "fullName": "Ichikawa Takuji (市川拓司)",
     "image": "",
     "relations": [
-      "Henrik Ibsen",
-      "Mircea Cărtărescu",
-      "Nezumi Kozō",
-      "Yukio Mishima",
-      "Đặng Hoàng Giang"
+      "Đặng Hoàng Giang",
+      "Robert Schumann",
+      "Lê Quý Đôn"
     ],
     "themes": []
   },
@@ -23149,10 +22349,9 @@ const RAW_DATA = [
     "fullName": "Lê Bá Khánh Trình",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/L%C3%AA_B%C3%A1_Kh%C3%A1nh_Tr%C3%ACnh.jpg",
     "relations": [
-      "Dương Trung Quốc",
-      "Hoàng Xuân Vinh",
       "Ngô Bảo Châu",
-      "Terence Tao"
+      "Hoàng Xuân Vinh",
+      "Dương Trung Quốc"
     ],
     "themes": []
   },
@@ -23172,9 +22371,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Daniel_Levy.jpg/500px-Daniel_Levy.jpg",
     "relations": [
-      "Ariane de Rothschild",
-      "Jack Ma",
-      "Todd Boehly"
+      "Todd Boehly",
+      "Roman Abramovich",
+      "David Beckham"
     ],
     "themes": [
       "Football"
@@ -23195,11 +22394,9 @@ const RAW_DATA = [
     "fullName": "Kon Satoshi (今敏)",
     "image": "",
     "relations": [
-      "Christopher Nolan",
-      "Hirokazu Kore-eda",
       "Ryusuke Hamaguchi",
-      "Shunji Iwai",
-      "Yukiko Okada"
+      "Jafar Panahi",
+      "Park Chan-wook"
     ],
     "themes": []
   },
@@ -23218,10 +22415,9 @@ const RAW_DATA = [
     "fullName": "Lưu Từ Hân (Liu Cixin, 刘慈欣, Three-Body Problem, Tam Thể)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cixin_Liu_at_Worldcon_75%2C_Helsinki%2C_before_the_Hugo_Awards.jpg",
     "relations": [
-      "Han Kang",
-      "Margaret Cavendish",
-      "Nguyễn Nguyên Phước",
-      "Tàn Tuyết"
+      "Éric-Emmanuel Schmitt",
+      "Mạc Ngôn",
+      "Nguyễn Nguyên Phước"
     ],
     "themes": []
   },
@@ -23240,8 +22436,8 @@ const RAW_DATA = [
     "fullName": "Tô Ân Xô",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2f/To_An_Xo_in_Moscow%2C_09052025.jpg/500px-To_An_Xo_in_Moscow%2C_09052025.jpg",
     "relations": [
-      "Emmanuel Macron",
       "Phan Văn Giang",
+      "Tô Lâm",
       "Phạm Minh Chính"
     ],
     "themes": [
@@ -23263,9 +22459,7 @@ const RAW_DATA = [
     "fullName": "Garry Kasparov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg",
     "relations": [
-      "Alireza Firouzja",
       "Anatoly Karpov",
-      "Ayrton Senna",
       "Gukesh D",
       "Judit Polgár"
     ],
@@ -23289,10 +22483,9 @@ const RAW_DATA = [
     "fullName": "Michael Jordan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
     "relations": [
-      "Giannis Antetokounmpo",
-      "Kobe Bryant",
-      "Muhammad Ali",
-      "Nguyễn Xuân Son"
+      "Zinedine Zidane",
+      "Petra Kvitova",
+      "Graeme Souness"
     ],
     "themes": []
   },
@@ -23311,10 +22504,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%EB%B0%95%EC%B0%AC%EC%9A%B1_-_%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4.jpg",
     "relations": [
+      "Spike Jonze",
       "David Fincher",
-      "Kim Ki-duk",
-      "Lee Chang-dong",
-      "Ryusuke Hamaguchi"
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -23334,9 +22526,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jos%C3%A9_Mourinho_20250206_%281%29.jpg/500px-Jos%C3%A9_Mourinho_20250206_%281%29.jpg",
     "relations": [
       "Marcelo Bielsa",
-      "Michael Schumacher",
-      "Santiago Bernabéu",
-      "Sir Bobby Robson"
+      "Jari Litmanen",
+      "Santiago Bernabéu"
     ],
     "themes": [
       "Football"
@@ -23358,8 +22549,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gosho_Aoyama.jpg/500px-Gosho_Aoyama.jpg",
     "relations": [
       "Hako Yamasaki",
-      "Kim Ki-duk",
-      "Yoshitaka Amano"
+      "Yoshitaka Amano",
+      "Kim Ki-duk"
     ],
     "themes": []
   },
@@ -23378,9 +22569,9 @@ const RAW_DATA = [
     "fullName": "Shunji Iwai (岩井 俊二)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shunji_Iwai.jpg",
     "relations": [
-      "Hirokazu Kore-eda",
-      "Kon Satoshi",
-      "Yoshitaka Amano"
+      "Alejandro González Iñárritu",
+      "Jafar Panahi",
+      "Tilda Swinton"
     ],
     "themes": []
   },
@@ -23399,11 +22590,9 @@ const RAW_DATA = [
     "fullName": "Ma Yun",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/20th_Anniversary_Schwab_Foundation_Gala_Dinner_%2844887783681%29_%28cropped%29.jpg",
     "relations": [
-      "Daniel Levy",
-      "Lee Byung-chul",
-      "Phạm Nhật Vượng",
-      "Roman Abramovich",
-      "Vitalik Buterin"
+      "Lôi Quân",
+      "Bill Gates",
+      "Ariane de Rothschild"
     ],
     "themes": []
   },
@@ -23423,8 +22612,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nguyen_Cao_Ky_Duyen.jpg",
     "relations": [
       "Công Lý",
-      "Tự Long",
-      "Xuân Bắc"
+      "Xuân Bắc",
+      "Tự Long"
     ],
     "themes": []
   },
@@ -23443,10 +22632,9 @@ const RAW_DATA = [
     "fullName": "Ariane de Rothschild",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ariane_de_Rothschild_%28cropped%29.jpg",
     "relations": [
-      "Daniel Levy",
-      "Elon Musk",
-      "Hjalmar Schacht",
-      "Phạm Nhật Vượng"
+      "Jack Ma",
+      "Phạm Nhật Vượng",
+      "Elon Musk"
     ],
     "themes": []
   },
@@ -23465,10 +22653,9 @@ const RAW_DATA = [
     "fullName": "Dung Hà",
     "image": "",
     "relations": [
-      "Bảy Viễn",
-      "Diddy",
-      "Harvey Weinstein",
-      "Nemesio Oseguera Cervantes"
+      "Nemesio Oseguera Cervantes",
+      "Jeffrey Epstein",
+      "Năm Cam"
     ],
     "themes": []
   },
@@ -23487,11 +22674,9 @@ const RAW_DATA = [
     "fullName": "Dmitry Anatolyevich Medvedev (Dmitry Medvedev)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dmitry_Medvedev_%282026-02-06%29.jpg",
     "relations": [
-      "Barack Obama",
-      "Boris Nemtsov",
-      "Emmanuel Macron",
-      "Phan Văn Giang",
-      "Viktor Yanukovych"
+      "Tô Lâm",
+      "Viktor Yanukovych",
+      "Phan Văn Giang"
     ],
     "themes": []
   },
@@ -23510,10 +22695,9 @@ const RAW_DATA = [
     "nationality": "Australian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ange_Postecoglou_%28cropped%29.jpg",
     "relations": [
-      "Henrique Calisto",
       "Marcelo Bielsa",
-      "Park Hang-seo",
-      "Trương Anh Ngọc"
+      "Pep Guardiola",
+      "Park Hang-seo"
     ],
     "themes": [
       "Football"
@@ -23538,9 +22722,9 @@ const RAW_DATA = [
       "Football"
     ],
     "relations": [
+      "Tim Cahill",
       "Diego Simeone",
-      "Marcelo Bielsa",
-      "Tim Cahill"
+      "Marcelo Bielsa"
     ]
   },
   {
@@ -23558,8 +22742,8 @@ const RAW_DATA = [
     "fullName": "Nemesio Oseguera Cervantes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/El_Mencho_San_Francisco.jpeg",
     "relations": [
-      "Bảy Viễn",
       "Dung Hà",
+      "Harvey Weinstein",
       "Pablo Escobar"
     ],
     "themes": []
@@ -23580,9 +22764,9 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Roman_Abramovich_%28cropped%29.png",
     "relations": [
-      "Jack Ma",
-      "Lôi Quân",
-      "Todd Boehly"
+      "Todd Boehly",
+      "Daniel Levy",
+      "David Beckham"
     ],
     "themes": [
       "Football"
@@ -23603,10 +22787,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Chu Ân Lai",
-      "Diddy",
-      "Osama bin Laden",
-      "Otto von Bismarck"
+      "Xuân Thủy",
+      "Lê Thanh Nghị",
+      "Đinh La Thăng"
     ],
     "themes": [
       "VN Modern Communism"
@@ -23628,10 +22811,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg",
     "relations": [
       "Chester Bennington",
-      "Eminem",
-      "George Harrison",
-      "Michael Jackson",
-      "Thom Yorke"
+      "Trần Tiến",
+      "George Harrison"
     ],
     "themes": [
       "Rocker"
@@ -23652,8 +22833,8 @@ const RAW_DATA = [
     "fullName": "Nicole Kidman (Nicole Mary Kidman, Eyes Wide Shut, Moulin Rouge)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nicole_Kidman-66059_%28cropped%29.jpg",
     "relations": [
-      "Cate Blanchett",
       "Edward Norton",
+      "Cate Blanchett",
       "Tilda Swinton"
     ],
     "themes": []
@@ -23673,8 +22854,8 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Okada_Yukiko.jpg",
     "relations": [
-      "Koji Yakusho",
       "Kon Satoshi",
+      "Koji Yakusho",
       "Yoshiko Sai"
     ],
     "themes": []
@@ -23695,8 +22876,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Thom_Yorke_2013.jpg",
     "relations": [
       "Chester Bennington",
-      "Kurt Cobain",
-      "Trần Lập"
+      "Trần Lập",
+      "Kurt Cobain"
     ],
     "themes": [
       "Rocker"
@@ -23738,11 +22919,9 @@ const RAW_DATA = [
     "fullName": "Bong Joon-ho (봉준호)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg",
     "relations": [
-      "Alejandro González Iñárritu",
-      "Charlie Chaplin",
+      "Kim Min-hee",
       "Kim Ki-duk",
-      "Thang Duy",
-      "Thái Minh Lượng"
+      "Lương Triều Vỹ"
     ],
     "themes": []
   },
@@ -23761,10 +22940,9 @@ const RAW_DATA = [
     "fullName": "Lôi Quân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%E9%9B%B7%E5%86%9B_Lei_Jun.jpg",
     "relations": [
-      "Elon Musk",
-      "Roman Abramovich",
-      "Todd Boehly",
-      "Trương Nhất Minh"
+      "Jack Ma",
+      "Trương Nhất Minh",
+      "Bill Gates"
     ],
     "themes": []
   },
@@ -23783,10 +22961,9 @@ const RAW_DATA = [
     "fullName": "Diddy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sean_Combs_Cannes_2012_%28cropped%29_4.jpg/500px-Sean_Combs_Cannes_2012_%28cropped%29_4.jpg",
     "relations": [
-      "Dung Hà",
+      "Trịnh Xuân Thanh",
       "Edward Snowden",
-      "Ross Ulbricht",
-      "Trịnh Xuân Thanh"
+      "Dung Hà"
     ],
     "themes": []
   },
@@ -23806,9 +22983,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg/500px-A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg",
     "relations": [
       "José Mourinho",
-      "Kimi Raikkonen",
-      "Lance Armstrong",
-      "Marcelo Bielsa"
+      "Jari Litmanen",
+      "Park Ji-sung"
     ],
     "themes": []
   },
@@ -23827,9 +23003,9 @@ const RAW_DATA = [
     "fullName": "Cate Blanchett (Catherine Elise Blanchett, Lady Galadriel)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cate_Blanchett-63298_%28cropped_2%29.jpg",
     "relations": [
+      "Tilda Swinton",
       "Nicole Kidman",
-      "Spike Jonze",
-      "Tilda Swinton"
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -23849,9 +23025,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Portrait_of_Mojtaba_Khamenei_%282%29.jpg",
     "relations": [
       "Ali Khamenei",
-      "Justin Trudeau",
-      "Kim Jong-un",
-      "Vương Hỗ Ninh"
+      "Vương Hỗ Ninh",
+      "Justin Trudeau"
     ],
     "themes": []
   },
@@ -23870,11 +23045,9 @@ const RAW_DATA = [
     "fullName": "Spike Jonze (Adam Spiegel)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Spike%20Jonze%20%28cropped%29.jpg",
     "relations": [
-      "Cate Blanchett",
-      "Eminem",
-      "Luca Guadagnino",
-      "Rei Harakami",
-      "Trần Anh Hùng"
+      "Sofia Coppola",
+      "David Cronenberg",
+      "Alejandro González Iñárritu"
     ],
     "themes": []
   },
@@ -23893,8 +23066,8 @@ const RAW_DATA = [
     "fullName": "Apichatpong Weerasethakul (อภิชาติพงศ์ วีระเศรษฐกุล, Joe)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
     "relations": [
-      "Christopher Nolan",
-      "Nawapol Thamrongrattanarit",
+      "Spike Jonze",
+      "Alejandro González Iñárritu",
       "Sofia Coppola"
     ],
     "themes": []
@@ -23914,10 +23087,9 @@ const RAW_DATA = [
     "fullName": "Christopher Nolan (Christopher Edward Nolan)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg/500px-ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg",
     "relations": [
-      "Alejandro González Iñárritu",
       "Apichatpong Weerasethakul",
-      "Kon Satoshi",
-      "Nawapol Thamrongrattanarit"
+      "Asia Argento",
+      "Kon Satoshi"
     ],
     "themes": []
   },
@@ -23936,9 +23108,9 @@ const RAW_DATA = [
     "fullName": "Han Kang (한강, Nobel Prize 2024)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Han_Kang%2C_2024_Nobel_Prize_Laureate_in_Literature_%28cropped%29.jpg",
     "relations": [
-      "Lưu Từ Hân",
-      "Nguyễn Nguyên Phước",
-      "Éric-Emmanuel Schmitt"
+      "Mạc Ngôn",
+      "Kawabata Yasunari",
+      "Thomas Mann"
     ],
     "themes": [
       "Giai Nobel"
@@ -23960,8 +23132,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Hako Yamasaki",
-      "Michael Jackson",
-      "Spike Jonze"
+      "Spike Jonze",
+      "Michael Jackson"
     ],
     "themes": []
   },
@@ -23980,8 +23152,8 @@ const RAW_DATA = [
     "nationality": "Latin American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_%28cropped%29.jpg",
     "relations": [
+      "Marcelo Bielsa",
       "David Beckham",
-      "José Luis Chilavert",
       "Ronaldinho"
     ],
     "themes": [
@@ -24003,11 +23175,9 @@ const RAW_DATA = [
     "fullName": "Elon Reeve Musk",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/500px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
     "relations": [
+      "Todd Boehly",
       "Ariane de Rothschild",
-      "Edward Snowden",
-      "Kim Kardashian",
-      "Lôi Quân",
-      "Todd Boehly"
+      "Trương Nhất Minh"
     ],
     "themes": []
   },
@@ -24027,10 +23197,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg/500px-Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg",
     "relations": [
       "Benito Mussolini",
-      "Boris Nemtsov",
-      "Kim Jong-un",
-      "Mojtaba Khamenei",
-      "Phạm Minh Chính"
+      "Phạm Minh Chính",
+      "Tô Lâm"
     ],
     "themes": []
   },
@@ -24049,11 +23217,9 @@ const RAW_DATA = [
     "fullName": "Pep Guardiola",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_%28cropped%29.jpg",
     "relations": [
-      "Michael Laudrup",
-      "Paulino Alcantara",
-      "Santiago Bernabéu",
-      "Sir Bobby Robson",
-      "Trương Anh Ngọc"
+      "Ange Postecoglou",
+      "Park Hang-seo",
+      "Diego Simeone"
     ],
     "themes": [
       "Football"
@@ -24074,9 +23240,9 @@ const RAW_DATA = [
     "fullName": "Sofia Coppola",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sofia_Coppola-3275_(cropped).jpg/500px-Sofia_Coppola-3275_(cropped).jpg",
     "relations": [
-      "Apichatpong Weerasethakul",
-      "Edward Hopper",
-      "Tilda Swinton"
+      "Spike Jonze",
+      "Alejandro González Iñárritu",
+      "Jafar Panahi"
     ],
     "themes": []
   },
@@ -24095,9 +23261,9 @@ const RAW_DATA = [
     "fullName": "Luca Guadagnino",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Luca%20Guadagnino-63112.jpg",
     "relations": [
-      "Giuseppe Verdi",
-      "Leonardo da Vinci",
-      "Spike Jonze"
+      "Tilda Swinton",
+      "David Cronenberg",
+      "Asia Argento"
     ],
     "themes": []
   },
@@ -24116,10 +23282,9 @@ const RAW_DATA = [
     "fullName": "Lance Edward Armstrong",
     "image": "",
     "relations": [
-      "Hoàng Xuân Vinh",
       "Lee Chong Wei",
-      "Michael Schumacher",
-      "Oscar Pistorius"
+      "Oscar Pistorius",
+      "Rafael Nadal"
     ],
     "themes": []
   },
@@ -24138,9 +23303,9 @@ const RAW_DATA = [
     "fullName": "Asghar Farhadi (اصغر فرهادی)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Asghar_Farhadi_in_2018-2_%28cropped%29.jpg",
     "relations": [
-      "Jafar Panahi",
       "Joachim Trier",
-      "Mohsen Makhmalbaf"
+      "Jafar Panahi",
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -24159,8 +23324,8 @@ const RAW_DATA = [
     "fullName": "Eminem (Marshall Bruce Mathers III, Slim Shady)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eminem_2021_Color_Corrected.jpg/500px-Eminem_2021_Color_Corrected.jpg",
     "relations": [
-      "Edward Hopper",
       "Kurt Cobain",
+      "Dmitri Shostakovich",
       "Spike Jonze"
     ],
     "themes": []
@@ -24180,9 +23345,9 @@ const RAW_DATA = [
     "fullName": "Ngô Bảo Châu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ng%C3%B4_B%E1%BA%A3o_Ch%C3%A2u.JPG",
     "relations": [
-      "Aleister Crowley",
       "Lê Bá Khánh Trình",
-      "Terence Tao"
+      "Terence Tao",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -24200,9 +23365,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Thiên Tích",
-      "Phùng Thanh Độ",
-      "Trần Nguyên Hãn"
+      "Jimmy Fallon",
+      "Jimmy Kimmel",
+      "Kim Kardashian"
     ],
     "themes": []
   },
@@ -24221,9 +23386,9 @@ const RAW_DATA = [
     "fullName": "Công Lý",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/JMR-Memphis1.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
-      "Nguyễn Cao Kỳ Duyên",
       "Tự Long",
-      "Xuân Bắc"
+      "Xuân Bắc",
+      "Nguyễn Cao Kỳ Duyên"
     ],
     "themes": []
   },
@@ -24242,11 +23407,9 @@ const RAW_DATA = [
     "fullName": "Todd Boehly",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Todd_Boehly_Autumn_2024.jpg/500px-Todd_Boehly_Autumn_2024.jpg",
     "relations": [
-      "Daniel Levy",
-      "Elon Musk",
-      "Lôi Quân",
       "Roman Abramovich",
-      "Vitalik Buterin"
+      "Daniel Levy",
+      "Elon Musk"
     ],
     "themes": [
       "Football"
@@ -24267,9 +23430,9 @@ const RAW_DATA = [
     "fullName": "Vũ Tự Long",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/NSND%20T%E1%BB%B1%20Long%20ATVNCG2024.jpg",
     "relations": [
+      "Xuân Bắc",
       "Công Lý",
-      "Nguyễn Cao Kỳ Duyên",
-      "Xuân Bắc"
+      "Tilda Swinton"
     ],
     "themes": []
   },
@@ -24290,8 +23453,7 @@ const RAW_DATA = [
     "relations": [
       "Asghar Farhadi",
       "Leonardo DiCaprio",
-      "Ryusuke Hamaguchi",
-      "Xavier Dolan"
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -24310,11 +23472,9 @@ const RAW_DATA = [
     "fullName": "Leonardo DiCaprio",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LeoPTABFI191125-28_%28cropped%29.jpg/500px-LeoPTABFI191125-28_%28cropped%29.jpg",
     "relations": [
-      "Alejandro González Iñárritu",
-      "Cillian Murphy",
-      "Greta Thunberg",
-      "Joachim Trier",
-      "Ryan Gosling"
+      "Edward Norton",
+      "Kim Min-hee",
+      "Asia Argento"
     ],
     "themes": []
   },
@@ -24333,9 +23493,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tran_Lap_MTV_EXIT_concert_Ha_Noi_2012_01_%28crop%29.jpg/500px-Tran_Lap_MTV_EXIT_concert_Ha_Noi_2012_01_%28crop%29.jpg",
     "relations": [
-      "Chester Bennington",
+      "John Lennon",
       "Ringo Starr",
-      "Thom Yorke"
+      "Chester Bennington"
     ],
     "themes": [
       "Rocker"
@@ -24356,11 +23516,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hoang_Xuan_Vinh.jpg/500px-Hoang_Xuan_Vinh.jpg",
     "relations": [
-      "Lance Armstrong",
-      "Lê Bá Khánh Trình",
-      "Michael Phelps",
       "Nguyễn Trần Duy Nhất",
-      "Phạm Văn Mách"
+      "Michael Phelps",
+      "Lee Chong Wei"
     ],
     "themes": []
   },
@@ -24379,8 +23537,8 @@ const RAW_DATA = [
     "fullName": "Terence Tao",
     "image": "",
     "relations": [
-      "Lê Bá Khánh Trình",
       "Ngô Bảo Châu",
+      "Lê Bá Khánh Trình",
       "Werner Heisenberg"
     ],
     "themes": []
@@ -24401,10 +23559,9 @@ const RAW_DATA = [
     "fullName": "David Beckham",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg/500px-David_Beckham_UNICEF_%28cropped2%29.jpg",
     "relations": [
-      "Bạch Thái Bưởi",
       "Diego Simeone",
-      "Kobe Bryant",
-      "Trương Anh Ngọc"
+      "Vozinha",
+      "Diego Maradona"
     ],
     "themes": [
       "Football"
@@ -24426,8 +23583,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0327.jpg/500px-Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0327.jpg",
     "relations": [
       "Kurt Cobain",
-      "Thom Yorke",
-      "Trần Lập"
+      "John Lennon",
+      "Thom Yorke"
     ],
     "themes": [
       "Rocker"
@@ -24448,9 +23605,9 @@ const RAW_DATA = [
     "fullName": "Cillian Murphy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg/500px-Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_%28cropped%29.jpg",
     "relations": [
-      "Daniel Radcliffe",
+      "Leonardo DiCaprio",
       "Heath Ledger",
-      "Leonardo DiCaprio"
+      "Daniel Radcliffe"
     ],
     "themes": []
   },
@@ -24469,10 +23626,9 @@ const RAW_DATA = [
     "fullName": "Xuân Bắc",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nguy%E1%BB%85n_Xu%C3%A2n_B%E1%BA%AFc.png",
     "relations": [
+      "Tự Long",
       "Công Lý",
-      "Hứa Quang Hán",
-      "Nguyễn Cao Kỳ Duyên",
-      "Tự Long"
+      "Lâm Tâm Như"
     ],
     "themes": []
   },
@@ -24491,9 +23647,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Nguyên Phước",
     "image": "",
     "relations": [
-      "Han Kang",
+      "Phạm Duy Tốn",
       "Lưu Từ Hân",
-      "Ocean Vuong"
+      "Yoko Ogawa"
     ],
     "themes": []
   },
@@ -24512,9 +23668,9 @@ const RAW_DATA = [
     "fullName": "Trương Anh Ngọc",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Truong_Anh_Ngoc_%28cropped%29.jpg/500px-Truong_Anh_Ngoc_%28cropped%29.jpg",
     "relations": [
-      "Ange Postecoglou",
-      "David Beckham",
-      "Pep Guardiola"
+      "Lê Công Vinh",
+      "Ronaldo de Lima",
+      "David Beckham"
     ],
     "themes": [
       "Football"
@@ -24536,9 +23692,9 @@ const RAW_DATA = [
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Alexey_Navalny_2018_%28cropped%29.png",
     "relations": [
-      "Aung San Suu Kyi",
-      "Công nương Kate",
-      "Kim Jong-un"
+      "Huy Đức",
+      "Donald Trump",
+      "Aung San Suu Kyi"
     ]
   },
   {
@@ -24557,8 +23713,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Ichikawa Takuji",
-      "Mạc Ngôn",
-      "Nguyễn Bỉnh Khiêm"
+      "Hàn Mặc Tử",
+      "Thuận"
     ],
     "themes": []
   },
@@ -24577,10 +23733,9 @@ const RAW_DATA = [
     "fullName": "Emmanuel Macron",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/500px-Emmanuel_Macron_2025_%28cropped%29.jpg",
     "relations": [
-      "Balendra Shah",
-      "Dmitry Medvedev",
-      "Park Chung-hee",
-      "Tô Ân Xô"
+      "Donald Trump",
+      "Lê Minh Hưng",
+      "Dmitry Medvedev"
     ],
     "themes": []
   },
@@ -24599,10 +23754,9 @@ const RAW_DATA = [
     "fullName": "Ryusuke Hamaguchi (濱口竜介)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ryusuke_Hamaguchi_%28HKAFF2018%29_%28cropped%29.png",
     "relations": [
-      "Joachim Trier",
       "Kon Satoshi",
       "Park Chan-wook",
-      "Xavier Dolan"
+      "Joachim Trier"
     ],
     "themes": []
   },
@@ -24621,8 +23775,8 @@ const RAW_DATA = [
     "fullName": "Sandra Hüller (Sandra Huller)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sandra_H%C3%BCller_at_Berlinale_2026-6.jpg/500px-Sandra_H%C3%BCller_at_Berlinale_2026-6.jpg",
     "relations": [
-      "Heath Ledger",
       "Kim Min-hee",
+      "Heath Ledger",
       "Thang Duy"
     ],
     "themes": []
@@ -24642,9 +23796,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Kobe_Bryant_2015.jpg",
     "relations": [
-      "David Beckham",
       "LeBron James",
-      "Michael Jordan"
+      "David Beckham",
+      "Lionel Messi"
     ],
     "themes": []
   },
@@ -24663,8 +23817,8 @@ const RAW_DATA = [
     "fullName": "Châu Kiệt Luân (Jay Chou, 周杰倫)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jay_Chou_in_Shanghai_2023_%284%29.jpg",
     "relations": [
+      "Lâm Tâm Như",
       "G-Dragon",
-      "Hứa Quang Hán",
       "Yoona"
     ],
     "themes": []
@@ -24684,10 +23838,9 @@ const RAW_DATA = [
     "fullName": "Heath Ledger",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/500px-Heath_Ledger_%282%29.jpg",
     "relations": [
-      "Cillian Murphy",
-      "Daniel Radcliffe",
-      "Emma Stone",
-      "Sandra Hüller"
+      "Edward Norton",
+      "Leonardo DiCaprio",
+      "Emma Stone"
     ],
     "themes": []
   },
@@ -24706,9 +23859,8 @@ const RAW_DATA = [
     "fullName": "Thang Duy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/20250425_Tang_Wei_%E6%B1%A4%E5%94%AF_03.jpg",
     "relations": [
-      "Bong Joon-ho",
       "Kim Min-hee",
-      "Sandra Hüller",
+      "Bong Joon-ho",
       "Trương Mạn Ngọc"
     ],
     "themes": []
@@ -24729,7 +23881,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Tim_Cahill_%2853557484101%29.jpg",
     "relations": [
       "Cristiano Ronaldo",
-      "José Luis Chilavert",
+      "Lionel Messi",
       "Ronaldinho"
     ],
     "themes": [
@@ -24752,7 +23904,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/VVitas.jpg",
     "relations": [
       "G-Dragon",
-      "Patricia Janečková",
+      "Spike Jonze",
       "milet"
     ],
     "themes": []
@@ -24772,9 +23924,8 @@ const RAW_DATA = [
     "fullName": "Ronaldinho",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ronaldinho_in_2019.jpg",
     "relations": [
-      "Brian Laudrup",
-      "Cristiano Ronaldo",
-      "Diego Simeone",
+      "Lê Công Vinh",
+      "Lionel Messi",
       "Tim Cahill"
     ],
     "themes": [
@@ -24796,9 +23947,9 @@ const RAW_DATA = [
     "nationality": "Canadian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg/500px-GoslingBFI081223_%2822_of_30%29_%2853388157347%29_%28cropped%29.jpg",
     "relations": [
-      "Edward Norton",
+      "Leonardo DiCaprio",
       "Emma Stone",
-      "Leonardo DiCaprio"
+      "Edward Norton"
     ],
     "themes": []
   },
@@ -24817,10 +23968,9 @@ const RAW_DATA = [
     "fullName": "Venus Williams",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Venus_Williams_%282025_DC_Open%29_crop.jpg/500px-Venus_Williams_%282025_DC_Open%29_crop.jpg",
     "relations": [
-      "Maria Sharapova",
-      "Oscar Pistorius",
+      "Serena Williams",
       "Rafael Nadal",
-      "Simona Halep"
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -24841,11 +23991,9 @@ const RAW_DATA = [
     "fullName": "Roger Federer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roger_Federer_2015_%28cropped%29.jpg/500px-Roger_Federer_2015_%28cropped%29.jpg",
     "relations": [
-      "John McEnroe",
       "Kim Clijsters",
-      "Nick Kyrgios",
-      "Pete Sampras",
-      "Petra Kvitova"
+      "Rafael Nadal",
+      "Novak Djokovic"
     ],
     "themes": [
       "Tennis"
@@ -24866,11 +24014,9 @@ const RAW_DATA = [
     "fullName": "Serena Williams",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Guests_at_the_2026_Met_Gala_209_%28cropped%29.jpg",
     "relations": [
-      "Kim Clijsters",
-      "Maria Sharapova",
-      "Pete Sampras",
-      "Petra Kvitova",
-      "Victoria Azarenka"
+      "Andy Murray",
+      "Venus Williams",
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -24891,10 +24037,8 @@ const RAW_DATA = [
     "fullName": "Kim Min-hee",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kim_Min-hee_at_Berlinale_2022_%28cropped%29.jpg/500px-Kim_Min-hee_at_Berlinale_2022_%28cropped%29.jpg",
     "relations": [
-      "Chương Nhược Nam",
-      "Nawapol Thamrongrattanarit",
-      "Sandra Hüller",
-      "Thang Duy",
+      "Bong Joon-ho",
+      "Leonardo DiCaprio",
       "Trương Minh Quý"
     ],
     "themes": []
@@ -24914,9 +24058,9 @@ const RAW_DATA = [
     "fullName": "Công nương Kate",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Princess_of_Wales_in_2023_%28cropped%2903.JPG/500px-Princess_of_Wales_in_2023_%28cropped%2903.JPG",
     "relations": [
-      "Aleksey Navalny",
       "Balendra Shah",
-      "Clara Schumann"
+      "Clara Schumann",
+      "Nam Phương Hoàng hậu"
     ],
     "themes": []
   },
@@ -24935,10 +24079,9 @@ const RAW_DATA = [
     "fullName": "Lee Chong Wei",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lee_Chong_Wei%2C_SEA_Games_2017_%28cropped%29.jpg",
     "relations": [
+      "Nguyễn Trần Duy Nhất",
       "Lance Armstrong",
-      "Lin Dan",
-      "Michael Phelps",
-      "Oscar Pistorius"
+      "Michael Phelps"
     ],
     "themes": []
   },
@@ -24957,11 +24100,9 @@ const RAW_DATA = [
     "fullName": "Edward Snowden",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg/500px-Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg",
     "relations": [
-      "Diddy",
-      "Elon Musk",
       "Marianne Bachmeier",
-      "Ross Ulbricht",
-      "Vittorio Pini"
+      "Donald Trump",
+      "Aung San Suu Kyi"
     ],
     "themes": []
   },
@@ -25002,7 +24143,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Nawapol_Thamrongrattanarit_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
     "relations": [
       "Apichatpong Weerasethakul",
-      "Christopher Nolan",
+      "Bong Joon-ho",
       "Kim Min-hee"
     ],
     "themes": []
@@ -25022,9 +24163,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped%29.jpg",
     "relations": [
+      "Mojtaba Khamenei",
       "Aleksey Navalny",
-      "Justin Trudeau",
-      "Mojtaba Khamenei"
+      "Justin Trudeau"
     ],
     "themes": []
   },
@@ -25044,8 +24185,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/500px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
     "relations": [
       "Kobe Bryant",
-      "Lionel Messi",
-      "Shohei Ohtani"
+      "Shohei Ohtani",
+      "Lionel Messi"
     ],
     "themes": []
   },
@@ -25064,8 +24205,8 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ross_Ulbricht_by_Gage_Skidmore.jpg/500px-Ross_Ulbricht_by_Gage_Skidmore.jpg",
     "relations": [
-      "Diddy",
       "Edward Snowden",
+      "Diddy",
       "Jeffrey Epstein"
     ],
     "themes": []
@@ -25085,11 +24226,9 @@ const RAW_DATA = [
     "fullName": "Cristiano Ronaldo (Cristiano Ronaldo dos Santos Aveiro, CR7, El Bicho)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_%2854933344262%29_%28cropped_and_rotated%29.jpg/500px-President_Donald_Trump_meets_with_Cristiano_Ronaldo_in_the_Oval_Office_%2854933344262%29_%28cropped_and_rotated%29.jpg",
     "relations": [
-      "Pavel Nedved",
-      "Ronaldinho",
-      "Stephen Curry",
+      "Lionel Messi",
       "Tim Cahill",
-      "Vozinha"
+      "Lê Công Vinh"
     ],
     "themes": [
       "Football"
@@ -25110,10 +24249,9 @@ const RAW_DATA = [
     "fullName": "Lewis Hamilton",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg",
     "relations": [
-      "Giannis Antetokounmpo",
-      "Kimi Raikkonen",
-      "Max Verstappen",
-      "Rory McIlroy"
+      "Maria Sharapova",
+      "Magnus Carlsen",
+      "Giannis Antetokounmpo"
     ],
     "themes": []
   },
@@ -25131,9 +24269,9 @@ const RAW_DATA = [
     ],
     "nationality": "British",
     "relations": [
-      "Giannis Antetokounmpo",
-      "Kylian Mbappé",
-      "Rafael Nadal"
+      "Rafael Nadal",
+      "Maria Sharapova",
+      "Nguyễn Trần Duy Nhất"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2025-04-03_Premier_League_Darts_Berlin_2025_by_Sandro_Halank%E2%80%93056.jpg/500px-2025-04-03_Premier_League_Darts_Berlin_2025_by_Sandro_Halank%E2%80%93056.jpg"
@@ -25153,11 +24291,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/500px-Michael_Phelps_Rio_Olympics_2016.jpg",
     "relations": [
-      "Hoàng Xuân Vinh",
+      "Venus Williams",
       "Lee Chong Wei",
-      "Lin Dan",
-      "Nguyễn Thị Ánh Viên",
-      "Rory McIlroy"
+      "Nguyễn Trần Duy Nhất"
     ],
     "themes": []
   },
@@ -25176,11 +24312,9 @@ const RAW_DATA = [
     "fullName": "Rafael Nadal",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg",
     "relations": [
-      "Faker",
-      "Muhammad Ali",
-      "Steffi Graf",
-      "Stephen Bunting",
-      "Venus Williams"
+      "Novak Djokovic",
+      "Maria Sharapova",
+      "Roger Federer"
     ],
     "themes": [
       "Tennis"
@@ -25223,8 +24357,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Igor_Akinfeev_2020.jpg",
     "relations": [
       "Lionel Messi",
-      "Nguyễn Quang Hải",
-      "Son Heung-min"
+      "Son Heung-min",
+      "Vozinha"
     ],
     "themes": [
       "Football"
@@ -25245,8 +24379,8 @@ const RAW_DATA = [
     "fullName": "Hikaru Nakamura",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nakamura_Hikaru_%2829290269410%29_%28cropped%29_%28cropped%29.jpg",
     "relations": [
-      "IShowSpeed",
-      "Ian Nepomniachtchi",
+      "Lê Quang Liêm",
+      "Magnus Carlsen",
       "Nguyễn Ngọc Trường Sơn"
     ],
     "themes": [
@@ -25268,11 +24402,9 @@ const RAW_DATA = [
     "fullName": "Lionel Messi (Lionel Andrés Messi, La Pulga - The Flea, GOAT)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
     "relations": [
-      "Faker",
-      "Igor Akinfeev",
-      "LeBron James",
-      "Paulino Alcantara",
-      "Ronaldo de Lima"
+      "Lê Công Vinh",
+      "Son Heung-min",
+      "Lamine Yamal"
     ],
     "themes": [
       "Football"
@@ -25293,10 +24425,9 @@ const RAW_DATA = [
     "fullName": "Novak Djokovic",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Novak_Djokovic_2024_Paris_Olympics.jpg/500px-Novak_Djokovic_2024_Paris_Olympics.jpg",
     "relations": [
-      "Boris Becker",
-      "Giannis Antetokounmpo",
-      "Nick Kyrgios",
-      "Simona Halep"
+      "Rafael Nadal",
+      "Roger Federer",
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -25317,9 +24448,9 @@ const RAW_DATA = [
     "fullName": "Andy Murray",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg/500px-2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg",
     "relations": [
-      "Jannik Sinner",
-      "Rory McIlroy",
-      "Simona Halep"
+      "Serena Williams",
+      "Simona Halep",
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -25340,11 +24471,9 @@ const RAW_DATA = [
     "fullName": "Emma Stone",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg/500px-Emma_Stone_at_the_2025_Venice_Film_Festival-6313_%28cropped%29.jpg",
     "relations": [
-      "Chương Nhược Nam",
-      "Heath Ledger",
-      "Margot Robbie",
-      "Ryan Gosling",
-      "Xavier Dolan"
+      "Leonardo DiCaprio",
+      "Sydney Sweeney",
+      "Hứa Quang Hán"
     ],
     "themes": []
   },
@@ -25363,9 +24492,9 @@ const RAW_DATA = [
     "fullName": "Ocean Vuong (Vương Quốc Vinh)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ocean_vuong_8045064_%2848458986647%29_%28cropped%29.jpg/500px-Ocean_vuong_8045064_%2848458986647%29_%28cropped%29.jpg",
     "relations": [
-      "Alexandre Dumas con",
       "Lev Tolstoy",
-      "Nguyễn Nguyên Phước"
+      "Alexandre Dumas con",
+      "Đặng Thùy Trâm"
     ],
     "themes": []
   },
@@ -25384,9 +24513,9 @@ const RAW_DATA = [
     "fullName": "Stephen Curry",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg/500px-Stephen_Curry%2C_Olympic_Games_2024_%28cropped%29.jpg",
     "relations": [
+      "Lionel Messi",
       "Cristiano Ronaldo",
-      "Faker",
-      "Shohei Ohtani"
+      "Lê Công Vinh"
     ],
     "themes": []
   },
@@ -25405,10 +24534,9 @@ const RAW_DATA = [
     "fullName": "Daniel Radcliffe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DanielRadcliffe.jpg/500px-DanielRadcliffe.jpg",
     "relations": [
-      "Anya Taylor-Joy",
-      "Cillian Murphy",
       "Emma Watson",
-      "Heath Ledger"
+      "Heath Ledger",
+      "Cillian Murphy"
     ],
     "themes": []
   },
@@ -25427,9 +24555,9 @@ const RAW_DATA = [
     "fullName": "Xavier Dolan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Xavier_Dolan_Cannes_2016.jpg",
     "relations": [
-      "Emma Stone",
+      "Ryusuke Hamaguchi",
       "Joachim Trier",
-      "Ryusuke Hamaguchi"
+      "Emma Stone"
     ],
     "themes": []
   },
@@ -25448,9 +24576,9 @@ const RAW_DATA = [
     "fullName": "Phùng Thanh Độ (Độ Mixi, MixiGaming, streamer)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DoMixi1989.jpg/500px-DoMixi1989.jpg",
     "relations": [
-      "Lê Quang Liêm",
-      "Phan Thị Bích Hằng",
-      "Phạm Tuân"
+      "Kim Kardashian",
+      "Jimmy Fallon",
+      "Phan Thị Bích Hằng"
     ],
     "themes": []
   },
@@ -25469,9 +24597,9 @@ const RAW_DATA = [
     "nationality": "South Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/250307_Taeyeon_%40_-The_Tense-_in_Seoul_Day_1_%2854371295597%29_%28cropped%29.jpg/500px-250307_Taeyeon_%40_-The_Tense-_in_Seoul_Day_1_%2854371295597%29_%28cropped%29.jpg",
     "relations": [
-      "G-Dragon",
+      "Yoona",
       "Jang Won-young",
-      "Yoona"
+      "G-Dragon"
     ],
     "themes": []
   },
@@ -25490,9 +24618,8 @@ const RAW_DATA = [
     "fullName": "Hứa Quang Hán (Xu Guanghan, 許光漢)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%E3%80%8A%E4%BB%96%E5%B9%B4%E5%A5%B9%E6%97%A5%E3%80%8B%E8%87%BA%E5%8C%97%E9%A6%96%E6%98%A0%E5%85%B8%E7%A6%AE%EF%BC%8D%E8%A8%B1%E5%85%89%E6%BC%A2_01.png",
     "relations": [
-      "Châu Kiệt Luân",
-      "Emma Watson",
-      "Margot Robbie",
+      "Lâm Tâm Như",
+      "Sydney Sweeney",
       "Xuân Bắc"
     ],
     "themes": []
@@ -25512,10 +24639,9 @@ const RAW_DATA = [
     "fullName": "Trương Minh Quý",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tr%C6%B0%C6%A1ng_Minh_Qu%C3%BD.jpg",
     "relations": [
-      "Chương Nhược Nam",
       "Kim Min-hee",
       "Lexie Liu",
-      "Vũ Đinh Trọng Thắng"
+      "Chương Nhược Nam"
     ],
     "themes": []
   },
@@ -25534,9 +24660,9 @@ const RAW_DATA = [
     "fullName": "Balendra Shah",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Signature_of_Balen_Shah.svg/500px-Signature_of_Balen_Shah.svg.png",
     "relations": [
+      "Malala Yousafzai",
       "Công nương Kate",
-      "Emmanuel Macron",
-      "Malala Yousafzai"
+      "Emmanuel Macron"
     ],
     "themes": []
   },
@@ -25556,10 +24682,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Magnus_Carlsen_in_2025.jpg/500px-Magnus_Carlsen_in_2025.jpg",
     "relations": [
       "Alireza Firouzja",
-      "Anatoly Karpov",
       "Gukesh D",
-      "Ian Nepomniachtchi",
-      "Judit Polgár"
+      "Bobby Fischer"
     ],
     "themes": [
       "Chess"
@@ -25580,9 +24704,9 @@ const RAW_DATA = [
     "fullName": "Margot Robbie (Margot Elise Robbie, Barbie, Wolf of Wall Street)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/29th_Critics_Choice_Awards_-_Margot_Robbie_3_%28cropped%29.jpg",
     "relations": [
-      "Emma Stone",
-      "Emma Watson",
-      "Hứa Quang Hán"
+      "Lâm Tâm Như",
+      "Hứa Quang Hán",
+      "Emma Watson"
     ],
     "themes": []
   },
@@ -25601,9 +24725,9 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nepomniachtchi_at_Tata_Steel_Masters_2024_%282%29.jpg",
     "relations": [
-      "Hikaru Nakamura",
       "Magnus Carlsen",
-      "Đinh Lập Nhân"
+      "Đinh Lập Nhân",
+      "Judit Polgár"
     ],
     "themes": [
       "Chess"
@@ -25624,10 +24748,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_%28Youtube_channel%29_%28cropped%29.jpg/500px-Emma_Watson_in_September_2025_in_an_interview_for_Jay_Shetty_Podcast_%28Youtube_channel%29_%28cropped%29.jpg",
     "relations": [
-      "Anya Taylor-Joy",
       "Daniel Radcliffe",
-      "Hứa Quang Hán",
-      "Margot Robbie"
+      "Sydney Sweeney",
+      "Lâm Tâm Như"
     ],
     "themes": []
   },
@@ -25646,9 +24769,9 @@ const RAW_DATA = [
     "nationality": "South Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20250911_YOONA_Sulwhasoo.jpg/500px-20250911_YOONA_Sulwhasoo.jpg",
     "relations": [
-      "Châu Kiệt Luân",
-      "Jang Won-young",
-      "Taeyeon"
+      "Taeyeon",
+      "G-Dragon",
+      "Jang Won-young"
     ],
     "themes": []
   },
@@ -25667,10 +24790,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Nguyen_Ngoc_Truong_Son_in_HDBank_2016.jpg/500px-Nguyen_Ngoc_Truong_Son_in_HDBank_2016.jpg",
     "relations": [
-      "Hikaru Nakamura",
       "Lê Quang Liêm",
-      "Nguyễn Thị Ánh Viên",
-      "Đinh Lập Nhân"
+      "Đinh Lập Nhân",
+      "Hikaru Nakamura"
     ],
     "themes": [
       "Chess"
@@ -25692,10 +24814,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Le_Quang_Liem_%2830055222482%29.jpg/500px-Le_Quang_Liem_%2830055222482%29.jpg",
     "relations": [
       "Nguyễn Ngọc Trường Sơn",
-      "Nguyễn Trần Duy Nhất",
-      "Phùng Thanh Độ",
-      "Phạm Văn Mách",
-      "Đinh Lập Nhân"
+      "Đinh Lập Nhân",
+      "Hikaru Nakamura"
     ],
     "themes": [
       "Chess"
@@ -25716,9 +24836,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "",
     "relations": [
-      "Jang Won-young",
-      "Lexie Liu",
-      "milet"
+      "milet",
+      "Alexander Rybak",
+      "Lexie Liu"
     ],
     "themes": []
   },
@@ -25737,11 +24857,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Simona_Halep_at_2026_Transylvania_Open.jpg/500px-Simona_Halep_at_2026_Transylvania_Open.jpg",
     "relations": [
-      "Andy Murray",
-      "Carlos Alcaraz",
-      "Novak Djokovic",
-      "Venus Williams",
-      "Victoria Azarenka"
+      "Kim Clijsters",
+      "Maria Sharapova",
+      "Rafael Nadal"
     ],
     "themes": [
       "Tennis"
@@ -25762,9 +24880,8 @@ const RAW_DATA = [
     "fullName": "Đinh Lập Nhân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/DingLiren24a.jpg/500px-DingLiren24a.jpg",
     "relations": [
-      "Ian Nepomniachtchi",
+      "Gukesh D",
       "Lê Quang Liêm",
-      "Max Verstappen",
       "Nguyễn Ngọc Trường Sơn"
     ],
     "themes": [
@@ -25786,10 +24903,9 @@ const RAW_DATA = [
     "fullName": "Mohamed Salah",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
     "relations": [
-      "Kylian Mbappé",
-      "Lamine Yamal",
       "Sadio Mané",
-      "Vozinha"
+      "Erling Haaland",
+      "Lamine Yamal"
     ],
     "themes": [
       "Football"
@@ -25810,10 +24926,9 @@ const RAW_DATA = [
     "fullName": "Son Heung-min",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
     "relations": [
-      "Danny Blanchflower",
-      "Igor Akinfeev",
-      "Nguyễn Xuân Son",
-      "Park Ji-sung"
+      "Lionel Messi",
+      "Nguyễn Quang Hải",
+      "Lamine Yamal"
     ],
     "themes": [
       "Football"
@@ -25834,11 +24949,9 @@ const RAW_DATA = [
     "nationality": "African",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Esteghlal_F.C._v_Al_Nassr_FC%2C_3_March_2025%2C_Sadio_Man%C3%A9_%28cropped%29.jpg",
     "relations": [
-      "Erling Haaland",
-      "Kylian Mbappé",
+      "Vozinha",
       "Mohamed Salah",
-      "Shohei Ohtani",
-      "Vozinha"
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -25859,9 +24972,8 @@ const RAW_DATA = [
     "fullName": "Sơn Tùng M-TP (Nguyễn Thanh Tùng, Son Tung MTP)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Son_Tung_M-TP_1_%282021%29.png",
     "relations": [
-      "Phum Viphurit",
+      "G-Dragon",
       "Phúc Du",
-      "Vũ Đinh Trọng Thắng",
       "milet"
     ],
     "themes": []
@@ -25881,9 +24993,9 @@ const RAW_DATA = [
     "fullName": "Vitalik Buterin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg/500px-Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg",
     "relations": [
+      "Trương Nhất Minh",
       "Bill Gates",
-      "Jack Ma",
-      "Todd Boehly"
+      "Jack Ma"
     ],
     "themes": []
   },
@@ -25902,11 +25014,9 @@ const RAW_DATA = [
     "fullName": "Giannis Antetokounmpo",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg/500px-Giannis_Antetokounmpo_%2851915153421%29_%28cropped%29.jpg",
     "relations": [
-      "Lewis Hamilton",
-      "Michael Jordan",
       "Nguyễn Xuân Son",
-      "Novak Djokovic",
-      "Stephen Bunting"
+      "Petra Kvitova",
+      "Kim Clijsters"
     ],
     "themes": []
   },
@@ -25925,10 +25035,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "",
     "relations": [
-      "Kenshi Yonezu",
-      "Patricia Janečková",
+      "Vitas",
       "Sơn Tùng M-TP",
-      "Vitas"
+      "Patricia Janečková"
     ],
     "themes": []
   },
@@ -25947,10 +25056,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/2018_Winter_Olympics_-_Yuzuru_Hanyu_%28cropped%29.jpg",
     "relations": [
-      "Alexandra Trusova",
-      "Alysa Liu",
       "Anna Shcherbakova",
-      "Lin Dan"
+      "Alexandra Trusova",
+      "Alysa Liu"
     ],
     "themes": []
   },
@@ -25969,11 +25077,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg/500px-Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg",
     "relations": [
-      "LeBron James",
-      "Luka Doncic",
+      "Lê Công Vinh",
       "Sadio Mané",
-      "Stephen Curry",
-      "s1mple"
+      "Lionel Messi"
     ],
     "themes": []
   },
@@ -25992,9 +25098,9 @@ const RAW_DATA = [
     "fullName": "Phum Viphurit (ภูมิ วิภูริต)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Phum_Viphurit_at_VERY.jpg",
     "relations": [
-      "Sydney Sweeney",
+      "Yoshiko Sai",
       "Sơn Tùng M-TP",
-      "Yoshiko Sai"
+      "Sydney Sweeney"
     ],
     "themes": []
   },
@@ -26013,9 +25119,8 @@ const RAW_DATA = [
     "fullName": "Nick Kyrgios",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kyrgios_WM19_%2875%29_%2848521949772%29.jpg/500px-Kyrgios_WM19_%2875%29_%2848521949772%29.jpg",
     "relations": [
-      "Carlos Alcaraz",
-      "Jannik Sinner",
-      "Novak Djokovic",
+      "Petra Kvitova",
+      "Kim Clijsters",
       "Roger Federer"
     ],
     "themes": [
@@ -26037,8 +25142,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Ngot_2016.jpg/500px-Ngot_2016.jpg",
     "relations": [
-      "Phúc Du",
       "Sơn Tùng M-TP",
+      "Phúc Du",
       "Trương Minh Quý"
     ],
     "themes": []
@@ -26058,10 +25163,9 @@ const RAW_DATA = [
     "fullName": "Phúc Du",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BICH_PHUONG_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
-      "Lexie Liu",
       "Sơn Tùng M-TP",
-      "Vũ Đinh Trọng Thắng",
-      "XXXTENTACION"
+      "XXXTENTACION",
+      "Lexie Liu"
     ],
     "themes": []
   },
@@ -26080,8 +25184,8 @@ const RAW_DATA = [
     "fullName": "Anya Taylor-Joy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg/500px-Anya_Taylor-Joy_at_the_2025_Toronto_International_Film_Festival._06_%28cropped%29.jpg",
     "relations": [
-      "Daniel Radcliffe",
       "Emma Watson",
+      "Daniel Radcliffe",
       "Owen Cooper"
     ],
     "themes": []
@@ -26101,11 +25205,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thị Ánh Viên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nguyen_Thi_Anh_Vien_2023.png/500px-Nguyen_Thi_Anh_Vien_2023.png",
     "relations": [
-      "Anna Shcherbakova",
-      "Michael Phelps",
-      "Nguyễn Ngọc Trường Sơn",
       "Nguyễn Trần Duy Nhất",
-      "Phạm Văn Mách"
+      "Michael Phelps",
+      "Nguyễn Ngọc Trường Sơn"
     ],
     "themes": []
   },
@@ -26124,10 +25226,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Faker_2020_interview.jpg/500px-Faker_2020_interview.jpg",
     "relations": [
-      "Ban Ki-moon",
       "Lionel Messi",
-      "Rafael Nadal",
-      "Stephen Curry"
+      "Stephen Curry",
+      "Rafael Nadal"
     ],
     "themes": []
   },
@@ -26146,11 +25247,9 @@ const RAW_DATA = [
     "fullName": "Chương Nhược Nam",
     "image": "",
     "relations": [
-      "Emma Stone",
-      "Kim Min-hee",
       "Owen Cooper",
       "Sydney Sweeney",
-      "Trương Minh Quý"
+      "Emma Stone"
     ],
     "themes": []
   },
@@ -26169,11 +25268,9 @@ const RAW_DATA = [
     "fullName": "Sydney Sweeney",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg/500px-Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_%28cropped%2C_rotated%29.jpg",
     "relations": [
-      "Chương Nhược Nam",
-      "Jim Carrey",
       "Owen Cooper",
       "Patricia Janečková",
-      "Phum Viphurit"
+      "Hứa Quang Hán"
     ],
     "themes": []
   },
@@ -26192,11 +25289,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Quang Hải",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Nguy%E1%BB%85n_Quang_H%E1%BA%A3i.jpg",
     "relations": [
-      "Igor Akinfeev",
-      "Khvicha Kvaratskhelia",
       "Lê Công Vinh",
-      "Lê Thụy Hải",
-      "Nguyễn Xuân Son"
+      "Son Heung-min",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -26217,10 +25312,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Xuân Son",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Nguyen_Xuan_Son_vs_Singapore_2024.png",
     "relations": [
-      "Giannis Antetokounmpo",
-      "Michael Jordan",
       "Nguyễn Quang Hải",
-      "Son Heung-min"
+      "Lionel Messi",
+      "Lê Công Vinh"
     ],
     "themes": [
       "Football"
@@ -26241,10 +25335,9 @@ const RAW_DATA = [
     "fullName": "Max Verstappen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/500px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg",
     "relations": [
-      "Carlos Alcaraz",
-      "Kimi Raikkonen",
       "Lewis Hamilton",
-      "Đinh Lập Nhân"
+      "Đinh Lập Nhân",
+      "Carlos Alcaraz"
     ],
     "themes": []
   },
@@ -26264,10 +25357,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Malala_Yousafzai_2023_portrait_2x3.jpg/500px-Malala_Yousafzai_2023_portrait_2x3.jpg",
     "relations": [
       "Aung San Suu Kyi",
-      "Balendra Shah",
-      "Greta Thunberg",
-      "Malcolm X",
-      "Mother Teresa"
+      "Mother Teresa",
+      "Linus Pauling"
     ],
     "themes": [
       "Giai Nobel"
@@ -26288,9 +25379,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oleksandr_s1mple_Kostyliev.jpg/500px-Oleksandr_s1mple_Kostyliev.jpg",
     "relations": [
-      "Erling Haaland",
       "Lamine Yamal",
-      "Shohei Ohtani"
+      "Shohei Ohtani",
+      "Erling Haaland"
     ],
     "themes": []
   },
@@ -26309,10 +25400,9 @@ const RAW_DATA = [
     "fullName": "Patricia Janečková",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Patricia_Jane%C4%8Dkov%C3%A1_March_2022.jpg/500px-Patricia_Jane%C4%8Dkov%C3%A1_March_2022.jpg",
     "relations": [
-      "Karina",
       "Sydney Sweeney",
       "Vitas",
-      "milet"
+      "Karina"
     ],
     "themes": []
   },
@@ -26331,9 +25421,9 @@ const RAW_DATA = [
     "fullName": "XXXTENTACION",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Xxxtentacion_%28cropped%29.jpg/500px-Xxxtentacion_%28cropped%29.jpg",
     "relations": [
-      "Lexie Liu",
       "Phúc Du",
-      "Trần Tiến"
+      "Trần Tiến",
+      "Lexie Liu"
     ],
     "themes": []
   },
@@ -26354,8 +25444,7 @@ const RAW_DATA = [
     "relations": [
       "Erling Haaland",
       "Mohamed Salah",
-      "Sadio Mané",
-      "Stephen Bunting"
+      "Sadio Mané"
     ],
     "themes": [
       "Football"
@@ -26376,11 +25465,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%E5%88%98%E6%9F%8F%E8%BE%9BLexie_Liu_8_%28cropped%29.jpg/500px-%E5%88%98%E6%9F%8F%E8%BE%9BLexie_Liu_8_%28cropped%29.jpg",
     "relations": [
-      "Kenshi Yonezu",
-      "Phúc Du",
-      "Trương Minh Quý",
-      "Tàn Tuyết",
-      "XXXTENTACION"
+      "Karina",
+      "Jang Won-young",
+      "G-Dragon"
     ],
     "themes": []
   },
@@ -26399,9 +25486,9 @@ const RAW_DATA = [
     "fullName": "Luka Doncic",
     "image": "",
     "relations": [
+      "Shohei Ohtani",
       "Erling Haaland",
-      "Mickey van de Ven",
-      "Shohei Ohtani"
+      "Mickey van de Ven"
     ],
     "themes": []
   },
@@ -26420,11 +25507,9 @@ const RAW_DATA = [
     "fullName": "Erling Haaland",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/500px-Erling_Haaland_June_2025.jpg",
     "relations": [
-      "Kylian Mbappé",
-      "Luka Doncic",
-      "Paavo Nurmi",
-      "Sadio Mané",
-      "s1mple"
+      "Lamine Yamal",
+      "Lionel Messi",
+      "Lê Công Vinh"
     ],
     "themes": [
       "Football"
@@ -26446,7 +25531,7 @@ const RAW_DATA = [
     "relations": [
       "G-Dragon",
       "Jang Won-young",
-      "Patricia Janečková"
+      "Lexie Liu"
     ],
     "themes": []
   },
@@ -26465,9 +25550,9 @@ const RAW_DATA = [
     "fullName": "Jannik Sinner",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jannik_Sinner_2025_US_Open.jpg",
     "relations": [
-      "Andy Murray",
       "Carlos Alcaraz",
-      "Nick Kyrgios"
+      "Petra Kvitova",
+      "Andy Murray"
     ],
     "themes": [
       "Tennis"
@@ -26489,7 +25574,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Kvaratskhelia_asse_psg_2425_%28cropped%29.png",
     "relations": [
       "Lamine Yamal",
-      "Mickey van de Ven",
+      "Lionel Messi",
       "Nguyễn Quang Hải"
     ],
     "themes": [
@@ -26511,9 +25596,9 @@ const RAW_DATA = [
     "fullName": "Mickey van de Ven",
     "image": "",
     "relations": [
-      "Khvicha Kvaratskhelia",
+      "Nguyễn Quang Hải",
       "Lamine Yamal",
-      "Luka Doncic"
+      "Khvicha Kvaratskhelia"
     ],
     "themes": [
       "Football"
@@ -26534,10 +25619,9 @@ const RAW_DATA = [
     "fullName": "Carlos Alcaraz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Carlos_Alcaraz_2025_FO.jpg",
     "relations": [
-      "Jannik Sinner",
-      "Max Verstappen",
-      "Nick Kyrgios",
-      "Simona Halep"
+      "Simona Halep",
+      "Petra Kvitova",
+      "Maria Sharapova"
     ],
     "themes": [
       "Tennis"
@@ -26580,9 +25664,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Shcherbakova_in_2023.jpg",
     "relations": [
       "Alexandra Trusova",
-      "Alysa Liu",
       "Hanyu Yuzuru",
-      "Nguyễn Thị Ánh Viên"
+      "Alysa Liu"
     ],
     "themes": []
   },
@@ -26601,8 +25684,8 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%BA%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%A2%D1%80%D1%83%D1%81%D0%BE%D0%B2%D0%B0_%28%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D0%BE%D0%B2%D0%B0%29.jpg",
     "relations": [
-      "Alysa Liu",
       "Anna Shcherbakova",
+      "Alysa Liu",
       "Hanyu Yuzuru"
     ],
     "themes": []
@@ -26623,9 +25706,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jang_Won-young_at_the_Bulgari_Eclettica_event_in_Seoul%2C_May_12%2C_2026_%281%29.png/500px-Jang_Won-young_at_the_Bulgari_Eclettica_event_in_Seoul%2C_May_12%2C_2026_%281%29.png",
     "relations": [
       "Karina",
-      "Kenshi Yonezu",
-      "Taeyeon",
-      "Yoona"
+      "John Lennon",
+      "Frank Sinatra"
     ],
     "themes": []
   },
@@ -26644,9 +25726,9 @@ const RAW_DATA = [
     "fullName": "IShowSpeed (Darren Jason Watkins Jr., Speed, YouTuber)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg/500px-IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg",
     "relations": [
+      "Phạm Tuân",
       "Erich Fromm",
-      "Hikaru Nakamura",
-      "Phạm Tuân"
+      "Kim Kardashian"
     ],
     "themes": []
   },
@@ -26665,8 +25747,8 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alysa_LIUAsatur_Yesayants_-_YantsImages_8309_%28cropped%29.jpg/500px-Alysa_LIUAsatur_Yesayants_-_YantsImages_8309_%28cropped%29.jpg",
     "relations": [
-      "Alexandra Trusova",
       "Anna Shcherbakova",
+      "Alexandra Trusova",
       "Hanyu Yuzuru"
     ],
     "themes": []
@@ -26686,10 +25768,9 @@ const RAW_DATA = [
     "fullName": "Lamine Yamal",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lamine_Yamal_in_2025.jpg",
     "relations": [
+      "Lionel Messi",
       "Khvicha Kvaratskhelia",
-      "Mickey van de Ven",
-      "Mohamed Salah",
-      "s1mple"
+      "Erling Haaland"
     ],
     "themes": [
       "Football"
@@ -26699,7 +25780,7 @@ const RAW_DATA = [
     "born": 2009,
     "died": 2010,
     "title": "Owen Cooper",
-    "desc": "Diễn viên người Anh, được biết đến với vai diễn trong bộ phim Adolescence.",
+    "desc": "Nam diễn viên trẻ người Anh gặt hái thành công vang dội với vai chính Jamie Miller trong loạt phim truyền hình ngắn 'Adolescence' của Netflix (2025). Vai diễn này giúp anh nhận được hàng loạt giải thưởng lớn bao gồm BAFTA, Quả cầu vàng và Primetime Emmy, đưa anh trở thành nam diễn viên trẻ tuổi nhất lịch sử đạt được các danh hiệu này.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -26710,9 +25791,9 @@ const RAW_DATA = [
     "fullName": "Owen Cooper",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Owen_Cooper%2C_2026.png",
     "relations": [
-      "Anya Taylor-Joy",
-      "Chương Nhược Nam",
-      "Sydney Sweeney"
+      "Sydney Sweeney",
+      "Ricky Gervais",
+      "Chương Nhược Nam"
     ],
     "themes": []
   },
@@ -26731,9 +25812,9 @@ const RAW_DATA = [
     "fullName": "Laurent Simons",
     "image": "",
     "relations": [
-      "Dmitri Mendeleev",
+      "Karen Horney",
       "Georg Cantor",
-      "Karen Horney"
+      "Dmitri Mendeleev"
     ],
     "themes": []
   },
@@ -26753,11 +25834,9 @@ const RAW_DATA = [
     "fullName": "Virginia Woolf (Adeline Virginia Stephen)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg/500px-George_Charles_Beresford_-_Virginia_Woolf_in_1902_-_Restoration.jpg",
     "relations": [
-      "Iris Murdoch",
-      "Nikos Kazantzakis",
-      "Phan Kế Bính",
-      "Rosalind Miles",
-      "Saki"
+      "Karen Horney",
+      "E. M. Forster",
+      "Marcel Proust"
     ],
     "themes": [
       "Feminism Movement"
@@ -26779,11 +25858,9 @@ const RAW_DATA = [
     "fullName": "Vũ Trinh (Vũ Dự Chi, hiệu Lai Sơn)",
     "image": "",
     "relations": [
-      "Hồ Xuân Hương",
-      "Johann Wolfgang von Goethe",
-      "Matsuo Bashō",
-      "Ngô Thì Sĩ",
-      "William Wordsworth"
+      "Phan Huy Ích",
+      "Nguyễn Du",
+      "Thụy An"
     ],
     "themes": []
   },
@@ -26805,8 +25882,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Nguyễn Du",
-      "Phạm Ngũ Lão",
-      "Trịnh Sâm"
+      "Trịnh Sâm",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
   },
@@ -26826,11 +25903,9 @@ const RAW_DATA = [
     "fullName": "Lê Chiêu Thống (Lê Duy Khiêm, Lê Mẫn Đế, Chiêu Thống Đế, Duy Khiêm Đế)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_King_of_Annam_at_Chengde_Mountain_Resort.jpg/500px-The_King_of_Annam_at_Chengde_Mountain_Resort.jpg",
     "relations": [
+      "Trần Quang Diệu",
       "Nguyễn Hữu Chỉnh",
-      "Nguyễn Lữ",
-      "Phan Huy Chú",
-      "Thoát Hoan",
-      "Trương Phúc Loan"
+      "Nguyễn Lữ"
     ],
     "themes": []
   },
@@ -26850,11 +25925,9 @@ const RAW_DATA = [
     "fullName": "Trần Quang Diệu",
     "image": "",
     "relations": [
-      "Carl von Clausewitz",
-      "Giuseppe Garibaldi",
-      "Joseph Radetzky von Radetz",
-      "Nguyễn Cư Trinh",
-      "Võ Tánh"
+      "Bùi Thị Xuân",
+      "Nguyễn Hữu Chỉnh",
+      "Lê Chiêu Thống"
     ],
     "themes": []
   },
@@ -26875,11 +25948,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hữu Chỉnh (Chim Hải Đông, Điện tiền tướng quân)",
     "image": "",
     "relations": [
-      "Lê Chiêu Thống",
-      "Nguyễn Cư Trinh",
+      "Trần Quang Diệu",
       "Nguyễn Lữ",
-      "Nguyễn Nhạc",
-      "Phan Huy Ích"
+      "Lê Chiêu Thống"
     ],
     "themes": []
   },
@@ -26899,10 +25970,9 @@ const RAW_DATA = [
     "fullName": "Phan Huy Ích (hiệu Dụ Am, Hối Hiên)",
     "image": "",
     "relations": [
-      "Johann Wolfgang von Goethe",
-      "Nguyễn Hữu Chỉnh",
-      "Nguyễn Văn Siêu",
-      "Phan Huy Chú"
+      "Phan Huy Chú",
+      "Trần Quang Diệu",
+      "Nguyễn Hữu Chỉnh"
     ],
     "themes": []
   },
@@ -26922,9 +25992,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Văn Siêu (Thần Siêu, hiệu Phương Đình)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/12_Su_quan.jpg/500px-12_Su_quan.jpg",
     "relations": [
-      "Heinrich Heine",
-      "Phan Huy Ích",
-      "Vũ Tông Phan"
+      "Cao Bá Quát",
+      "Vũ Trinh",
+      "Phan Huy Ích"
     ],
     "themes": []
   },
@@ -26944,11 +26014,9 @@ const RAW_DATA = [
     "fullName": "Thoát Hoan (Toghan, Toghon, Trấn Nam Vương, 脱歡)",
     "image": "",
     "relations": [
-      "Chu Nguyên Chương",
-      "Lê Chiêu Thống",
-      "Mehmed II",
       "Ô Mã Nhi",
-      "Đinh Tiên Hoàng"
+      "Chu Nguyên Chương",
+      "Lê Chiêu Thống"
     ],
     "themes": []
   },
@@ -26967,11 +26035,9 @@ const RAW_DATA = [
     "fullName": "Ô Mã Nhi (Omar, Umar, 烏馬兒)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_TP_%28Ch%E1%BA%A1m_n%E1%BB%95i_Tr%E1%BA%A7n_Qu%E1%BB%91c_To%E1%BA%A3n_b%C3%B3p_cam%29_%283%29.jpg/500px-B%E1%BA%A3o_t%C3%A0ng_L%E1%BB%8Bch_s%E1%BB%AD_TP_%28Ch%E1%BA%A1m_n%E1%BB%95i_Tr%E1%BA%A7n_Qu%E1%BB%91c_To%E1%BA%A3n_b%C3%B3p_cam%29_%283%29.jpg",
     "relations": [
-      "Cleopatra",
-      "Lê Đại Hành",
       "Thoát Hoan",
-      "Trần Nhật Duật",
-      "Trần Quang Khải"
+      "Nguyễn Khoái",
+      "Trần Khánh Dư"
     ],
     "themes": []
   },
@@ -26992,10 +26058,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Portrait_of_V%C3%B5_Th%E1%BB%8B_S%C3%A1u.jpg",
     "relations": [
       "Bế Văn Đàn",
-      "Cù Chính Lan",
-      "Henri Rivière",
-      "Phan Đình Giót",
-      "Tô Vĩnh Diện"
+      "Tô Vĩnh Diện",
+      "Phan Đình Giót"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27016,9 +26080,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/B%E1%BA%BF_V%C4%83n_%C4%90%C3%A0n.jpg",
     "relations": [
-      "Cù Chính Lan",
-      "Phan Đình Giót",
       "Tô Vĩnh Diện",
+      "Phan Đình Giót",
       "Võ Thị Sáu"
     ],
     "themes": [
@@ -27041,7 +26104,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Timbre_Phan_dinh_giot.jpg",
     "relations": [
       "Bế Văn Đàn",
-      "Christian de Castries",
       "Tô Vĩnh Diện",
       "Võ Thị Sáu"
     ],
@@ -27087,11 +26149,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Nguyen_Thi_Minh_Khai.jpg",
     "relations": [
-      "Mohammad Reza Pahlavi",
-      "Nguyễn Phong Sắc",
-      "Nguyễn Đức Cảnh",
-      "Trần Phú",
-      "Đoàn Trần Nghiệp"
+      "Hoàng Văn Thụ",
+      "Nguyễn Văn Cừ",
+      "Phạm Hồng Thái"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27113,11 +26173,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Tonducthang.jpg/250px-Tonducthang.jpg",
     "relations": [
-      "Huỳnh Thúc Kháng",
-      "Khorloogiin Choibalsan",
-      "Kim Đồng",
-      "Lê Đình Dương",
-      "Tạ Thu Thâu"
+      "Phạm Hùng",
+      "Võ Chí Công",
+      "Hồ Chí Minh"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -27139,9 +26197,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Charles Martel",
-      "Philippe Leclerc",
-      "Trương Định"
+      "Nguyễn Tri Phương",
+      "Trương Định",
+      "Võ Nguyên Giáp"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27162,10 +26220,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Enomoto Takeaki",
       "Francis Garnier",
-      "Hijikata Toshizō",
-      "Võ Thị Sáu"
+      "Võ Thị Sáu",
+      "Trương Định"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27186,9 +26243,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Phan Châu Trinh",
-      "Tomas Masaryk",
-      "Tomáš Masaryk"
+      "Phạm Hồng Thái",
+      "Hàm Nghi",
+      "Hồ Chí Minh"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27211,7 +26268,7 @@ const RAW_DATA = [
     "relations": [
       "Henri Navarre",
       "Jean de Lattre de Tassigny",
-      "Rigault de Genouilly"
+      "Võ Nguyên Giáp"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27232,9 +26289,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Christian de Castries",
+      "Philippe Leclerc",
       "Jean de Lattre de Tassigny",
-      "Philippe Leclerc"
+      "Christian de Castries"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -27255,8 +26312,8 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Francis Garnier",
       "Henri Navarre",
+      "Võ Nguyên Giáp",
       "Phan Đình Giót"
     ],
     "themes": [
@@ -27278,11 +26335,9 @@ const RAW_DATA = [
     ],
     "nationality": "American",
     "relations": [
-      "Anwar Al-Sadad",
-      "Harry Truman",
-      "Leonid Ilyich Brezhnev",
-      "Napoleon III",
-      "Phạm Xuân Ẩn"
+      "Nguyễn Thị Bình",
+      "Lê Đức Thọ",
+      "Lê Duẩn"
     ],
     "themes": [
       "Khang chien chong My"
@@ -27304,9 +26359,8 @@ const RAW_DATA = [
     ],
     "nationality": "American",
     "relations": [
-      "Carlos Prats",
+      "Henry Kissinger",
       "Hoàng Văn Thái",
-      "Nguyễn Ngọc Loan",
       "Đinh Núp"
     ],
     "themes": [
@@ -27329,9 +26383,9 @@ const RAW_DATA = [
     ],
     "nationality": "Other",
     "relations": [
-      "Richard Sư Tử Tâm",
+      "Trương Liêu",
       "Saladin",
-      "Trương Liêu"
+      "Nguyễn Khoái"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/King_Baldwin_IV.png"
@@ -27350,11 +26404,9 @@ const RAW_DATA = [
     ],
     "nationality": "American",
     "relations": [
-      "David Fincher",
-      "Jim Carrey",
-      "Nicole Kidman",
-      "Roberto Benigni",
-      "Ryan Gosling"
+      "Leonardo DiCaprio",
+      "Tilda Swinton",
+      "Lâm Tâm Như"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg/500px-Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg"
@@ -27373,11 +26425,9 @@ const RAW_DATA = [
     ],
     "nationality": "South Korean",
     "relations": [
-      "Châu Kiệt Luân",
       "Karina",
-      "Taeyeon",
-      "Triệu Phi Yến",
-      "Vitas"
+      "Vitas",
+      "Yoona"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/G-Dragon_in_October_2025.jpg/500px-G-Dragon_in_October_2025.jpg"
@@ -27397,10 +26447,8 @@ const RAW_DATA = [
     "nationality": "Russian",
     "relations": [
       "Fyodor Matveyevich Apraksin",
-      "Hàn Thuyên",
-      "Karl XII của Thụy Điển",
       "Michel Ney",
-      "Pyotr Đại đế"
+      "Toyotomi Hideyoshi"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Boris_Sheremetyev_by_I.Argunov_%281768%2C_Kuskovo%29.jpg/500px-Boris_Sheremetyev_by_I.Argunov_%281768%2C_Kuskovo%29.jpg"
@@ -27420,10 +26468,8 @@ const RAW_DATA = [
     "nationality": "Russian",
     "relations": [
       "Boris Petrovich Sheremetev",
-      "Karl XII của Thụy Điển",
       "Mikhail Kutuzov",
-      "Pyotr Đại đế",
-      "Viên Sùng Hoán"
+      "Gustav II Adolf"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Apraxin.jpg"
@@ -27442,8 +26488,8 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Boris Petrovich Sheremetev",
-      "Joseph Radetzky von Radetz",
+      "Napoleon Bonaparte",
+      "Trần Quang Diệu",
       "Mikhail Kutuzov"
     ],
     "themes": [],
@@ -27463,9 +26509,9 @@ const RAW_DATA = [
     ],
     "nationality": "Russian",
     "relations": [
-      "Fyodor Matveyevich Apraksin",
+      "Trần Quang Diệu",
       "Michel Ney",
-      "Miyamoto Musashi"
+      "Fyodor Matveyevich Apraksin"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kutuzov_by_Volkov.jpg/500px-Kutuzov_by_Volkov.jpg"
@@ -27486,9 +26532,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Jean Sibelius",
       "Oskar Merikanto",
-      "Toivo Kuula"
+      "Toivo Kuula",
+      "Feliks Nowowiejski"
     ]
   },
   {
@@ -27507,9 +26553,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Claude Debussy",
-      "Maurice Ravel",
-      "Sir Edward Elgar"
+      "Feliks Nowowiejski",
+      "Igor Stravinsky",
+      "Béla Bartók"
     ]
   },
   {
@@ -27528,9 +26574,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Jean Sibelius",
       "Selim Palmgren",
-      "Toivo Kuula"
+      "Anton Arensky",
+      "Jean Sibelius"
     ]
   },
   {
@@ -27550,8 +26596,8 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Jean Sibelius",
-      "Oskar Merikanto",
-      "Selim Palmgren"
+      "Selim Palmgren",
+      "Oskar Merikanto"
     ]
   },
   {
@@ -27571,8 +26617,8 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Arnold Schönberg",
-      "Claude Debussy",
-      "Gustav Mahler"
+      "Richard Strauss",
+      "Maurice Ravel"
     ]
   },
   {
@@ -27591,9 +26637,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Frédéric Chopin",
-      "Gustav Mahler",
-      "Pyotr Ilyich Tchaikovsky"
+      "Selim Palmgren",
+      "John Ireland",
+      "Igor Stravinsky"
     ]
   },
   {
@@ -27613,9 +26659,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Clara Schumann",
       "Felix Mendelssohn",
-      "Robert Schumann"
+      "Clara Schumann",
+      "Franz Liszt"
     ]
   },
   {
@@ -27634,9 +26680,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Alexander Borodin",
-      "Nikolai Rimsky-Korsakov",
-      "Pyotr Ilyich Tchaikovsky"
+      "Eugène Ysaÿe",
+      "Oskar Merikanto",
+      "Gustav Mahler"
     ]
   },
   {
@@ -27656,8 +26702,8 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Alban Berg",
-      "Arnold Schönberg",
-      "Gustav Mahler"
+      "John Ireland",
+      "Feliks Nowowiejski"
     ]
   },
   {
@@ -27677,8 +26723,8 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Alban Berg",
-      "Anton Webern",
-      "Charles Ives"
+      "Charles Ives",
+      "Feliks Nowowiejski"
     ]
   },
   {
@@ -27698,8 +26744,8 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Antonio Vivaldi",
-      "Georg Friedrich Händel",
-      "Johann Pachelbel"
+      "Giuseppe Tartini",
+      "Johann Sebastian Bach"
     ]
   },
   {
@@ -27718,10 +26764,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Eugène Ysaÿe",
-      "John Ireland",
-      "Karl Jenkins",
-      "Richard Strauss"
+      "Richard Strauss",
+      "Jean Sibelius",
+      "Nikolai Rimsky-Korsakov"
     ]
   },
   {
@@ -27742,7 +26787,7 @@ const RAW_DATA = [
     "relations": [
       "Anton Webern",
       "Arnold Schönberg",
-      "Gustav Mahler"
+      "Maurice Ravel"
     ]
   },
   {
@@ -27761,9 +26806,8 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Graeme Souness",
-      "Jari Litmanen",
-      "Park Ji-sung",
+      "George Best",
+      "Ferenc Puskás",
       "Sir Bobby Robson"
     ]
   },
@@ -27783,9 +26827,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/RIAN_archive_438589_Mstislav_Rostropovich.jpg/500px-RIAN_archive_438589_Mstislav_Rostropovich.jpg",
     "relations": [
-      "Alexander Borodin",
+      "Niccolò Paganini",
       "Dmitri Shostakovich",
-      "Sergei Prokofiev"
+      "Igor Stravinsky"
     ]
   },
   {
@@ -27804,9 +26848,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Karl_Jenkins_-_St_David_Awards_2017.png/500px-Karl_Jenkins_-_St_David_Awards_2017.png",
     "relations": [
-      "Claude Debussy",
-      "Johann Sebastian Bach",
-      "Sir Edward Elgar"
+      "Sergei Prokofiev",
+      "Robert Schumann",
+      "Dmitri Shostakovich"
     ]
   },
   {
@@ -27825,10 +26869,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Eug%C3%A8ne_Ysa%C3%BFe.jpg/500px-Eug%C3%A8ne_Ysa%C3%BFe.jpg",
     "relations": [
-      "Claude Debussy",
-      "Ernest Rutherford",
-      "Maurice Ravel",
-      "Sir Edward Elgar"
+      "Anton Arensky",
+      "Gustav Mahler",
+      "Richard Strauss"
     ]
   },
   {
@@ -27847,9 +26890,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Georges_bizet.jpg/500px-Georges_bizet.jpg",
     "relations": [
-      "Claude Debussy",
+      "Camille Saint-Saëns",
       "Gioacchino Rossini",
-      "Maurice Ravel"
+      "Johannes Brahms"
     ]
   },
   {
@@ -27868,9 +26911,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rossini_young-circa-1815.jpg",
     "relations": [
-      "Georges Bizet",
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart"
+      "Richard Strauss",
+      "Franz Schubert",
+      "Georges Bizet"
     ]
   },
   {
@@ -27889,9 +26932,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "",
     "relations": [
-      "Antonio Vivaldi",
-      "Georg Philipp Telemann",
-      "Johann Sebastian Bach"
+      "Arcangelo Corelli",
+      "Felix Mendelssohn",
+      "Antonio Vivaldi"
     ]
   },
   {
@@ -27911,8 +26954,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1904_Richard_Strauss_%28cropped%29.jpg/500px-1904_Richard_Strauss_%28cropped%29.jpg",
     "relations": [
       "Gustav Mahler",
-      "Johannes Brahms",
-      "Sir Edward Elgar"
+      "Gioacchino Rossini",
+      "Jean Sibelius"
     ]
   },
   {
@@ -27932,8 +26975,8 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg/500px-Wilhelm_Conrad_R%C3%B6ntgen_%281888-1900%29%2C_88374_p.jpg",
     "relations": [
+      "Hendrik Lorentz",
       "Albert Einstein",
-      "Marie Curie",
       "Max Planck"
     ]
   },
@@ -27951,9 +26994,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg/500px-Joseph_Merrick_carte_de_visite_photo%2C_c._1889.jpg",
     "relations": [
-      "Michael Jackson",
-      "Oscar Wilde",
-      "Sigmund Freud"
+      "Oskar Schindler",
+      "Aleister Crowley",
+      "Rosalind Franklin"
     ]
   },
   {
@@ -27972,10 +27015,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Borodin.jpg/500px-Borodin.jpg",
     "relations": [
-      "Anton Arensky",
-      "Dmitri Mendeleev",
-      "Mstislav Rostropovich",
-      "Pyotr Ilyich Tchaikovsky"
+      "Pyotr Ilyich Tchaikovsky",
+      "Johannes Brahms",
+      "Camille Saint-Saëns"
     ]
   },
   {
@@ -27994,11 +27036,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/500px-Johan_Cruijff_%281974%29.jpg",
     "relations": [
-      "Jari Litmanen",
-      "Mario Kempes",
-      "Michael Laudrup",
-      "Paulino Alcantara",
-      "Ronaldo de Lima"
+      "Marcelo Bielsa",
+      "Sir Bobby Robson",
+      "Lê Thụy Hải"
     ]
   },
   {
@@ -28017,10 +27057,8 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
     "relations": [
-      "Brian Laudrup",
-      "Graeme Souness",
       "Jari Litmanen",
-      "Pavel Nedved",
+      "Alfredo Di Stefano",
       "Ronaldo de Lima"
     ]
   },
@@ -28041,10 +27079,8 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg/500px-Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg",
     "relations": [
-      "Garrincha",
-      "Johan Cruyff",
-      "Lionel Messi",
       "Pavel Nedved",
+      "Jari Litmanen",
       "Zinedine Zidane"
     ]
   },
@@ -28064,9 +27100,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Anatoly_Karpov_2017_april.jpg/500px-Anatoly_Karpov_2017_april.jpg",
     "relations": [
-      "Bobby Fischer",
       "Garry Kasparov",
-      "Magnus Carlsen"
+      "Bobby Fischer",
+      "Gukesh D"
     ]
   },
   {
@@ -28085,9 +27121,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Alireza_Firouzja_2026_Norway_Chess.jpg/500px-Alireza_Firouzja_2026_Norway_Chess.jpg",
     "relations": [
-      "Garry Kasparov",
       "Gukesh D",
-      "Magnus Carlsen"
+      "Magnus Carlsen",
+      "Đinh Lập Nhân"
     ]
   },
   {
@@ -28107,9 +27143,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/500px-Gukesh_in_2025_%28cropped%29.jpg",
     "relations": [
       "Alireza Firouzja",
-      "Ernest Rutherford",
       "Garry Kasparov",
-      "Magnus Carlsen"
+      "Đinh Lập Nhân"
     ]
   },
   {
@@ -28128,10 +27163,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg/500px-Steffi_Graf_in_Hamburg_2010_%28cropped%29.jpg",
     "relations": [
-      "Boris Becker",
+      "Serena Williams",
       "Kim Clijsters",
-      "Petra Kvitova",
-      "Rafael Nadal"
+      "Venus Williams"
     ]
   },
   {
@@ -28151,10 +27185,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg/500px-Sir_Ernest_Rutherford_LCCN2014716719_-_restoration1.jpg",
     "relations": [
-      "Dorothy Maud Wrinch",
-      "Eugène Ysaÿe",
-      "Gukesh D",
-      "Joseph John Thomson"
+      "Marie Curie",
+      "Peter Debye",
+      "Niels Bohr"
     ]
   },
   {
@@ -28174,9 +27207,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Max_Born.jpg/500px-Max_Born.jpg",
     "relations": [
-      "Max Planck",
+      "Albert Einstein",
       "Niels Bohr",
-      "Werner Heisenberg"
+      "Richard Feynman"
     ]
   },
   {
@@ -28195,11 +27228,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mary_Wollstonecraft_Portrait.jpg/500px-Mary_Wollstonecraft_Portrait.jpg",
     "relations": [
-      "Immanuel Kant",
-      "Jean-Jacques Rousseau",
-      "John Duns Scotus",
-      "John Stuart Mill",
-      "Rosalind Miles"
+      "Agnès Varda",
+      "Julia Kristeva",
+      "Kimberle Crenshaw"
     ]
   },
   {
@@ -28219,8 +27250,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tongthiphong2018.jpg",
     "relations": [
       "Nguyễn Thị Kim Ngân",
-      "Trần Thanh Mẫn",
-      "Đỗ Văn Chiến"
+      "Trương Tấn Sang",
+      "Trần Thanh Mẫn"
     ]
   },
   {
@@ -28239,9 +27270,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n_20191211.jpg/500px-Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n_20191211.jpg",
     "relations": [
-      "Nguyễn Phú Trọng",
+      "Tòng Thị Phóng",
       "Trần Thanh Mẫn",
-      "Tòng Thị Phóng"
+      "Trương Tấn Sang"
     ]
   },
   {
@@ -28261,8 +27292,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Do_Van_Chien_29072025.jpg/500px-Do_Van_Chien_29072025.jpg",
     "relations": [
       "Trần Thanh Mẫn",
-      "Tòng Thị Phóng",
-      "Tô Lâm"
+      "Lê Minh Hưng",
+      "Trương Tấn Sang"
     ]
   },
   {
@@ -28281,9 +27312,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/e3/Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn_02052026.jpg/500px-Tr%E1%BA%A7n_Thanh_M%E1%BA%ABn_02052026.jpg",
     "relations": [
-      "Nguyễn Thị Kim Ngân",
-      "Tòng Thị Phóng",
-      "Đỗ Văn Chiến"
+      "Trương Tấn Sang",
+      "Đỗ Văn Chiến",
+      "Trương Hòa Bình"
     ]
   },
   {
@@ -28302,9 +27333,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mr._Truong_Hoa_Binh.jpg/500px-Mr._Truong_Hoa_Binh.jpg",
     "relations": [
-      "Nguyễn Phú Trọng",
-      "Nguyễn Xuân Phúc",
-      "Tô Lâm"
+      "Trương Tấn Sang",
+      "Trần Thanh Mẫn",
+      "Tòng Thị Phóng"
     ]
   },
   {
@@ -28321,9 +27352,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nguyen_hai_than.jpg",
     "relations": [
-      "Bùi Bằng Đoàn",
+      "Huỳnh Thúc Kháng",
       "Hồ Chí Minh",
-      "Phan Bội Châu"
+      "Tôn Trung Sơn"
     ]
   },
   {
@@ -28340,9 +27371,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mr._Bui_Bang_Doan.jpg/250px-Mr._Bui_Bang_Doan.jpg",
     "relations": [
-      "Bùi Tín",
-      "Nguyễn Hải Thần",
-      "Trần Dụ Tông"
+      "Thành Thái",
+      "Nguyễn Hy",
+      "Khải Định"
     ]
   },
   {
@@ -28362,10 +27393,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/6/6f/Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg/250px-Nh%C3%A0_b%C3%A1o_B%C3%B9i_T%C3%ADn.jpg",
     "relations": [
-      "Bùi Bằng Đoàn",
-      "Huy Đức",
-      "Phạm Đoan Trang",
-      "Trần Độ"
+      "Hoàng Minh Chính",
+      "Cù Huy Hà Vũ",
+      "Lê Khả Phiêu"
     ]
   },
   {
@@ -28384,10 +27414,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/a/a4/Trung_tuong_Tran_Do.jpg",
     "relations": [
+      "Hoàng Minh Chính",
       "Bùi Tín",
-      "Huy Đức",
-      "Trần Văn Trà",
-      "Võ Nguyên Giáp"
+      "Lê Khả Phiêu"
     ]
   },
   {
@@ -28406,9 +27435,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/7/79/H%C3%B2a_th%C6%B0%E1%BB%A3ng_Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%99.jpg",
     "relations": [
-      "Lê Mạnh Thát",
-      "Thích Quảng Đức",
-      "Thích Tuệ Sỹ"
+      "Thích Tuệ Sỹ",
+      "Thích Nhất Hạnh",
+      "Nguyễn Hữu Đang"
     ]
   },
   {
@@ -28427,9 +27456,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/6/6e/HoangMinhChinh150.jpg",
     "relations": [
-      "Hồ Chí Minh",
-      "Lê Ngân",
-      "Mạc Đĩnh Chi"
+      "Bùi Tín",
+      "Nguyễn Hữu Đang",
+      "Trần Độ"
     ]
   },
   {
@@ -28448,10 +27477,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pham_Doan_Trang-Headshot-e1646028486289-332x332.jpg/250px-Pham_Doan_Trang-Headshot-e1646028486289-332x332.jpg",
     "relations": [
-      "Aung San Suu Kyi",
-      "Bùi Tín",
       "Cù Huy Hà Vũ",
-      "Huy Đức"
+      "Huy Đức",
+      "Bùi Tín"
     ]
   },
   {
@@ -28470,9 +27498,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/ea/Nguyenhuudang.jpg/250px-Nguyenhuudang.jpg",
     "relations": [
-      "Phan Khôi",
-      "Phùng Cung",
-      "Thụy An"
+      "Hoàng Minh Chính",
+      "Bùi Tín",
+      "Trần Dần"
     ]
   },
   {
@@ -28491,9 +27519,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "",
     "relations": [
-      "Nguyễn Hữu Đang",
-      "Phan Khôi",
-      "Thụy An"
+      "Thụy An",
+      "Trần Dần",
+      "Phùng Quán"
     ]
   },
   {
@@ -28512,9 +27540,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "",
     "relations": [
-      "Nguyễn Hữu Đang",
-      "Phan Khôi",
-      "Phùng Cung"
+      "Phùng Cung",
+      "Trần Dần",
+      "Lê Đạt"
     ]
   },
   {
@@ -28533,9 +27561,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Miu_L%C3%AA_2026.png/500px-Miu_L%C3%AA_2026.png",
     "relations": [
-      "Phùng Quán",
+      "Phùng Cung",
       "Trần Dần",
-      "Văn Cao"
+      "Phùng Quán"
     ]
   },
   {
@@ -28554,9 +27582,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "",
     "relations": [
-      "Lê Đạt",
       "Trần Dần",
-      "Văn Cao"
+      "Phùng Cung",
+      "Phan Khôi"
     ]
   },
   {
@@ -28574,9 +27602,9 @@ const RAW_DATA = [
     "nationality": "Soviet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/500px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg",
     "relations": [
-      "Joseph Stalin",
-      "Lê Duẩn",
-      "Richard Nixon"
+      "Park Chung-hee",
+      "Nguyễn Xuân Oánh",
+      "Trường Chinh"
     ],
     "themes": []
   },
@@ -28598,8 +27626,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/e/e3/Thich_Tue_Sy.png",
     "relations": [
       "Lê Mạnh Thát",
-      "Phạm Công Thiện",
-      "Thích Quảng Độ"
+      "Thích Quảng Độ",
+      "Cù Huy Hà Vũ"
     ],
     "themes": [
       "Bat dong chinh kien VN"
@@ -28622,9 +27650,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/L%C3%AA_M%E1%BA%A1nh_Th%C3%A1t_%28cropped%29.jpg/500px-L%C3%AA_M%E1%BA%A1nh_Th%C3%A1t_%28cropped%29.jpg",
     "relations": [
-      "Phạm Công Thiện",
+      "Thích Tuệ Sỹ",
       "Thích Quảng Độ",
-      "Thích Tuệ Sỹ"
+      "Lê Đạt"
     ],
     "themes": [
       "Bat dong chinh kien VN"
@@ -28646,9 +27674,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/b/b1/Chan_dung_Phan_Khoi.jpg",
     "relations": [
-      "Nguyễn Hữu Đang",
-      "Phùng Cung",
-      "Thụy An"
+      "Trần Dần",
+      "Phùng Quán",
+      "Nguyễn Hữu Đang"
     ],
     "themes": [
       "Bat dong chinh kien VN",
@@ -28671,10 +27699,8 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Edmund_Husserl_1910s.jpg/500px-Edmund_Husserl_1910s.jpg",
     "relations": [
-      "Alexius Meinong",
-      "Franz Brentano",
       "Martin Heidegger",
-      "Tomáš Masaryk",
+      "Jean-Paul Sartre",
       "Trần Đức Thảo"
     ],
     "themes": []
@@ -28695,9 +27721,9 @@ const RAW_DATA = [
     "nationality": "Czech",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG/500px-Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG",
     "relations": [
-      "Edmund Husserl",
-      "Paul Doumer",
-      "Woodrow Wilson"
+      "Tomas Masaryk",
+      "Paul von Hindenburg",
+      "Paul Doumer"
     ],
     "themes": []
   },
@@ -28716,9 +27742,9 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/500px-Georg_Friedrich_Bernhard_Riemann.jpeg",
     "relations": [
-      "Carl Friedrich Gauss",
-      "Georg Cantor",
-      "Johannes Kepler"
+      "Albert Einstein",
+      "Hendrik Lorentz",
+      "Johann Bernoulli"
     ],
     "themes": []
   },
@@ -28738,9 +27764,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tranvantra.jpg",
     "relations": [
+      "Võ Nguyên Giáp",
       "Lê Duẩn",
-      "Ngô Xương Ngập",
-      "Trần Độ"
+      "Hồ Chí Minh"
     ],
     "themes": [
       "VN Modern Communism"
@@ -28761,9 +27787,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/1/18/H%E1%BB%93ng_y_Giuse_Maria_Tr%E1%BB%8Bnh_Nh%C6%B0_Khu%C3%AA.jpg",
     "relations": [
-      "Hồng y Phạm Minh Mẫn",
       "Hồng y Trịnh Văn Căn",
-      "Ngô Tử Hạ"
+      "Hồng y Phạm Minh Mẫn",
+      "Thích Quảng Đức"
     ],
     "themes": []
   },
@@ -28803,9 +27829,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%C4%90%E1%BB%A9c_H%E1%BB%93ng_Y_Gioan_Baotixita_Ph%E1%BA%A1m_Minh_M%E1%BA%ABn.jpg/500px-%C4%90%E1%BB%A9c_H%E1%BB%93ng_Y_Gioan_Baotixita_Ph%E1%BA%A1m_Minh_M%E1%BA%ABn.jpg",
     "relations": [
-      "Hồng y Trịnh Như Khuê",
       "Hồng y Trịnh Văn Căn",
-      "Sư Vạn Hạnh"
+      "Hồng y Trịnh Như Khuê",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -28824,9 +27850,9 @@ const RAW_DATA = [
     "nationality": "ASEAN",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Paulino_alcantara_barca_%28cropped%29.jpg",
     "relations": [
-      "Johan Cruyff",
-      "Lionel Messi",
-      "Pep Guardiola"
+      "Sir Bobby Robson",
+      "Lê Thụy Hải",
+      "Johan Cruyff"
     ],
     "themes": [
       "Football"
@@ -28847,9 +27873,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Rory_McIlroy_Ryder_Cup_2025-195_%28cropped%29.jpg/500px-Rory_McIlroy_Ryder_Cup_2025-195_%28cropped%29.jpg",
     "relations": [
-      "Andy Murray",
-      "Lewis Hamilton",
-      "Michael Phelps"
+      "Kimi Raikkonen",
+      "Stephen Bunting",
+      "Lionel Messi"
     ],
     "themes": []
   },
@@ -28868,9 +27894,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/John_McEnroe_005.png",
     "relations": [
-      "Boris Becker",
       "Pete Sampras",
-      "Roger Federer"
+      "Boris Becker",
+      "Steffi Graf"
     ],
     "themes": [
       "Tennis"
@@ -28891,10 +27917,9 @@ const RAW_DATA = [
     "nationality": "Scandinavian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg/500px-F12019_Schloss_Gabelhofen_%2822%29_%28cropped%29.jpg",
     "relations": [
-      "Lewis Hamilton",
-      "Max Verstappen",
-      "Michael Schumacher",
-      "Paavo Nurmi"
+      "Rory McIlroy",
+      "Stephen Bunting",
+      "Pete Sampras"
     ],
     "themes": []
   },
@@ -28913,9 +27938,9 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Boris_Becker_-_240422_174721_%28cropped%29.jpg/500px-Boris_Becker_-_240422_174721_%28cropped%29.jpg",
     "relations": [
+      "Pete Sampras",
       "John McEnroe",
-      "Novak Djokovic",
-      "Steffi Graf"
+      "Roger Federer"
     ],
     "themes": [
       "Tennis"
@@ -28937,8 +27962,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Pete_Sampras_Champions_Shootout_2.jpg",
     "relations": [
       "John McEnroe",
-      "Roger Federer",
-      "Serena Williams"
+      "Boris Becker",
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -28960,9 +27985,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Scoto_%28Duns_Scoto%29.jpg/500px-Scoto_%28Duns_Scoto%29.jpg",
     "relations": [
-      "Bertrand Russell",
-      "John Locke",
-      "Mary Wollstonecraft"
+      "Mạnh Tử",
+      "Anne Conway",
+      "Klemens von Metternich"
     ],
     "themes": []
   },
@@ -28981,9 +28006,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg/500px-%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg",
     "relations": [
-      "Câu Tiễn",
-      "Ngô vương Phù Sai",
-      "Sở Trang vương"
+      "Tống Mỹ Linh",
+      "Tưởng Giới Thạch",
+      "Đặng Tiểu Bình"
     ],
     "themes": []
   },
@@ -29002,9 +28027,9 @@ const RAW_DATA = [
     "nationality": "European",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Wis%C5%82awa_Szymborska_2009.10.23_%281%29.jpg",
     "relations": [
-      "Homer",
-      "Salman Rushdie",
-      "Vladimir Nabokov"
+      "Toni Morrison",
+      "Octavio Paz",
+      "Gabriel García Márquez"
     ],
     "themes": [
       "Giai Nobel"
@@ -29025,9 +28050,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/500px-thumbnail.jpg",
     "relations": [
-      "Michael Faraday",
-      "Robert Hooke",
-      "William Herschel"
+      "Rosalind Franklin",
+      "Roger Penrose",
+      "Stephen Hawking"
     ],
     "themes": []
   },
@@ -29046,9 +28071,9 @@ const RAW_DATA = [
     "nationality": "Indian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Salman_Rushdie%2C_2024.jpg/500px-Salman_Rushdie%2C_2024.jpg",
     "relations": [
-      "Rabindranath Tagore",
-      "Thích-ca Mâu-ni",
-      "Wisława Szymborska"
+      "Mạc Ngôn",
+      "Gabriel García Márquez",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -29067,9 +28092,9 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vladimir_Nabokov_1973.jpg/500px-Vladimir_Nabokov_1973.jpg",
     "relations": [
-      "Alexander Pushkin",
-      "Ivan Turgenev",
-      "Wisława Szymborska"
+      "Ernest Hemingway",
+      "Kawabata Yasunari",
+      "Louis Aragon"
     ],
     "themes": []
   },
@@ -29088,9 +28113,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Po_Klong_Garai.jpg/500px-Po_Klong_Garai.jpg",
     "relations": [
-      "Hàn Thuyên",
-      "Phạm Sư Mạnh",
-      "Thân Nhân Trung"
+      "Đặng Hoàng Giang",
+      "Mạc Ngôn",
+      "Éric-Emmanuel Schmitt"
     ],
     "themes": []
   },
@@ -29109,9 +28134,9 @@ const RAW_DATA = [
     "nationality": "Austrian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Prince_Metternich_by_Lawrence.jpeg/500px-Prince_Metternich_by_Lawrence.jpeg",
     "relations": [
-      "Archduke Franz Ferdinand",
-      "Franz Ferdinand",
-      "Maximilian I của Mexico"
+      "Tống Mỹ Linh",
+      "Gia Long",
+      "Chu Nguyên Chương"
     ],
     "themes": []
   },
@@ -29130,9 +28155,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%E5%AE%8B%E5%BA%86%E9%BE%84%E6%A0%87%E5%87%86%E5%83%8F.jpg/500px-%E5%AE%8B%E5%BA%86%E9%BE%84%E6%A0%87%E5%87%86%E5%83%8F.jpg",
     "relations": [
-      "Lưu Thiếu Kỳ",
-      "Tống Mỹ Linh",
-      "Tống Ái Linh"
+      "Tôn Trung Sơn",
+      "Mao Trạch Đông",
+      "Lưu Thiếu Kỳ"
     ],
     "themes": []
   },
@@ -29151,10 +28176,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Madame_Chiang_Kai-shek%2C_seated_portrait_%28cropped%29.jpg/500px-Madame_Chiang_Kai-shek%2C_seated_portrait_%28cropped%29.jpg",
     "relations": [
-      "Claire Lee Chennault",
-      "Lưu Thiếu Kỳ",
-      "Tống Khánh Linh",
-      "Tống Ái Linh"
+      "Mao Trạch Đông",
+      "Tưởng Giới Thạch",
+      "Xuân Thủy"
     ],
     "themes": []
   },
@@ -29173,7 +28197,7 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Soong_Ai-ling.jpg",
     "relations": [
-      "Lưu Thiếu Kỳ",
+      "Mao Trạch Đông",
       "Tống Khánh Linh",
       "Tống Mỹ Linh"
     ],
@@ -29194,9 +28218,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_CEO_Magazine_Cover.jpg",
     "relations": [
-      "Lâm Tâm Như",
       "Lôi Quân",
-      "Phạm Lãi"
+      "Todd Boehly",
+      "Vitalik Buterin"
     ],
     "themes": []
   },
@@ -29215,9 +28239,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ruby_Lin_at_the_57th_Golden_Bell_Awards_in_October_2022.png",
     "relations": [
-      "Trương Mạn Ngọc",
-      "Trương Nghệ Mưu",
-      "Trương Nhất Minh"
+      "Hứa Quang Hán",
+      "Xuân Bắc",
+      "Edward Norton"
     ],
     "themes": []
   },
@@ -29236,9 +28260,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg/500px-Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg",
     "relations": [
-      "Lâm Tâm Như",
-      "Lương Triều Vỹ",
-      "Trương Mạn Ngọc"
+      "Trương Mạn Ngọc",
+      "Hầu Hiếu Hiền",
+      "Werner Herzog"
     ],
     "themes": []
   },
@@ -29257,9 +28281,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/USIA_66-1476.jpg/500px-USIA_66-1476.jpg",
     "relations": [
-      "Tống Khánh Linh",
-      "Tống Mỹ Linh",
-      "Tống Ái Linh"
+      "Mao Trạch Đông",
+      "Hồ Chí Minh",
+      "Lâm Bưu"
     ],
     "themes": []
   },
@@ -29278,9 +28302,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maggie_Cheung_%28cropped%29.jpg/500px-Maggie_Cheung_%28cropped%29.jpg",
     "relations": [
-      "Lâm Tâm Như",
-      "Thang Duy",
-      "Trương Nghệ Mưu"
+      "Lương Triều Vỹ",
+      "Trương Nghệ Mưu",
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -29299,9 +28323,9 @@ const RAW_DATA = [
     "nationality": "Swiss",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Bernoulli2.jpg",
     "relations": [
-      "Henry Dunant",
       "Jacob Bernoulli",
-      "Leonhard Euler"
+      "Bernhard Riemann",
+      "Hendrik Lorentz"
     ],
     "themes": []
   },
@@ -29320,9 +28344,9 @@ const RAW_DATA = [
     "nationality": "Swiss",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jakob_Bernoulli.jpg/500px-Jakob_Bernoulli.jpg",
     "relations": [
-      "Carl Jung",
-      "Henry Dunant",
-      "Johann Bernoulli"
+      "Johann Bernoulli",
+      "Isaac Newton",
+      "Carl Friedrich Gauss"
     ],
     "themes": []
   },
@@ -29342,9 +28366,9 @@ const RAW_DATA = [
     "nationality": "French",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Portret_van_Nicolas_Malebranche%2C_RP-P-OB-72.656_%28cropped%29.jpg/500px-Portret_van_Nicolas_Malebranche%2C_RP-P-OB-72.656_%28cropped%29.jpg",
     "relations": [
-      "Jean-Jacques Rousseau",
-      "Montesquieu",
-      "René Descartes"
+      "René Descartes",
+      "John Locke",
+      "Baruch Spinoza"
     ],
     "themes": []
   },
@@ -29363,9 +28387,9 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/500px-Landau.jpg",
     "relations": [
-      "Alexander Friedmann",
-      "Niels Bohr",
-      "Pavel Alekseyevich Cherenkov"
+      "Paul Dirac",
+      "Enrico Fermi",
+      "Werner Heisenberg"
     ],
     "themes": [
       "Quantum Physics",
@@ -29387,9 +28411,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif",
     "relations": [
-      "Alan Turing",
       "J. Robert Oppenheimer",
-      "John Nash"
+      "Richard Feynman",
+      "Enrico Fermi"
     ],
     "themes": [
       "Quantum Physics",
@@ -29411,9 +28435,9 @@ const RAW_DATA = [
     "nationality": "Russian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg/500px-Collision_2024_-_VR7_1035_%2853801820852%29_%28cropped%29.jpg",
     "relations": [
-      "Serena Williams",
-      "Venus Williams",
-      "Victoria Azarenka"
+      "Rafael Nadal",
+      "Simona Halep",
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -29434,9 +28458,9 @@ const RAW_DATA = [
     "nationality": "Belarusian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg/500px-Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg",
     "relations": [
-      "Maria Sharapova",
-      "Serena Williams",
-      "Simona Halep"
+      "Kim Clijsters",
+      "Petra Kvitova",
+      "Maria Sharapova"
     ],
     "themes": [
       "Tennis"
@@ -29457,9 +28481,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/6/6d/Nguyen_Ba_Thanh.jpg",
     "relations": [
-      "Lê Long Đĩnh",
-      "Nguyễn Xuân Phúc",
-      "Đinh La Thăng"
+      "Tô Lâm",
+      "Đỗ Văn Chiến",
+      "Trương Tấn Sang"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29481,8 +28505,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nong_Duc_Manh_2010.jpg/500px-Nong_Duc_Manh_2010.jpg",
     "relations": [
       "Lê Khả Phiêu",
-      "Nguyễn Phú Trọng",
-      "Trương Tấn Sang"
+      "Trương Tấn Sang",
+      "Đỗ Mười"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29503,9 +28527,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Nguyễn Xuân Phúc",
-      "Phạm Minh Chính",
-      "Tô Lâm"
+      "Đỗ Văn Chiến",
+      "Tô Lâm",
+      "Trần Thanh Mẫn"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29528,8 +28552,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lekhaphieu2011.jpg/500px-Lekhaphieu2011.jpg",
     "relations": [
       "Nông Đức Mạnh",
-      "Võ Văn Kiệt",
-      "Đỗ Mười"
+      "Đỗ Mười",
+      "Tô Lâm"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29550,9 +28574,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/7/73/Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang.jpg/500px-Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang.jpg",
     "relations": [
-      "Nguyễn Phú Trọng",
-      "Nguyễn Xuân Phúc",
-      "Nông Đức Mạnh"
+      "Trần Thanh Mẫn",
+      "Tòng Thị Phóng",
+      "Trương Hòa Bình"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29573,9 +28597,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/45/Nguy%E1%BB%85n_V%C4%83n_Linh.jpg",
     "relations": [
-      "Phạm Hùng",
-      "Trường Chinh",
-      "Đỗ Mười"
+      "Đỗ Mười",
+      "Tô Lâm",
+      "Lê Duẩn"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29596,9 +28620,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Do_Muoi_cropped.jpg/500px-Do_Muoi_cropped.jpg",
     "relations": [
-      "Lê Khả Phiêu",
       "Nguyễn Văn Linh",
-      "Võ Văn Kiệt"
+      "Lê Khả Phiêu",
+      "Tô Lâm"
     ],
     "themes": [
       "VN Modern Communism"
@@ -29619,9 +28643,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Phạm Ngũ Lão",
-      "Trần Hưng Đạo",
-      "Trần Quang Khải"
+      "Trần Quang Khải",
+      "Trần Nhật Duật",
+      "Trần Hưng Đạo"
     ],
     "themes": []
   },
@@ -29640,9 +28664,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Nguyễn Tri Phương",
-      "Trương Định",
-      "Tự Đức"
+      "Tôn Thất Thuyết",
+      "Lê Khiết",
+      "Phạm Phú Thứ"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -29663,10 +28687,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Hoàng Hoa Thám",
       "Phan Bội Châu",
       "Phan Châu Trinh",
-      "Phạm Hồng Thái"
+      "Hàm Nghi"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -29687,9 +28710,9 @@ const RAW_DATA = [
     "nationality": "Thai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chulalongkorn_LoC.jpg/500px-Chulalongkorn_LoC.jpg",
     "relations": [
-      "Rama IX",
-      "Thành Thái",
-      "Tự Đức"
+      "Theodore Roosevelt",
+      "Rama X",
+      "Thiên hoàng Minh Trị"
     ],
     "themes": []
   },
@@ -29708,9 +28731,9 @@ const RAW_DATA = [
     "nationality": "Thai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aankomst_Koning_Bhumibol_en_Koningin_Sirikit_te_Den_Haag%2C_Koning_Bhumibol%2C_Bestanddeelnr_911-6993_%28cropped%29%282%29.jpg/500px-Aankomst_Koning_Bhumibol_en_Koningin_Sirikit_te_Den_Haag%2C_Koning_Bhumibol%2C_Bestanddeelnr_911-6993_%28cropped%29%282%29.jpg",
     "relations": [
-      "Nguyễn Phú Trọng",
-      "Rama V",
-      "Rama X"
+      "Rama X",
+      "Elizabeth II",
+      "Rama V"
     ],
     "themes": []
   },
@@ -29729,9 +28752,9 @@ const RAW_DATA = [
     "nationality": "Thai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Rama_X_official_%28cropped%29.png/500px-King_Rama_X_official_%28cropped%29.png",
     "relations": [
-      "Nguyễn Xuân Phúc",
       "Rama IX",
-      "Tô Lâm"
+      "Rama V",
+      "Trương Tấn Sang"
     ],
     "themes": []
   },
@@ -29750,9 +28773,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Claire_L._Chennault.jpg/500px-Claire_L._Chennault.jpg",
     "relations": [
-      "Franklin D. Roosevelt",
-      "Tưởng Giới Thạch",
-      "Tống Mỹ Linh"
+      "Hermann Göring",
+      "Erich von Manstein",
+      "George S. Patton"
     ],
     "themes": [
       "World War II"
@@ -29773,9 +28796,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg/500px-John_Forbes_Nash%2C_Jr._by_Peter_Badge.jpg",
     "relations": [
-      "Alan Turing",
-      "Edwin Hubble",
-      "John von Neumann"
+      "Steven Weinberg",
+      "Richard Feynman",
+      "Lý Chính Đạo"
     ],
     "themes": [
       "Giai Nobel"
@@ -29798,7 +28821,6 @@ const RAW_DATA = [
     "relations": [
       "Leonardo da Vinci",
       "Michelangelo",
-      "Niko Pirosmani",
       "Raphael"
     ],
     "themes": []
@@ -29819,9 +28841,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dang_Thuy_Tram.jpg/500px-Dang_Thuy_Tram.jpg",
     "relations": [
-      "Nguyễn Thị Bình",
-      "Tôn Thất Tùng",
-      "Võ Nguyên Giáp"
+      "Chế Lan Viên",
+      "Phạm Xuân Ẩn",
+      "Đinh Núp"
     ],
     "themes": [
       "Khang chien chong My"
@@ -29843,9 +28865,9 @@ const RAW_DATA = [
     "fullName": "Rosalind Elsie Franklin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Rosalind_Franklin_%28retouched%29.jpg",
     "relations": [
-      "Albert Einstein",
-      "Linus Pauling",
-      "Marie Curie"
+      "Dương Chấn Ninh",
+      "Claude Lévi-Strauss",
+      "Alan Turing"
     ],
     "themes": []
   },
@@ -29864,9 +28886,9 @@ const RAW_DATA = [
     "fullName": "Joseph John Thomson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/J.J_Thomson.jpg/500px-J.J_Thomson.jpg",
     "relations": [
-      "Ada Lovelace",
-      "Ernest Rutherford",
-      "Niels Bohr"
+      "Wilhelm Röntgen",
+      "Albert Einstein",
+      "Max Planck"
     ],
     "themes": [
       "Giai Nobel"
@@ -29889,8 +28911,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tu_Youyou_5012-1-2015.jpg/500px-Tu_Youyou_5012-1-2015.jpg",
     "relations": [
       "Alexander Fleming",
-      "Louis Pasteur",
-      "Marie Curie"
+      "Mạc Ngôn",
+      "Thomas Hunt Morgan"
     ],
     "themes": [
       "Giai Nobel"
@@ -29911,9 +28933,9 @@ const RAW_DATA = [
     "fullName": "Linus Carl Pauling",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pauling.jpg/500px-Pauling.jpg",
     "relations": [
-      "Albert Einstein",
-      "Marie Curie",
-      "Rosalind Franklin"
+      "Lev Landau",
+      "Paul Dirac",
+      "Malala Yousafzai"
     ],
     "themes": [
       "Giai Nobel"
@@ -29935,11 +28957,9 @@ const RAW_DATA = [
     "fullName": "Toni Morrison",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toni_Morrison_2008.jpg/500px-Toni_Morrison_2008.jpg",
     "relations": [
-      "Gwendolyn Brooks",
-      "Kimberle Crenshaw",
-      "Maxine Hong Kingston",
-      "Rosalind Miles",
-      "Willa Cather"
+      "Gabriel García Márquez",
+      "Ōe Kenzaburo",
+      "Cao Hành Kiện"
     ],
     "themes": [
       "Giai Nobel"
@@ -29962,7 +28982,7 @@ const RAW_DATA = [
     "relations": [
       "Lý Chính Đạo",
       "Steven Weinberg",
-      "Tư Mã Thiên"
+      "Albert Einstein"
     ],
     "themes": [
       "Giai Nobel"
@@ -29984,8 +29004,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/TD_Lee.jpg",
     "relations": [
       "Dương Chấn Ninh",
-      "Enrico Fermi",
-      "J. Robert Oppenheimer"
+      "Steven Weinberg",
+      "Abdus Salam"
     ],
     "themes": [
       "Giai Nobel"
@@ -30006,9 +29026,9 @@ const RAW_DATA = [
     "fullName": "Trần Anh Tông",
     "image": "https://upload.wikimedia.org/wikipedia/vi/9/9e/Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg",
     "relations": [
-      "Trần Hưng Đạo",
-      "Trần Nhân Tông",
-      "Trần Quang Khải"
+      "Đoàn Nhữ Hài",
+      "Trần Dụ Tông",
+      "Chu Văn An"
     ],
     "themes": []
   },
@@ -30027,9 +29047,9 @@ const RAW_DATA = [
     "fullName": "Anwar Al-Sadad",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/500px-Anwar_Sadat_cropped.jpg",
     "relations": [
-      "Henry Kissinger",
-      "Mao Trạch Đông",
-      "Richard Nixon"
+      "Lê Đức Thọ",
+      "Nelson Mandela",
+      "Henry Kissinger"
     ],
     "themes": [
       "Giai Nobel"
@@ -30051,9 +29071,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Steven-weinberg.jpg",
     "relations": [
       "Abdus Salam",
-      "Dương Chấn Ninh",
-      "Remo Ruffini",
-      "Richard Feynman"
+      "Lý Chính Đạo",
+      "Dương Chấn Ninh"
     ],
     "themes": [
       "Giai Nobel"
@@ -30074,9 +29093,9 @@ const RAW_DATA = [
     "fullName": "Abdus Salam",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abdus_Salam_1987.jpg/500px-Abdus_Salam_1987.jpg",
     "relations": [
-      "Paul Dirac",
-      "Stephen Hawking",
-      "Steven Weinberg"
+      "Steven Weinberg",
+      "Lý Chính Đạo",
+      "Dương Chấn Ninh"
     ],
     "themes": [
       "Giai Nobel"
@@ -30097,8 +29116,8 @@ const RAW_DATA = [
     "fullName": "Remo Ruffini",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RuffiniRemo.jpg",
     "relations": [
-      "Albert Einstein",
       "Stephen Hawking",
+      "Dương Trung Quốc",
       "Steven Weinberg"
     ],
     "themes": []
@@ -30119,9 +29138,9 @@ const RAW_DATA = [
     "fullName": "Abū Ḥāmid Al-Ghazali",
     "image": "",
     "relations": [
-      "Aristotle",
-      "Plato",
-      "Socrates"
+      "Anne Conway",
+      "John Stuart Mill",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -30140,9 +29159,9 @@ const RAW_DATA = [
     "fullName": "Carlo Matteucci",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/L%27Illustration_1862_gravure_ministre_Matteucci.jpg/500px-L%27Illustration_1862_gravure_ministre_Matteucci.jpg",
     "relations": [
-      "Alessandro Volta",
-      "Galileo Galilei",
-      "Michael Faraday"
+      "Antonio Meucci",
+      "David Cronenberg",
+      "Karen Horney"
     ],
     "themes": []
   },
@@ -30161,9 +29180,9 @@ const RAW_DATA = [
     "fullName": "Theodore Robert Bundy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ted_Bundy_headshot.jpg/500px-Ted_Bundy_headshot.jpg",
     "relations": [
-      "Al Capone",
       "Gary Ridgway",
-      "Năm Cam"
+      "Andrei Chikatilo",
+      "Jeffrey Epstein"
     ],
     "themes": []
   },
@@ -30182,9 +29201,9 @@ const RAW_DATA = [
     "fullName": "Gary Leon Ridgway",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gary_Ridgway_Mugshot_11302001.jpg",
     "relations": [
-      "Al Capone",
-      "Năm Cam",
-      "Ted Bundy"
+      "Andrei Chikatilo",
+      "Ted Bundy",
+      "Owen Cooper"
     ],
     "themes": []
   },
@@ -30205,9 +29224,9 @@ const RAW_DATA = [
     "fullName": "Trần Khánh Dư",
     "image": "",
     "relations": [
-      "Trần Hưng Đạo",
-      "Trần Nhân Tông",
-      "Trần Quang Khải"
+      "Nguyễn Khoái",
+      "Ô Mã Nhi",
+      "Phạm Ngũ Lão"
     ],
     "themes": []
   },
@@ -30226,9 +29245,9 @@ const RAW_DATA = [
     "fullName": "Li Jing",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%E6%9D%8E%E9%9D%96.jpg/500px-%E6%9D%8E%E9%9D%96.jpg",
     "relations": [
-      "Gia Cát Lượng",
-      "Trần Hưng Đạo",
-      "Tào Tháo"
+      "Liêm Pha",
+      "Đậu Kiến Đức",
+      "Trần Khánh Dư"
     ],
     "themes": []
   },
@@ -30248,8 +29267,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ban_Ki-moon_February_2016.jpg/500px-Ban_Ki-moon_February_2016.jpg",
     "relations": [
       "Antonio Guterres",
-      "Barack Obama",
-      "Faker",
+      "Donald Trump",
       "Kofi Annan"
     ],
     "themes": []
@@ -30269,9 +29287,9 @@ const RAW_DATA = [
     "fullName": "Alejandro González Iñárritu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg/500px-Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu_2014.jpg",
     "relations": [
-      "Bong Joon-ho",
-      "Christopher Nolan",
-      "Leonardo DiCaprio"
+      "Sofia Coppola",
+      "Tilda Swinton",
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -30290,9 +29308,9 @@ const RAW_DATA = [
     "fullName": "Sergei Parajanov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sergei_Parajanov._1._Yuri_Mechitov.jpg/500px-Sergei_Parajanov._1._Yuri_Mechitov.jpg",
     "relations": [
-      "Andrei Tarkovsky",
+      "Marilyn Monroe",
       "Jean-Luc Godard",
-      "Theo Angelopoulos"
+      "Frank Sinatra"
     ],
     "themes": []
   },
@@ -30311,9 +29329,9 @@ const RAW_DATA = [
     "fullName": "Theo Angelopoulos",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Theodoros_Angelopoulos_Athens_26-4-2009-2.jpg",
     "relations": [
-      "Akira Kurosawa",
-      "Jean-Luc Godard",
-      "Sergei Parajanov"
+      "Werner Herzog",
+      "Agnès Varda",
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -30333,9 +29351,9 @@ const RAW_DATA = [
     "fullName": "Willa Sibert Cather",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cather_Van_Vechten.jpg/500px-Cather_Van_Vechten.jpg",
     "relations": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "Toni Morrison"
+      "Jack London",
+      "Virginia Woolf",
+      "William Somerset Maugham"
     ],
     "themes": []
   },
@@ -30355,8 +29373,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg/500px-Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
     "relations": [
       "Ban Ki-moon",
-      "Barack Obama",
-      "Kofi Annan"
+      "Donald Trump",
+      "Phan Văn Giang"
     ],
     "themes": []
   },
@@ -30375,9 +29393,9 @@ const RAW_DATA = [
     "fullName": "Niko Pirosmanashvili",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Niko_Pirosmani_1916.jpg/500px-Niko_Pirosmani_1916.jpg",
     "relations": [
-      "Pablo Picasso",
-      "Sandro Botticelli",
-      "Vincent van Gogh"
+      "Gustav Klimt",
+      "Vincent van Gogh",
+      "Claude Debussy"
     ],
     "themes": []
   },
@@ -30396,9 +29414,9 @@ const RAW_DATA = [
     "fullName": "Shota Rustaveli",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jerusalem-Monastery-of-the-Cross-689.jpg/500px-Jerusalem-Monastery-of-the-Cross-689.jpg",
     "relations": [
-      "Alexander Pushkin",
-      "Homer",
-      "William Shakespeare"
+      "Sandro Botticelli",
+      "J. Robert Oppenheimer",
+      "Chu Nguyên Chương"
     ],
     "themes": []
   },
@@ -30417,10 +29435,9 @@ const RAW_DATA = [
     "fullName": "Phạm Duy Tốn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg/500px-Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg",
     "relations": [
-      "Marguerite Duras",
-      "Nguyễn Khuyến",
-      "Phan Bội Châu",
-      "Tản Đà"
+      "Hồ Biểu Chánh",
+      "Nguyễn Nguyên Phước",
+      "Phan Khôi"
     ],
     "themes": []
   },
@@ -30439,10 +29456,9 @@ const RAW_DATA = [
     "fullName": "Giuseppe Tartini",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png/500px-Abb%C3%A9_Ferr%C3%A8_%28or_Giuseppe_Tartini%29_-_painting%2C_anonymous_painter%2C_XVIII_century.png",
     "relations": [
-      "Alexander Rybak",
       "Antonio Vivaldi",
-      "Arcangelo Corelli",
-      "Johann Sebastian Bach"
+      "Niccolò Paganini",
+      "Georg Philipp Telemann"
     ],
     "themes": [
       "Classical Music"
@@ -30463,9 +29479,9 @@ const RAW_DATA = [
     "fullName": "Emil Grigoryevich Gilels",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Emil_Gilels_by_Aram_Alban.jpg/500px-Emil_Gilels_by_Aram_Alban.jpg",
     "relations": [
-      "Dmitri Shostakovich",
-      "Sergei Prokofiev",
-      "Sergei Rachmaninoff"
+      "Agnès Varda",
+      "John Cage",
+      "Niccolò Paganini"
     ],
     "themes": []
   },
@@ -30484,9 +29500,9 @@ const RAW_DATA = [
     "fullName": "Aram Ilyich Khachaturian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aram_Khachaturian%2C_Pic%2C_17.jpg/500px-Aram_Khachaturian%2C_Pic%2C_17.jpg",
     "relations": [
+      "Louis Armstrong",
       "Dmitri Shostakovich",
-      "Nikolai Myaskovsky",
-      "Sergei Prokofiev"
+      "John Cage"
     ],
     "themes": []
   },
@@ -30505,9 +29521,8 @@ const RAW_DATA = [
     "fullName": "Arcangelo Corelli",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg/500px-Arcangelo_Corelli%2C_portrait_by_Hugh_Howard_%281697%29_-_2.jpg",
     "relations": [
-      "Alexander Rybak",
       "Antonio Vivaldi",
-      "Claudio Monteverdi",
+      "Johann Pachelbel",
       "Giuseppe Tartini"
     ],
     "themes": [
@@ -30529,9 +29544,9 @@ const RAW_DATA = [
     "fullName": "Nikolai Yakovlevich Myaskovsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Nikolai_Myaskovsky.jpg",
     "relations": [
-      "Aram Khachaturian",
+      "Sergei Prokofiev",
       "Dmitri Shostakovich",
-      "Sergei Prokofiev"
+      "Igor Stravinsky"
     ],
     "themes": []
   },
@@ -30550,9 +29565,9 @@ const RAW_DATA = [
     "fullName": "Gustave Flaubert",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gustave_Flaubert.jpg/500px-Gustave_Flaubert.jpg",
     "relations": [
-      "Guy de Maupassant",
-      "Honoré de Balzac",
-      "Victor Hugo"
+      "Charlotte Bronte",
+      "Agnès Varda",
+      "Roberto Rossellini"
     ],
     "themes": []
   },
@@ -30572,10 +29587,9 @@ const RAW_DATA = [
     "fullName": "Margaret Eleanor Atwood",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg/500px-Margaret_Atwood_%2852161564186%29_%28cropped%29.jpg",
     "relations": [
-      "Gabriel García Márquez",
-      "Kimberle Crenshaw",
-      "Maxine Hong Kingston",
-      "Theresa Hak Kyung Cha"
+      "Rosalind Miles",
+      "Virginia Woolf",
+      "Hélène Cixous"
     ],
     "themes": [
       "Feminism Movement"
@@ -30597,8 +29611,8 @@ const RAW_DATA = [
     "fullName": "Rosalind Mary Simpson",
     "image": "",
     "relations": [
-      "Mary Wollstonecraft",
-      "Toni Morrison",
+      "Margaret Atwood",
+      "Hélène Cixous",
       "Virginia Woolf"
     ],
     "themes": [
@@ -30621,9 +29635,9 @@ const RAW_DATA = [
     "fullName": "Marguerite Germaine Marie Donnadieu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Marguerite_Duras_1993.jpg",
     "relations": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "Phạm Duy Tốn"
+      "Iris Murdoch",
+      "Milan Kundera",
+      "Kawabata Yasunari"
     ],
     "themes": [
       "Feminism Movement"
@@ -30645,10 +29659,9 @@ const RAW_DATA = [
     "fullName": "Yōko Ogawa",
     "image": "",
     "relations": [
-      "Kawabata Yasunari",
-      "Mạc Ngôn",
-      "Theresa Hak Kyung Cha",
-      "Ōe Kenzaburo"
+      "Ichikawa Takuji",
+      "Nguyễn Nguyên Phước",
+      "Lưu Từ Hân"
     ],
     "themes": []
   },
@@ -30667,9 +29680,9 @@ const RAW_DATA = [
     "fullName": "Mario Alberto Kempes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kempes_Valencia_CF.jpg",
     "relations": [
-      "Johan Cruyff",
       "Osvaldo Ardiles",
-      "Pelé"
+      "Graeme Souness",
+      "Diego Maradona"
     ],
     "themes": [
       "Football"
@@ -30690,10 +29703,9 @@ const RAW_DATA = [
     "fullName": "Alfredo Stéfano Di Stéfano Laulhé",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Di_Stefano_1959.jpg/500px-Di_Stefano_1959.jpg",
     "relations": [
-      "Ferenc Puskás",
-      "Osvaldo Ardiles",
-      "Pelé",
-      "Santiago Bernabéu"
+      "Zinedine Zidane",
+      "Garrincha",
+      "Sir Bobby Robson"
     ],
     "themes": [
       "Football"
@@ -30714,9 +29726,9 @@ const RAW_DATA = [
     "fullName": "Manuel Francisco dos Santos",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/MFdSantos-Garrincha.jpg/500px-MFdSantos-Garrincha.jpg",
     "relations": [
-      "Diego Maradona",
       "Pelé",
-      "Ronaldo de Lima"
+      "Ferenc Puskás",
+      "Lê Thụy Hải"
     ],
     "themes": [
       "Football"
@@ -30737,9 +29749,9 @@ const RAW_DATA = [
     "fullName": "Pavel Nedvěd",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pavel_Nedv%C4%9Bd.jpg/500px-Pavel_Nedv%C4%9Bd.jpg",
     "relations": [
-      "Cristiano Ronaldo",
       "Ronaldo de Lima",
-      "Zinedine Zidane"
+      "Park Ji-sung",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -30760,9 +29772,9 @@ const RAW_DATA = [
     "fullName": "Robert William Robson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg/500px-Anefo_934-2658%2C_Bobby_Robson%2C_Netherlands%2C_14-06-1988.jpg",
     "relations": [
-      "José Mourinho",
-      "Pep Guardiola",
-      "Sir Alex Ferguson"
+      "Ferenc Puskás",
+      "Johan Cruyff",
+      "Paulino Alcantara"
     ],
     "themes": [
       "Football"
@@ -30783,9 +29795,9 @@ const RAW_DATA = [
     "fullName": "Graeme James Souness",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Souness_%28retouched%29.jpg/500px-Souness_%28retouched%29.jpg",
     "relations": [
-      "Diego Maradona",
-      "Sir Alex Ferguson",
-      "Zinedine Zidane"
+      "Mario Kempes",
+      "Osvaldo Ardiles",
+      "Johan Cruyff"
     ],
     "themes": [
       "Football"
@@ -30806,9 +29818,9 @@ const RAW_DATA = [
     "fullName": "Michael Laudrup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Michael_Laudrup_2016c_%28cropped%29.jpg/500px-Michael_Laudrup_2016c_%28cropped%29.jpg",
     "relations": [
-      "Brian Laudrup",
-      "Johan Cruyff",
-      "Pep Guardiola"
+      "Eidur Gudjohnsen",
+      "Zinedine Zidane",
+      "Mario Kempes"
     ],
     "themes": [
       "Football"
@@ -30829,10 +29841,9 @@ const RAW_DATA = [
     "fullName": "Brian Laudrup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Brian-Laudrup-Darren-Laver-Lars-Hogh_%28cropped%29.jpg",
     "relations": [
-      "Eidur Gudjohnsen",
-      "Michael Laudrup",
-      "Ronaldinho",
-      "Zinedine Zidane"
+      "Ronaldo de Lima",
+      "Mario Kempes",
+      "Jari Litmanen"
     ],
     "themes": [
       "Football"
@@ -30854,10 +29865,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Litmanen_jari.jpg/500px-Litmanen_jari.jpg",
     "relations": [
       "Eidur Gudjohnsen",
-      "Johan Cruyff",
-      "Paavo Nurmi",
-      "Sir Alex Ferguson",
-      "Zinedine Zidane"
+      "Zinedine Zidane",
+      "Ronaldo de Lima"
     ],
     "themes": [
       "Football"
@@ -30878,10 +29887,9 @@ const RAW_DATA = [
     "fullName": "Park Ji-sung",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Park_Ji-sung_G20_Seoul_Summit_Ambassador_%28cropped%29.jpg",
     "relations": [
-      "Eidur Gudjohnsen",
-      "Park Hang-seo",
-      "Sir Alex Ferguson",
-      "Son Heung-min"
+      "Pavel Nedved",
+      "Ronaldo de Lima",
+      "Graeme Souness"
     ],
     "themes": [
       "Football"
@@ -30902,9 +29910,9 @@ const RAW_DATA = [
     "fullName": "Phạm Hùng",
     "image": "",
     "relations": [
+      "Võ Chí Công",
       "Huỳnh Tấn Phát",
-      "Nguyễn Văn Linh",
-      "Võ Chí Công"
+      "Tôn Đức Thắng"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -30929,8 +29937,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Cao Bá Quát",
-      "Nguyễn Tri Phương",
-      "Tự Đức"
+      "Huỳnh Mẫn Đạt",
+      "Đỗ Thúc Tịnh"
     ],
     "themes": []
   },
@@ -30950,9 +29958,9 @@ const RAW_DATA = [
     "fullName": "Kimberlé Williams Crenshaw",
     "image": "",
     "relations": [
-      "Margaret Atwood",
+      "Julia Kristeva",
       "Simone de Beauvoir",
-      "Toni Morrison"
+      "Mary Wollstonecraft"
     ],
     "themes": [
       "Feminism Movement"
@@ -30974,9 +29982,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Văn Thụ",
     "image": "",
     "relations": [
-      "Hồ Chí Minh",
-      "Trường Chinh",
-      "Võ Nguyên Giáp"
+      "Nguyễn Thị Minh Khai",
+      "Nguyễn Văn Cừ",
+      "Duy Tân"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -30997,9 +30005,9 @@ const RAW_DATA = [
     "fullName": "Huỳnh Tấn Phát",
     "image": "",
     "relations": [
-      "Nguyễn Hữu Thọ",
       "Phạm Hùng",
-      "Võ Văn Kiệt"
+      "Võ Văn Kiệt",
+      "Võ Chí Công"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -31022,9 +30030,9 @@ const RAW_DATA = [
     "fullName": "Võ Chí Công",
     "image": "",
     "relations": [
-      "Lê Duẩn",
       "Phạm Hùng",
-      "Võ Nguyên Giáp"
+      "Tôn Đức Thắng",
+      "Lê Duẩn"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -31047,9 +30055,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Minh Giám",
     "image": "",
     "relations": [
-      "Hồ Chí Minh",
-      "Phạm Văn Đồng",
-      "Võ Nguyên Giáp"
+      "Phạm Hùng",
+      "Lê Duẩn",
+      "Võ Chí Công"
     ],
     "themes": [
       "Khang chien chong Phap",
@@ -31071,9 +30079,9 @@ const RAW_DATA = [
     "fullName": "Tôn Thất Đạm",
     "image": "",
     "relations": [
-      "Hàm Nghi",
-      "Phan Đình Phùng",
-      "Tôn Thất Thuyết"
+      "Tôn Thất Thuyết",
+      "Trần Xuân Soạn",
+      "Lê Đình Lý"
     ],
     "themes": []
   },
@@ -31092,9 +30100,9 @@ const RAW_DATA = [
     "fullName": "Trần Xuân Soạn",
     "image": "",
     "relations": [
-      "Hàm Nghi",
-      "Phan Đình Phùng",
-      "Tôn Thất Thuyết"
+      "Tôn Thất Đạm",
+      "Tôn Thất Thuyết",
+      "Thành Thái"
     ],
     "themes": []
   },
@@ -31114,9 +30122,9 @@ const RAW_DATA = [
     "fullName": "Phạm Phú Thứ",
     "image": "",
     "relations": [
-      "Nguyễn Tri Phương",
-      "Phan Thanh Giản",
-      "Tự Đức"
+      "Đỗ Thúc Tịnh",
+      "Tự Đức",
+      "Thiệu Trị"
     ],
     "themes": []
   },
@@ -31136,7 +30144,7 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Chế Lan Viên",
-      "Hàn Mặc Tử",
+      "Thế Lữ",
       "Xuân Diệu"
     ],
     "themes": [
@@ -31158,9 +30166,9 @@ const RAW_DATA = [
     "fullName": "Phan Ngọc Hoan",
     "image": "",
     "relations": [
-      "Hàn Mặc Tử",
-      "Hồ Xuân Hương",
-      "Quách Tấn"
+      "Phạm Hùng",
+      "Hồ Chí Minh",
+      "Tôn Đức Thắng"
     ],
     "themes": [
       "Tho Moi",
@@ -31184,9 +30192,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Duy Hiệu",
     "image": "",
     "relations": [
-      "Hàm Nghi",
       "Phạm Như Xương",
-      "Tôn Thất Thuyết"
+      "Tống Duy Tân",
+      "Trần Xuân Soạn"
     ],
     "themes": []
   },
@@ -31206,9 +30214,9 @@ const RAW_DATA = [
     "fullName": "Phạm Như Xương",
     "image": "",
     "relations": [
-      "Hàm Nghi",
       "Nguyễn Duy Hiệu",
-      "Phan Châu Trinh"
+      "Lê Khiết",
+      "Tăng Bạt Hổ"
     ],
     "themes": []
   },
@@ -31227,9 +30235,9 @@ const RAW_DATA = [
     "fullName": "Charlotte Brontë",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
     "relations": [
-      "Emily Bronte",
-      "Jane Austen",
-      "Saki"
+      "Gustave Flaubert",
+      "Roberto Rossellini",
+      "Alexandre Dumas cha"
     ],
     "themes": []
   },
@@ -31248,9 +30256,9 @@ const RAW_DATA = [
     "fullName": "Emily Jane Brontë",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/500px-Emily_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
     "relations": [
-      "Charlotte Bronte",
-      "Jane Austen",
-      "William Wordsworth"
+      "Gustave Flaubert",
+      "Alexandre Dumas con",
+      "Lev Tolstoy"
     ],
     "themes": []
   },
@@ -31269,9 +30277,9 @@ const RAW_DATA = [
     "fullName": "Samuel Langhorne Clemens",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/500px-Mark_Twain_by_AF_Bradley.jpg",
     "relations": [
-      "Ernest Hemingway",
-      "Gwendolyn Brooks",
-      "Lev Tolstoy"
+      "Gustave Flaubert",
+      "Heinrich Heine",
+      "Nguyễn Quang Bích"
     ],
     "themes": []
   },
@@ -31291,9 +30299,9 @@ const RAW_DATA = [
     "fullName": "Theresa Hak Kyung Cha",
     "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Theresa_Hak_Kyung_Cha_%28Barnes%2C_1980%29.png",
     "relations": [
-      "Margaret Atwood",
-      "Maxine Hong Kingston",
-      "Yoko Ogawa"
+      "Tàn Tuyết",
+      "Hân Nhiên",
+      "Rosalind Miles"
     ],
     "themes": []
   },
@@ -31312,9 +30320,9 @@ const RAW_DATA = [
     "fullName": "Alexander Igoryevich Rybak",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg/500px-Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg",
     "relations": [
-      "Arcangelo Corelli",
-      "Edvard Grieg",
-      "Giuseppe Tartini"
+      "Vitas",
+      "Kenshi Yonezu",
+      "Asia Argento"
     ],
     "themes": []
   },
@@ -31334,9 +30342,9 @@ const RAW_DATA = [
     "fullName": "Trương Huy San",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Huy_Duc.JPG/500px-Huy_Duc.JPG",
     "relations": [
+      "Cù Huy Hà Vũ",
       "Bùi Tín",
-      "Phạm Đoan Trang",
-      "Trần Độ"
+      "Hoàng Minh Chính"
     ],
     "themes": [
       "Bat dong chinh kien VN"
@@ -31358,9 +30366,9 @@ const RAW_DATA = [
     "fullName": "Phạm Hồng Thái",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/PhamHongThai.jpg",
     "relations": [
-      "Nguyễn Thái Học",
-      "Phan Bội Châu",
-      "Tăng Bạt Hổ"
+      "Hồ Chí Minh",
+      "Hoàng Văn Thụ",
+      "Tôn Đức Thắng"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -31381,8 +30389,8 @@ const RAW_DATA = [
     "fullName": "Eiður Smári Guðjohnsen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg/500px-Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg",
     "relations": [
-      "Brian Laudrup",
       "Jari Litmanen",
+      "Michael Laudrup",
       "Park Ji-sung"
     ],
     "themes": [
@@ -31405,8 +30413,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Maxine_Hong_Kingston_by_David_Shankbone.jpg/500px-Maxine_Hong_Kingston_by_David_Shankbone.jpg",
     "relations": [
       "Margaret Atwood",
-      "Theresa Hak Kyung Cha",
-      "Toni Morrison"
+      "Phùng Quán",
+      "Louis Aragon"
     ],
     "themes": []
   },
@@ -31425,9 +30433,9 @@ const RAW_DATA = [
     "fullName": "Gwendolyn Elizabeth Brooks",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gwendolyn_Brooks_ACME_1950.jpg/500px-Gwendolyn_Brooks_ACME_1950.jpg",
     "relations": [
-      "Edgar Allan Poe",
-      "Mark Twain",
-      "Toni Morrison"
+      "Toni Morrison",
+      "Xuân Diệu",
+      "Bình Nguyên Lộc"
     ],
     "themes": []
   },
@@ -31446,9 +30454,9 @@ const RAW_DATA = [
     "fullName": "Émile Salomon Wilhelm Herzog",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Maurois_Harcourt_1936.jpg",
     "relations": [
-      "Albert Camus",
-      "Jean de La Fontaine",
-      "Marcel Proust"
+      "Marcel Proust",
+      "E. M. Forster",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -31467,9 +30475,9 @@ const RAW_DATA = [
     "fullName": "Hector Hugh Munro",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg/500px-Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg",
     "relations": [
-      "Charlotte Bronte",
-      "Oscar Wilde",
-      "Virginia Woolf"
+      "Nguyễn Thượng Hiền",
+      "Heinrich Heine",
+      "W. Somerset Maugham"
     ],
     "themes": []
   },
@@ -31488,9 +30496,9 @@ const RAW_DATA = [
     "fullName": "Osvaldo César Ardiles",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Osvaldo_Ardiles_%281981%29.jpg/500px-Osvaldo_Ardiles_%281981%29.jpg",
     "relations": [
-      "Alfredo Di Stefano",
-      "Diego Maradona",
-      "Mario Kempes"
+      "Mario Kempes",
+      "Graeme Souness",
+      "Ronaldo de Lima"
     ],
     "themes": [
       "Football"
@@ -31511,9 +30519,9 @@ const RAW_DATA = [
     "fullName": "Alexander Alexandrovich Alekhine",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexandre_Alekhine_01.jpg/500px-Alexandre_Alekhine_01.jpg",
     "relations": [
-      "Akiba Rubinstein",
-      "Bobby Fischer",
-      "José Raúl Capablanca"
+      "José Raúl Capablanca",
+      "Garry Kasparov",
+      "Bobby Fischer"
     ],
     "themes": [
       "Chess"
@@ -31534,9 +30542,9 @@ const RAW_DATA = [
     "fullName": "José Raúl Capablanca y Graupera",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Jos%C3%A9_Ra%C3%BAl_Capablanca_1931.jpg",
     "relations": [
-      "Akiba Rubinstein",
       "Alexander Alekhine",
-      "Bobby Fischer"
+      "Akiba Rubinstein",
+      "Paavo Nurmi"
     ],
     "themes": [
       "Chess"
@@ -31557,9 +30565,9 @@ const RAW_DATA = [
     "fullName": "Akiba Kiwelowicz Rubinstein",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Akiba-RubinsteinC.jpg",
     "relations": [
-      "Alexander Alekhine",
-      "Bobby Fischer",
-      "José Raúl Capablanca"
+      "Nguyễn Ngọc Trường Sơn",
+      "José Raúl Capablanca",
+      "Gukesh D"
     ],
     "themes": [
       "Chess"
@@ -31580,9 +30588,9 @@ const RAW_DATA = [
     "fullName": "Judit Polgár",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Judit_Polg%C3%A1r_2013.jpg/500px-Judit_Polg%C3%A1r_2013.jpg",
     "relations": [
-      "Bobby Fischer",
       "Garry Kasparov",
-      "Magnus Carlsen"
+      "Magnus Carlsen",
+      "Ian Nepomniachtchi"
     ],
     "themes": [
       "Chess"
@@ -31603,9 +30611,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg/500px-Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg",
     "relations": [
+      "Kim Clijsters",
       "Roger Federer",
-      "Serena Williams",
-      "Steffi Graf"
+      "Simona Halep"
     ],
     "themes": [
       "Tennis"
@@ -31626,9 +30634,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kim_Clijsters.jpg/500px-Kim_Clijsters.jpg",
     "relations": [
+      "Simona Halep",
       "Roger Federer",
-      "Serena Williams",
-      "Steffi Graf"
+      "Petra Kvitova"
     ],
     "themes": [
       "Tennis"
@@ -31649,10 +30657,9 @@ const RAW_DATA = [
     "nationality": "Scandinavian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ingrid_Bergman_by_Whitey_Schafer_1940.jpg/500px-Ingrid_Bergman_by_Whitey_Schafer_1940.jpg",
     "relations": [
-      "Charlie Chaplin",
-      "Marilyn Monroe",
-      "Pablo Picasso",
-      "Roberto Rossellini"
+      "Roberto Rossellini",
+      "Agnès Varda",
+      "Tilda Swinton"
     ],
     "themes": []
   },
@@ -31671,9 +30678,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Nhất Linh",
-      "Vũ Trọng Phụng",
-      "Xuân Diệu"
+      "Bùi Giáng",
+      "Hàn Mặc Tử",
+      "Vũ Trọng Phụng"
     ],
     "themes": []
   },
@@ -31692,9 +30699,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Huy Cận",
-      "Thế Lữ",
-      "Xuân Diệu"
+      "Xuân Diệu",
+      "Hàn Mặc Tử",
+      "Phùng Cung"
     ],
     "themes": []
   },
@@ -31713,9 +30720,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png/500px-Old_portrait_of_writer_H%E1%BB%93_Bi%E1%BB%83u_Ch%C3%A1nh.png",
     "relations": [
-      "Nhất Linh",
-      "Tản Đà",
-      "Xuân Diệu"
+      "Phạm Duy Tốn",
+      "Hoàng Ngọc Phách",
+      "Virginia Woolf"
     ],
     "themes": []
   },
@@ -31734,9 +30741,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Nhất Linh",
-      "Vũ Trọng Phụng",
-      "Xuân Diệu"
+      "Spike Jonze",
+      "Chế Lan Viên",
+      "Trần Dần"
     ],
     "themes": []
   },
@@ -31756,8 +30763,8 @@ const RAW_DATA = [
     "nationality": "Italian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maria_Gaetana_Agnesi.jpg",
     "relations": [
-      "Galileo Galilei",
-      "Isaac Newton",
+      "Gottfried Wilhelm Leibniz",
+      "Lê Quý Đôn",
       "Leonhard Euler"
     ],
     "themes": []
@@ -31777,9 +30784,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "",
     "relations": [
-      "Albert Camus",
-      "Bertrand Russell",
-      "Jean-Paul Sartre"
+      "Alfred Tarski",
+      "Tadeusz Kotarbiński",
+      "Kazimierz Twardowski"
     ],
     "themes": []
   },
@@ -31799,9 +30806,9 @@ const RAW_DATA = [
     "nationality": "Italian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Moretto_da_Brescia_-_Portrait_of_Tullia_d%27Aragona_as_Salome_-_WGA16230.jpg",
     "relations": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Niccolò Machiavelli"
+      "Nicolaus Copernicus",
+      "Raphael",
+      "Adrian Le Roy"
     ],
     "themes": []
   },
@@ -31822,8 +30829,7 @@ const RAW_DATA = [
     "relations": [
       "Alexius Meinong",
       "Edmund Husserl",
-      "Kazimierz Twardowski",
-      "Wilhelm Wundt"
+      "Immanuel Kant"
     ],
     "themes": []
   },
@@ -31843,9 +30849,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Alfred_Tarski_1968_%28as-is%2C_cropped%29_%28cropped%29.jpg",
     "relations": [
-      "Jan Łukasiewicz",
-      "Kazimierz Twardowski",
-      "Kurt Gödel"
+      "Stanisław Leśniewski",
+      "Tadeusz Kotarbiński",
+      "Izydora Dąmbska"
     ],
     "themes": []
   },
@@ -31864,10 +30870,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jan_%C5%81ukasiewicz_NAC.jpg",
     "relations": [
-      "Alfred Tarski",
-      "Kazimierz Twardowski",
       "Stanisław Leśniewski",
-      "Tadeusz Kotarbiński"
+      "Tadeusz Kotarbiński",
+      "Kazimierz Twardowski"
     ],
     "themes": []
   },
@@ -31886,9 +30891,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stanislaw_Lesniewski_%2869447640%29_%28cropped%29.jpg",
     "relations": [
-      "Jan Łukasiewicz",
-      "Kazimierz Twardowski",
-      "Tadeusz Kotarbiński"
+      "Alfred Tarski",
+      "Tadeusz Kotarbiński",
+      "Jan Łukasiewicz"
     ],
     "themes": []
   },
@@ -31907,11 +30912,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kazimierz_Twardowski_1933.jpg",
     "relations": [
-      "Alfred Tarski",
-      "Franz Brentano",
       "Jan Łukasiewicz",
-      "Stanisław Leśniewski",
-      "Tadeusz Kotarbiński"
+      "Izydora Dąmbska",
+      "Stanisław Leśniewski"
     ],
     "themes": []
   },
@@ -31930,9 +30933,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tadeusz_Kotarbi%C5%84ski.jpg",
     "relations": [
-      "Jan Łukasiewicz",
-      "Kazimierz Twardowski",
-      "Stanisław Leśniewski"
+      "Alfred Tarski",
+      "Stanisław Leśniewski",
+      "Jan Łukasiewicz"
     ],
     "themes": []
   },
@@ -31951,9 +30954,9 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Alexius_Meinong_1900.jpg",
     "relations": [
-      "Bertrand Russell",
-      "Edmund Husserl",
-      "Franz Brentano"
+      "Franz Brentano",
+      "Henri Bergson",
+      "Edmund Husserl"
     ],
     "themes": []
   },
@@ -31972,9 +30975,9 @@ const RAW_DATA = [
     "nationality": "Others",
     "image": "",
     "relations": [
-      "Chu Hi",
-      "Khổng Tử",
-      "Mạnh Tử"
+      "Karen Horney",
+      "Immanuel Kant",
+      "George Washington"
     ],
     "themes": []
   },
@@ -31993,9 +30996,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "",
     "relations": [
-      "Gottfried Wilhelm Leibniz",
       "John Locke",
-      "René Descartes"
+      "Edmund Husserl",
+      "Izydora Dąmbska"
     ],
     "themes": []
   },
@@ -32014,9 +31017,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dorothy_Maud_Wrinch_1921.jpg/500px-Dorothy_Maud_Wrinch_1921.jpg",
     "relations": [
-      "Albert Einstein",
-      "Ernest Rutherford",
-      "Marie Curie"
+      "John von Neumann",
+      "Arthur Eddington",
+      "Werner Heisenberg"
     ],
     "themes": []
   },
@@ -32035,10 +31038,9 @@ const RAW_DATA = [
     "nationality": "Italian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Roberto_Rossellini.jpg",
     "relations": [
-      "Akira Kurosawa",
-      "Asia Argento",
       "Ingrid Bergman",
-      "Jean-Luc Godard"
+      "Agnès Varda",
+      "Werner Herzog"
     ],
     "themes": []
   },
@@ -32058,9 +31060,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "",
     "relations": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "Virginia Woolf"
+      "Marguerite Duras",
+      "Virginia Woolf",
+      "Margaret Atwood"
     ],
     "themes": [
       "Feminism Movement"
@@ -32081,9 +31083,9 @@ const RAW_DATA = [
     "nationality": "German",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wilhelm_Wundt.jpg",
     "relations": [
-      "Franz Brentano",
-      "Friedrich Nietzsche",
-      "Sigmund Freud"
+      "Alfred Adler",
+      "Karen Horney",
+      "Michel Foucault"
     ],
     "themes": [
       "Psychoanalysis"
@@ -32105,9 +31107,9 @@ const RAW_DATA = [
     "nationality": "Scandinavian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Mannerheim1940.jpg",
     "relations": [
-      "Charles de Gaulle",
-      "Franklin D. Roosevelt",
-      "Winston Churchill"
+      "Ion Antonescu",
+      "Jean de Lattre de Tassigny",
+      "Gerd von Rundstedt"
     ],
     "themes": [
       "World War II"
@@ -32128,9 +31130,9 @@ const RAW_DATA = [
     "nationality": "Scandinavian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tove_Jansson_with_flower_crown_001.tiff/lossy-page1-500px-Tove_Jansson_with_flower_crown_001.tiff.jpg",
     "relations": [
-      "August Strindberg",
-      "Edvard Munch",
-      "Henrik Ibsen"
+      "Ernest Hemingway",
+      "Vũ Khắc Khoan",
+      "René Goscinny"
     ],
     "themes": []
   },
@@ -32149,9 +31151,9 @@ const RAW_DATA = [
     "nationality": "Scandinavian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg",
     "relations": [
-      "Erling Haaland",
-      "Jari Litmanen",
-      "Kimi Raikkonen"
+      "José Raúl Capablanca",
+      "Nguyễn Trần Duy Nhất",
+      "Alexandra Trusova"
     ],
     "themes": []
   },
@@ -32170,9 +31172,9 @@ const RAW_DATA = [
     "nationality": "African",
     "image": "",
     "relations": [
-      "Cristiano Ronaldo",
-      "Mohamed Salah",
-      "Sadio Mané"
+      "Sadio Mané",
+      "Nguyễn Quang Hải",
+      "Igor Akinfeev"
     ],
     "themes": [
       "Football"
@@ -32194,9 +31196,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Khúc Hạo",
       "Kiều Công Tiễn",
-      "Ngô Quyền"
+      "Ngô Quyền",
+      "Ngô Xương Ngập"
     ],
     "themes": []
   },
@@ -32217,8 +31219,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Dương Đình Nghệ",
-      "Khúc Hạo",
-      "Ngô Quyền"
+      "Ngô Quyền",
+      "Ngô Xương Ngập"
     ],
     "themes": []
   },
@@ -32237,9 +31239,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cong_Vinh.png",
     "relations": [
-      "Lê Thụy Hải",
+      "Lionel Messi",
       "Nguyễn Quang Hải",
-      "Park Hang-seo"
+      "Lamine Yamal"
     ],
     "themes": [
       "Football"
@@ -32260,8 +31262,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Le_Thuy_Hai.png",
     "relations": [
-      "Lê Công Vinh",
-      "Nguyễn Quang Hải",
+      "Marcelo Bielsa",
+      "Henrique Calisto",
       "Park Hang-seo"
     ],
     "themes": [
@@ -32283,9 +31285,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
-      "Hoàng Xuân Vinh",
-      "Lê Quang Liêm",
-      "Nguyễn Thị Ánh Viên"
+      "Nguyễn Trần Duy Nhất",
+      "Venus Williams",
+      "Serena Williams"
     ],
     "themes": []
   },
@@ -32304,9 +31306,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/NGUY%E1%BB%84N_TR%E1%BA%A6N_DUY_NH%E1%BA%A4T_%E2%80%93_CALL_ME_BY_FIRE_VIETNAM_%E2%80%93_P2.jpg",
     "relations": [
-      "Hoàng Xuân Vinh",
-      "Lê Quang Liêm",
-      "Nguyễn Thị Ánh Viên"
+      "Victoria Azarenka",
+      "Phạm Văn Mách",
+      "Lee Chong Wei"
     ],
     "themes": []
   },
@@ -32326,7 +31328,6 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kim_Kardashian_West_2014.jpg",
     "relations": [
       "Donald Trump",
-      "Elon Musk",
       "Jimmy Fallon",
       "Jimmy Kimmel"
     ],
@@ -32347,9 +31348,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jimmy_Kimmel_June_2022.jpg",
     "relations": [
-      "Donald Trump",
       "Jimmy Fallon",
-      "Kim Kardashian"
+      "Kim Kardashian",
+      "Ricky Gervais"
     ],
     "themes": []
   },
@@ -32368,9 +31369,9 @@ const RAW_DATA = [
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jimmy_Fallon-TTL_4575_%2811046141004%29_%285x7_cropped_and_rotated%29.jpg",
     "relations": [
-      "Donald Trump",
       "Jimmy Kimmel",
-      "Kim Kardashian"
+      "Kim Kardashian",
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -32389,9 +31390,9 @@ const RAW_DATA = [
     "nationality": "Italian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Asia_Argento_in_2019.jpg",
     "relations": [
-      "Harvey Weinstein",
-      "Marilyn Monroe",
-      "Roberto Rossellini"
+      "Leonardo DiCaprio",
+      "Tilda Swinton",
+      "Edward Norton"
     ],
     "themes": []
   },
@@ -32411,9 +31412,9 @@ const RAW_DATA = [
     "nationality": "African",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png",
     "relations": [
+      "Nguyễn Chí Vịnh",
       "Che Guevara",
-      "Fidel Castro",
-      "Nelson Mandela"
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -32432,9 +31433,9 @@ const RAW_DATA = [
     "nationality": "Arab",
     "image": "",
     "relations": [
-      "Alexander Fleming",
-      "Katalin Karikó",
-      "Louis Pasteur"
+      "Đinh Núp",
+      "Yuri Gagarin",
+      "Anne Frank"
     ],
     "themes": []
   },
@@ -32454,9 +31455,9 @@ const RAW_DATA = [
     "nationality": "Latin American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mujica.jpg",
     "relations": [
-      "Che Guevara",
-      "Fidel Castro",
-      "Nelson Mandela"
+      "Donald Trump",
+      "Saddam Hussein",
+      "Kofi Annan"
     ],
     "themes": []
   }

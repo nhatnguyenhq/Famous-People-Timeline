@@ -2942,10 +2942,14 @@
       const q = ascii ? stripAll(rawQuery) : rawQuery.toLowerCase();
 
       return list.filter(p => {
+        const titleClean = stripAll(p.title);
+        const nameClean = stripAll(p.fullName || '');
         if (ascii) {
-          return p.titleClean.includes(q) || p.fullNameClean.includes(q) || p.primary_tag.toLowerCase().includes(q);
+          return titleClean.includes(q) || nameClean.includes(q) || p.primary_tag.toLowerCase().includes(q);
         } else {
-          return p.titleLower.includes(q) || p.fullNameLower.includes(q) || p.primary_tag.toLowerCase().includes(q);
+          const titleLower = p.title.toLowerCase();
+          const nameLower = (p.fullName || '').toLowerCase();
+          return titleLower.includes(q) || nameLower.includes(q) || p.primary_tag.toLowerCase().includes(q);
         }
       });
     }
@@ -3490,16 +3494,18 @@
 
       const ascii = isPureAscii(q);
       const qn = ascii ? stripAll(q) : q.toLowerCase();
+      const match = text => {
+        if (!text) return false;
+        if (ascii) {
+          return stripAll(text).includes(qn);
+        } else {
+          return text.toLowerCase().includes(qn);
+        }
+      };
 
       // Search across ALL people (not just visible)
       const results = people
-        .filter(p => {
-          if (ascii) {
-            return p.titleClean.includes(qn) || p.fullNameClean.includes(qn);
-          } else {
-            return p.titleLower.includes(qn) || p.fullNameLower.includes(qn);
-          }
-        })
+        .filter(p => match(p.title) || match(p.fullName))
         .slice(0, 8);
 
       if (results.length === 0) {
