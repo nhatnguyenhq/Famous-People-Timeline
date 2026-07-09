@@ -74,6 +74,10 @@ const THEMES_DEF = [
       {
         "id": "Bat dong chinh kien VN",
         "label": "Bất đồng chính kiến VN"
+      },
+      {
+        "id": "US Presidents",
+        "label": "US Presidents"
       }
     ]
   },
@@ -161,7 +165,7 @@ const RAW_DATA = [
     "relations": [
       "Thương Ưởng",
       "Montesquieu",
-      "Flora Tristan"
+      "Philippe II của Pháp"
     ],
     "themes": []
   },
@@ -201,9 +205,9 @@ const RAW_DATA = [
     "fullName": "Y Doãn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Portrait_of_Yi_Yin_1607.jpg",
     "relations": [
+      "Khương Tử Nha",
       "Thương Ưởng",
-      "Lã Bất Vi",
-      "Tào Tháo"
+      "Lã Bất Vi"
     ],
     "themes": []
   },
@@ -232,7 +236,7 @@ const RAW_DATA = [
     "born": -1150,
     "died": -1010,
     "title": "Khương Tử Nha",
-    "desc": "Nhân vật và cố vấn huyền thoại của Trung Quốc trong triều đại nhà Chu, Jiang Ziya được biết đến với các chiến lược quân sự và đóng góp vào việc lật đổ nhà Thương. Ông thường được miêu tả là một nhà hiền triết khôn ngoan và là một nhân vật nổi bật trong thần thoại Trung Quốc.",
+    "desc": "Khai quốc công thần, nhà quân sự kiêm chính trị gia lỗi lạc thời cổ đại Trung Quốc, người có công lớn nhất giúp nhà Chu lật đổ nhà Thương để lập ra triều đại mới. Ông được tôn là ông tổ của binh gia và là nhân vật huyền thoại có tầm ảnh hưởng sâu rộng trong văn hóa, đạo giáo và dân gian.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -243,9 +247,9 @@ const RAW_DATA = [
     "fullName": "Khương Tử Nha",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_of_Jiang_Ziya.jpg",
     "relations": [
-      "Hạng Vũ",
-      "Tư Mã Ý",
-      "Gia Cát Lượng"
+      "Trụ Vương",
+      "Ali Khamenei",
+      "Y Doãn"
     ],
     "themes": []
   },
@@ -264,9 +268,9 @@ const RAW_DATA = [
     "fullName": "Trụ Vương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg",
     "relations": [
+      "Khương Tử Nha",
       "Quan Vũ",
-      "Lý Bạch",
-      "Hoàng Phủ Tung"
+      "Lý Bạch"
     ],
     "themes": []
   },
@@ -285,9 +289,9 @@ const RAW_DATA = [
     "nationality": "Greek/Roman",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg",
     "relations": [
+      "Khương Tử Nha",
       "Edmund Husserl",
-      "Tư Mã Thiên",
-      "Ptolemy"
+      "Robin Williams"
     ],
     "themes": []
   },
@@ -307,8 +311,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Qihuangongguanzhong.jpg",
     "relations": [
       "Thương Ưởng",
-      "Ngô vương Hạp Lư",
-      "Tần Thủy Hoàng"
+      "Sở Trang vương",
+      "Ngô vương Hạp Lư"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -318,7 +322,7 @@ const RAW_DATA = [
     "born": -633,
     "died": -591,
     "title": "Sở Trang vương",
-    "desc": "Quốc vương nước Chu. Ông là một trong \"Năm bá chủ\" đã cố gắng giành quyền kiểm soát Trung Quốc trong thời Xuân Thu.",
+    "desc": "Vị vua kiệt xuất của nước Sở thời Xuân Thu, được vinh danh là một trong \"Xuân Thu Ngũ bá\". Ông nổi tiếng với tích \"Nhất minh kinh nhân\" (Một tiếng kêu làm kinh động lòng người), tiến hành cải cách nội chính, dẹp loạn bá thần và đánh bại cường quốc nước Tấn tại trận Bật, đưa nước Sở vươn lên đỉnh cao bá quyền.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -329,9 +333,9 @@ const RAW_DATA = [
     "fullName": "Sở Trang vương",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%A5%9A%E8%8E%8A%E7%8E%8B_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg/500px-%E6%A5%9A%E8%8E%8A%E7%8E%8B_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg",
     "relations": [
-      "Tề Hoàn công",
-      "Ngũ Tử Tư",
-      "Ngô vương Hạp Lư"
+      "Bạch Khởi",
+      "Liêm Pha",
+      "Lã Bất Vi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -374,8 +378,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/500px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
     "relations": [
       "Pythagoras",
-      "Socrates",
-      "Plato"
+      "Plato",
+      "Hypatia"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -397,8 +401,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lao_Zi.jpg",
     "relations": [
       "Khổng Tử",
-      "Mạnh Tử",
-      "Mặc Tử"
+      "Plato",
+      "Mạnh Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc",
@@ -420,8 +424,8 @@ const RAW_DATA = [
     "fullName": "Pythagoras",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/500px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
     "relations": [
-      "Aristotle",
       "Plato",
+      "Aristotle",
       "Plotinus"
     ],
     "themes": [
@@ -444,8 +448,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/500px-Gandhara_Buddha_%28tnm%29.jpeg",
     "relations": [
       "Thích Nhất Hạnh",
-      "Zeno xứ Citium",
-      "Plotinus"
+      "Plato",
+      "Zeno xứ Citium"
     ],
     "themes": []
   },
@@ -559,7 +563,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Heraclitus_b_4_compressed.jpg/500px-Heraclitus_b_4_compressed.jpg",
     "relations": [
       "Khổng Tử",
-      "Socrates",
+      "Plato",
       "Mạnh Tử"
     ],
     "themes": [
@@ -652,9 +656,9 @@ const RAW_DATA = [
     "fullName": "Anaxagoras",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Anaxagoras_Lebiedzki_Rahl.jpg/500px-Anaxagoras_Lebiedzki_Rahl.jpg",
     "relations": [
-      "Socrates",
       "Zeno xứ Elea",
-      "Democritos"
+      "Democritos",
+      "Socrates"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -676,8 +680,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg/500px-Portretbuste_van_Zeno_van_Elea_Paradigmata_graphices_variorum_artificum_%28serietitel%29%2C_RP-P-1907-4495.jpg",
     "relations": [
       "Anaxagoras",
-      "Mặc Tử",
-      "Aristotle"
+      "Socrates",
+      "Mặc Tử"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -687,7 +691,7 @@ const RAW_DATA = [
     "born": -470,
     "died": -399,
     "title": "Socrates",
-    "desc": "Triết gia Hy Lạp đến từ Athens, người được coi là người sáng lập triết học phương Tây và là một trong những nhà triết học đạo đức đầu tiên của truyền thống tư tưởng đạo đức.",
+    "desc": "Triết gia kiệt xuất thời kỳ Hy Lạp cổ đại, người đặt nền móng cho triết học phương Tây. Dù không để lại bất kỳ văn bản nào, tư tưởng của ông được lưu truyền qua các cuộc đối thoại do học trò Plato ghi chép. Ông nổi tiếng với phương pháp vấn đáp (Socratic method) và tinh thần sẵn sàng chịu án tử hình bằng độc dược để bảo vệ chân lý.",
     "color": "#5e239d",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -768,7 +772,7 @@ const RAW_DATA = [
     "relations": [
       "Anaxagoras",
       "Socrates",
-      "Mạnh Tử"
+      "Plato"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -778,7 +782,7 @@ const RAW_DATA = [
     "born": -427,
     "died": -348,
     "title": "Plato",
-    "desc": "Triết gia Hy Lạp thời kỳ Cổ điển, người được coi là nhà tư tưởng nền tảng trong triết học phương Tây và là người đổi mới đối thoại bằng văn bản và các hình thức biện chứng.",
+    "desc": "Đại triết gia Hy Lạp cổ đại, học trò xuất sắc nhất của Socrates và là thầy của Aristotle. Ông là người sáng lập Viện Hàn lâm tại Athens, cơ sở giáo dục đại học đầu tiên ở phương Tây. Tác phẩm kinh điển 'Cộng hòa' (The Republic) cùng học thuyết về các ý niệm (Theory of Forms) của ông đã định hình toàn bộ nền triết học, chính trị học và tư tưởng phương Tây suốt hàng ngàn năm.",
     "color": "#5e239d",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -812,9 +816,9 @@ const RAW_DATA = [
     "fullName": "Diogenes (Diogenes of Sinope, Diogenes the Cynic, Δiογένης)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg/500px-Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg",
     "relations": [
+      "Plato",
       "Zeno xứ Citium",
-      "Mạnh Tử",
-      "Plato"
+      "Mạnh Tử"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -883,7 +887,7 @@ const RAW_DATA = [
     "relations": [
       "Trương Nghi",
       "Phạm Lãi",
-      "Bạch Khởi"
+      "Tôn Tử"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -953,7 +957,7 @@ const RAW_DATA = [
     "relations": [
       "Mạnh Tử",
       "Trương Nghi",
-      "Bạch Khởi"
+      "Phạm Lãi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -975,8 +979,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/500px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
     "relations": [
       "Aristotle",
-      "Tăng Khánh Hồng",
-      "Liêm Pha"
+      "Bạch Khởi",
+      "Tăng Khánh Hồng"
     ],
     "themes": []
   },
@@ -997,7 +1001,7 @@ const RAW_DATA = [
     "relations": [
       "Khuất Nguyên",
       "Thương Ưởng",
-      "Tần Chiêu Tương vương"
+      "Lã Bất Vi"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1065,8 +1069,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/%E5%BB%89%E9%A0%97.jpg",
     "relations": [
       "Bạch Khởi",
-      "Hàn Tín",
-      "Tôn Tẫn"
+      "Sở Trang vương",
+      "Hàn Tín"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1087,8 +1091,8 @@ const RAW_DATA = [
     "fullName": "Tần Chiêu Tương vương",
     "image": "",
     "relations": [
-      "Bạch Khởi",
       "Thương Ưởng",
+      "Lã Bất Vi",
       "Liêm Pha"
     ],
     "themes": [
@@ -1120,7 +1124,7 @@ const RAW_DATA = [
     "born": -300,
     "died": -257,
     "title": "Bạch Khởi",
-    "desc": "Vị tướng nổi tiếng của nước Tần trong thời Chiến Quốc, Bai Qi được biết đến với năng lực quân sự và vô số chiến thắng, bao gồm cả Trận Changping nổi tiếng. Các chiến lược và khả năng lãnh đạo của ông đã góp phần đáng kể vào việc thống nhất Trung Quốc.",
+    "desc": "Danh tướng kiệt xuất của nước Tần thời Chiến Quốc, được mệnh danh là một trong \"Chiến Quốc tứ đại danh tướng\". Ông nổi danh bách chiến bách thắng với chiến thuật cầm quân lạnh lùng, quyết đoán, tiêu biểu là chiến thắng lẫy lừng tại trận Trường Bình đánh bại quân Triệu, góp phần đặt nền móng thống nhất thiên hạ cho nước Tần.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -1131,9 +1135,9 @@ const RAW_DATA = [
     "fullName": "Bạch Khởi (Bai Qi, 白起, Nhân đồ - god of slaughter)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bai_Qi.jpg",
     "relations": [
-      "Trương Nghi",
-      "Tôn Tẫn",
-      "Liêm Pha"
+      "Liêm Pha",
+      "Hàn Tín",
+      "Sở Trang vương"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1154,9 +1158,9 @@ const RAW_DATA = [
     "fullName": "Euclid",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/500px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
     "relations": [
+      "Archimedes",
       "Bernhard Riemann",
-      "Ptolemy",
-      "Archimedes"
+      "Ptolemy"
     ],
     "themes": []
   },
@@ -1164,7 +1168,7 @@ const RAW_DATA = [
     "born": -290,
     "died": -235,
     "title": "Lã Bất Vi",
-    "desc": "Thương gia người Trung Quốc và chính trị gia của nhà Tần trong thời kỳ đó thời Chiến Quốc, từng là tể tướng và nhiếp chính của vua Zheng (sau này là Tần Thủy Hoàng).",
+    "desc": "Thương nhân giàu có và là thừa tướng quyền lực bậc nhất của nước Tần thời kỳ cuối Chiến Quốc. Bằng mưu trí sâu xa, ông đã giúp Doanh Dị Nhân lên ngôi vua Tần và làm nhiếp chính cho Tần Thủy Hoàng thuở nhỏ, đồng thời là người chủ biên công trình bách khoa toàn thư đồ sộ 'Lã Thị Xuân Thu'.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -1177,8 +1181,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%E5%91%82%E4%B8%8D%E9%9F%8B.jpg",
     "relations": [
       "Tần Thủy Hoàng",
-      "Thương Ưởng",
-      "Lưu Bang"
+      "Sở Trang vương",
+      "Thương Ưởng"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1188,7 +1192,7 @@ const RAW_DATA = [
     "born": -287,
     "died": -212,
     "title": "Archimedes",
-    "desc": "Nhà toán học, vật lý học, kỹ sư, nhà thiên văn học và nhà phát minh người Hy Lạp đến từ thành phố cổ Syracuse ở Sicily.",
+    "desc": "Nhà toán học, vật lý học, kỹ sư kiêm nhà thiên văn học vĩ đại người Hy Lạp cổ đại. Ông là cha đẻ của các nguyên lý nền tảng trong thủy tĩnh học và tĩnh lực học, nổi tiếng với định luật lực đẩy mang tên mình (Lực đẩy Archimedes) và hàng loạt phát minh cơ khí đi trước thời đại bảo vệ quê hương Syracuse.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -1200,8 +1204,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg",
     "relations": [
       "Euclid",
-      "Tổ Xung Chi",
-      "Galileo Galilei"
+      "Leonardo da Vinci",
+      "Tổ Xung Chi"
     ],
     "themes": []
   },
@@ -1290,7 +1294,7 @@ const RAW_DATA = [
     "relations": [
       "Hạng Vũ",
       "Simo Häyhä",
-      "Phạm Ngũ Lão"
+      "Bạch Khởi"
     ],
     "themes": []
   },
@@ -1333,8 +1337,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/H%C3%A1n_X%C3%ACn.jpg",
     "relations": [
       "Hạng Vũ",
-      "Lưu Bang",
-      "Bạch Khởi"
+      "Bạch Khởi",
+      "Lưu Bang"
     ],
     "themes": [
       "Xuan Thu Chien Quoc"
@@ -1357,7 +1361,7 @@ const RAW_DATA = [
     "relations": [
       "Tôn Tẫn",
       "Trụ Vương",
-      "Trương Nghi"
+      "Khương Tử Nha"
     ],
     "themes": []
   },
@@ -1420,7 +1424,7 @@ const RAW_DATA = [
     "relations": [
       "Julius Caesar",
       "Ô Mã Nhi",
-      "Flora Tristan"
+      "George III"
     ],
     "themes": []
   },
@@ -1439,9 +1443,9 @@ const RAW_DATA = [
     "fullName": "Triệu Phi Yến",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Zhao_Feiyan.jpg/500px-Zhao_Feiyan.jpg",
     "relations": [
+      "An Lộc Sơn",
       "G-Dragon",
-      "Đổng Trác",
-      "Quắc Quốc phu nhân"
+      "Đổng Trác"
     ],
     "themes": []
   },
@@ -1460,9 +1464,9 @@ const RAW_DATA = [
     "fullName": "Arminius",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hermannsdenkmal_statue.jpg/500px-Hermannsdenkmal_statue.jpg",
     "relations": [
+      "Lý Quang Bật",
       "Germanicus",
-      "Viên Thiệu",
-      "Công Tôn Diễn"
+      "Viên Thiệu"
     ],
     "themes": []
   },
@@ -1527,7 +1531,7 @@ const RAW_DATA = [
     "relations": [
       "Thi Sách",
       "Otto von Bismarck",
-      "Trưng Nhị"
+      "Harry S. Truman"
     ],
     "themes": []
   },
@@ -1591,8 +1595,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/500px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
     "relations": [
       "Aristotle",
-      "Khổng Tử",
-      "Zeno xứ Citium"
+      "Plato",
+      "Khổng Tử"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -1676,9 +1680,9 @@ const RAW_DATA = [
     "fullName": "Marcus Aurelius (Marcus Aurelius Antoninus, Philosopher King, Meditations)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/500px-MSR-ra-61-b-1-DM.jpg",
     "relations": [
+      "Socrates",
       "Lão Tử",
-      "Plotinus",
-      "Zeno xứ Citium"
+      "Plotinus"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -2276,9 +2280,9 @@ const RAW_DATA = [
     "fullName": "Plotinus",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Plotinos.jpg/500px-Plotinos.jpg",
     "relations": [
+      "Plato",
       "Khổng Tử",
-      "Lão Tử",
-      "Zeno xứ Citium"
+      "Lão Tử"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -2370,7 +2374,7 @@ const RAW_DATA = [
     "relations": [
       "Plotinus",
       "Aristotle",
-      "Zeno xứ Elea"
+      "Plato"
     ],
     "themes": [
       "Ancient Philosophy"
@@ -2391,11 +2395,33 @@ const RAW_DATA = [
     "fullName": "Tổ Xung Chi",
     "image": "",
     "relations": [
+      "Gustav V",
       "Võ Tắc Thiên",
-      "Tào Tháo",
-      "Vương An Thạch"
+      "Mikhail Tal"
     ],
     "themes": []
+  },
+  {
+    "born": 466,
+    "died": 511,
+    "title": "Clovis I",
+    "fullName": "Clovis I (Chlodovech)",
+    "desc": "Vị vua đầu tiên của người Frank, người đã thống nhất toàn bộ các bộ tộc Frank dưới một nhà nước trị vì duy nhất. Việc ông cải đạo sang Công giáo La Mã đã đánh dấu một bước ngoặt quyết định trong lịch sử châu Âu, đặt nền móng vững chắc cho vương triều Merovingian và sự hình thành của nhà nước Pháp sau này.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Frankish",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Saint_Remy_baptise_Clovis_d%C3%A9tail.jpg",
+    "relations": [
+      "Philippe II của Pháp",
+      "Lê Chiêu Thống",
+      "Chu Hi"
+    ]
   },
   {
     "title": "Thánh Biển Đức",
@@ -2413,7 +2439,7 @@ const RAW_DATA = [
     "relations": [
       "Pope Gregory I",
       "Plotinus",
-      "Lương Thế Vinh"
+      "Plato"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Statue_of_Queen_Mother_%E1%BB%B6_Lan%2C_2013.png/500px-Statue_of_Queen_Mother_%E1%BB%B6_Lan%2C_2013.png"
@@ -2434,8 +2460,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Emperor_Ly_Nam_De.jpg",
     "relations": [
       "Nguyễn Thiên Tích",
-      "Lý Thái Tổ",
-      "An Dương Vương"
+      "Nguyễn Thượng Hiền",
+      "Lý Thái Tổ"
     ],
     "themes": []
   },
@@ -2517,9 +2543,9 @@ const RAW_DATA = [
     "fullName": "Li Jing",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%E6%9D%8E%E9%9D%96.jpg/500px-%E6%9D%8E%E9%9D%96.jpg",
     "relations": [
-      "Nguyễn Chích",
-      "Quách Tử Nghi",
-      "Nguyễn Cư Trinh"
+      "Trưởng Tôn Vô Kỵ",
+      "Bạch Khởi",
+      "Lý Quang Bật"
     ],
     "themes": []
   },
@@ -2569,7 +2595,7 @@ const RAW_DATA = [
     "born": 594,
     "died": 659,
     "title": "Trưởng Tôn Vô Kỵ",
-    "desc": "Quan chức hàng đầu nhà Đường và là anh rể của Hoàng đế Taizong, người đóng vai trò quan trọng trong triều đại Zhenguan cho đến khi ông mất quyền lực dưới thời Hoàng đế Gaozong.",
+    "desc": "Khai quốc công thần bậc nhất và là tể tướng quyền uy của nhà Đường. Là anh vợ và là mưu sĩ tâm phúc của Đường Thái Tông Lý Thế Dân, ông đóng vai trò then chốt trong Sự biến Huyền Vũ môn, góp phần to lớn kiến tạo nên thời kỳ Thái Bình thịnh trị 'Trinh Quán chi trị' trước khi bị Võ Tắc Thiên bức tử.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -2581,8 +2607,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Zhangsun_Wuji.jpg",
     "relations": [
       "Lý Thế Dân",
-      "Lý Bí",
-      "Võ Tắc Thiên"
+      "Võ Tắc Thiên",
+      "Lý Tĩnh"
     ],
     "themes": []
   },
@@ -2623,8 +2649,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Thang Duy",
-      "Oa Khoát Đài",
-      "Hạng Vũ"
+      "Robin Williams",
+      "Oa Khoát Đài"
     ],
     "themes": []
   },
@@ -2643,9 +2669,9 @@ const RAW_DATA = [
     "fullName": "Võ Tắc Thiên, Vũ Tắc Thiên",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/A_Tang_Dynasty_Empress_Wu_Zetian.JPG",
     "relations": [
-      "Bạch Cư Dị",
-      "Tổ Xung Chi",
-      "Tào Tháo"
+      "Trưởng Tôn Vô Kỵ",
+      "An Lộc Sơn",
+      "Bạch Cư Dị"
     ],
     "themes": []
   },
@@ -2665,8 +2691,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E7%8B%84%E4%BB%81%E6%9D%B0.jpg",
     "relations": [
       "Lý Thế Dân",
-      "Lý Bí",
-      "Võ Tắc Thiên"
+      "Võ Tắc Thiên",
+      "Phạm Xuân Ẩn"
     ],
     "themes": []
   },
@@ -2686,8 +2712,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Wang_Bo.jpg",
     "relations": [
       "Lý Bạch",
-      "Tô Đông Pha",
-      "Tăng Khánh Hồng"
+      "Lý Bí",
+      "Tô Đông Pha"
     ],
     "themes": []
   },
@@ -2729,7 +2755,7 @@ const RAW_DATA = [
     "relations": [
       "Đinh Núp",
       "Hạng Vũ",
-      "Sử Tư Minh"
+      "Maria Theresia"
     ],
     "themes": []
   },
@@ -2811,9 +2837,9 @@ const RAW_DATA = [
     "fullName": "Quách Tử Nghi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/%E5%94%90%E5%B0%9A%E7%88%B6%E6%B1%BE%E9%98%B3%E5%BF%A0%E6%AD%A6%E7%8E%8B%E5%83%8F.jpg",
     "relations": [
+      "Lý Quang Bật",
       "An Lộc Sơn",
-      "Sử Tư Minh",
-      "Trần Quang Diệu"
+      "Sử Tư Minh"
     ],
     "themes": []
   },
@@ -2842,7 +2868,7 @@ const RAW_DATA = [
     "born": 703,
     "died": 757,
     "title": "An Lộc Sơn",
-    "desc": "Vị tướng gốc Sogdian-Thổ Nhĩ Kỳ hỗn hợp nổi loạn đã tàn phá sức mạnh nhà Đường, làm thay đổi quỹ đạo của đế quốc Trung Quốc.",
+    "desc": "Tướng lĩnh mang hai dòng máu Đột Quyết và Túc Đặc (Sogdian), tiết độ sứ quyền lực của nhà Đường dưới thời Đường Huyền Tông. Lợi dụng sự sủng ái của triều đình, ông đã dấy binh tạo phản năm 755, gây ra cuộc Loạn An Sử tàn khốc kéo dài 8 năm, làm rung chuyển và suy yếu hoàn toàn nền móng của một trong những triều đại huy hoàng nhất lịch sử Trung Hoa.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -2854,8 +2880,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E5%AE%89%E7%A5%BF%E5%B1%B1.jpg",
     "relations": [
       "Quách Tử Nghi",
-      "Sử Tư Minh",
-      "Lý Quang Bật"
+      "Lý Quang Bật",
+      "Sử Tư Minh"
     ],
     "themes": []
   },
@@ -2863,7 +2889,7 @@ const RAW_DATA = [
     "born": 708,
     "died": 764,
     "title": "Lý Quang Bật",
-    "desc": "Tướng quân nhà Đường và nhà chiến lược phòng thủ biên giới, nổi tiếng với các chiến dịch trấn giữ khu vực phía Tây.",
+    "desc": "Danh tướng lỗi lạc thời trung kỳ nhà Đường, người cùng với Quách Tử Nghi có công lao lớn nhất trong việc dẹp tan Loạn An Sử. Ông được sử sách đánh giá là một vị tướng dũng cảm, mưu lược phi phàm, liên tiếp đánh bại quân phiến loạn tại các trận huyết chiến như trận Thái Nguyên và trận Hà Dương, giúp nhà Đường vượt qua bờ vực sụp đổ.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -2875,8 +2901,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Quách Tử Nghi",
-      "An Lộc Sơn",
-      "Lý Bí"
+      "Nguyễn Khoái",
+      "An Lộc Sơn"
     ],
     "themes": []
   },
@@ -2937,9 +2963,9 @@ const RAW_DATA = [
     "fullName": "Dương Quý phi",
     "image": "",
     "relations": [
-      "Lý Bí",
       "Lý Long Cơ",
-      "Lý Bạch"
+      "Lý Bạch",
+      "Hạng Vũ"
     ],
     "themes": []
   },
@@ -2947,7 +2973,7 @@ const RAW_DATA = [
     "born": 722,
     "died": 789,
     "title": "Lý Bí",
-    "desc": "Tể tướng nhà Đường và cố vấn hàng đầu dưới thời Hoàng đế Suzong, Daizong và Dezong. Ông đã từ chối các chức vụ chính thức trong nhiều năm cho đến tận sáu mươi. Một nhân vật gây tranh cãi, bị một số người coi là lập dị và phù phiếm, nhưng lại được những người khác đánh giá cao về chính sách đối ngoại và chiến lược quân sự của ông.",
+    "desc": "Đại thần, mưu sĩ và là nhà Đạo giáo kiệt xuất trải qua bốn triều vua nhà Đường (Huyền Tông, Túc Tông, Đại Tông, Đức Tông). Ông đóng vai trò cố vấn chiến lược tối cao đứng sau các quyết sách dẹp Loạn An Sử, đồng thời kiến tạo liên minh chiến lược \"Hòa Hồi Hột, chống Thổ Phồn\", giúp vương triều nhà Đường duy trì được sự tồn tại trong giai đoạn vô cùng nguy nan.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -2958,9 +2984,9 @@ const RAW_DATA = [
     "fullName": "Lý Bí",
     "image": "",
     "relations": [
-      "Hồng y Richelieu",
-      "Dương Quý phi",
-      "Gia Cát Lượng"
+      "Lý Quang Bật",
+      "Quách Tử Nghi",
+      "Gustav V"
     ],
     "themes": []
   },
@@ -2980,8 +3006,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/500px-Charlemagne_denier_Mayence_812_814.jpg",
     "relations": [
       "Charles Martel",
-      "Lý Bí",
-      "Dương Quý phi"
+      "Dương Quý phi",
+      "Lý Long Cơ"
     ],
     "themes": []
   },
@@ -3086,8 +3112,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Khúc Thừa Dụ",
-      "Hồ Chí Minh",
-      "Hà Huy Tập"
+      "Maria Theresia",
+      "Hồ Chí Minh"
     ],
     "themes": []
   },
@@ -3172,8 +3198,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Nguyễn Hoàng",
-      "Tào Tháo",
-      "Lã Bố"
+      "Đỗ Mười",
+      "Tào Tháo"
     ],
     "themes": []
   },
@@ -3215,7 +3241,7 @@ const RAW_DATA = [
     "relations": [
       "Đinh Tiên Hoàng",
       "Phạm Văn Nghị",
-      "Lê Đại Hành"
+      "Elizaveta Petrovna"
     ],
     "themes": []
   },
@@ -3276,9 +3302,9 @@ const RAW_DATA = [
     "fullName": "Sư Vạn Hạnh",
     "image": "",
     "relations": [
+      "Thành Thái",
       "Thích Tuệ Sỹ",
-      "Trần Anh Tông",
-      "Trịnh Tùng"
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -3444,9 +3470,9 @@ const RAW_DATA = [
     "fullName": "Vương An Thạch",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wang_Anshi.jpg",
     "relations": [
-      "Thương Ưởng",
-      "Hồng y Richelieu",
-      "Chu Hi"
+      "Maria Theresia",
+      "Rutherford B. Hayes",
+      "Gustav V"
     ],
     "themes": []
   },
@@ -3623,7 +3649,7 @@ const RAW_DATA = [
     "born": 1103,
     "died": 1142,
     "title": "Nhạc Phi",
-    "desc": "Tướng quân Trung Quốc sống dưới thời Nam Tống. Ông được nhiều người coi là anh hùng dân tộc ở Trung Quốc vì các chiến dịch quân sự chống lại triều đại Jurchen Jin.",
+    "desc": "Danh tướng chống quân Kim vĩ đại và là biểu tượng của lòng yêu nước, tận trung báo quốc thời Nam Tống. Với đạo quân \"Nhạc gia quân\" bách chiến bách thắng, ông đã nhiều lần đánh bại thiết kỵ của quân Kim, tiến sát đến cố đô Biện Kinh trước khi bị quyền thần Tần Cối hãm hại bằng các \"ngụy tạo chỉ dụ\" dẫn đến cái chết oan khuất tại ngục Đại Lý Tự.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -3635,10 +3661,32 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/20100215_Statue_of_Yue_Fei_at_Zhuxian_Town.jpg",
     "relations": [
       "Tần Cối",
-      "Tư Mã Ý",
-      "Châu Văn Tiếp"
+      "Bạch Khởi",
+      "Liêm Pha"
     ],
     "themes": []
+  },
+  {
+    "born": 1122,
+    "died": 1190,
+    "title": "Frederick Barbarossa",
+    "fullName": "Frederick I (Frederick Barbarossa / Friedrich I Barbarossa)",
+    "desc": "Hoàng đế vĩ đại của Đế quốc La Mã Thần thánh từ năm 1155 cho đến khi qua đời. Mang biệt danh Barbarossa (Râu Đỏ), ông đã thiết lập lại uy quyền của Đế quốc, không ngừng củng cố luật pháp La Mã và dấn thân vào các cuộc Thập tự chinh đẫm máu trước khi tử nạn một cách bi thảm do đuối nước tại Tiểu Á.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "German",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1188_Frederic_Barbarossa.jpg/500px-1188_Frederic_Barbarossa.jpg",
+    "relations": [
+      "Richard Sư Tử Tâm",
+      "Nhạc Phi",
+      "Thành Thái"
+    ]
   },
   {
     "born": 1130,
@@ -3655,9 +3703,9 @@ const RAW_DATA = [
     "fullName": "Chu Hi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chuhai_Japanese_Hard_Seltzer.jpg",
     "relations": [
-      "Khổng Tử",
-      "Stanisław Leśniewski",
-      "Vương An Thạch"
+      "Plato",
+      "Clovis I",
+      "Khổng Tử"
     ],
     "themes": []
   },
@@ -3697,9 +3745,9 @@ const RAW_DATA = [
     "fullName": "Richard Sư Tử Tâm",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Richard_coeur_de_lion.jpg/500px-Richard_coeur_de_lion.jpg",
     "relations": [
-      "Tôn Thất Thuyết",
-      "Jeanne d'Arc",
-      "Fedor von Bock"
+      "Frederick Barbarossa",
+      "Nhạc Phi",
+      "Tôn Thất Thuyết"
     ],
     "themes": []
   },
@@ -3718,9 +3766,9 @@ const RAW_DATA = [
     ],
     "nationality": "Other",
     "relations": [
+      "Cao Thắng",
       "Trương Liêu",
-      "Saladin",
-      "Nguyễn Chích"
+      "Bạch Khởi"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/King_Baldwin_IV.png"
@@ -3747,6 +3795,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1165,
+    "died": 1223,
+    "title": "Philippe II của Pháp",
+    "fullName": "Philippe II của Pháp (Philip II of France, Philip Augustus, Philippe Auguste)",
+    "desc": "Vua của Vương quốc Pháp thuộc vương triều Capet từ năm 1180 đến 1223. Ông là vị vua đầu tiên chính thức xưng danh hiệu 'Vua nước Pháp' (King of France), có công lớn trong việc thu hồi các vùng lãnh thổ rộng lớn từ Đế quốc Angevin của Anh và biến Pháp trở thành quốc gia thịnh vượng, quyền lực nhất châu Âu thời bấy giờ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "French",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg/500px-Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg",
+    "relations": [
+      "Maria Theresia",
+      "Clovis I",
+      "Louis XI"
+    ]
+  },
+  {
     "born": 1172,
     "died": 1216,
     "title": "Shota Rustaveli",
@@ -3761,9 +3831,9 @@ const RAW_DATA = [
     "fullName": "Shota Rustaveli",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jerusalem-Monastery-of-the-Cross-689.jpg/500px-Jerusalem-Monastery-of-the-Cross-689.jpg",
     "relations": [
-      "Fanny Mendelssohn",
-      "J. Robert Oppenheimer",
-      "Chu Nguyên Chương"
+      "Kazuo Ishiguro",
+      "Nguyễn Khoa Điềm",
+      "Fanny Mendelssohn"
     ],
     "themes": []
   },
@@ -3784,7 +3854,7 @@ const RAW_DATA = [
     "relations": [
       "Oa Khoát Đài",
       "Thành Cát Tư Hãn",
-      "Chu Nguyên Chương"
+      "Philippe II của Pháp"
     ],
     "themes": []
   },
@@ -3805,7 +3875,7 @@ const RAW_DATA = [
     "relations": [
       "Thành Cát Tư Hãn",
       "Sát Hợp Đài",
-      "Hồ Chí Minh"
+      "Philippe II của Pháp"
     ],
     "themes": []
   },
@@ -3825,8 +3895,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/T%C6%B0%E1%BB%A3ng_%C4%91%E1%BB%93ng_Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o_t%E1%BA%A1i_%C4%91%E1%BB%81n_Ki%E1%BA%BFp_B%E1%BA%A1c.jpg",
     "relations": [
       "Võ Nguyên Giáp",
-      "Trần Quang Khải",
-      "Trần Nhật Duật"
+      "Nguyễn Khoái",
+      "Trần Quang Khải"
     ],
     "themes": []
   },
@@ -3897,7 +3967,7 @@ const RAW_DATA = [
     "died": 1308,
     "title": "Nguyễn Khoái",
     "fullName": "Nguyễn Khoái",
-    "desc": "Danh tướng nhà Trần trong lịch sử Việt Nam, chỉ huy quân Thánh Dực lập công lớn đánh tan quân Nguyên Mông tại trận Chương Dương và trận Bạch Đằng năm 1288.",
+    "desc": "Danh tướng dũng cảm bậc nhất thời nhà Trần, người có công lớn trong hai cuộc kháng chiến chống quân Nguyên-Mông lần thứ hai (1285) và lần thứ ba (1288). Ông trực tiếp chỉ huy đội quân tinh nhuệ Thánh Dực giành chiến thắng vang dội tại trận Chương Dương và trận Bạch Đằng lịch sử.",
     "color": "#d32f2f",
     "position": "top",
     "primary_tag": "Military",
@@ -3907,9 +3977,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
+      "Trần Hưng Đạo",
       "Trần Quang Khải",
-      "Trần Nhật Duật",
-      "Trần Nhân Tông"
+      "Trần Nhật Duật"
     ],
     "themes": []
   },
@@ -4014,9 +4084,9 @@ const RAW_DATA = [
     "fullName": "Danh tướng Phạm Ngũ Lão",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%C4%90%E1%BB%81n_th%E1%BB%9D_%C4%90%E1%BB%A9c_Th%C3%A1nh_Tr%E1%BA%A7n%2C_Qu%E1%BA%ADn_1%2C_th%C3%A1ng_12_n%C4%83m_2021_%28ban_th%E1%BB%9D_%C4%90i%E1%BB%87n_S%C3%BAy_t%C6%B0%E1%BB%9Bng_qu%C3%A2n%29_%283%29.jpg",
     "relations": [
+      "Nguyễn Khoái",
       "Trần Quang Khải",
-      "Trần Nguyên Hãn",
-      "Trần Khánh Dư"
+      "Trần Nguyên Hãn"
     ],
     "themes": []
   },
@@ -4058,7 +4128,7 @@ const RAW_DATA = [
     "relations": [
       "Hàn Thuyên",
       "Trần Anh Tông",
-      "Nguyễn Khoái"
+      "Trần Nhật Duật"
     ],
     "themes": []
   },
@@ -4100,8 +4170,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Trần Nhân Tông",
-      "Trần Anh Tông",
-      "Chu Nguyên Chương"
+      "Maria Theresia",
+      "Trần Anh Tông"
     ],
     "themes": []
   },
@@ -4207,7 +4277,7 @@ const RAW_DATA = [
     "relations": [
       "Trần Anh Tông",
       "Trần Dụ Tông",
-      "Hàn Thuyên"
+      "Nguyễn Khoái"
     ],
     "themes": []
   },
@@ -4271,7 +4341,7 @@ const RAW_DATA = [
     "relations": [
       "Chu Nguyên Chương",
       "Cao Bá Quát",
-      "Trương Phúc Loan"
+      "Nguyễn Khoái"
     ],
     "themes": []
   },
@@ -4694,9 +4764,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thiên Tích",
     "image": "",
     "relations": [
+      "Đỗ Mười",
       "Lê Sát",
-      "Lê Ngân",
-      "Chu Văn An"
+      "Lê Ngân"
     ],
     "themes": []
   },
@@ -4778,9 +4848,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lương Thế Vinh",
-      "Đặng Đức Siêu",
-      "Ngô Tùng Châu"
+      "Lương Triều Vỹ",
+      "Diego Simeone",
+      "Lương Thế Vinh"
     ],
     "themes": [],
     "image": ""
@@ -4800,9 +4870,9 @@ const RAW_DATA = [
     "fullName": "Lương Nhữ Hộc",
     "image": "",
     "relations": [
+      "Louis XI",
       "Nguyễn Thiên Tích",
-      "Lê Thánh Tông",
-      "Ngô Thì Sĩ"
+      "Lê Thánh Tông"
     ],
     "themes": []
   },
@@ -4828,6 +4898,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1423,
+    "died": 1483,
+    "title": "Louis XI",
+    "fullName": "Louis XI (Louis Người nhền nhện, Louis the Prudent)",
+    "desc": "Quốc vương xảo quyệt và tài ba của Pháp thuộc vương triều Valois. Với biệt danh \"Người nhền nhện toàn cầu\", ông sử dụng các mưu lược ngoại giao, tình báo và mạng lưới điệp viên để triệt hạ quyền lực của giới quý tộc phong kiến, bao gồm cả kẻ thù lớn nhất là Charles Người liều lĩnh, từ đó củng cố vững chắc nền quân chủ chuyên chế trung ương tập quyền ở Pháp.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "French",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Louis_XI_%281423-1483%29.jpg/500px-Louis_XI_%281423-1483%29.jpg",
+    "relations": [
+      "Louis XIV",
+      "Maria Theresia",
+      "Gustav V"
+    ]
+  },
+  {
     "born": 1432,
     "died": 1481,
     "title": "Mehmed II",
@@ -4843,8 +4934,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg/500px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg",
     "relations": [
       "Thiên hoàng Minh Trị",
-      "Thoát Hoan",
-      "Yuri Gagarin"
+      "Louis XI",
+      "Thoát Hoan"
     ],
     "themes": []
   },
@@ -4905,9 +4996,9 @@ const RAW_DATA = [
     "nationality": "Italian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/500px-Sandro_Botticelli_083.jpg",
     "relations": [
-      "Izydora Dąmbska",
       "Leonardo da Vinci",
-      "Michelangelo"
+      "Alessandro Allori",
+      "Izydora Dąmbska"
     ],
     "themes": []
   },
@@ -4936,7 +5027,7 @@ const RAW_DATA = [
     "born": 1452,
     "died": 1519,
     "title": "Leonardo da Vinci",
-    "desc": "Polymath Ý nổi tiếng với những đóng góp của ông cho nghệ thuật, khoa học và kỹ thuật trong thời kỳ Phục hưng.",
+    "desc": "Nhà bác học, họa sĩ, nhà điêu khắc, kiến trúc sư kiêm kỹ sư thiên tài người Ý thời kỳ Phục hưng. Được coi là biểu tượng của tinh thần nhân văn Phục hưng, ông nổi tiếng toàn cầu với các kiệt tác hội họa như 'Mona Lisa', 'Bữa ăn tối cuối cùng' cùng hàng loạt bản vẽ phác thảo đi trước thời đại về hàng không và giải phẫu học.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -4947,9 +5038,9 @@ const RAW_DATA = [
     "fullName": "Leonardo da Vinci (Leonardo di ser Piero da Vinci)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png",
     "relations": [
-      "Sandro Botticelli",
       "Michelangelo",
-      "Adrian Le Roy"
+      "Sandro Botticelli",
+      "El Greco"
     ],
     "themes": []
   },
@@ -4990,8 +5081,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg",
     "relations": [
       "Babur",
-      "Mạc Thái Tổ",
-      "Toyotomi Hideyoshi"
+      "Maria Theresia",
+      "Mạc Thái Tổ"
     ],
     "themes": []
   },
@@ -5031,9 +5122,9 @@ const RAW_DATA = [
     "fullName": "Michelangelo (Michelangelo di Lodovico Buonarroti Simoni)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
     "relations": [
+      "Leonardo da Vinci",
       "Raphael",
-      "El Greco",
-      "Sandro Botticelli"
+      "El Greco"
     ],
     "themes": []
   },
@@ -5093,7 +5184,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "fullName": "Mạc Thái Tổ (Mạc Đăng Dung, Mac Dang Dung, nhà Mạc)",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_Nan_Lai_Wei_Tu_Ce.JPG/500px-An_Nan_Lai_Wei_Tu_Ce.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/%E8%8E%AB%E5%A4%AA%E7%A5%96%C2%B7%E5%AE%89%E5%8D%97%E4%BE%86%E5%A8%81%E5%9C%96%E5%86%8A.jpeg",
     "relations": [
       "Lê Uy Mục",
       "Lê Tương Dực",
@@ -5159,8 +5250,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg",
     "relations": [
       "Michelangelo",
-      "El Greco",
-      "Nicolaus Copernicus"
+      "Caravaggio",
+      "El Greco"
     ],
     "themes": []
   },
@@ -5180,8 +5271,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
     "relations": [
       "Yermak Timofeyevich",
-      "Phạm Tuân",
-      "Napoleon Bonaparte"
+      "Maria Theresia",
+      "Phạm Tuân"
     ],
     "themes": []
   },
@@ -5311,6 +5402,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1503,
+    "died": 1540,
+    "title": "Parmigianino",
+    "fullName": "Parmigianino (Girolamo Francesco Maria Mazzola)",
+    "desc": "Danh họa và nghệ sĩ khắc bản in người Ý, một trong những đại diện tiêu biểu nhất của trường phái kiểu cách (Mannerism) đầu thế kỷ 16. Các tác phẩm của ông, tiêu biểu như 'Đức Mẹ cổ dài', nổi tiếng với tỷ lệ nhân vật được kéo dài đầy thanh tao, ánh sáng phi thực tế và vẻ đẹp tao nhã đầy bí ẩn.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Parmigianino_Selfportrait.jpg/500px-Parmigianino_Selfportrait.jpg",
+    "relations": [
+      "Jean-Honoré Fragonard",
+      "Massimo Stanzione",
+      "Alessandro Allori"
+    ]
+  },
+  {
     "born": 1510,
     "died": 1556,
     "title": "Tullia d'Aragona",
@@ -5389,9 +5501,9 @@ const RAW_DATA = [
     "fullName": "Adrian Le Roy",
     "image": "",
     "relations": [
+      "Alessandro Allori",
       "Claudio Monteverdi",
-      "John Cage",
-      "Sandro Botticelli"
+      "John Cage"
     ],
     "themes": []
   },
@@ -5433,7 +5545,7 @@ const RAW_DATA = [
     "relations": [
       "Georg W. F. Hegel",
       "Virginia Woolf",
-      "Toyotomi Hideyoshi"
+      "Alessandro Allori"
     ],
     "themes": []
   },
@@ -5543,6 +5655,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1535,
+    "died": 1607,
+    "title": "Alessandro Allori",
+    "fullName": "Alessandro Allori",
+    "desc": "Danh họa người Ý xuất sắc của thời kỳ Hậu Phục hưng và trường phái kiểu cách (Mannerism) tại Florence. Là học trò xuất sắc nhất của Agnolo Bronzino, ông nổi tiếng với những bức bích họa tôn giáo hoành tráng và các bức chân dung tinh xảo mang đậm tính hàn lâm và sự trau chuốt về mặt hình thể.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Italian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Self-portrait_by_Alessandro_Allori.jpg/500px-Self-portrait_by_Alessandro_Allori.jpg",
+    "relations": [
+      "Sandro Botticelli",
+      "El Greco",
+      "Parmigianino"
+    ]
+  },
+  {
     "born": 1537,
     "died": 1554,
     "title": "Jane Grey",
@@ -5579,8 +5712,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png",
     "relations": [
       "Oda Nobunaga",
-      "Đào Duy Từ",
-      "Galileo Galilei"
+      "Phan Thanh Giản",
+      "Đào Duy Từ"
     ],
     "themes": []
   },
@@ -5600,8 +5733,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg/500px-El_Greco_-_Portrait_of_a_Man_-_WGA10554.jpg",
     "relations": [
       "Michelangelo",
-      "Raphael",
-      "Peter Paul Rubens"
+      "Leonardo da Vinci",
+      "Alessandro Allori"
     ],
     "themes": []
   },
@@ -5662,9 +5795,9 @@ const RAW_DATA = [
     "fullName": "Marguerite de Valois",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Reine_Marguerite_de_Valois.jpg",
     "relations": [
+      "Maria Theresia",
       "Trịnh Tùng",
-      "Hồng y Richelieu",
-      "Napoleon Bonaparte"
+      "George III"
     ],
     "themes": []
   },
@@ -5749,8 +5882,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
     "relations": [
       "Johannes Kepler",
-      "Bernhard Riemann",
-      "Toyotomi Hideyoshi"
+      "William Herschel",
+      "Bernhard Riemann"
     ],
     "themes": []
   },
@@ -5823,7 +5956,7 @@ const RAW_DATA = [
     "born": 1571,
     "died": 1610,
     "title": "Caravaggio",
-    "desc": "Họa sĩ người Ý hoạt động ở Rome phần lớn cuộc đời mình. Những bức tranh của ông kết hợp sự quan sát thực tế về trạng thái con người, cả về thể chất và cảm xúc, với việc sử dụng ánh sáng một cách ấn tượng.",
+    "desc": "Danh họa người Ý vĩ đại thời kỳ cuối Phục hưng và đầu Baroque, người tiên phong sử dụng kỹ thuật tương phản sáng tối cực độ (chiaroscuro/tenebrism). Các tác phẩm của ông mang tính đột phá nhờ sự quan sát tả thực đến trần trụi về con người và cảm xúc tôn giáo tôn nghiêm kết hợp tính kịch tính mạnh mẽ.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -5835,8 +5968,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
     "relations": [
       "Massimo Stanzione",
-      "Gottfried Wilhelm Leibniz",
-      "Johannes Vermeer"
+      "Claudio Monteverdi",
+      "Peter Paul Rubens"
     ],
     "themes": []
   },
@@ -5877,8 +6010,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "William Shakespeare",
-      "Anton Chekhov",
-      "Lê Chiêu Thống"
+      "Thái Kỳ",
+      "Anton Chekhov"
     ],
     "themes": []
   },
@@ -5897,9 +6030,9 @@ const RAW_DATA = [
     "fullName": "Peter Paul Rubens",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Peter_Paul_Rubens_-_Self-portrait_-_RH.S.180_-_Rubenshuis_%28after_restoration%29.jpg",
     "relations": [
-      "Luca Giordano",
-      "Tôn Thất Thuyết",
-      "Rama V"
+      "Caravaggio",
+      "Phan Thanh Giản",
+      "Tôn Thất Thuyết"
     ],
     "themes": []
   },
@@ -5939,9 +6072,9 @@ const RAW_DATA = [
     "fullName": "Viên Sùng Hoán",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%E8%A2%81%E5%B4%87%E7%85%A5%28Yuanchonghuan%29.jpg",
     "relations": [
+      "Nhạc Phi",
       "Gustav II Adolf",
-      "Friedrich II",
-      "Nikolai II"
+      "Friedrich II"
     ],
     "themes": []
   },
@@ -5962,7 +6095,7 @@ const RAW_DATA = [
     "relations": [
       "Caravaggio",
       "Agnès Varda",
-      "Diego Velázquez"
+      "Parmigianino"
     ],
     "themes": []
   },
@@ -5983,7 +6116,7 @@ const RAW_DATA = [
     "relations": [
       "Hồng y Mazarin",
       "Oliver Cromwell",
-      "Lý Bí"
+      "Napoleon Bonaparte"
     ],
     "themes": []
   },
@@ -6002,9 +6135,9 @@ const RAW_DATA = [
     "fullName": "Hoàng Thái Cực",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E5%AE%97%E5%B4%87%E5%BE%B7%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E5%AE%97%E5%B4%87%E5%BE%B7%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
     "relations": [
+      "Maria Theresia",
       "Nguyễn Hoàng",
-      "Lý Tự Thành",
-      "Hồng y Richelieu"
+      "Lý Tự Thành"
     ],
     "themes": []
   },
@@ -6193,7 +6326,7 @@ const RAW_DATA = [
     "relations": [
       "Johannes Vermeer",
       "Diego Velázquez",
-      "Anthony van Dyck"
+      "Luca Giordano"
     ],
     "themes": []
   },
@@ -6234,8 +6367,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carlo_Dolci_002.jpg",
     "relations": [
       "Massimo Stanzione",
-      "Peter Paul Rubens",
-      "Molière"
+      "Caravaggio",
+      "Peter Paul Rubens"
     ],
     "themes": []
   },
@@ -6317,9 +6450,9 @@ const RAW_DATA = [
     "fullName": "Margaret Cavendish",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Margaret_cavendish_from_Luminarium.jpg",
     "relations": [
+      "Éric-Emmanuel Schmitt",
       "Lưu Từ Hân",
-      "H. G. Wells",
-      "John Locke"
+      "H. G. Wells"
     ],
     "themes": []
   },
@@ -6382,8 +6515,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ChPerrault.jpg/500px-ChPerrault.jpg",
     "relations": [
       "Jean de La Fontaine",
-      "Agnès Varda",
-      "Ninon de Lenclos"
+      "Gottlob Frege",
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -6425,7 +6558,7 @@ const RAW_DATA = [
     "relations": [
       "John Locke",
       "Edmund Husserl",
-      "Izydora Dąmbska"
+      "Jean-Honoré Fragonard"
     ],
     "themes": []
   },
@@ -6465,9 +6598,9 @@ const RAW_DATA = [
     "fullName": "Johannes Vermeer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/500px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
     "relations": [
-      "Caravaggio",
       "Luca Giordano",
-      "Molière"
+      "Molière",
+      "Trụ Vương"
     ],
     "themes": []
   },
@@ -6496,7 +6629,7 @@ const RAW_DATA = [
     "born": 1634,
     "died": 1705,
     "title": "Luca Giordano",
-    "desc": "Họa sĩ người Ý thời kỳ cuối thời Baroque nổi tiếng với tốc độ và sản lượng dồi dào các tác phẩm tôn giáo và thần thoại năng động.",
+    "desc": "Danh họa và nghệ sĩ khắc bản in vĩ đại người Ý thời kỳ Baroque, nổi tiếng với biệt danh \"Luca fa presto\" (Luca vẽ nhanh) nhờ tốc độ sáng tác phi thường. Các kiệt tác bích họa tôn giáo hoành tráng và đầy màu sắc của ông đã để lại dấu ấn rực rỡ tại hàng loạt nhà thờ, cung điện khắp Naples, Rome, Florence và Madrid.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -6507,9 +6640,9 @@ const RAW_DATA = [
     "fullName": "Luca Giordano",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Luca_Giordano_Fapresto.jpg",
     "relations": [
-      "Peter Paul Rubens",
+      "Alessandro Allori",
       "Johannes Vermeer",
-      "Molière"
+      "Massimo Stanzione"
     ],
     "themes": []
   },
@@ -6530,7 +6663,7 @@ const RAW_DATA = [
     "relations": [
       "Phạm Ngũ Lão",
       "Trần Quang Khải",
-      "Jan III Sobieski"
+      "Friedrich Wilhelm von Seydlitz"
     ],
     "themes": []
   },
@@ -6593,7 +6726,7 @@ const RAW_DATA = [
     "relations": [
       "Madame de Montespan",
       "Madame de Maintenon",
-      "Anne d'Autriche"
+      "Louis XI"
     ],
     "themes": []
   },
@@ -6697,9 +6830,9 @@ const RAW_DATA = [
     "fullName": "Matsuo Bashō",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Basho_by_Morikawa_Kyoriku_%281656-1715%29.jpg",
     "relations": [
+      "Đỗ Mười",
       "Vũ Trinh",
-      "Aristotle",
-      "E. M. Forster"
+      "Aristotle"
     ],
     "themes": []
   },
@@ -6889,8 +7022,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/T%C6%B0%E1%BB%A3ng_M%E1%BA%A1c_C%E1%BB%ADu.jpg/500px-T%C6%B0%E1%BB%A3ng_M%E1%BA%A1c_C%E1%BB%ADu.jpg",
     "relations": [
       "Gia Long",
-      "Minh Mạng",
-      "Bùi Bằng Đoàn"
+      "Phan Thanh Giản",
+      "Minh Mạng"
     ],
     "themes": []
   },
@@ -6952,7 +7085,7 @@ const RAW_DATA = [
     "relations": [
       "Boris Petrovich Sheremetev",
       "Mikhail Kutuzov",
-      "Gustav II Adolf"
+      "Friedrich Wilhelm von Seydlitz"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Apraxin.jpg"
@@ -6993,9 +7126,9 @@ const RAW_DATA = [
     "fullName": "Pyotr Đại đế",
     "image": "",
     "relations": [
+      "Elizaveta Petrovna",
       "Càn Long",
-      "Menelik II",
-      "Hồ Chí Minh"
+      "Menelik II"
     ],
     "themes": []
   },
@@ -7079,9 +7212,9 @@ const RAW_DATA = [
     "fullName": "Jean-Antoine Watteau",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/%28Treviso%29_The_painter_Antoine_Watteau_by_Rosalba_Carriera_-_Museo_civico_di_Santa_Caterina.jpg",
     "relations": [
-      "Tô Đông Pha",
-      "Antonio Vivaldi",
-      "Paul Gauguin"
+      "Paul Gauguin",
+      "Jean-Honoré Fragonard",
+      "Tô Đông Pha"
     ],
     "themes": []
   },
@@ -7302,6 +7435,27 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1709,
+    "died": 1762,
+    "title": "Elizaveta Petrovna",
+    "fullName": "Elizaveta Petrovna (Yelizaveta Petrovna, Nữ hoàng Elizabeth của Nga)",
+    "desc": "Nữ hoàng uy quyền của Đế quốc Nga từ năm 1741 đến 1762, con gái của ngài Pyotr Đại đế. Triều đại của bà được đánh dấu bằng sự ổn định chính trị, sự lên ngôi của văn hóa Khai sáng tại Nga, thành lập Đại học Moscow và những chiến thắng vang dội trong cuộc Chiến tranh Bảy năm trước nước Phổ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Russian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Elizabeth_of_Russia_by_V.Eriksen.jpg/500px-Elizabeth_of_Russia_by_V.Eriksen.jpg",
+    "relations": [
+      "Maria Theresia",
+      "Friedrich II",
+      "Nguyễn Bặc"
+    ]
+  },
+  {
     "born": 1710,
     "died": 1774,
     "title": "Louis XV",
@@ -7317,8 +7471,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg/500px-Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg",
     "relations": [
       "Louis XVI",
-      "Georges Danton",
-      "Trương Phúc Loan"
+      "Elizaveta Petrovna",
+      "Maximilien Robespierre"
     ],
     "themes": []
   },
@@ -7357,9 +7511,9 @@ const RAW_DATA = [
     "fullName": "Càn Long",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%E6%B8%85_%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
     "relations": [
+      "Elizaveta Petrovna",
       "Khang Hi",
-      "Lê Chiêu Thống",
-      "Võ Tắc Thiên"
+      "Philippe II của Pháp"
     ],
     "themes": []
   },
@@ -7442,9 +7596,9 @@ const RAW_DATA = [
     "fullName": "Friedrich II",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/500px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
     "relations": [
-      "Càn Long",
-      "Winston Churchill",
-      "George Washington"
+      "Elizaveta Petrovna",
+      "Maria Theresia",
+      "Càn Long"
     ],
     "themes": []
   },
@@ -7486,9 +7640,30 @@ const RAW_DATA = [
     "relations": [
       "Châu Văn Tiếp",
       "Võ Tánh",
-      "Nguyễn Huy Tự"
+      "Mario Puzo"
     ],
     "themes": []
+  },
+  {
+    "born": 1717,
+    "died": 1780,
+    "title": "Maria Theresia",
+    "fullName": "Maria Theresia (Maria Theresa Walburga Amalia Christina của Áo)",
+    "desc": "Nữ hoàng duy nhất cai trị lãnh thổ thừa kế của Vương triều Habsburg và là một trong những quân vương quyền lực nhất châu Âu thế kỷ 18. Bà đã thực hiện hàng loạt cải cách sâu rộng về tài chính, giáo dục và quân sự, củng cố vị thế vững chắc của Đế quốc Áo trên trường quốc tế bất chấp nhiều cuộc chiến tranh tàn khốc.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Austrian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiserin_Maria_Theresia_%28HRR%29.jpg/500px-Kaiserin_Maria_Theresia_%28HRR%29.jpg",
+    "relations": [
+      "Napoleon Bonaparte",
+      "Elizaveta Petrovna",
+      "Otto von Bismarck"
+    ]
   },
   {
     "born": 1718,
@@ -7507,8 +7682,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maria_Gaetana_Agnesi.jpg",
     "relations": [
       "Gottfried Wilhelm Leibniz",
-      "Lê Quý Đôn",
-      "Leonhard Euler"
+      "Giuseppe Peano",
+      "Lê Quý Đôn"
     ],
     "themes": []
   },
@@ -7528,8 +7703,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Trương Phúc Loan",
-      "Minh Mạng",
-      "Cao Bá Quát"
+      "Maria Theresia",
+      "Elizaveta Petrovna"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tr%E1%BB%8Bnh_Doanh.png"
@@ -7554,6 +7729,27 @@ const RAW_DATA = [
       "Immanuel Kant"
     ],
     "themes": []
+  },
+  {
+    "born": 1721,
+    "died": 1773,
+    "title": "Friedrich Wilhelm von Seydlitz",
+    "fullName": "Friedrich Wilhelm von Seydlitz",
+    "desc": "Tướng chỉ huy kỵ binh xuất chúng người Phổ dưới triều đại vua Friedrich Đại đế. Ông được đánh giá là một trong những chỉ huy kỵ binh kiệt xuất nhất lịch sử quân sự châu Âu, góp công quyết định mang lại những chiến thắng vang dội cho quân đội Phổ tại các trận đánh kinh điển như Rossbach và Zorndorf.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "German",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/FriedrichWilhelmvonSeydlitz.jpg/500px-FriedrichWilhelmvonSeydlitz.jpg",
+    "relations": [
+      "Châu Văn Tiếp",
+      "Bạch Khởi",
+      "Trần Quang Diệu"
+    ]
   },
   {
     "born": 1723,
@@ -7592,8 +7788,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Danh-y-le-huu-trac.jpg",
     "relations": [
       "Edmund Husserl",
-      "Tự Đức",
-      "Phạm Duy Tốn"
+      "Socrates",
+      "Đặng Văn Ngữ"
     ],
     "themes": []
   },
@@ -7675,9 +7871,9 @@ const RAW_DATA = [
     "fullName": "Yekaterina II Đại đế",
     "image": "",
     "relations": [
-      "Càn Long",
-      "Khang Hi",
-      "George Washington"
+      "Thomas Jefferson",
+      "Maria Theresia",
+      "Càn Long"
     ],
     "themes": []
   },
@@ -7719,11 +7915,57 @@ const RAW_DATA = [
     "fullName": "George Washington",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
     "relations": [
-      "Otto von Bismarck",
-      "Harry Truman",
-      "Hồ Chí Minh"
+      "James Madison",
+      "Harry S. Truman",
+      "Rutherford B. Hayes"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
+  },
+  {
+    "born": 1732,
+    "died": 1806,
+    "title": "Jean-Honoré Fragonard",
+    "fullName": "Jean-Honoré Fragonard (Jean-Honore Fragonard)",
+    "desc": "Danh họa vĩ đại người Pháp và là một trong những đại diện tiêu biểu nhất của trường phái Rococo. Tác phẩm của ông, tiêu biểu như bức 'The Swing' (Cái đu), nổi tiếng với sự thanh tao, màu sắc rực rỡ, nét cọ phóng khoáng và chủ đề tình yêu lãng mạn pha chút nhục dục, phản ánh hoàn hảo tinh thần của giới quý tộc Pháp trước Cách mạng.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "French",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg/500px-Jean-Honor%C3%A9_Fragonard_-_Self-portrait_with_smiling_face.jpg",
+    "relations": [
+      "Parmigianino",
+      "Thâm Tâm",
+      "Marguerite Gérard"
+    ]
+  },
+  {
+    "born": 1735,
+    "died": 1826,
+    "title": "John Adams",
+    "fullName": "John Adams",
+    "desc": "Tổng thống thứ 2 và Phó Tổng thống đầu tiên của Hoa Kỳ, một trong những Người cha Lập quốc quan trọng nhất. Là một luật sư và nhà lý luận chính trị uyên bác, ông đóng vai trò dẫn dắt phong trào giành độc lập từ tay người Anh và tham gia soạn thảo Hiến pháp Massachusetts, một mô hình mẫu cho Hiến pháp Hoa Kỳ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/John_Adams_Portrait.jpg/500px-John_Adams_Portrait.jpg",
+    "relations": [
+      "John Quincy Adams",
+      "George Washington",
+      "Abigail Adams"
+    ]
   },
   {
     "born": 1736,
@@ -7761,9 +8003,9 @@ const RAW_DATA = [
     "fullName": "James Watt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/500px-Watt_James_von_Breda.jpg",
     "relations": [
-      "William Herschel",
       "Charles-Augustin de Coulomb",
-      "Alessandro Volta"
+      "Alessandro Volta",
+      "Johannes Kepler"
     ],
     "themes": []
   },
@@ -7792,7 +8034,7 @@ const RAW_DATA = [
     "born": 1738,
     "died": 1822,
     "title": "William Herschel",
-    "desc": "Nhà thiên văn học người Anh gốc Đức đã phát hiện ra hành tinh Sao Thiên Vương và đóng góp đáng kể cho thiên văn học sao.",
+    "desc": "Nhà thiên văn học kiêm nhạc sĩ người Anh gốc Đức vĩ đại thế kỷ 18. Ông nổi tiếng toàn cầu nhờ việc phát hiện ra hành tinh Sao Thiên Vương (Uranus) năm 1781, khám phá ra bức xạ hồng ngoại, đồng thời chế tạo ra các kính viễn vọng phản xạ có độ mở lớn giúp lập bản đồ các tinh vân và cấu trúc của Dải Ngân hà.",
     "color": "#247ba0",
     "position": "bottom",
     "primary_tag": "Science",
@@ -7803,9 +8045,9 @@ const RAW_DATA = [
     "fullName": "William Herschel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/500px-William_Herschel01.jpg",
     "relations": [
-      "James Watt",
-      "Charles-Augustin de Coulomb",
-      "Joseph-Louis Lagrange"
+      "Galileo Galilei",
+      "Antoine Lavoisier",
+      "Arcangelo Corelli"
     ],
     "themes": []
   },
@@ -7828,6 +8070,27 @@ const RAW_DATA = [
       "Lê Đình Lý"
     ],
     "themes": []
+  },
+  {
+    "born": 1738,
+    "died": 1820,
+    "title": "George III",
+    "fullName": "George III (George William Frederick, Vua George III của Anh)",
+    "desc": "Quốc vương của Vương quốc Anh và Ireland từ năm 1760 đến 1820. Triều đại kéo dài kỷ lục của ông chứng kiến những biến động lịch sử vĩ đại, bao gồm cuộc Chiến tranh Bảy năm, sự độc lập của Hoa Kỳ và chiến thắng cuối cùng trước Đế chế Pháp của Napoleon, dù cuối đời ông phải chống chọi với căn bệnh tâm thần nghiêm trọng.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "British",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/500px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+    "relations": [
+      "Gustav V",
+      "James Madison",
+      "Ngô Tùng Châu"
+    ]
   },
   {
     "title": "Trịnh Sâm",
@@ -7911,8 +8174,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg/500px-David_-_Portrait_of_Monsieur_Lavoisier_%28cropped%292.jpg",
     "relations": [
       "Charles-Augustin de Coulomb",
-      "Albert Einstein",
-      "Johannes Kepler"
+      "William Herschel",
+      "Albert Einstein"
     ],
     "themes": []
   },
@@ -7962,6 +8225,30 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1743,
+    "died": 1826,
+    "title": "Thomas Jefferson",
+    "fullName": "Thomas Jefferson",
+    "desc": "Tổng thống thứ 3 của Hoa Kỳ, một trong những Người cha Lập quốc và là tác giả chính của Bản Tuyên ngôn Độc lập Hoa Kỳ năm 1776. Là một nhà tư tưởng Khai sáng, ông đã kiến tạo nền dân chủ đại diện, thực hiện Thương vụ mua Louisiana mở rộng lãnh thổ Mỹ và thành lập Đại học Virginia danh giá.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Philosophy"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/500px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+    "relations": [
+      "James Madison",
+      "Martin Van Buren",
+      "John Adams"
+    ]
+  },
+  {
     "born": 1744,
     "died": 1803,
     "title": "Johann Gottfried Herder",
@@ -7984,6 +8271,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1744,
+    "died": 1818,
+    "title": "Abigail Adams",
+    "fullName": "Abigail Adams",
+    "desc": "Đệ nhất phu nhân thứ hai của Hoa Kỳ, vợ của Tổng thống John Adams và mẹ của Tổng thống John Quincy Adams. Bà được lịch sử ghi nhận là một trong những cố vấn chính trị có ảnh hưởng nhất thời kỳ lập quốc, nổi tiếng qua những bức thư sắc sảo kêu gọi giải phóng phụ nữ và xóa bỏ chế độ nô lệ, đặt nền móng cho quyền bình đẳng giới tại Mỹ.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Abigail_Adams_by_Gilbert_Stuart.jpg/500px-Abigail_Adams_by_Gilbert_Stuart.jpg",
+    "relations": [
+      "John Adams",
+      "John Quincy Adams",
+      "James Monroe"
+    ]
+  },
+  {
     "born": 1745,
     "died": 1827,
     "title": "Alessandro Volta",
@@ -8000,7 +8308,7 @@ const RAW_DATA = [
     "relations": [
       "Charles-Augustin de Coulomb",
       "James Watt",
-      "Antonio Meucci"
+      "William Herschel"
     ],
     "themes": []
   },
@@ -8111,6 +8419,29 @@ const RAW_DATA = [
     "image": ""
   },
   {
+    "born": 1751,
+    "died": 1836,
+    "title": "James Madison",
+    "fullName": "James Madison",
+    "desc": "Tổng thống thứ 4 của Hoa Kỳ, được tôn vinh là \"Cha đẻ của Hiến pháp\" nhờ vai trò then chốt trong việc soạn thảo và thúc đẩy phê chuẩn Hiến pháp Hoa Kỳ cùng Tuyên ngôn Nhân quyền. Ông cũng là người lãnh đạo quốc gia đi qua cuộc Chiến tranh năm 1812 chống lại Đế quốc Anh để bảo vệ chủ quyền non trẻ của nước Mỹ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/500px-James_Madison.jpg",
+    "relations": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Lyndon B. Johnson"
+    ]
+  },
+  {
     "born": 1752,
     "died": 1802,
     "title": "Bùi Thị Xuân",
@@ -8167,9 +8498,9 @@ const RAW_DATA = [
     "fullName": "Louis XVI",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/500px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg",
     "relations": [
+      "Maximilien Robespierre",
       "Georges Danton",
-      "Louis XV",
-      "Maximilien Robespierre"
+      "Louis XV"
     ],
     "themes": []
   },
@@ -8232,9 +8563,9 @@ const RAW_DATA = [
     "fullName": "Antonio Canova",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Antonio_Canova_Selfportrait_1792.jpg",
     "relations": [
+      "Marguerite Gérard",
       "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Michelangelo"
+      "Ludwig van Beethoven"
     ],
     "themes": []
   },
@@ -8242,7 +8573,7 @@ const RAW_DATA = [
     "born": 1758,
     "died": 1794,
     "title": "Maximilien Robespierre",
-    "desc": "Luật sư và chính trị gia người Pháp, nhân vật chủ chốt trong Cách mạng Pháp và lãnh đạo Ủy ban An toàn Công cộng.",
+    "desc": "Chính trị gia kiêm luật sư người Pháp, một trong những nhân vật trung tâm và gây tranh cãi nhất của cuộc Cách mạng Pháp năm 1789. Ông là thủ lĩnh của phái Jacobin và là người đứng đầu Ủy ban An toàn Công cộng trong thời kỳ chuyên chính được gọi là 'Triều đại Khủng bố' trước khi chính ông bị hành quyết trên máy chém.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -8255,9 +8586,32 @@ const RAW_DATA = [
     "relations": [
       "Georges Danton",
       "Louis XVI",
-      "Hồ Chí Minh"
+      "Lê Chiêu Thống"
     ],
     "themes": []
+  },
+  {
+    "born": 1758,
+    "died": 1831,
+    "title": "James Monroe",
+    "fullName": "James Monroe",
+    "desc": "Tổng thống thứ 5 của Hoa Kỳ và là vị tổng thống cuối cùng thuộc thế hệ những Người cha Lập quốc. Nhiệm kỳ của ông được gọi là \"Kỷ nguyên của những Cảm xúc Tốt đẹp\" (Era of Good Feelings) với sự ổn định chính trị, đồng thời ghi dấu ấn lịch sử vĩnh cửu bằng Học thuyết Monroe phản đối sự can thiệp của các đế quốc châu Âu vào châu Mỹ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg/500px-James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg",
+    "relations": [
+      "John Quincy Adams",
+      "Harry S. Truman",
+      "Rutherford B. Hayes"
+    ]
   },
   {
     "born": 1759,
@@ -8361,8 +8715,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Camille_Desmoulins_2.jpg",
     "relations": [
       "Georges Danton",
-      "Louis XVI",
-      "Klemens von Metternich"
+      "Maximilien Robespierre",
+      "Louis XVI"
     ],
     "themes": []
   },
@@ -8387,6 +8741,27 @@ const RAW_DATA = [
       "Phan Huy Ích"
     ],
     "themes": []
+  },
+  {
+    "born": 1761,
+    "died": 1837,
+    "title": "Marguerite Gérard",
+    "fullName": "Marguerite Gérard (Marguerite Gerard)",
+    "desc": "Nữ họa sĩ tài năng người Pháp và là nghệ sĩ khắc bản in xuất sắc cuối thế kỷ 18 đến đầu thế kỷ 19. Là em vợ và học trò của danh họa Jean-Honoré Fragonard, bà nổi tiếng với các bức tranh phong tục tinh xảo, chân dung mang đậm nét tân cổ điển, trở thành một trong những nữ nghệ sĩ thành công và độc lập tài chính hiếm hoi cùng thời.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "French",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dumont_-_Marguerite_G%C3%A9rard.jpg/500px-Dumont_-_Marguerite_G%C3%A9rard.jpg",
+    "relations": [
+      "Jean-Honoré Fragonard",
+      "Alessandro Allori",
+      "Ludwig van Beethoven"
+    ]
   },
   {
     "born": 1762,
@@ -8447,7 +8822,7 @@ const RAW_DATA = [
     "relations": [
       "Út Trà Ôn",
       "Trần Lệ Xuân",
-      "Chu Văn An"
+      "Phạm Xuân Ẩn"
     ],
     "themes": []
   },
@@ -8538,6 +8913,53 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1767,
+    "died": 1845,
+    "title": "Andrew Jackson",
+    "fullName": "Andrew Jackson",
+    "desc": "Tổng thống thứ 7 của Hoa Kỳ, cựu quân nhân nổi tiếng với tư tưởng dân chủ đại chúng (Jacksonian democracy). Với biệt danh \"Old Hickory\", ông đã mở rộng quyền bầu cử cho tầng lớp lao động da trắng nhưng cũng vấp phải nhiều tranh cãi gay gắt vì Đạo luật Di dời Người da đỏ đầy đau thương.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/500px-Andrew_jackson_head_%28cropped%29.jpg",
+    "relations": [
+      "John Quincy Adams",
+      "Martin Van Buren",
+      "Lyndon B. Johnson"
+    ]
+  },
+  {
+    "born": 1767,
+    "died": 1848,
+    "title": "John Quincy Adams",
+    "fullName": "John Quincy Adams",
+    "desc": "Tổng thống thứ 6 của Hoa Kỳ, con trai của Tổng thống John Adams. Trước khi lên nắm quyền, ông là một nhà ngoại giao kiệt xuất, kiến trúc sư trưởng của Học thuyết Monroe nhằm định hình chính sách đối ngoại của Mỹ. Vào cuối đời, ông đã đấu tranh kiên cường không mệt mỏi tại Hạ viện để chống lại việc mở rộng chế độ nô lệ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JQA_Photo_Crop_%28cropped%29.jpg/500px-JQA_Photo_Crop_%28cropped%29.jpg",
+    "relations": [
+      "Bill Clinton",
+      "Joe Biden",
+      "Harry S. Truman"
+    ]
+  },
+  {
     "title": "Võ Tánh",
     "fullName": "Võ Tánh",
     "born": 1768,
@@ -8575,7 +8997,7 @@ const RAW_DATA = [
     "relations": [
       "Võ Nguyên Giáp",
       "Michel Ney",
-      "Otto von Bismarck"
+      "Maria Theresia"
     ],
     "themes": []
   },
@@ -8660,9 +9082,9 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/William_Wordsworth_by_Benjamin_Robert_Haydon.jpg",
     "themes": [],
     "relations": [
+      "Achim von Arnim",
       "Clemens Brentano",
-      "Vũ Trinh",
-      "Achim von Arnim"
+      "Vũ Trinh"
     ]
   },
   {
@@ -8701,9 +9123,9 @@ const RAW_DATA = [
     "nationality": "Austrian",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Prince_Metternich_by_Lawrence.jpeg/500px-Prince_Metternich_by_Lawrence.jpeg",
     "relations": [
+      "John Quincy Adams",
       "Tống Mỹ Linh",
-      "Gia Long",
-      "Flora Tristan"
+      "Gia Long"
     ],
     "themes": []
   },
@@ -8785,9 +9207,9 @@ const RAW_DATA = [
     "fullName": "Carl Friedrich Gauss",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/500px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
     "relations": [
-      "André Marie Ampère",
-      "Jacob Bernoulli",
-      "Bernhard Riemann"
+      "Charles Babbage",
+      "Gottlob Frege",
+      "André Marie Ampère"
     ],
     "themes": []
   },
@@ -8838,7 +9260,7 @@ const RAW_DATA = [
     "died": 1831,
     "title": "Achim von Arnim",
     "fullName": "Ludwig Achim von Arnim",
-    "desc": "Nhà thơ, tiểu thuyết gia người Đức và nhân vật hàng đầu của Chủ nghĩa lãng mạn Đức. Đồng biên tập tuyển tập dân ca nổi tiếng Des Knaben Wunderhorn.",
+    "desc": "Nhà văn và nhà thơ lãng mạn kiệt xuất người Đức thế kỷ 19. Cùng với Clemens Brentano, ông đã cống hiến to lớn cho văn học dân gian khi biên soạn tuyển tập dân ca Đức nổi tiếng 'Des Knaben Wunderhorn', góp phần bảo tồn di sản văn hóa dân tộc và trở thành nguồn cảm hứng bất tận cho nền âm nhạc cùng văn học Đức thời kỳ Lãng mạn.",
     "color": "#4a7c5a",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -8850,8 +9272,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Clemens Brentano",
-      "Jane Austen",
-      "Lord Byron"
+      "Lương Thế Vinh",
+      "Fanny Mendelssohn"
     ]
   },
   {
@@ -8899,6 +9321,29 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1782,
+    "died": 1862,
+    "title": "Martin Van Buren",
+    "fullName": "Martin Van Buren",
+    "desc": "Tổng thống thứ 8 của Hoa Kỳ và là tổng thống Mỹ đầu tiên sinh ra sau khi Tuyên ngôn Độc lập được ký kết. Là một nhà tổ chức chính trị tài ba mang biệt danh \"Tiểu thuật sĩ\" (Little Magician), ông đóng vai trò chủ chốt trong việc hình thành hệ thống đảng phái thứ hai và thành lập Đảng Dân chủ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Martin_Van_Buren_by_Mathew_Brady_c1855-58-%284%29.jpg/500px-Martin_Van_Buren_by_Mathew_Brady_c1855-58-%284%29.jpg",
+    "relations": [
+      "John Quincy Adams",
+      "Thomas Jefferson",
+      "Andrew Jackson"
+    ]
+  },
+  {
     "born": 1783,
     "died": 1830,
     "title": "Simón Bolívar",
@@ -8935,8 +9380,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg",
     "relations": [
       "John Keats",
-      "Achim von Arnim",
-      "Heinrich Heine"
+      "Heinrich Heine",
+      "Victor Hugo"
     ],
     "themes": []
   },
@@ -9004,6 +9449,28 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1791,
+    "died": 1871,
+    "title": "Charles Babbage",
+    "fullName": "Charles Babbage",
+    "desc": "Nhà toán học, triết học và kỹ sư cơ khí vĩ đại người Anh, được vinh danh là \"cha đẻ của máy tính\". Ông đã thiết kế 'Máy sai phân' và 'Máy phân tích', những cỗ máy tính toán cơ học phức tạp đầu tiên mang ý tưởng nền tảng cốt lõi về phần cứng và cấu trúc của máy tính điện tử hiện đại.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ],
+    "nationality": "British",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Charles_Babbage_-_1860.jpg/500px-Charles_Babbage_-_1860.jpg",
+    "relations": [
+      "Ada Lovelace",
+      "Carl Friedrich Gauss",
+      "Bernhard Riemann"
+    ]
+  },
+  {
     "title": "Gioacchino Rossini",
     "born": 1792,
     "died": 1868,
@@ -9040,10 +9507,12 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Polk_crop.jpg/500px-Polk_crop.jpg",
     "relations": [
       "Abraham Lincoln",
-      "Hồ Chí Minh",
-      "Benito Juárez"
+      "Rutherford B. Hayes",
+      "James Madison"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
   },
   {
     "born": 1795,
@@ -9070,7 +9539,7 @@ const RAW_DATA = [
     "born": 1796,
     "died": 1867,
     "title": "Phan Thanh Giản",
-    "desc": "Học giả và quan chức Việt Nam dưới triều Nguyễn, được nhớ đến vì những nỗ lực ngoại giao và di sản bi thảm trong thời Pháp thuộc.",
+    "desc": "Đại thần triều Nguyễn, nhà ngoại giao và sử học xuất sắc của Việt Nam thế kỷ 19. Ông là vị Tiến sĩ Nho học đầu tiên của Nam Kỳ, từng dẫn đầu sứ bộ sang Pháp thương thảo và làm Kinh lược sứ Nam Kỳ. Ông được nhớ đến với nhân cách cao đẹp cùng bi kịch lịch sử khi phải tự vẫn sau khi ba tỉnh miền Tây Nam Kỳ rơi vào tay quân Pháp.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -9082,8 +9551,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Phan_Thanh_Gian.jpg",
     "relations": [
       "Phạm Phú Thứ",
-      "Huỳnh Mẫn Đạt",
-      "Minh Mạng"
+      "Thành Thái",
+      "Nguyễn Tri Phương"
     ],
     "themes": []
   },
@@ -9103,8 +9572,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Botman_-_Emperor_Nicholas_I_%28cropped%29_%28b%29.jpg",
     "relations": [
       "Minh Mạng",
-      "Thiệu Trị",
-      "Tự Đức"
+      "Elizaveta Petrovna",
+      "Thiệu Trị"
     ],
     "themes": []
   },
@@ -9146,9 +9615,9 @@ const RAW_DATA = [
     "fullName": "Nezumi Kozō",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kodanji_Ichikawa_IV_as_Nezumi-koz%C5%8D_Jirokichi.jpg",
     "relations": [
-      "Sakamoto Ryoma",
-      "Yoshiko Sai",
-      "Ichikawa Takuji"
+      "Kazuo Ishiguro",
+      "Pavel Durov",
+      "Sakamoto Ryoma"
     ],
     "themes": []
   },
@@ -9190,7 +9659,7 @@ const RAW_DATA = [
     "relations": [
       "Vincent van Gogh",
       "Frédéric Chopin",
-      "Fanny Mendelssohn"
+      "Paul Gauguin"
     ],
     "themes": []
   },
@@ -9535,8 +10004,8 @@ const RAW_DATA = [
     "fullName": "Huỳnh Mẫn Đạt",
     "image": "",
     "relations": [
-      "Phan Thanh Giản",
       "Phạm Phú Thứ",
+      "Nguyễn Thượng Hiền",
       "Phạm Văn Nghị"
     ],
     "themes": []
@@ -9619,8 +10088,8 @@ const RAW_DATA = [
     "nationality": "French",
     "relations": [
       "Nguyễn Tri Phương",
-      "Trương Định",
-      "Võ Nguyên Giáp"
+      "Võ Nguyên Giáp",
+      "Trương Định"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -9707,7 +10176,7 @@ const RAW_DATA = [
     "relations": [
       "Phạm Văn Nghị",
       "Đỗ Thúc Tịnh",
-      "Trương Phúc Loan"
+      "Thành Thái"
     ],
     "themes": []
   },
@@ -9727,10 +10196,12 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/500px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
     "relations": [
       "James K. Polk",
-      "Hồ Chí Minh",
-      "Flora Tristan"
+      "Rutherford B. Hayes",
+      "Woodrow Wilson"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
   },
   {
     "born": 1809,
@@ -9841,7 +10312,7 @@ const RAW_DATA = [
     "relations": [
       "Antonio Meucci",
       "David Cronenberg",
-      "Karen Horney"
+      "Otto Rank"
     ],
     "themes": []
   },
@@ -10015,9 +10486,9 @@ const RAW_DATA = [
     "fullName": "Ada Lovelace",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg/500px-Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg",
     "relations": [
+      "Charles Babbage",
       "Bernhard Riemann",
-      "Carl Friedrich Gauss",
-      "Joseph-Louis Lagrange"
+      "Carl Friedrich Gauss"
     ],
     "themes": []
   },
@@ -10200,7 +10671,7 @@ const RAW_DATA = [
     "fullName": "Florence Nightingale",
     "born": 1820,
     "died": 1910,
-    "desc": "Nhà cải cách xã hội và nhà thống kê người Anh, người đặt nền móng cho ngành điều dưỡng hiện đại với biệt danh Người phụ nữ với chiếc đèn.",
+    "desc": "Nhà cải cách xã hội, nhà thống kê và là người đặt nền móng khoa học cho ngành điều dưỡng hiện đại người Anh. Bà nổi danh qua công tác chăm sóc thương bệnh binh trong Chiến tranh Krym dưới biệt hiệu 'Người phụ nữ với cây đèn', và sau đó đã thành lập trường đào tạo điều dưỡng chuyên nghiệp đầu tiên trên thế giới.",
     "color": "#2ec4b6",
     "position": "bottom",
     "primary_tag": "Medical",
@@ -10209,9 +10680,9 @@ const RAW_DATA = [
     ],
     "nationality": "British",
     "relations": [
-      "Louis Pasteur",
-      "Gregor Mendel",
-      "Carlos Finlay"
+      "Đặng Văn Ngữ",
+      "Rafael Nadal",
+      "Louis Pasteur"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_Colorized.jpg/500px-Florence_Nightingale_Colorized.jpg"
@@ -10298,9 +10769,9 @@ const RAW_DATA = [
     "fullName": "Phạm Phú Thứ",
     "image": "",
     "relations": [
-      "Đỗ Thúc Tịnh",
       "Phan Thanh Giản",
-      "Tôn Thất Thuyết"
+      "Thành Thái",
+      "Đỗ Thúc Tịnh"
     ],
     "themes": []
   },
@@ -10319,9 +10790,9 @@ const RAW_DATA = [
     "fullName": "Louis Pasteur (pasteurization, vaccines)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
     "relations": [
+      "Đặng Văn Ngữ",
       "Đồ U U",
-      "Wilhelm Wundt",
-      "Alexandre Dumas con"
+      "Florence Nightingale"
     ],
     "themes": []
   },
@@ -10340,11 +10811,13 @@ const RAW_DATA = [
     "fullName": "Ulysses S. Grant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ulysses_S._Grant_1870-1880_%28cropped%29.jpg/500px-Ulysses_S._Grant_1870-1880_%28cropped%29.jpg",
     "relations": [
-      "Văn Tiến Dũng",
-      "Robert E. Lee",
-      "Otto von Bismarck"
+      "James K. Polk",
+      "Lyndon B. Johnson",
+      "Richard Nixon"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
   },
   {
     "title": "Gregor Mendel",
@@ -10366,6 +10839,29 @@ const RAW_DATA = [
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/500px-Gregor_Mendel_2.jpg"
+  },
+  {
+    "born": 1822,
+    "died": 1893,
+    "title": "Rutherford B. Hayes",
+    "fullName": "Rutherford B. Hayes",
+    "desc": "Tổng thống thứ 19 của Hoa Kỳ, người đắc cử trong một trong những cuộc bầu cử gây tranh cãi nhất lịch sử năm 1876. Nhiệm kỳ của ông đánh dấu sự kết thúc của Kỷ nguyên Tái thiết sau Nội chiến Mỹ thông qua Thỏa hiệp 1877, đồng thời ông đã khởi xướng các cải cách quan trọng nhằm thanh lọc hệ thống quan liêu của chính phủ liên bang.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/500px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+    "relations": [
+      "James A. Garfield",
+      "Harry S. Truman",
+      "Abraham Lincoln"
+    ]
   },
   {
     "born": 1824,
@@ -10430,7 +10926,7 @@ const RAW_DATA = [
     "themes": [
       "Khang chien chong Phap"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Henri_Rivi%C3%A8re_by_Nadar.jpg/500px-Henri_Rivi%C3%A8re_by_Nadar.jpg"
+    "image": ""
   },
   {
     "born": 1828,
@@ -10511,8 +11007,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/500px-Jules_Verne_by_%C3%89tienne_Carjat.jpg",
     "relations": [
       "Alexandre Dumas con",
-      "Éric-Emmanuel Schmitt",
-      "Ivan Turgenev"
+      "Ivan Turgenev",
+      "Hector Malot"
     ],
     "themes": []
   },
@@ -10625,6 +11121,29 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1831,
+    "died": 1881,
+    "title": "James A. Garfield",
+    "fullName": "James A. Garfield",
+    "desc": "Tổng thống thứ 20 của Hoa Kỳ, nguyên là Thiếu tướng trong Nội chiến Mỹ và là một nghị sĩ có ảnh hưởng lớn. Mặc dù nhiệm kỳ tổng thống của ông chỉ kéo dài sáu tháng do bị ám sát bi thảm, ông đã kịp thiết lập những nỗ lực quan trọng nhằm bảo vệ quyền lợi của người Mỹ gốc Phi và thúc đẩy cải cách nền công vụ quốc gia.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/500px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+    "relations": [
+      "Rutherford B. Hayes",
+      "George Washington",
+      "Harry S. Truman"
+    ]
+  },
+  {
     "born": 1832,
     "died": 1867,
     "title": "Maximilian I của Mexico",
@@ -10682,8 +11201,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Paul Verlaine",
-      "Trần Xuân Soạn",
-      "Hàm Nghi"
+      "Nguyễn Thượng Hiền",
+      "Trần Xuân Soạn"
     ],
     "themes": []
   },
@@ -10725,9 +11244,9 @@ const RAW_DATA = [
     "fullName": "Carlos Finlay",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Finlay_Carlos_1833-1915.jpg",
     "relations": [
+      "Florence Nightingale",
       "Phạm Ngọc Thạch",
-      "Louis Pasteur",
-      "Gregor Mendel"
+      "Louis Pasteur"
     ],
     "themes": []
   },
@@ -10747,8 +11266,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/500px-Alfred_Nobel3.jpg",
     "relations": [
       "Pavel Alekseyevich Cherenkov",
-      "Wilhelm Röntgen",
-      "Joseph John Thomson"
+      "Shinichiro Tomonaga",
+      "Wilhelm Röntgen"
     ],
     "themes": [
       "Giai Nobel"
@@ -10836,7 +11355,7 @@ const RAW_DATA = [
     "relations": [
       "Alexander Graham Bell",
       "Georg Cantor",
-      "Albert Einstein"
+      "Giuseppe Peano"
     ],
     "themes": []
   },
@@ -10876,9 +11395,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Khuyến",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Chan_dung_tam_nguyen_yen_do_nguyen_khuyen.jpg",
     "relations": [
+      "Nguyễn Khoa Điềm",
       "Mạc Ngôn",
-      "Fyodor Dostoyevsky",
-      "Cao Bá Quát"
+      "Fyodor Dostoyevsky"
     ],
     "themes": []
   },
@@ -11098,7 +11617,7 @@ const RAW_DATA = [
     "relations": [
       "Hoàng Hoa Thám",
       "Đinh Công Tráng",
-      "Tôn Thất Thuyết"
+      "Võ Nguyên Giáp"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -11226,9 +11745,9 @@ const RAW_DATA = [
     "fullName": "Claude Monet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Claude_Monet_1899_Nadar_crop.jpg",
     "relations": [
+      "Paul Gauguin",
       "Gustav Klimt",
-      "Pierre-Auguste Renoir",
-      "Paul Gauguin"
+      "Pierre-Auguste Renoir"
     ],
     "themes": []
   },
@@ -11272,7 +11791,7 @@ const RAW_DATA = [
     "relations": [
       "Mother Teresa",
       "Carlos Finlay",
-      "Công nương Diana"
+      "Đặng Văn Ngữ"
     ],
     "themes": []
   },
@@ -11314,9 +11833,9 @@ const RAW_DATA = [
     "fullName": "Pierre-Auguste Renoir",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/500px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
     "relations": [
+      "Paul Gauguin",
       "Claude Monet",
-      "Vincent van Gogh",
-      "Édouard Manet"
+      "Vincent van Gogh"
     ],
     "themes": []
   },
@@ -11340,7 +11859,7 @@ const RAW_DATA = [
     "relations": [
       "Paul von Hindenburg",
       "Woodrow Wilson",
-      "Mustafa Kemal Atatürk"
+      "Gustav V"
     ]
   },
   {
@@ -11386,7 +11905,7 @@ const RAW_DATA = [
     "relations": [
       "Camille Saint-Saëns",
       "Johannes Brahms",
-      "Felix Mendelssohn"
+      "Sir Edward Elgar"
     ]
   },
   {
@@ -11497,7 +12016,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Duy Hiệu",
       "Lê Khiết",
-      "Tôn Thất Thuyết"
+      "Thành Thái"
     ],
     "themes": []
   },
@@ -11516,9 +12035,9 @@ const RAW_DATA = [
     "fullName": "Georg Cantor",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Georg_Cantor_%28Portr%C3%A4t%29.jpg/500px-Georg_Cantor_%28Portr%C3%A4t%29.jpg",
     "relations": [
+      "Giuseppe Peano",
       "Johannes Kepler",
-      "Alfred Nobel",
-      "Karen Horney"
+      "Alfred Nobel"
     ],
     "themes": []
   },
@@ -11559,9 +12078,9 @@ const RAW_DATA = [
     "fullName": "Phan Đình Phùng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Phan_%C4%90%C3%ACnh_Ph%C3%B9ng.png/500px-Portrait_of_Phan_%C4%90%C3%ACnh_Ph%C3%B9ng.png",
     "relations": [
+      "Cao Thắng",
       "Đinh Công Tráng",
-      "Tống Duy Tân",
-      "Tôn Thất Thuyết"
+      "Tống Duy Tân"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -11582,9 +12101,9 @@ const RAW_DATA = [
     "fullName": "Paul von Hindenburg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/500px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg",
     "relations": [
+      "Gustav V",
       "Georges Clemenceau",
-      "Woodrow Wilson",
-      "Kaiser Wilhelm II"
+      "Woodrow Wilson"
     ],
     "themes": [
       "World War I"
@@ -11637,7 +12156,7 @@ const RAW_DATA = [
     "born": 1848,
     "died": 1903,
     "title": "Paul Gauguin",
-    "desc": "Nghệ sĩ hậu ấn tượng người Pháp nổi tiếng với việc sử dụng thử nghiệm màu sắc và phong cách tổng hợp có ảnh hưởng đến nghệ thuật hiện đại.",
+    "desc": "Danh họa người Pháp thuộc trường phái Hậu ấn tượng, nổi tiếng với việc tiên phong sử dụng màu sắc rực rỡ và phong cách Tổng hợp (Synthetism). Ông đã từ bỏ cuộc sống châu Âu để đến Tahiti và quần đảo Marquesas, tạo ra những kiệt tác lấy cảm hứng từ nghệ thuật sơ khai có sức ảnh hưởng to lớn đến nền nghệ thuật hiện đại thế giới.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -11648,11 +12167,33 @@ const RAW_DATA = [
     "fullName": "Paul Gauguin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Paul_Gauguin_1891.png",
     "relations": [
+      "Vincent van Gogh",
       "Claude Monet",
-      "Gustav Klimt",
-      "Claude Debussy"
+      "Gustav Klimt"
     ],
     "themes": []
+  },
+  {
+    "born": 1848,
+    "died": 1925,
+    "title": "Gottlob Frege",
+    "fullName": "Gottlob Frege (Friedrich Ludwig Gottlob Frege)",
+    "desc": "Nhà triết học, logic học và toán học người Đức, được vinh danh là cha đẻ của triết học phân tích và logic học hiện đại. Tác phẩm kinh điển 'Begriffsschrift' của ông đã cách mạng hóa hệ thống logic hình thức, đặt nền móng vững chắc cho nền toán học và triết học ngôn ngữ thế kỷ 20.",
+    "color": "#8b5cf6",
+    "position": "bottom",
+    "primary_tag": "Philosophy",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ],
+    "nationality": "German",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Young_frege.jpg",
+    "relations": [
+      "Bertrand Russell",
+      "Edmund Husserl",
+      "Alfred Tarski"
+    ]
   },
   {
     "born": 1849,
@@ -11669,9 +12210,9 @@ const RAW_DATA = [
     "fullName": "August Strindberg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/AugustStrindberg.jpg",
     "relations": [
+      "Maurice Maeterlinck",
       "Agnès Varda",
-      "Gustav Klimt",
-      "Maurice Maeterlinck"
+      "Paul Gauguin"
     ],
     "themes": []
   },
@@ -11715,7 +12256,7 @@ const RAW_DATA = [
     "relations": [
       "Tôn Thất Đạm",
       "Tôn Thất Thuyết",
-      "Trương Định"
+      "Thành Thái"
     ],
     "themes": []
   },
@@ -11799,8 +12340,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG/500px-Tom%C3%A1%C5%A1_Garrigue_Masaryk_1925.PNG",
     "relations": [
       "Tomas Masaryk",
-      "Paul von Hindenburg",
-      "Paul Doumer"
+      "Corazon Aquino",
+      "Paul von Hindenburg"
     ],
     "themes": []
   },
@@ -11840,9 +12381,9 @@ const RAW_DATA = [
     "fullName": "Vincent van Gogh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
     "relations": [
+      "Paul Gauguin",
       "Gustav Klimt",
-      "Edvard Munch",
-      "Pierre-Auguste Renoir"
+      "Maurice Maeterlinck"
     ],
     "themes": []
   },
@@ -11861,9 +12402,9 @@ const RAW_DATA = [
     "fullName": "Hendrik Lorentz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg/500px-Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg",
     "relations": [
+      "Shinichiro Tomonaga",
       "Max Planck",
-      "Wilhelm Röntgen",
-      "Albert Einstein"
+      "Wilhelm Röntgen"
     ],
     "themes": [
       "Quantum Physics",
@@ -11886,8 +12427,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chulalongkorn_LoC.jpg/500px-Chulalongkorn_LoC.jpg",
     "relations": [
       "Theodore Roosevelt",
-      "Phạm Phú Thứ",
-      "Trần Cao Vân"
+      "Gustav V",
+      "Phạm Phú Thứ"
     ],
     "themes": []
   },
@@ -11948,9 +12489,9 @@ const RAW_DATA = [
     "fullName": "Henri Poincaré",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PSM_V82_D416_Henri_Poincare.png/500px-PSM_V82_D416_Henri_Poincare.png",
     "relations": [
+      "Giuseppe Peano",
       "Dorothy Maud Wrinch",
-      "Georg Cantor",
-      "Blaise Pascal"
+      "Georg Cantor"
     ],
     "themes": []
   },
@@ -11969,8 +12510,8 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Hữu Cầu",
       "Nguyễn Thượng Hiền",
+      "Nguyễn Hữu Cầu",
       "Paul Verlaine"
     ],
     "themes": [],
@@ -12058,13 +12599,14 @@ const RAW_DATA = [
     "nationality": "American",
     "themes": [
       "World War I",
-      "Giai Nobel"
+      "Giai Nobel",
+      "US Presidents"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
     "relations": [
-      "Paul von Hindenburg",
-      "Nikolai II",
-      "Georges Clemenceau"
+      "Barack Obama",
+      "Jimmy Carter",
+      "Theodore Roosevelt"
     ]
   },
   {
@@ -12084,7 +12626,7 @@ const RAW_DATA = [
     "relations": [
       "Wilhelm Röntgen",
       "Albert Einstein",
-      "Hendrik Lorentz"
+      "Shinichiro Tomonaga"
     ],
     "themes": [
       "Giai Nobel"
@@ -12106,8 +12648,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lekhiet.png/500px-Lekhiet.png",
     "relations": [
       "Đỗ Thúc Tịnh",
-      "Tự Đức",
-      "Tôn Thất Thuyết"
+      "Thành Thái",
+      "Tự Đức"
     ],
     "themes": []
   },
@@ -12138,7 +12680,7 @@ const RAW_DATA = [
     "title": "Sir Edward Elgar",
     "born": 1857,
     "died": 1934,
-    "desc": "Nhà soạn nhạc người Anh, tác giả của nhiều tác phẩm kinh điển như Pomp and Circumstance Marches và Enigma Variations.",
+    "desc": "Nhà soạn nhạc lừng danh người Anh thời kỳ cuối lãng mạn. Ông là tác giả của các tác phẩm cổ điển đỉnh cao mang đậm bản sắc Anh Quốc như 'Enigma Variations', 'Pomp and Circumstance Marches' (gồm bản nhạc không chính thức của Anh Quốc 'Land of Hope and Glory') và bản Concerto viết cho đàn Cello.",
     "nationality": "British",
     "primary_tag": "Art",
     "tags": [
@@ -12150,9 +12692,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
+      "Anton Arensky",
       "Richard Strauss",
-      "Jean Sibelius",
-      "Anton Arensky"
+      "Edvard Grieg"
     ]
   },
   {
@@ -12170,11 +12712,13 @@ const RAW_DATA = [
     "fullName": "Theodore Roosevelt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/500px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg",
     "relations": [
-      "Phan Châu Trinh",
       "Woodrow Wilson",
-      "Rama V"
+      "Franklin D. Roosevelt",
+      "Harry S. Truman"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
   },
   {
     "born": 1858,
@@ -12193,7 +12737,7 @@ const RAW_DATA = [
     "relations": [
       "Albert Einstein",
       "Max Born",
-      "Hendrik Lorentz"
+      "Shinichiro Tomonaga"
     ],
     "themes": [
       "Quantum Physics",
@@ -12290,6 +12834,52 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1858,
+    "died": 1932,
+    "title": "Giuseppe Peano",
+    "fullName": "Giuseppe Peano",
+    "desc": "Nhà toán học và nhà triết học lỗi lạc người Ý, người có những đóng góp nền tảng cho logic toán học và lý thuyết tập hợp. Ông nổi tiếng toàn cầu với việc thiết lập hệ tiên đề Peano cho các số tự nhiên và tạo ra ngôn ngữ nhân tạo Interlingua nhằm kết nối cộng đồng khoa học quốc tế.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ],
+    "nationality": "Italian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Giuseppe_Peano.jpg/500px-Giuseppe_Peano.jpg",
+    "relations": [
+      "Georg Cantor",
+      "Henri Poincaré",
+      "Sándor Ferenczi"
+    ]
+  },
+  {
+    "born": 1858,
+    "died": 1950,
+    "title": "Gustav V",
+    "fullName": "Gustav V (Gustaf V của Thụy Điển, Gustav V of Sweden)",
+    "desc": "Quốc vương Thụy Điển từ năm 1907 cho đến khi qua đời năm 1950. Triều đại của ông chứng kiến sự ra đời của nền dân chủ nghị viện toàn diện ở Thụy Điển. Ông được đánh giá cao nhờ chính sách bảo vệ tính trung lập của quốc gia trong cả hai cuộc Chiến tranh Thế giới, giúp Thụy Điển tránh được sự tàn phá quân sự, đồng thời ông cũng là một vận động viên quần vợt đam mê.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Swedish",
+    "themes": [
+      "World War I",
+      "World War II"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gustav_V_of_Sweden_c_1939.jpg/500px-Gustav_V_of_Sweden_c_1939.jpg",
+    "relations": [
+      "Kaiser Wilhelm II",
+      "Ion Antonescu",
+      "Nikolai II"
+    ]
+  },
+  {
     "born": 1859,
     "died": 1930,
     "title": "Arthur Conan Doyle",
@@ -12351,9 +12941,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg",
     "relations": [
+      "Gustav V",
       "Nikolai II",
-      "Mustafa Kemal Atatürk",
-      "Woodrow Wilson"
+      "Mustafa Kemal Atatürk"
     ]
   },
   {
@@ -12529,7 +13119,7 @@ const RAW_DATA = [
     "relations": [
       "Eugène Ysaÿe",
       "Richard Strauss",
-      "Jean Sibelius"
+      "Sir Edward Elgar"
     ]
   },
   {
@@ -12547,9 +13137,9 @@ const RAW_DATA = [
     "fullName": "Claude Debussy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg",
     "relations": [
+      "John Ireland",
       "Maurice Ravel",
-      "Oskar Merikanto",
-      "Anton Arensky"
+      "Oskar Merikanto"
     ],
     "themes": [
       "Classical Music"
@@ -12570,9 +13160,9 @@ const RAW_DATA = [
     "fullName": "Gustav Klimt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Klimt.jpg",
     "relations": [
+      "Paul Gauguin",
       "Claude Monet",
-      "Vincent van Gogh",
-      "Paul Gauguin"
+      "Vincent van Gogh"
     ],
     "themes": []
   },
@@ -12580,7 +13170,7 @@ const RAW_DATA = [
     "born": 1862,
     "died": 1949,
     "title": "Maurice Maeterlinck",
-    "desc": "Nhà viết kịch người Bỉ, nhà thơ và nhà tiểu luận người đoạt giải Nobel Văn học năm 1911 cho tác phẩm mang tính biểu tượng của mình.",
+    "desc": "Nhà viết kịch, nhà thơ và nhà tiểu luận vĩ đại người Bỉ gốc Flemish, gương mặt tiêu biểu của trường phái Tượng trưng. Tác phẩm của ông, đặc biệt là vở kịch 'L'Oiseau bleu' (Con chim xanh) và 'Pelléas et Mélisande', nổi bật với những triết lý sâu sắc về cái chết và ý nghĩa cuộc sống, mang lại cho ông giải Nobel Văn học danh giá năm 1911.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -12591,9 +13181,9 @@ const RAW_DATA = [
     "fullName": "Maurice Maeterlinck",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Maurice_Maeterlinck_2.jpg",
     "relations": [
-      "Thomas Mann",
       "Jean-Paul Sartre",
-      "Ernest Hemingway"
+      "Thomas Mann",
+      "Vincent van Gogh"
     ],
     "themes": [
       "Giai Nobel"
@@ -12634,8 +13224,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Niko_Pirosmani_1916.jpg/500px-Niko_Pirosmani_1916.jpg",
     "relations": [
       "Gustav Klimt",
-      "Vincent van Gogh",
-      "Claude Debussy"
+      "Henri Matisse",
+      "Vincent van Gogh"
     ],
     "themes": []
   },
@@ -12654,9 +13244,9 @@ const RAW_DATA = [
     "fullName": "Henry Ford",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henry_Ford_portrait_1915_original_%283x4_cropped%29.png/500px-Henry_Ford_portrait_1915_original_%283x4_cropped%29.png",
     "relations": [
+      "Pavel Durov",
       "Samuel Colt",
-      "Michael Jackson",
-      "Bill Gates"
+      "Michael Jackson"
     ],
     "themes": []
   },
@@ -12676,8 +13266,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Portrait_of_Edvard_Munch_%28cropped%29.png/500px-Portrait_of_Edvard_Munch_%28cropped%29.png",
     "relations": [
       "Vincent van Gogh",
-      "Maurice Maeterlinck",
-      "Gustav Klimt"
+      "Gustav Klimt",
+      "Maurice Maeterlinck"
     ],
     "themes": []
   },
@@ -12731,7 +13321,7 @@ const RAW_DATA = [
     "born": 1864,
     "died": 1893,
     "title": "Cao Thắng",
-    "desc": "Nhà cách mạng và lãnh đạo Việt Nam trong cuộc kháng chiến chống Pháp ở Nam Kỳ. Ông là người đi tiên phong trong các phong trào dân tộc có tổ chức.",
+    "desc": "Lãnh tụ nghĩa quân kiêm kỹ sư quân sự kiệt xuất của phong trào Cần Vương chống Pháp thế kỷ 19 ở Trung Kỳ (phục vụ dưới quyền Phan Đình Phùng). Ông nổi tiếng với tài năng chế tạo vũ khí, đặc biệt là việc tự đúc súng trường theo mẫu súng trường năm 1874 của Pháp, góp phần hiện đại hóa trang bị cho nghĩa quân Hương Khê.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -12742,9 +13332,9 @@ const RAW_DATA = [
     "fullName": "Cao Thắng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cao_Th%E1%BA%AFng.jpg/500px-Cao_Th%E1%BA%AFng.jpg",
     "relations": [
-      "Tôn Đức Thắng",
-      "Hoàng Hoa Thám",
-      "Hàm Nghi"
+      "Phan Đình Phùng",
+      "Đinh Công Tráng",
+      "Tôn Thất Thuyết"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -12765,9 +13355,9 @@ const RAW_DATA = [
     "fullName": "Rudolf Kjellén (Johan Rudolf Kjellén)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rudolf_Kjellen_Riksarkivet.jpg/500px-Rudolf_Kjellen_Riksarkivet.jpg",
     "relations": [
+      "Gustav V",
       "Anders Celsius",
-      "John Mearsheimer",
-      "Tôn Trung Sơn"
+      "Hồ Cẩm Đào"
     ],
     "themes": []
   },
@@ -12786,9 +13376,9 @@ const RAW_DATA = [
     "fullName": "Henri de Toulouse-Lautrec",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Photolautrec.jpg/500px-Photolautrec.jpg",
     "relations": [
-      "Niko Pirosmani",
       "Henri Matisse",
-      "Richard Strauss"
+      "Niko Pirosmani",
+      "Maurice Maeterlinck"
     ],
     "themes": []
   },
@@ -12938,9 +13528,9 @@ const RAW_DATA = [
     "fullName": "Tôn Trung Sơn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg/500px-%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
     "relations": [
+      "Vladimir Lenin",
       "Tống Khánh Linh",
-      "Trần Cao Vân",
-      "Nguyễn Hải Thần"
+      "Trần Cao Vân"
     ],
     "themes": []
   },
@@ -13159,8 +13749,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mikola_II_%28cropped%29-2.jpg",
     "relations": [
       "Kaiser Wilhelm II",
-      "Leon Trotsky",
-      "Franz Ferdinand"
+      "Gustav V",
+      "Vladimir Lenin"
     ],
     "themes": [
       "World War I"
@@ -13171,7 +13761,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thượng Hiền",
     "born": 1868,
     "died": 1925,
-    "desc": "Danh sĩ, nhà thơ và nhà hoạt động cách mạng nổi bật trong phong trào Đông Du đầu thế kỷ 20, đồng thời là một học giả uyên bác.",
+    "desc": "Chí sĩ cách mạng, nhà thơ yêu nước kiêm nhà văn hóa tiêu biểu của Việt Nam cuối thế kỷ 19 - đầu thế kỷ 20. Đỗ Hoàng giáp dưới triều Nguyễn, ông từ quan để tham gia Đông Kinh Nghĩa Thục, sát cánh cùng Phan Bội Châu và Phan Châu Trinh trong phong trào Đông Du và hoạt động yêu nước tại nước ngoài.",
     "color": "#4a7c5a",
     "position": "top",
     "primary_tag": "Literature",
@@ -13181,9 +13771,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Nguyễn Hữu Cầu",
-      "Saki",
-      "Nguyễn Chí Diểu"
+      "Thành Thái",
+      "Trần Xuân Soạn",
+      "Cao Bá Quát"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nguyen_Thuong_Hien.jpg"
@@ -13204,9 +13794,34 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
+      "John Ireland",
       "Selim Palmgren",
-      "Arnold Schönberg",
-      "Anton Arensky"
+      "Charles Ives"
+    ]
+  },
+  {
+    "born": 1868,
+    "died": 1941,
+    "title": "Emanuel Lasker",
+    "fullName": "Emanuel Lasker",
+    "desc": "Nhà vô địch cờ vua thế giới thứ 2, duy trì ngôi vương lâu nhất trong lịch sử (27 năm). Không chỉ là một kỳ thủ thiên tài với lối chơi phòng ngự phản công mang tính tâm lý sâu sắc, ông còn là một nhà toán học có đóng góp quan trọng cho đại số giao hoán và là một triết gia lỗi lạc, bạn thân của Albert Einstein.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport",
+      "Science",
+      "Philosophy"
+    ],
+    "nationality": "German",
+    "themes": [
+      "Chess"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg/500px-Bundesarchiv_Bild_102-00457%2C_Emanuel_Lasker.jpg",
+    "relations": [
+      "Mikhail Tal",
+      "Alexander Alekhine",
+      "Anatoly Karpov"
     ]
   },
   {
@@ -13224,9 +13839,9 @@ const RAW_DATA = [
     "fullName": "Mahatma Gandhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
     "relations": [
+      "Vladimir Lenin",
       "Hàm Nghi",
-      "Phan Châu Trinh",
-      "Theodore Roosevelt"
+      "Phan Châu Trinh"
     ],
     "themes": []
   },
@@ -13246,8 +13861,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Rasputin_PA.jpg",
     "relations": [
       "Nguyễn Thiên Tích",
-      "Đổng Trác",
-      "Nikolai II"
+      "An Lộc Sơn",
+      "Đổng Trác"
     ],
     "themes": []
   },
@@ -13255,7 +13870,7 @@ const RAW_DATA = [
     "born": 1869,
     "died": 1954,
     "title": "Henri Matisse",
-    "desc": "Nghệ sĩ thị giác người Pháp, được biết đến với cả cách sử dụng màu sắc cũng như khả năng vẽ linh hoạt và nguyên bản của mình.",
+    "desc": "Danh họa, nhà điêu khắc và nghệ sĩ đồ họa vĩ đại người Pháp thế kỷ 20. Ông là thủ lĩnh của trường phái Dã thú (Fauvism) với lối sử dụng màu sắc táo bạo, tự do cùng kỹ thuật tạo hình chuyển động nguyên bản, góp phần định hình các cuộc cách mạng nghệ thuật thị giác hiện đại.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -13266,7 +13881,7 @@ const RAW_DATA = [
     "fullName": "Henri Matisse",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg/500px-Henri_Matisse%2C_1913%2C_photograph_by_Alvin_Langdon_Coburn.jpg",
     "relations": [
-      "Clara Schumann",
+      "Paul Gauguin",
       "Gustav Klimt",
       "Pablo Picasso"
     ],
@@ -13288,14 +13903,14 @@ const RAW_DATA = [
     "relations": [
       "Huỳnh Thúc Kháng",
       "Hồ Chí Minh",
-      "Tôn Trung Sơn"
+      "Raul Castro"
     ]
   },
   {
     "born": 1870,
     "died": 1924,
     "title": "Vladimir Lenin",
-    "desc": "Nhà lý luận chính trị và cách mạng Nga, Lênin đóng vai trò nòng cốt trong Cách mạng Bolshevik và sự thành lập Liên Xô. Các bài viết và sự lãnh đạo của ông đã định hình tiến trình của chủ nghĩa xã hội thế kỷ 20.",
+    "desc": "Nhà triết học, nhà lý luận mácxít và lãnh tụ cách mạng vĩ đại người Nga. Ông là người sáng lập Đảng Cộng sản Liên Xô, lãnh đạo thành công cuộc Cách mạng Tháng Mười Nga năm 1917 và thiết lập nhà nước xã hội chủ nghĩa đầu tiên trên thế giới. Tư tưởng của ông (Chủ nghĩa Mác - Lênin) đã trở thành kim chỉ nam cho phong trào cộng sản toàn cầu thế kỷ 20.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -13308,7 +13923,7 @@ const RAW_DATA = [
     "relations": [
       "Leon Trotsky",
       "Joseph Stalin",
-      "Nikolai II"
+      "Nguyễn Đức Cảnh"
     ],
     "themes": [
       "World War I"
@@ -13353,9 +13968,9 @@ const RAW_DATA = [
     "fullName": "Hector Hugh Munro",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg/500px-Hector_Hugh_Munro_aka_Saki%2C_by_E_O_Hoppe%2C_1913.jpg",
     "relations": [
-      "Nguyễn Thượng Hiền",
       "Heinrich Heine",
-      "W. Somerset Maugham"
+      "W. Somerset Maugham",
+      "Nguyễn Thượng Hiền"
     ],
     "themes": []
   },
@@ -13441,8 +14056,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bertrand_Russell_smoking_in_1936.jpg/500px-Bertrand_Russell_smoking_in_1936.jpg",
     "relations": [
       "Otto Weininger",
-      "Edmund Husserl",
-      "Kazimierz Twardowski"
+      "Gottlob Frege",
+      "Edmund Husserl"
     ],
     "themes": []
   },
@@ -13462,8 +14077,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Phan_Chau_Trinh.jpg/500px-Phan_Chau_Trinh.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
       "Tạ Thu Thâu",
-      "Tăng Bạt Hổ",
-      "Hàm Nghi"
+      "Nguyễn Thượng Hiền",
+      "Tăng Bạt Hổ"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -13639,9 +14254,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Pavel Durov",
       "Lee Byung-chul",
-      "Quách Tử Nghi",
-      "Phan Khôi"
+      "Quách Tử Nghi"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/vi/7/76/B%E1%BA%A1ch_Th%C3%A1i_B%C6%B0%E1%BB%9Fi.jpg"
@@ -13650,7 +14265,7 @@ const RAW_DATA = [
     "title": "Charles Ives",
     "born": 1874,
     "died": 1954,
-    "desc": "Nhà soạn nhạc người Mỹ, một trong những nhà soạn nhạc người Mỹ đầu tiên đạt được danh tiếng quốc tế.",
+    "desc": "Nhà soạn nhạc tiên phong người Mỹ, một trong những nhạc sĩ hiện đại đầu tiên được công nhận rộng rãi trên thế giới. Tác phẩm của ông kết hợp độc đáo âm nhạc truyền thống Mỹ với các kỹ thuật tân tiến như đa điệu tính, đa nhịp điệu và âm thanh phi truyền thống, mở đường cho nền âm nhạc cổ điển thế kỷ 20.",
     "nationality": "American",
     "primary_tag": "Art",
     "tags": [
@@ -13663,7 +14278,7 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Arnold Schönberg",
-      "Feliks Nowowiejski",
+      "Maurice Ravel",
       "Oskar Merikanto"
     ]
   },
@@ -13683,9 +14298,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
+      "Charles Ives",
       "Oskar Merikanto",
-      "Feliks Nowowiejski",
-      "Anton Arensky"
+      "Feliks Nowowiejski"
     ]
   },
   {
@@ -13703,9 +14318,9 @@ const RAW_DATA = [
     "fullName": "Maurice Ravel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Maurice_Ravel_1925.jpg",
     "relations": [
+      "Charles Ives",
       "Pyotr Ilyich Tchaikovsky",
-      "Frédéric Chopin",
-      "Robert Schumann"
+      "Frédéric Chopin"
     ],
     "themes": [
       "Classical Music"
@@ -13774,7 +14389,7 @@ const RAW_DATA = [
     "relations": [
       "Neil Armstrong",
       "Maria Gaetana Agnesi",
-      "Simo Häyhä"
+      "Đặng Tiểu Bình"
     ],
     "themes": []
   },
@@ -13795,7 +14410,7 @@ const RAW_DATA = [
     "relations": [
       "Phạm Duy Tốn",
       "Phan Khôi",
-      "Hồ Biểu Chánh"
+      "Nguyễn Hữu Cầu"
     ],
     "themes": []
   },
@@ -13882,8 +14497,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Ariane de Rothschild",
-      "Bạch Thái Bưởi",
-      "John Maynard Keynes"
+      "Thái Kỳ",
+      "Bạch Thái Bưởi"
     ]
   },
   {
@@ -13902,9 +14517,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
+      "Charles Ives",
       "Oskar Merikanto",
-      "Arnold Schönberg",
-      "Selim Palmgren"
+      "Arnold Schönberg"
     ]
   },
   {
@@ -13950,8 +14565,8 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/500px-StalinCropped1943.jpg",
     "relations": [
-      "Vladimir Lenin",
       "Leon Trotsky",
+      "Vladimir Lenin",
       "Adolf Hitler"
     ]
   },
@@ -13971,9 +14586,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
+      "John Ireland",
       "Sergei Prokofiev",
-      "Oskar Merikanto",
-      "Pyotr Ilyich Tchaikovsky"
+      "Oskar Merikanto"
     ]
   },
   {
@@ -14022,7 +14637,7 @@ const RAW_DATA = [
     "born": 1879,
     "died": 1954,
     "title": "Thành Thái",
-    "desc": "Hoàng đế Việt Nam triều Nguyễn, được nhớ đến vì những cải cách trí tuệ và bí mật ủng hộ các hoạt động chống thực dân chống Pháp.",
+    "desc": "Hoàng đế thứ 10 của triều đại nhà Nguyễn, nổi tiếng là một vị vua yêu nước, có tư tưởng tiến bộ và có tinh thần chống thực dân Pháp mạnh mẽ. Ông bí mật ủng hộ các phong trào Cần Vương và Đông Du, cải cách giáo dục trước khi bị chính quyền thực dân ép thoái vị và đày sang đảo Réunion.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -14033,9 +14648,9 @@ const RAW_DATA = [
     "fullName": "Thành Thái (Nguyễn Phúc Bửu Lân, Thanh Thai)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Emperor_Thanh_Thai_in_court_costume_%28colored%29.jpg",
     "relations": [
+      "Phạm Phú Thứ",
       "Khải Định",
-      "Bùi Bằng Đoàn",
-      "Tự Đức"
+      "Tôn Thất Đạm"
     ],
     "themes": []
   },
@@ -14101,9 +14716,9 @@ const RAW_DATA = [
     "fullName": "Kazimir Malevich",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Casimir_Malevich_photo.jpg",
     "relations": [
+      "John Ireland",
       "Pablo Picasso",
-      "John Cage",
-      "Arnold Schönberg"
+      "John Cage"
     ],
     "themes": []
   },
@@ -14124,7 +14739,7 @@ const RAW_DATA = [
     "relations": [
       "Virginia Woolf",
       "Marcel Proust",
-      "Alexandre Dumas con"
+      "Mario Puzo"
     ],
     "themes": []
   },
@@ -14133,7 +14748,7 @@ const RAW_DATA = [
     "died": 1969,
     "title": "Franz von Papen",
     "fullName": "Franz von Papen",
-    "desc": "Chính trị gia và nhà ngoại giao người Đức từng giữ chức Thủ tướng Đức và Phó Thủ tướng dưới thời Adolf Hitler.",
+    "desc": "Chính trị gia, nhà ngoại giao và quý tộc người Đức, người giữ vai trò quan trọng trong việc sụp đổ của Cộng hòa Weimar. Trên cương vị Thủ tướng năm 1932 và sau đó là Phó Thủ tướng dưới quyền Adolf Hitler, ông đã góp phần đưa đảng Quốc xã lên nắm quyền lực tối cao.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -14156,7 +14771,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hữu Cầu (1879–1946)",
     "born": 1879,
     "died": 1946,
-    "desc": "Nhà giáo, nhà thơ yêu nước và chí sĩ cách mạng, một trong những người sáng lập và giảng dạy tại phong trào Đông Kinh Nghĩa Thục.",
+    "desc": "Chí sĩ yêu nước và nhà giáo dục Việt Nam đầu thế kỷ 20. Ông là một trong những thành viên sáng lập chủ chốt kiêm giảng viên của phong trào canh tân giáo dục Đông Kinh Nghĩa Thục tại Hà Nội năm 1907, cống hiến trọn đời cho sự nghiệp khai dân trí và chấn dân khí.",
     "color": "#4a7c5a",
     "position": "top",
     "primary_tag": "Literature",
@@ -14166,9 +14781,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Lương Văn Can",
       "Nguyễn Thượng Hiền",
-      "Phan Khôi"
+      "Lương Văn Can",
+      "Huy Cận"
     ],
     "themes": []
   },
@@ -14176,7 +14791,7 @@ const RAW_DATA = [
     "title": "John Ireland",
     "born": 1879,
     "died": 1962,
-    "desc": "Nhà soạn nhạc và giáo viên âm nhạc người Anh, nổi tiếng với các tiểu phẩm và ca khúc dành cho piano.",
+    "desc": "Nhà soạn nhạc và nhà sư phạm âm nhạc lỗi lạc người Anh thế kỷ 20. Âm nhạc của ông chịu ảnh hưởng sâu sắc từ trường phái ấn tượng Pháp và giai điệu dân ca Anh, nổi tiếng với các tác phẩm thính phòng tinh tế, ca khúc nghệ thuật và các tiểu phẩm viết cho đàn piano như 'The Island Spell'.",
     "nationality": "British",
     "primary_tag": "Art",
     "tags": [
@@ -14188,9 +14803,9 @@ const RAW_DATA = [
     ],
     "position": "bottom",
     "relations": [
-      "Igor Stravinsky",
       "Selim Palmgren",
-      "Feliks Nowowiejski"
+      "Oskar Merikanto",
+      "Igor Stravinsky"
     ]
   },
   {
@@ -14209,8 +14824,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MacArthur_Manila_%28cropped2%29.jpg",
     "relations": [
       "Ion Antonescu",
-      "Fedor von Bock",
-      "Joseph Stalin"
+      "George S. Patton",
+      "Fedor von Bock"
     ],
     "themes": [
       "World War II"
@@ -14232,8 +14847,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bundesarchiv_Bild_146-1977-120-11%2C_Fedor_von_Bock.jpg",
     "relations": [
       "Gerd von Rundstedt",
-      "Walter Model",
-      "Bernard Montgomery"
+      "George S. Patton",
+      "Walter Model"
     ],
     "themes": [
       "World War II"
@@ -14298,9 +14913,9 @@ const RAW_DATA = [
     "fullName": "Pablo Picasso (Pablo Diego José Francisco de Paula Juan Nepomuceno Crispín Crispiniano María Remedios de la Santísima Trinidad Ruiz Picasso)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pablo_picasso_1.jpg",
     "relations": [
+      "Henri Matisse",
       "Igor Stravinsky",
-      "Kazimir Malevich",
-      "Sergei Prokofiev"
+      "Kazimir Malevich"
     ],
     "themes": []
   },
@@ -14370,7 +14985,7 @@ const RAW_DATA = [
     "relations": [
       "Frédéric Chopin",
       "Igor Stravinsky",
-      "Arthur Rubinstein"
+      "John Ireland"
     ]
   },
   {
@@ -14393,9 +15008,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Portret_van_de_Turkse_leider_Mustafa_Kemal_Ataturk_%28Atat%C3%BCrk_Kemal_Pascha%29_%281881-1938%29_in_westers%2C_SFA003017837.jpg",
     "relations": [
-      "Harry Truman",
       "Charles de Gaulle",
-      "Ion Antonescu"
+      "Gustav V",
+      "Harry S. Truman"
     ]
   },
   {
@@ -14434,9 +15049,9 @@ const RAW_DATA = [
     "fullName": "Igor Stravinsky",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Igor_Stravinsky_LOC_32392u.jpg",
     "relations": [
+      "John Ireland",
       "Frédéric Chopin",
-      "Sergei Prokofiev",
-      "Béla Bartók"
+      "Sergei Prokofiev"
     ],
     "themes": [
       "Classical Music"
@@ -14528,7 +15143,7 @@ const RAW_DATA = [
     "relations": [
       "Bernard Montgomery",
       "Carl Gustaf Emil Mannerheim",
-      "Douglas MacArthur"
+      "Gustav V"
     ],
     "themes": [
       "World War I",
@@ -14550,12 +15165,13 @@ const RAW_DATA = [
     "fullName": "Franklin D. Roosevelt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/500px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
     "relations": [
-      "Harry Truman",
-      "Charles de Gaulle",
-      "Dwight D. Eisenhower"
+      "Harry S. Truman",
+      "Dwight D. Eisenhower",
+      "Charles de Gaulle"
     ],
     "themes": [
-      "World War II"
+      "World War II",
+      "US Presidents"
     ]
   },
   {
@@ -14617,9 +15233,9 @@ const RAW_DATA = [
     "fullName": "Edward Hopper",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg/500px-Edward_Hopper%2C_New_York_artist_LCCN2016871478_%28cropped%29.jpg",
     "relations": [
+      "Henri Matisse",
       "Pablo Picasso",
-      "Gustav Klimt",
-      "Claude Monet"
+      "Gustav Klimt"
     ],
     "themes": []
   },
@@ -14794,7 +15410,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mussolini_mezzobusto.jpg",
     "relations": [
       "Adolf Hitler",
-      "Harry Truman",
+      "Franz von Papen",
       "Charles de Gaulle"
     ],
     "themes": [
@@ -14859,33 +15475,10 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg/500px-Portrait_of_Ph%E1%BA%A1m_Duy_T%E1%BB%91n_%28cropped%29.jpg",
     "relations": [
       "Hồ Biểu Chánh",
-      "Nguyễn Nguyên Phước",
-      "Phan Khôi"
+      "Nguyễn Thượng Hiền",
+      "Nguyễn Nguyên Phước"
     ],
     "themes": []
-  },
-  {
-    "born": 1884,
-    "died": 1972,
-    "title": "Harry Truman",
-    "desc": "Tổng thống thứ 33 của Hoa Kỳ, Truman đã lãnh đạo đất nước trải qua giai đoạn cuối của Thế chiến II và sự khởi đầu của Chiến tranh Lạnh. Quyết định sử dụng bom nguyên tử xuống Nhật Bản và việc ông thiết lập Học thuyết Truman đã định hình nền chính trị toàn cầu hiện đại.",
-    "color": "#5b1a99",
-    "position": "bottom",
-    "primary_tag": "Political",
-    "tags": [
-      "Political"
-    ],
-    "nationality": "American",
-    "fullName": "Harry Truman",
-    "image": "",
-    "relations": [
-      "Franklin D. Roosevelt",
-      "Dwight D. Eisenhower",
-      "Benito Mussolini"
-    ],
-    "themes": [
-      "World War II"
-    ]
   },
   {
     "born": 1884,
@@ -14954,9 +15547,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hideki_Tojo_Portrait_1941_%283x4_cropped%29%282%29.jpg",
     "relations": [
+      "George S. Patton",
       "Heinz Guderian",
-      "Yamamoto Isoroku",
-      "George S. Patton"
+      "Yamamoto Isoroku"
     ]
   },
   {
@@ -14964,7 +15557,7 @@ const RAW_DATA = [
     "died": 1939,
     "title": "Otto Rank",
     "fullName": "Otto Rank",
-    "desc": "Nhà phân tâm học người Hungary và nhà lý luận chủ chốt của trường phái phân tâm học. Là cộng sự thân cận của Sigmund Freud, ông được chú ý nhờ công trình nghiên cứu về chấn thương và cách tiếp cận thử nghiệm đối với mối quan hệ trị liệu.",
+    "desc": "Nhà phân tâm học lỗi lạc người Áo, một trong những học trò và cộng sự thân cận nhất của Sigmund Freud tại Hội Phân tâm học Vienna. Ông nổi tiếng với những lý thuyết tiên phong về chấn thương khi sinh (birth trauma), tâm lý học trị liệu cá nhân và có ảnh hưởng sâu sắc đến sự phát triển của liệu pháp nhân văn.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Otto_Rank_obituary_photo.png",
     "color": "#247ba0",
     "position": "bottom",
@@ -14980,7 +15573,7 @@ const RAW_DATA = [
     "relations": [
       "Sándor Ferenczi",
       "Alfred Adler",
-      "Anna Freud"
+      "Karen Horney"
     ]
   },
   {
@@ -15003,6 +15596,30 @@ const RAW_DATA = [
       "Virginia Woolf"
     ],
     "themes": []
+  },
+  {
+    "born": 1884,
+    "died": 1972,
+    "title": "Harry S. Truman",
+    "fullName": "Harry S. Truman",
+    "desc": "Tổng thống thứ 33 của Hoa Kỳ, lên nắm quyền vào giai đoạn cuối Thế chiến thứ hai sau khi Franklin D. Roosevelt qua đời. Ông là người ra quyết định lịch sử ném bom nguyên tử xuống Nhật Bản, đồng thời kiến tạo Kế hoạch Marshall tái thiết châu Âu và định hình chính sách ngăn chặn (Containment) khởi đầu Chiến tranh Lạnh.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "World War II",
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/500px-TRUMAN_58-766-06_%28cropped%29.jpg",
+    "relations": [
+      "Franklin D. Roosevelt",
+      "Dwight D. Eisenhower",
+      "Rutherford B. Hayes"
+    ]
   },
   {
     "born": 1885,
@@ -15077,7 +15694,7 @@ const RAW_DATA = [
     "died": 1945,
     "title": "George S. Patton",
     "fullName": "George Smith Patton Jr.",
-    "desc": "Tướng quân đội Hoa Kỳ chỉ huy lực lượng ở Bắc Phi, Sicily và Pháp. Nổi tiếng với chiến thuật hung hãn và tốc độ tiến quân trong Thế chiến thứ hai.",
+    "desc": "Đại tướng lỗi lạc và gây tranh cãi của Quân đội Hoa Kỳ trong Thế chiến thứ hai. Với tính cách mạnh mẽ và biệt danh \"Máu và Mật\", ông nổi tiếng với tài cầm quân chỉ huy Tập đoàn quân số 3 càn quét các mặt trận ở Bắc Phi, Sicily, và chiến dịch phản công thần tốc vĩ đại sau sự kiện đổ bộ Normandy, góp phần quan trọng đánh bại phát xít Đức.",
     "color": "#d7263d",
     "position": "bottom",
     "primary_tag": "Military",
@@ -15090,9 +15707,9 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/General_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg",
     "relations": [
-      "Erich von Manstein",
-      "Heinz Guderian",
-      "Douglas MacArthur"
+      "Bernard Montgomery",
+      "Fedor von Bock",
+      "Hideki Tojo"
     ]
   },
   {
@@ -15137,8 +15754,8 @@ const RAW_DATA = [
     "position": "bottom",
     "relations": [
       "Anton Webern",
-      "Toivo Kuula",
-      "Arnold Schönberg"
+      "John Ireland",
+      "Toivo Kuula"
     ]
   },
   {
@@ -15292,8 +15909,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/General_Sir_Bernard_Montgomery_in_England%2C_1943_TR1036_%28cropped%29.jpg",
     "relations": [
       "Ion Antonescu",
-      "Gerd von Rundstedt",
-      "Fedor von Bock"
+      "George S. Patton",
+      "Gerd von Rundstedt"
     ]
   },
   {
@@ -15428,7 +16045,7 @@ const RAW_DATA = [
     "relations": [
       "Edwin Hubble",
       "Bernhard Riemann",
-      "Dorothy Maud Wrinch"
+      "Otto Rank"
     ],
     "themes": []
   },
@@ -15632,8 +16249,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mr._Bui_Bang_Doan.jpg/250px-Mr._Bui_Bang_Doan.jpg",
     "relations": [
       "Thành Thái",
-      "Nguyễn Hy",
-      "Khải Định"
+      "Phan Thanh Giản",
+      "Nguyễn Hy"
     ]
   },
   {
@@ -15740,12 +16357,13 @@ const RAW_DATA = [
     "fullName": "Dwight D. Eisenhower",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
     "relations": [
-      "Harry Truman",
+      "Harry S. Truman",
       "Franklin D. Roosevelt",
       "Charles de Gaulle"
     ],
     "themes": [
-      "World War II"
+      "World War II",
+      "US Presidents"
     ]
   },
   {
@@ -15902,7 +16520,7 @@ const RAW_DATA = [
     "relations": [
       "Phan Khôi",
       "Nguyễn Cư Trinh",
-      "Virginia Woolf"
+      "Éric-Emmanuel Schmitt"
     ],
     "themes": []
   },
@@ -15989,9 +16607,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Hy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nguy%E1%BB%85n_Hy%2C_Souverains_et_notabilites_d%27Indochine_%28cropped%29.jpg",
     "relations": [
+      "Thành Thái",
       "Phạm Phú Thứ",
-      "Đỗ Thúc Tịnh",
-      "Bùi Bằng Đoàn"
+      "Đỗ Thúc Tịnh"
     ],
     "themes": []
   },
@@ -16010,9 +16628,9 @@ const RAW_DATA = [
     "fullName": "Alexander Alexandrovich Alekhine",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexandre_Alekhine_01.jpg/500px-Alexandre_Alekhine_01.jpg",
     "relations": [
+      "Mikhail Tal",
       "José Raúl Capablanca",
-      "Magnus Carlsen",
-      "Garry Kasparov"
+      "Emanuel Lasker"
     ],
     "themes": [
       "Chess"
@@ -16056,9 +16674,9 @@ const RAW_DATA = [
     "fullName": "Mao Trạch Đông",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mao_Zedong_1950_Portrait_%283x4_cropped%29.jpg/500px-Mao_Zedong_1950_Portrait_%283x4_cropped%29.jpg",
     "relations": [
+      "Đặng Tiểu Bình",
       "Tăng Khánh Hồng",
-      "Lâm Bưu",
-      "Lưu Thiếu Kỳ"
+      "Lâm Bưu"
     ],
     "themes": [
       "Chinese Communism"
@@ -16170,7 +16788,7 @@ const RAW_DATA = [
     "relations": [
       "Adolf Hitler",
       "Joseph Goebbels",
-      "Albert Speer"
+      "Franz von Papen"
     ],
     "themes": [
       "World War II"
@@ -16215,8 +16833,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Lê Hồng Phong",
-      "Hoàng Tích Trí",
-      "Nguyễn Hải Thần"
+      "Sở Trang vương",
+      "Hoàng Tích Trí"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nguy%E1%BB%85n_S%C6%A1n_H%C3%A0_%281894_-_1980%29.jpg/500px-Nguy%E1%BB%85n_S%C6%A1n_H%C3%A0_%281894_-_1980%29.jpg"
@@ -16324,7 +16942,7 @@ const RAW_DATA = [
     "relations": [
       "Charles de Gaulle",
       "Adolf Hitler",
-      "Harry Truman"
+      "Franklin D. Roosevelt"
     ],
     "themes": [
       "World War II"
@@ -16502,9 +17120,9 @@ const RAW_DATA = [
     "fullName": "Georgy Zhukov (Georgy Konstantinovich Zhukov, Жуков, Marshal of Victory)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Zhukov-LIFE-1944-1945_cropped.jpg",
     "relations": [
+      "George S. Patton",
       "Aleksandr Mikhailovich Vasilevsky",
-      "Walter Model",
-      "Erich von Manstein"
+      "Walter Model"
     ],
     "themes": [
       "World War II"
@@ -16589,8 +17207,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Paulino_alcantara_barca_%28cropped%29.jpg",
     "relations": [
       "Sir Bobby Robson",
-      "Lê Thụy Hải",
-      "Johan Cruyff"
+      "Pep Guardiola",
+      "Lê Thụy Hải"
     ],
     "themes": [
       "Football"
@@ -16709,8 +17327,8 @@ const RAW_DATA = [
     ],
     "relations": [
       "Anna Freud",
-      "Karen Horney",
-      "Otto Rank"
+      "Otto Rank",
+      "Karen Horney"
     ]
   },
   {
@@ -16730,7 +17348,7 @@ const RAW_DATA = [
     "relations": [
       "José Raúl Capablanca",
       "Nguyễn Trần Duy Nhất",
-      "Alexandra Trusova"
+      "Phạm Xuân Ẩn"
     ],
     "themes": []
   },
@@ -16794,7 +17412,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Zhou_Enlai_1972.jpg/500px-Zhou_Enlai_1972.jpg",
     "relations": [
       "Mao Trạch Đông",
-      "Bạc Hy Lai",
+      "Thái Kỳ",
       "Đặng Tiểu Bình"
     ],
     "themes": [
@@ -16836,9 +17454,9 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
+      "Võ Nguyên Giáp",
       "Philippe Leclerc",
-      "Jean de Lattre de Tassigny",
-      "Christian de Castries"
+      "Jean de Lattre de Tassigny"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -17216,7 +17834,7 @@ const RAW_DATA = [
     "fullName": "Hirohito",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg",
     "relations": [
-      "Harry Truman",
+      "Harry S. Truman",
       "Heinrich Himmler",
       "Phổ Nghi"
     ],
@@ -17266,7 +17884,7 @@ const RAW_DATA = [
     "relations": [
       "Enrico Fermi",
       "Paul Dirac",
-      "Hans Bethe"
+      "Shinichiro Tomonaga"
     ],
     "themes": [
       "Quantum Physics",
@@ -17353,8 +17971,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pauling.jpg/500px-Pauling.jpg",
     "relations": [
       "Lev Landau",
-      "Paul Dirac",
-      "Pavel Alekseyevich Cherenkov"
+      "Shinichiro Tomonaga",
+      "Paul Dirac"
     ],
     "themes": [
       "Giai Nobel"
@@ -17420,9 +18038,9 @@ const RAW_DATA = [
     "fullName": "Paul Dirac",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paul_Dirac%2C_1933.jpg",
     "relations": [
+      "Shinichiro Tomonaga",
       "Enrico Fermi",
-      "Werner Heisenberg",
-      "Lev Landau"
+      "Werner Heisenberg"
     ],
     "themes": [
       "Quantum Physics",
@@ -17531,8 +18149,8 @@ const RAW_DATA = [
     ],
     "nationality": "French",
     "relations": [
-      "Henri Navarre",
       "Võ Nguyên Giáp",
+      "Henri Navarre",
       "Phan Đình Giót"
     ],
     "themes": [
@@ -17598,9 +18216,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Đặng Văn Ngữ",
       "Hồ Đắc Di",
-      "Văn Tiến Dũng",
-      "Jacques Lacan"
+      "Văn Tiến Dũng"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/48/HoangTichTri.jpg"
@@ -17698,7 +18316,7 @@ const RAW_DATA = [
     "born": 1904,
     "died": 1997,
     "title": "Đặng Tiểu Bình",
-    "desc": "Nhà lãnh đạo cách mạng và tối cao của Trung Quốc được ghi nhận là người khởi xướng chính sách cải cách kinh tế và mở cửa của Trung Quốc.",
+    "desc": "Nhà lãnh đạo tối cao của Cộng hòa Nhân dân Trung Hoa từ cuối thập niên 1970 đến đầu thập niên 1990. Ông là kiến trúc sư vĩ đại của công cuộc Cải cách và Mở cửa, đề xướng triết lý \"Mèo trắng mèo đen\" giúp định hình nền kinh tế thị trường định hướng xã hội chủ nghĩa, đưa Trung Quốc vươn lên thành siêu cường kinh tế toàn cầu.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -17709,8 +18327,8 @@ const RAW_DATA = [
     "fullName": "Đặng Tiểu Bình",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg/500px-Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored%28cropped%29.jpg",
     "relations": [
-      "Lâm Bưu",
       "Mao Trạch Đông",
+      "Lâm Bưu",
       "Triệu Tử Dương"
     ],
     "themes": [
@@ -17756,9 +18374,9 @@ const RAW_DATA = [
     "fullName": "Pavel Alekseyevich Cherenkov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Cerenkov.jpg",
     "relations": [
+      "Shinichiro Tomonaga",
       "Albert Einstein",
-      "Wilhelm Röntgen",
-      "Alfred Nobel"
+      "Wilhelm Röntgen"
     ],
     "themes": [
       "Giai Nobel"
@@ -17814,7 +18432,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Lương Bằng",
     "born": 1904,
     "died": 1979,
-    "desc": "Cố Phó Chủ tịch nước Việt Nam, một trong những người cộng sản thuộc thế hệ đầu tiên, nổi tiếng với bí danh \"Sao Đỏ\".",
+    "desc": "Nhà cách mạng lỗi lạc của Đảng Cộng sản Việt Nam, nguyên Phó Chủ tịch nước Việt Nam Dân chủ Cộng hòa và Cộng hòa Xã hội Chủ nghĩa Việt Nam. Với bí danh hoạt động bí mật 'Sao Đỏ', ông thuộc thế hệ đảng viên đầu tiên kề vai sát cánh cùng Chủ tịch Hồ Chí Minh gây dựng phong trào cách mạng và giữ nhiều trọng trách về kinh tế, ngoại giao.",
     "color": "#2a6fdb",
     "position": "top",
     "primary_tag": "Political",
@@ -17823,9 +18441,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
-      "Võ Chí Công",
-      "Hoàng Quốc Việt",
-      "Phạm Văn Đồng"
+      "Đỗ Mười",
+      "Lê Thanh Nghị",
+      "Hồ Chí Minh"
     ],
     "themes": [
       "VN Modern Communism"
@@ -18029,8 +18647,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "relations": [
       "Đỗ Mười",
-      "Trường Chinh",
-      "Nguyễn Văn Linh"
+      "Nguyễn Lương Bằng",
+      "Trường Chinh"
     ],
     "themes": [
       "VN Modern Communism"
@@ -18169,7 +18787,7 @@ const RAW_DATA = [
     "relations": [
       "Alfred Tarski",
       "Alan Turing",
-      "John von Neumann"
+      "Giuseppe Peano"
     ],
     "themes": []
   },
@@ -18232,8 +18850,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/H%E1%BB%99i_Ngh%E1%BB%8B_%C4%90%C3%A0_L%E1%BA%A1t_%28cropped%29.jpg",
     "relations": [
       "Vũ Khắc Khoan",
-      "Khái Hưng",
-      "Thụy An"
+      "Huy Cận",
+      "Khái Hưng"
     ],
     "themes": []
   },
@@ -18277,9 +18895,9 @@ const RAW_DATA = [
     "nationality": "Soviet",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/500px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg",
     "relations": [
+      "Đỗ Mười",
       "Park Chung-hee",
-      "Nguyễn Xuân Oánh",
-      "Trường Chinh"
+      "Nguyễn Xuân Oánh"
     ],
     "themes": []
   },
@@ -18303,6 +18921,30 @@ const RAW_DATA = [
       "Abbas Kiarostami"
     ],
     "themes": []
+  },
+  {
+    "born": 1906,
+    "died": 1979,
+    "title": "Shinichiro Tomonaga",
+    "fullName": "Shinichiro Tomonaga (Sin-Itiro Tomonaga)",
+    "desc": "Nhà vật lý lý thuyết lỗi lạc người Nhật Bản, đồng chủ nhân giải Nobel Vật lý năm 1965 cùng với Richard Feynman và Julian Schwinger. Ông có công lao to lớn trong sự phát triển của điện động lực học lượng tử (QED) thông qua việc phát minh ra phương pháp tái chuẩn hóa (renormalization) giúp giải quyết các vấn đề liên quan đến sự vô hạn trong các tính toán lượng tử.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Japanese",
+    "themes": [
+      "Quantum Physics",
+      "Giai Nobel"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tomonaga.jpg",
+    "relations": [
+      "Richard Feynman",
+      "Albert Einstein",
+      "Paul Dirac"
+    ]
   },
   {
     "born": 1907,
@@ -18508,8 +19150,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Levi-strauss_260_%28cropped2%29.jpg/500px-Levi-strauss_260_%28cropped2%29.jpg",
     "relations": [
       "Erich Fromm",
-      "Anna Freud",
-      "Alfred Adler"
+      "Shinichiro Tomonaga",
+      "Otto Rank"
     ],
     "themes": [
       "Psychoanalysis"
@@ -18574,9 +19216,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Nguyễn Lương Bằng",
       "Hoàng Văn Thụ",
-      "Lê Hồng Phong",
-      "Nguyễn Phong Sắc"
+      "Lê Hồng Phong"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg/500px-Ho_Chi_Minh_City_panorama_2019_%28cropped2%29.jpg"
@@ -18640,12 +19282,35 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Landau.jpg/500px-Landau.jpg",
     "relations": [
       "Paul Dirac",
-      "Enrico Fermi",
-      "Werner Heisenberg"
+      "Shinichiro Tomonaga",
+      "Enrico Fermi"
     ],
     "themes": [
       "Quantum Physics",
       "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1908,
+    "died": 1973,
+    "title": "Lyndon B. Johnson",
+    "fullName": "Lyndon B. Johnson",
+    "desc": "Tổng thống thứ 36 của Hoa Kỳ, nhậm chức sau khi John F. Kennedy bị ám sát. Nhiệm kỳ của ông nổi bật với những thành tựu lập pháp vĩ đại của chương trình \"Xã hội Vĩ đại\" (Great Society), bao gồm Đạo luật Dân quyền và Medicare, nhưng cũng bị phủ bóng đen và gây tranh cãi gay gắt do việc nâng cấp sự can thiệp quân sự của Mỹ vào Chiến tranh Việt Nam.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/500px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg",
+    "relations": [
+      "Donald Trump",
+      "John F. Kennedy",
+      "Richard Nixon"
     ]
   },
   {
@@ -18663,9 +19328,9 @@ const RAW_DATA = [
     "fullName": "Dazai Osamu (太宰治, Tsushima Shuji)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Osamu_Dazai.jpg",
     "relations": [
+      "Mario Puzo",
       "Kawabata Yasunari",
-      "F. Scott Fitzgerald",
-      "Thụy An"
+      "F. Scott Fitzgerald"
     ],
     "themes": []
   },
@@ -18728,8 +19393,8 @@ const RAW_DATA = [
     "nationality": "Laotian",
     "relations": [
       "Nguyễn Đức Cảnh",
-      "Nguyễn Chí Diểu",
-      "Léopold Sédar Senghor"
+      "Nguyễn Lương Bằng",
+      "Nguyễn Chí Diểu"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Souphanouvong1978.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
@@ -18794,9 +19459,9 @@ const RAW_DATA = [
     "fullName": "Lee Byung-chul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Lee_Byung-chul_%28cropped%29.jpg",
     "relations": [
+      "Pavel Durov",
       "Jeff Bezos",
-      "Hermann Gmeiner",
-      "Bạch Thái Bưởi"
+      "Đặng Tiểu Bình"
     ],
     "themes": []
   },
@@ -18804,7 +19469,7 @@ const RAW_DATA = [
     "born": 1910,
     "died": 1967,
     "title": "Đặng Văn Ngữ",
-    "desc": "Bác sĩ và nhà vi khuẩn học người Việt Nam nổi tiếng với nghiên cứu tiên phong về vi sinh học và phòng chống sốt rét.",
+    "desc": "Bác sĩ, nhà ký sinh trùng học đầu ngành và người đặt nền móng cho y học dự phòng Việt Nam. Ông có công lớn trong việc nghiên cứu sản xuất thành công Penicillin trong điều kiện chiến khu kháng chiến chống Pháp để trị thương cho binh sĩ, đồng thời cống hiến trọn đời cho công cuộc phòng chống bệnh sốt rét ở nước nhà.",
     "color": "#2ec4b6",
     "position": "top",
     "primary_tag": "Medical",
@@ -18815,9 +19480,9 @@ const RAW_DATA = [
     "fullName": "Đặng Văn Ngữ",
     "image": "https://upload.wikimedia.org/wikipedia/vi/5/56/%C4%90%E1%BA%B7ng_V%C4%83n_Ng%E1%BB%AF.jpeg",
     "relations": [
+      "Hoàng Tích Trí",
       "Phạm Ngọc Thạch",
-      "Tôn Thất Tùng",
-      "Hồ Đắc Di"
+      "Phạm Hùng"
     ],
     "themes": []
   },
@@ -18861,8 +19526,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/500px-Mother_Teresa_1.jpg",
     "relations": [
       "Malala Yousafzai",
-      "Thánh Damien đảo Molokai",
-      "Đồ U U"
+      "Jimmy Carter",
+      "Thánh Damien đảo Molokai"
     ],
     "themes": [
       "Giai Nobel"
@@ -18955,7 +19620,7 @@ const RAW_DATA = [
     "relations": [
       "Tưởng Giới Thạch",
       "Tống Mỹ Linh",
-      "Đặng Tiểu Bình"
+      "Triệu Tử Dương"
     ],
     "themes": []
   },
@@ -18975,8 +19640,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Chế Lan Viên",
-      "Thế Lữ",
-      "Xuân Diệu"
+      "Huy Cận",
+      "Thế Lữ"
     ],
     "themes": [
       "Tho Moi"
@@ -19030,7 +19695,7 @@ const RAW_DATA = [
     "born": 1911,
     "died": 2013,
     "title": "Võ Nguyên Giáp",
-    "desc": "Tướng, chỉ huy quân sự Việt Nam, người đã lãnh đạo Việt Minh và Quân đội Nhân dân đánh thắng Pháp và Mỹ. Được coi là một trong những nhà chiến lược quân sự xuất sắc nhất thế kỷ 20.",
+    "desc": "Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam, nhà chiến lược quân sự thiên tài được đánh giá là một trong những vị tướng vĩ đại nhất thế kỷ 20. Ông là tổng chỉ huy trực tiếp trong các chiến dịch lịch sử tiêu biểu như Điện Biên Phủ năm 1954 đánh bại thực dân Pháp và Chiến dịch Hồ Chí Minh năm 1975 giải phóng miền Nam thống nhất đất nước.",
     "color": "#d7263d",
     "position": "top",
     "primary_tag": "Military",
@@ -19092,10 +19757,12 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/500px-Official_Portrait_of_President_Reagan_1981.jpg",
     "relations": [
       "Donald Trump",
-      "Park Chung-hee",
-      "Henry Kissinger"
+      "Theodore Roosevelt",
+      "John F. Kennedy"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
   },
   {
     "title": "Lê Thanh Nghị",
@@ -19111,9 +19778,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Nguyễn Lương Bằng",
       "Lê Đức Thọ",
-      "Huỳnh Tấn Phát",
-      "Nguyễn Hữu Thọ"
+      "Huỳnh Tấn Phát"
     ],
     "themes": [
       "VN Modern Communism"
@@ -19180,8 +19847,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Professor_T%C3%B4n_Th%E1%BA%A5t_T%C3%B9ng_%281947%29.jpg",
     "relations": [
       "Abraham Maslow",
-      "Đặng Văn Ngữ",
-      "Hồ Đắc Di"
+      "Hồ Đắc Di",
+      "Lev Vygotsky"
     ],
     "themes": []
   },
@@ -19413,7 +20080,7 @@ const RAW_DATA = [
     "relations": [
       "Nelson Mandela",
       "Malcolm X",
-      "Võ Chí Công"
+      "Lyndon B. Johnson"
     ],
     "themes": []
   },
@@ -19432,9 +20099,9 @@ const RAW_DATA = [
     "fullName": "Paul Erdős",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Erdos_budapest_fall_1992_%28cropped%29.jpg",
     "relations": [
+      "Freeman Dyson",
       "J. Robert Oppenheimer",
-      "John von Neumann",
-      "Werner Heisenberg"
+      "John von Neumann"
     ],
     "themes": []
   },
@@ -19497,11 +20164,12 @@ const RAW_DATA = [
     "nationality": "American",
     "relations": [
       "Nguyễn Thị Bình",
-      "Lê Đức Thọ",
-      "Lê Duẩn"
+      "John F. Kennedy",
+      "Lyndon B. Johnson"
     ],
     "themes": [
-      "Khang chien chong My"
+      "Khang chien chong My",
+      "US Presidents"
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg"
   },
@@ -19590,8 +20258,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Văn Tiến Dũng",
-      "Hoàng Minh Thảo",
-      "Hoàng Đan"
+      "Võ Nguyên Giáp",
+      "Hoàng Minh Thảo"
     ],
     "themes": [
       "Khang chien chong My"
@@ -19747,8 +20415,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Frank_Sinatra_1961.jpg",
     "relations": [
       "Władysław Szpilman",
-      "Anna May Wong",
-      "Marilyn Monroe"
+      "Lương Triều Vỹ",
+      "Anna May Wong"
     ],
     "themes": []
   },
@@ -19767,8 +20435,8 @@ const RAW_DATA = [
     "fullName": "Hoàng Văn Thái",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/%C4%90%E1%BA%A1i_t%C6%B0%E1%BB%9Bng_Ho%C3%A0ng_V%C4%83n_Th%C3%A1i.jpg/500px-%C4%90%E1%BA%A1i_t%C6%B0%E1%BB%9Bng_Ho%C3%A0ng_V%C4%83n_Th%C3%A1i.jpg",
     "relations": [
-      "Văn Tiến Dũng",
       "Võ Nguyên Giáp",
+      "Văn Tiến Dũng",
       "Hoàng Minh Thảo"
     ],
     "themes": [
@@ -19857,7 +20525,7 @@ const RAW_DATA = [
     "relations": [
       "Roberto Rossellini",
       "Agnès Varda",
-      "Tilda Swinton"
+      "Clint Eastwood"
     ],
     "themes": []
   },
@@ -19878,7 +20546,7 @@ const RAW_DATA = [
     "relations": [
       "Hàn Mặc Tử",
       "Chế Lan Viên",
-      "Quách Tấn"
+      "Huy Cận"
     ],
     "themes": [
       "Tho Moi"
@@ -19900,8 +20568,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Portrait_of_D%C6%B0%C6%A1ng_V%C4%83n_Minh%2C_Vietnam_Fights_and_Builds_No.1%2C_July_1964.jpg/500px-Portrait_of_D%C6%B0%C6%A1ng_V%C4%83n_Minh%2C_Vietnam_Fights_and_Builds_No.1%2C_July_1964.jpg",
     "relations": [
       "Văn Tiến Dũng",
-      "Cao Văn Viên",
-      "Trần Thiện Khiêm"
+      "Võ Nguyên Giáp",
+      "Cao Văn Viên"
     ],
     "themes": [
       "Khang chien chong My"
@@ -19924,7 +20592,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Hồng Phong",
       "Rosa Parks",
-      "Thâm Tâm"
+      "Lyndon B. Johnson"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Thaivanlung.jpg/500px-Thaivanlung.jpg"
@@ -20052,9 +20720,9 @@ const RAW_DATA = [
     "fullName": "Văn Tiến Dũng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Van_Tien_Dung_1954.jpg",
     "relations": [
+      "Võ Nguyên Giáp",
       "Trần Văn Trà",
-      "Hồ Chí Minh",
-      "Dương Văn Minh"
+      "Hồ Chí Minh"
     ],
     "themes": [
       "Khang chien chong My"
@@ -20075,9 +20743,9 @@ const RAW_DATA = [
     "fullName": "Indira Gandhi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/500px-IndiraGandhi.png",
     "relations": [
+      "Đỗ Mười",
       "Patrice Lumumba",
-      "Fidel Castro",
-      "Xuân Thủy"
+      "Fidel Castro"
     ],
     "themes": []
   },
@@ -20096,12 +20764,13 @@ const RAW_DATA = [
     "fullName": "John F. Kennedy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
     "relations": [
-      "Henry Kissinger",
-      "Lê Duẩn",
-      "Võ Văn Kiệt"
+      "Richard Nixon",
+      "Lyndon B. Johnson",
+      "Jimmy Carter"
     ],
     "themes": [
-      "Khang chien chong My"
+      "Khang chien chong My",
+      "US Presidents"
     ]
   },
   {
@@ -20120,8 +20789,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg",
     "relations": [
       "Leonid Ilyich Brezhnev",
-      "Nguyễn Xuân Oánh",
-      "Nguyễn Cao Kỳ"
+      "Đỗ Mười",
+      "Nguyễn Xuân Oánh"
     ],
     "themes": []
   },
@@ -20164,8 +20833,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nh%C3%A0_th%C6%A1_Th%C3%A2m_T%C3%A2m_%281917%E2%80%931950%29.JPG/500px-Nh%C3%A0_th%C6%A1_Th%C3%A2m_T%C3%A2m_%281917%E2%80%931950%29.JPG",
     "relations": [
       "Đinh Núp",
-      "Phùng Quán",
-      "Nguyễn Đức Cảnh"
+      "Huy Cận",
+      "Phùng Quán"
     ],
     "themes": []
   },
@@ -20174,7 +20843,7 @@ const RAW_DATA = [
     "died": 2018,
     "title": "Đỗ Mười",
     "fullName": "Đỗ Mười",
-    "desc": "Chính trị gia Việt Nam, Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam (1991–1997), nguyên Chủ tịch Hội đồng Bộ trưởng (Thủ tướng Chính phủ).",
+    "desc": "Chính trị gia kỳ cựu và là một trong những nhà lãnh đạo chủ chốt của Việt Nam vào cuối thế kỷ 20. Ông từng đảm nhiệm nhiều trọng trách cao nhất của Đảng và Nhà nước, nổi bật là cương vị Chủ tịch Hội đồng Bộ trưởng (Thủ tướng Chính phủ) và Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam từ năm 1991 đến 1997. Dưới thời kỳ lãnh đạo của ông, Việt Nam đã đẩy mạnh công cuộc Đổi mới, bình thường hóa quan hệ ngoại giao với Hoa Kỳ và chính thức gia nhập Hiệp hội các quốc gia Đông Nam Á (ASEAN).",
     "color": "#8d6e63",
     "position": "top",
     "primary_tag": "Political",
@@ -20249,9 +20918,9 @@ const RAW_DATA = [
     "fullName": "Nguyên Hồng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nguy%E1%BB%85n_Nguy%C3%AAn_H%E1%BB%93ng.jpg",
     "relations": [
+      "Mario Puzo",
       "Italo Calvino",
-      "Gabriel García Márquez",
-      "Lê Đạt"
+      "Gabriel García Márquez"
     ],
     "themes": []
   },
@@ -20271,8 +20940,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg",
     "relations": [
       "Henry Kissinger",
-      "Anwar Al-Sadad",
-      "Rosa Parks"
+      "Al Gore",
+      "Anwar Al-Sadad"
     ],
     "themes": [
       "Giai Nobel"
@@ -20315,8 +20984,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/500px-Richard_Feynman_Nobel.jpg",
     "relations": [
       "J. Robert Oppenheimer",
-      "Hans Bethe",
-      "Enrico Fermi"
+      "Shinichiro Tomonaga",
+      "Hans Bethe"
     ],
     "themes": [
       "Quantum Physics",
@@ -20361,9 +21030,9 @@ const RAW_DATA = [
     "fullName": "Anwar Al-Sadad",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/500px-Anwar_Sadat_cropped.jpg",
     "relations": [
+      "Jimmy Carter",
       "Barack Obama",
-      "Lê Đức Thọ",
-      "Nelson Mandela"
+      "Lê Đức Thọ"
     ],
     "themes": [
       "Giai Nobel"
@@ -20415,7 +21084,7 @@ const RAW_DATA = [
     "born": 1919,
     "died": 2005,
     "title": "Huy Cận",
-    "desc": "Nhà thơ và chính trị gia Việt Nam là nhân vật nổi bật trong Phong trào Thơ Mới. Ông giữ chức Bộ trưởng Bộ Văn hóa Thông tin trong nhiều năm.",
+    "desc": "Nhà thơ lớn yêu nước kiêm chính trị gia xuất sắc của Việt Nam thế kỷ 20. Ông là một trong những đại biểu ưu tú nhất của Phong trào Thơ mới với tập thơ đầu tay 'Lửa thiêng' đẫm nỗi sầu nhân thế. Sau Cách mạng Tháng Tám, ông cống hiến trọn đời cho văn học nước nhà và giữ nhiều chức vụ quan trọng trong Chính phủ như Thứ trưởng Bộ Văn hóa.",
     "color": "#2f5233",
     "position": "top",
     "primary_tag": "Literature",
@@ -20427,8 +21096,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_of_poet_Huy_C%E1%BA%ADn_%28cropped%29.jpg",
     "relations": [
       "Chế Lan Viên",
-      "Thế Lữ",
-      "Phan Khôi"
+      "Tế Hanh",
+      "Quách Tấn"
     ],
     "themes": [
       "Tho Moi"
@@ -20534,8 +21203,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bezoek_Chinese_premier_Zhao_Ziyang_%2C_met_premier_Lubbers_tijdens_regeringsdiner%2C_Bestanddeelnr_933-3563_%28cropped%29.jpg/500px-Bezoek_Chinese_premier_Zhao_Ziyang_%2C_met_premier_Lubbers_tijdens_regeringsdiner%2C_Bestanddeelnr_933-3563_%28cropped%29.jpg",
     "relations": [
       "Giang Trạch Dân",
-      "Lâm Bưu",
-      "Đặng Tiểu Bình"
+      "Đặng Tiểu Bình",
+      "Hồ Cẩm Đào"
     ],
     "themes": [
       "Chinese Communism"
@@ -20558,7 +21227,7 @@ const RAW_DATA = [
     "relations": [
       "Phạm Hùng",
       "Lê Duẩn",
-      "Ali Shariati"
+      "Raul Castro"
     ],
     "themes": []
   },
@@ -20601,8 +21270,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tranvantra.jpg",
     "relations": [
-      "Văn Tiến Dũng",
       "Võ Nguyên Giáp",
+      "Văn Tiến Dũng",
       "Bùi Thiện Ngộ"
     ],
     "themes": [
@@ -20737,7 +21406,7 @@ const RAW_DATA = [
     "relations": [
       "Dương Chấn Ninh",
       "Claude Lévi-Strauss",
-      "Alan Turing"
+      "Freeman Dyson"
     ],
     "themes": []
   },
@@ -20756,14 +21425,36 @@ const RAW_DATA = [
     "fullName": "Phan Ngọc Hoan",
     "image": "",
     "relations": [
+      "Huy Cận",
       "Phạm Hùng",
-      "Hồ Chí Minh",
-      "Tôn Đức Thắng"
+      "Hồ Chí Minh"
     ],
     "themes": [
       "Tho Moi",
       "Khang chien chong Phap",
       "Khang chien chong My"
+    ]
+  },
+  {
+    "born": 1920,
+    "died": 1999,
+    "title": "Mario Puzo",
+    "fullName": "Mario Puzo",
+    "desc": "Nhà văn kiêm nhà biên kịch vĩ đại người Mỹ gốc Ý, cha đẻ của cuốn tiểu thuyết tội phạm kinh điển 'Bố già' (The Godfather). Tác phẩm của ông không chỉ định hình lại hình ảnh của giới mafia trên văn đàn và màn bạc mà còn mang về cho ông hai giải Oscar danh giá cho kịch bản chuyển thể xuất sắc nhất.",
+    "color": "#4a7c5a",
+    "position": "bottom",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mario_Puzo_1972_%28cropped%29.jpg/500px-Mario_Puzo_1972_%28cropped%29.jpg",
+    "relations": [
+      "Éric-Emmanuel Schmitt",
+      "Nguyên Hồng",
+      "E. M. Forster"
     ]
   },
   {
@@ -20803,8 +21494,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/0/00/Hoangminhthao.gif",
     "relations": [
       "Văn Tiến Dũng",
-      "Hoàng Văn Thái",
-      "Lê Trọng Tấn"
+      "Võ Nguyên Giáp",
+      "Hoàng Văn Thái"
     ],
     "themes": [
       "Khang chien chong My"
@@ -20825,9 +21516,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Xuân Oánh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nguy%E1%BB%85n_Xu%C3%A2n_O%C3%A1nh%2C_Viet-Nam_Bulletin_Viet-Nam_info_series.jpg/500px-Nguy%E1%BB%85n_Xu%C3%A2n_O%C3%A1nh%2C_Viet-Nam_Bulletin_Viet-Nam_info_series.jpg",
     "relations": [
-      "Leonid Ilyich Brezhnev",
-      "Lê Khả Phiêu",
-      "Lê Duẩn"
+      "Đỗ Mười",
+      "Raul Castro",
+      "Leonid Ilyich Brezhnev"
     ],
     "themes": []
   },
@@ -20868,9 +21559,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Huy Cận",
       "Nguyễn Bính",
-      "Chế Lan Viên",
-      "Huy Cận"
+      "Chế Lan Viên"
     ],
     "themes": [
       "Tho Moi"
@@ -21010,7 +21701,7 @@ const RAW_DATA = [
     "relations": [
       "Bế Văn Đàn",
       "Tô Vĩnh Diện",
-      "Võ Thị Sáu"
+      "Võ Nguyên Giáp"
     ],
     "themes": [
       "Khang chien chong Phap"
@@ -21144,7 +21835,7 @@ const RAW_DATA = [
     "relations": [
       "Xuân Thủy",
       "Lê Đức Thọ",
-      "Phạm Xuân Ẩn"
+      "Richard Nixon"
     ],
     "themes": [
       "Khang chien chong My",
@@ -21211,9 +21902,9 @@ const RAW_DATA = [
     "position": "top",
     "image": "https://upload.wikimedia.org/wikipedia/vi/a/a4/Trung_tuong_Tran_Do.jpg",
     "relations": [
+      "Đỗ Mười",
       "Hoàng Minh Chính",
-      "Bùi Tín",
-      "Lê Khả Phiêu"
+      "Từ Tài Hậu"
     ]
   },
   {
@@ -21237,6 +21928,29 @@ const RAW_DATA = [
     ],
     "themes": [
       "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1923,
+    "died": 2020,
+    "title": "Freeman Dyson",
+    "fullName": "Freeman Dyson",
+    "desc": "Nhà vật lý lý thuyết và toán học kiệt xuất người Anh - Mỹ. Nổi tiếng với việc thống nhất ba công trình lượng tử về điện động lực học lượng tử (QED) và các nghiên cứu đột phá về vật lý chất rắn, vật lý hạt nhân. Ông còn là một nhà tư tưởng khoa học vĩ đại với ý tưởng về 'Quả cầu Dyson' (Dyson sphere), cấu trúc giả thuyết thu thập năng lượng sao khổng lồ.",
+    "color": "#247ba0",
+    "position": "bottom",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "British",
+    "themes": [
+      "Quantum Physics"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Freeman_Dyson_%282005%29.jpg/500px-Freeman_Dyson_%282005%29.jpg",
+    "relations": [
+      "Shinichiro Tomonaga",
+      "Richard Feynman",
+      "Edward Teller"
     ]
   },
   {
@@ -21300,11 +22014,35 @@ const RAW_DATA = [
     "fullName": "Sergei Parajanov",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sergei_Parajanov._1._Yuri_Mechitov.jpg/500px-Sergei_Parajanov._1._Yuri_Mechitov.jpg",
     "relations": [
+      "Christopher Nolan",
       "Marilyn Monroe",
-      "Jean-Luc Godard",
-      "Frank Sinatra"
+      "Jean-Luc Godard"
     ],
     "themes": []
+  },
+  {
+    "born": 1924,
+    "died": 1925,
+    "title": "Jimmy Carter",
+    "fullName": "Jimmy Carter",
+    "desc": "Tổng thống thứ 39 của Hoa Kỳ, cựu thống đốc bang Georgia và từng đoạt giải Nobel Hòa bình năm 2002. Nhiệm kỳ của ông đối mặt với nhiều cuộc khủng hoảng như lạm phát và vụ bắt cóc con tin tại Iran, nhưng lại gặt hái thành tựu đối ngoại xuất sắc qua việc làm trung gian cho Hiệp định Trại David mang lại hòa bình giữa Israel và Ai Cập.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents",
+      "Giai Nobel"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/500px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg",
+    "relations": [
+      "Anwar Al-Sadad",
+      "Barack Obama",
+      "John F. Kennedy"
+    ]
   },
   {
     "born": 1925,
@@ -21321,9 +22059,9 @@ const RAW_DATA = [
     "fullName": "Yukio Mishima (三島由紀夫, Kimitake Hiraoka)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg",
     "relations": [
+      "Huy Cận",
       "Thụy An",
-      "Cao Hành Kiện",
-      "Ichikawa Takuji"
+      "Cao Hành Kiện"
     ],
     "themes": []
   },
@@ -21409,9 +22147,9 @@ const RAW_DATA = [
     "fullName": "Margaret Thatcher",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Baroness_Thatcher_in_2005.jpg/500px-Baroness_Thatcher_in_2005.jpg",
     "relations": [
-      "Elizabeth II",
-      "Fidel Castro",
-      "Indira Gandhi"
+      "Raul Castro",
+      "Đỗ Mười",
+      "Elizabeth II"
     ],
     "themes": []
   },
@@ -21430,9 +22168,9 @@ const RAW_DATA = [
     "fullName": "Patrice Lumumba",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Patrice_Lumumba%2C_1960_%28cropped%29.jpg",
     "relations": [
-      "Indira Gandhi",
-      "Giang Trạch Dân",
-      "Nguyễn Xuân Oánh"
+      "Raul Castro",
+      "Đỗ Mười",
+      "Indira Gandhi"
     ],
     "themes": []
   },
@@ -21452,9 +22190,9 @@ const RAW_DATA = [
     "fullName": "Pol Pot (Saloth Sâr)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Pol_Pot_%28cropped%29.jpg",
     "relations": [
+      "Raul Castro",
       "Margaret Thatcher",
-      "Fidel Castro",
-      "Che Guevara"
+      "Fidel Castro"
     ],
     "themes": []
   },
@@ -21520,8 +22258,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monroecirca1953.jpg",
     "relations": [
       "John Lennon",
-      "Frank Sinatra",
-      "Sergei Parajanov"
+      "Clint Eastwood",
+      "Frank Sinatra"
     ],
     "themes": []
   },
@@ -21630,7 +22368,7 @@ const RAW_DATA = [
     "relations": [
       "Margaret Thatcher",
       "Tăng Khánh Hồng",
-      "Rama IX"
+      "Philippe II của Pháp"
     ],
     "themes": []
   },
@@ -21649,9 +22387,9 @@ const RAW_DATA = [
     "fullName": "Fidel Castro",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fidel_Castro_1950s.jpg",
     "relations": [
+      "Raul Castro",
       "Indira Gandhi",
-      "Saddam Hussein",
-      "Margaret Thatcher"
+      "Saddam Hussein"
     ],
     "themes": []
   },
@@ -21672,7 +22410,7 @@ const RAW_DATA = [
     "relations": [
       "Tăng Khánh Hồng",
       "Tập Cận Bình",
-      "Hồ Cẩm Đào"
+      "Triệu Tử Dương"
     ],
     "themes": [
       "Chinese Communism"
@@ -21805,9 +22543,9 @@ const RAW_DATA = [
     "fullName": "Alfredo Stéfano Di Stéfano Laulhé",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Di_Stefano_1959.jpg/500px-Di_Stefano_1959.jpg",
     "relations": [
+      "Diego Simeone",
       "Zinedine Zidane",
-      "Garrincha",
-      "Sir Bobby Robson"
+      "Garrincha"
     ],
     "themes": [
       "Football"
@@ -21817,7 +22555,7 @@ const RAW_DATA = [
     "born": 1927,
     "died": 2006,
     "title": "Phạm Xuân Ẩn",
-    "desc": "Nhà báo, điệp viên và nhà ngoại giao người Việt làm việc bí mật cho miền Bắc Việt Nam trong Chiến tranh Việt Nam. Những đóng góp tình báo của ông đã có tác động lớn đến chiến lược thời chiến.",
+    "desc": "Nhà báo huyền thoại kiêm điệp viên xuất sắc của quân đội Việt Nam trong Chiến tranh Việt Nam với bí danh Hai Trung. Hoạt động dưới vỏ bọc phóng viên cho các hãng tin lớn của Mỹ như Reuters và Time, ông đã cung cấp những tin tức tình báo chiến lược vô cùng chính xác, góp phần quyết định vào thắng lợi của Cách mạng miền Nam.",
     "color": "#5b1a99",
     "position": "top",
     "primary_tag": "Political",
@@ -21828,9 +22566,9 @@ const RAW_DATA = [
     "fullName": "Phạm Xuân Ẩn",
     "image": "https://upload.wikimedia.org/wikipedia/vi/4/44/PhamXuanAn.jpg",
     "relations": [
-      "Henry Kissinger",
-      "Xuân Thủy",
-      "Phạm Hùng"
+      "Huỳnh Tấn Phát",
+      "Phạm Hùng",
+      "Richard Nixon"
     ],
     "themes": [
       "Khang chien chong My"
@@ -21851,9 +22589,9 @@ const RAW_DATA = [
     "fullName": "Ferenc Puskás",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ferenc_Puskas_en_1965.jpg",
     "relations": [
+      "Henrique Calisto",
       "Otto Rehhagel",
-      "Pelé",
-      "Garrincha"
+      "Pelé"
     ],
     "themes": [
       "Football"
@@ -21874,9 +22612,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Thị Bình (Nguyễn Thị Châu Sa, Madame Bình)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Nguyen_Thi_Binh.jpg",
     "relations": [
+      "Đỗ Mười",
       "Xuân Thủy",
-      "Phạm Hùng",
-      "Võ Chí Công"
+      "Phạm Hùng"
     ],
     "themes": [
       "Khang chien chong My",
@@ -22055,9 +22793,9 @@ const RAW_DATA = [
     "nationality": "Cuban",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
     "relations": [
+      "Camilo Cienfuegos",
       "Raul Castro",
-      "Fidel Castro",
-      "Muammar Gaddafi"
+      "Fidel Castro"
     ],
     "themes": []
   },
@@ -22227,9 +22965,9 @@ const RAW_DATA = [
     "fullName": "Bùi Thiện Ngộ",
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/e/ec/B%C3%B9i_Thi%E1%BB%87n_Ng%E1%BB%99.jpg/250px-B%C3%B9i_Thi%E1%BB%87n_Ng%E1%BB%99.jpg",
     "relations": [
+      "Đỗ Mười",
       "Tô Ân Xô",
-      "Lê Khả Phiêu",
-      "Võ Văn Kiệt"
+      "Lê Khả Phiêu"
     ],
     "themes": [
       "VN Modern Communism"
@@ -22252,7 +22990,7 @@ const RAW_DATA = [
     "relations": [
       "Nelson Mandela",
       "Aung San Suu Kyi",
-      "Henry Kissinger"
+      "Jimmy Carter"
     ],
     "themes": [
       "Giai Nobel"
@@ -22538,11 +23276,32 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tu_Youyou_5012-1-2015.jpg/500px-Tu_Youyou_5012-1-2015.jpg",
     "relations": [
       "Alexander Fleming",
-      "Ivan Pavlov",
-      "Mạc Ngôn"
+      "Jimmy Carter",
+      "Ivan Pavlov"
     ],
     "themes": [
       "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1930,
+    "died": 1931,
+    "title": "Clint Eastwood",
+    "fullName": "Clint Eastwood",
+    "desc": "Nam diễn viên, đạo diễn và nhà sản xuất phim huyền thoại người Mỹ. Nổi danh từ những vai diễn biểu tượng trong các bộ phim viễn tây Ý (Spaghetti Western) và loạt phim 'Dirty Harry', ông đã vươn lên trở thành một đạo diễn xuất chúng, đoạt nhiều giải Oscar với các kiệt tác như 'Unforgiven' và 'Million Dollar Baby'.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg/500px-Clint_Eastwood_visits_MCB_Camp_Pendleton_%281%29_%28cropped%29.jpg",
+    "relations": [
+      "Marilyn Monroe",
+      "Ingrid Bergman",
+      "Frank Sinatra"
     ]
   },
   {
@@ -22585,7 +23344,7 @@ const RAW_DATA = [
     "relations": [
       "Lý Chính Đạo",
       "Steven Weinberg",
-      "Dương Chấn Ninh"
+      "Freeman Dyson"
     ],
     "themes": []
   },
@@ -22617,7 +23376,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Raul Castro",
     "fullName": "Raul Castro",
-    "desc": "Chính trị gia và nhà cách mạng Cuba, người từng là lãnh đạo trên thực tế của Cuba từ năm 2006 đến năm 2021.",
+    "desc": "Nhà cách mạng kiêm chính trị gia lỗi lạc người Cuba, em trai của lãnh tụ Fidel Castro. Ông giữ vai trò Đại tướng Tổng tư lệnh các lực lượng vũ trang Cuba trước khi kế nhiệm anh trai làm Bí thư thứ nhất Đảng Cộng sản Cuba và Chủ tịch Hội đồng Nhà nước từ năm 2008 đến năm 2018, dẫn dắt đất nước qua các cải cách kinh tế quan trọng.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -22628,9 +23387,9 @@ const RAW_DATA = [
     "nationality": "Cuban",
     "image": "",
     "relations": [
-      "Che Guevara",
+      "Đỗ Mười",
       "Fidel Castro",
-      "Muammar Gaddafi"
+      "Hồ Cẩm Đào"
     ],
     "themes": []
   },
@@ -22651,8 +23410,8 @@ const RAW_DATA = [
     "themes": [],
     "relations": [
       "Alberto Fujimori",
-      "John F. Kennedy",
-      "Park Chung-hee"
+      "Raul Castro",
+      "Corazon Aquino"
     ]
   },
   {
@@ -22694,8 +23453,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lekhaphieu2011.jpg/500px-Lekhaphieu2011.jpg",
     "relations": [
-      "Nông Đức Mạnh",
       "Đỗ Mười",
+      "Nông Đức Mạnh",
       "Tô Lâm"
     ],
     "themes": [
@@ -22724,6 +23483,27 @@ const RAW_DATA = [
     ],
     "themes": [
       "Giai Nobel"
+    ]
+  },
+  {
+    "born": 1931,
+    "died": 1955,
+    "title": "James Dean",
+    "fullName": "James Dean",
+    "desc": "Nam tài tử điện ảnh người Mỹ, một trong những biểu tượng văn hóa đại chúng vĩ đại nhất của sự nổi loạn và nỗi lo âu tuổi vị thành niên. Dù qua đời trong một tai nạn xe hơi thảm khốc khi mới 24 tuổi, ông vẫn để lại dấu ấn bất tử qua ba tác phẩm kinh điển, đặc biệt là 'Rebel Without a Cause'.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/James_Dean_in_Rebel_Without_a_Cause_%28HQ%29.jpg/500px-James_Dean_in_Rebel_Without_a_Cause_%28HQ%29.jpg",
+    "relations": [
+      "Marilyn Monroe",
+      "Agnès Varda",
+      "Sergei Parajanov"
     ]
   },
   {
@@ -22762,9 +23542,9 @@ const RAW_DATA = [
     "fullName": "Ted Kennedy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ted_Kennedy%2C_official_photo_portrait_crop.jpg/500px-Ted_Kennedy%2C_official_photo_portrait_crop.jpg",
     "relations": [
+      "Joe Biden",
       "Lê Khả Phiêu",
-      "Bùi Thiện Ngộ",
-      "Trần Lệ Xuân"
+      "Bùi Thiện Ngộ"
     ],
     "themes": []
   },
@@ -22810,6 +23590,28 @@ const RAW_DATA = [
       "Trần Dần",
       "Phùng Cung",
       "Phan Khôi"
+    ]
+  },
+  {
+    "born": 1932,
+    "died": 1959,
+    "title": "Camilo Cienfuegos",
+    "fullName": "Camilo Cienfuegos (Camilo Cienfuegos Gorriarán)",
+    "desc": "Nhà cách mạng kiệt xuất người Cuba, một trong những nhân vật lãnh đạo chủ chốt của Cách mạng Cuba bên cạnh Fidel Castro và Che Guevara. Ông nổi tiếng với lòng dũng cảm, sự giản dị và chiến thắng quyết định tại trận Yaguajay trước khi tử nạn một cách bí ẩn trong một chuyến bay năm 1959.",
+    "color": "#d7263d",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military",
+      "Political"
+    ],
+    "nationality": "Cuban",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Camilo_Cienfuegos.jpg/500px-Camilo_Cienfuegos.jpg",
+    "relations": [
+      "Che Guevara",
+      "Châu Văn Tiếp",
+      "Fidel Castro"
     ]
   },
   {
@@ -22895,7 +23697,7 @@ const RAW_DATA = [
     "relations": [
       "Ali Khamenei",
       "Mohammad Reza Pahlavi",
-      "Tăng Khánh Hồng"
+      "Raul Castro"
     ],
     "themes": []
   },
@@ -22993,6 +23795,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1933,
+    "died": 2009,
+    "title": "Corazon Aquino",
+    "fullName": "Corazon Aquino",
+    "desc": "Nữ chính trị gia kiệt xuất và là Tổng thống thứ 11 của Cộng hòa Philippines (1986–1992). Trở thành biểu tượng của dân chủ sau khi chồng bà bị ám sát, bà đã dẫn dắt cuộc Cách mạng Quyền lực Nhân dân lật đổ chế độ độc tài của Ferdinand Marcos, trở thành nữ tổng thống đầu tiên tại châu Á.",
+    "color": "#5b1a99",
+    "position": "top",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Filipino",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Corazon_Aquino_1986.jpg/500px-Corazon_Aquino_1986.jpg",
+    "relations": [
+      "Hồ Chí Minh",
+      "Tăng Khánh Hồng",
+      "Isabel Perón"
+    ]
+  },
+  {
     "born": 1934,
     "died": 1968,
     "title": "Yuri Gagarin",
@@ -23070,9 +23893,9 @@ const RAW_DATA = [
     "nationality": "British",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/500px-thumbnail.jpg",
     "relations": [
+      "Freeman Dyson",
       "Rosalind Franklin",
-      "Roger Penrose",
-      "Stephen Hawking"
+      "Roger Penrose"
     ],
     "themes": []
   },
@@ -23182,8 +24005,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mujica.jpg",
     "relations": [
       "Donald Trump",
-      "Isabel Perón",
-      "Saddam Hussein"
+      "Al Gore",
+      "Isabel Perón"
     ],
     "themes": []
   },
@@ -23225,7 +24048,7 @@ const RAW_DATA = [
     "relations": [
       "Du Tử Lê",
       "Dương Nghiễm Mậu",
-      "Phạm Hùng"
+      "Huy Cận"
     ],
     "themes": []
   },
@@ -23314,6 +24137,29 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1936,
+    "died": 1992,
+    "title": "Mikhail Tal",
+    "fullName": "Mikhail Tal (Misha, Pháp sư Riga)",
+    "desc": "Đại kiện tướng cờ vua vĩ đại người Latvia (Liên Xô), Nhà vô địch cờ vua thế giới thứ 8. Được mệnh danh là \"Pháp sư Riga\", ông nổi tiếng với phong cách thi đấu tấn công rực lửa, khả năng tính toán chiến thuật thiên tài và những đòn thí quân táo bạo vô tiền khoáng hậu, biến ông thành một trong những kỳ thủ được yêu mến nhất lịch sử.",
+    "color": "#f46036",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Soviet",
+    "themes": [
+      "Chess"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mikhail_Tal_1962.jpg/500px-Mikhail_Tal_1962.jpg",
+    "relations": [
+      "Bobby Fischer",
+      "Alexander Alekhine",
+      "Magnus Carlsen"
+    ]
+  },
+  {
     "born": 1937,
     "died": 1984,
     "title": "Yilmaz Güney",
@@ -23350,8 +24196,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Jack_Nicholson_2002.jpg",
     "relations": [
       "Arnold Schwarzenegger",
-      "Robin Williams",
-      "Yilmaz Güney"
+      "Yilmaz Güney",
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -23394,8 +24240,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saddam_Hussein_in_1998.png/500px-Saddam_Hussein_in_1998.png",
     "relations": [
       "Alberto Fujimori",
-      "Aung San Suu Kyi",
-      "Donald Trump"
+      "Corazon Aquino",
+      "Aung San Suu Kyi"
     ],
     "themes": []
   },
@@ -23437,11 +24283,32 @@ const RAW_DATA = [
     "fullName": "Xavier Le Pichon",
     "image": "",
     "relations": [
+      "Freeman Dyson",
       "Hồ Chí Minh",
-      "Bernhard Riemann",
-      "Steven Weinberg"
+      "Bernhard Riemann"
     ],
     "themes": []
+  },
+  {
+    "born": 1937,
+    "died": 2023,
+    "title": "Hoàng Phủ Ngọc Tường",
+    "fullName": "Hoàng Phủ Ngọc Tường",
+    "desc": "Nhà văn, nhà báo và nhà văn hóa lớn của Việt Nam, một trong những cây bút viết bút ký, tùy bút xuất sắc nhất của nền văn học hiện đại. Tác phẩm kinh điển 'Ai đã đặt tên cho dòng sông?' của ông đã khắc họa trọn vẹn vẻ đẹp trầm mặc, nên thơ của thiên nhiên và con người xứ Huế.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "themes": [],
+    "image": "",
+    "relations": [
+      "Đặng Thùy Trâm",
+      "Nguyễn Khoa Điềm",
+      "E. M. Forster"
+    ]
   },
   {
     "born": 1938,
@@ -23479,9 +24346,9 @@ const RAW_DATA = [
     "fullName": "Kofi Annan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kofi_Annan_2012_%28cropped%29.jpg",
     "relations": [
-      "Henry Kissinger",
-      "Barack Obama",
-      "Aung San Suu Kyi"
+      "Al Gore",
+      "Jimmy Carter",
+      "Henry Kissinger"
     ],
     "themes": [
       "Giai Nobel"
@@ -23502,9 +24369,9 @@ const RAW_DATA = [
     "fullName": "Otto Rehhagel",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Otto_Rehhagel_01-2.jpg/500px-Otto_Rehhagel_01-2.jpg",
     "relations": [
+      "Henrique Calisto",
       "Ferenc Puskás",
-      "Sir Bobby Robson",
-      "Lê Thụy Hải"
+      "Diego Simeone"
     ],
     "themes": [
       "Football"
@@ -23548,7 +24415,7 @@ const RAW_DATA = [
     "relations": [
       "Tập Cận Bình",
       "Giang Trạch Dân",
-      "Bạc Hy Lai"
+      "Từ Tài Hậu"
     ],
     "themes": [
       "Chinese Communism"
@@ -23571,7 +24438,7 @@ const RAW_DATA = [
     "relations": [
       "Tăng Khánh Hồng",
       "Chu Vĩnh Khang",
-      "Giang Trạch Dân"
+      "Hồ Cẩm Đào"
     ],
     "themes": []
   },
@@ -23751,7 +24618,7 @@ const RAW_DATA = [
     "relations": [
       "Saddam Hussein",
       "Alberto Fujimori",
-      "Hossein Mousavi"
+      "Corazon Aquino"
     ]
   },
   {
@@ -23793,8 +24660,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Nong_Duc_Manh_2010.jpg/500px-Nong_Duc_Manh_2010.jpg",
     "relations": [
       "Lê Khả Phiêu",
-      "Trương Tấn Sang",
-      "Đỗ Mười"
+      "Đỗ Mười",
+      "Trương Tấn Sang"
     ],
     "themes": [
       "VN Modern Communism"
@@ -23817,7 +24684,7 @@ const RAW_DATA = [
     "relations": [
       "Margaret Atwood",
       "Phùng Quán",
-      "Louis Aragon"
+      "Mario Puzo"
     ],
     "themes": []
   },
@@ -23925,8 +24792,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Zhou_Yongkang.png",
     "relations": [
       "Tăng Khánh Hồng",
-      "Bạc Hy Lai",
-      "Thái Kỳ"
+      "Từ Tài Hậu",
+      "Bạc Hy Lai"
     ],
     "themes": [
       "Chinese Communism"
@@ -23936,7 +24803,7 @@ const RAW_DATA = [
     "born": 1942,
     "died": 1943,
     "title": "Hồ Cẩm Đào",
-    "desc": "Chính trị gia Trung Quốc từng giữ chức Tổng Bí thư Đảng Cộng sản Trung Quốc và Chủ tịch nước Trung Quốc từ năm 2002 đến năm 2012.",
+    "desc": "Chính trị gia cao cấp của Cộng hòa Nhân dân Trung Hoa, người từng đảm nhiệm cương vị Tổng Bí thư Đảng Cộng sản Trung Quốc kiêm Chủ tịch nước từ năm 2002 đến năm 2012. Thời kỳ cầm quyền của ông nổi bật với lý thuyết phát triển khoa học hướng tới xây dựng một xã hội hài hòa và sự trỗi dậy kinh tế mạnh mẽ của Trung Quốc trên trường quốc tế.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -23947,9 +24814,9 @@ const RAW_DATA = [
     "fullName": "Hồ Cẩm Đào",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hu_Jintao_2012.jpg/500px-Hu_Jintao_2012.jpg",
     "relations": [
-      "Tập Cận Bình",
+      "Thái Kỳ",
       "Tăng Khánh Hồng",
-      "Giang Trạch Dân"
+      "Từ Tài Hậu"
     ],
     "themes": [
       "Chinese Communism"
@@ -24055,8 +24922,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mir-Hossein_Mousavi_in_1981.jpg",
     "relations": [
       "Donald Trump",
-      "Saddam Hussein",
-      "Viktor Yanukovych"
+      "Corazon Aquino",
+      "Saddam Hussein"
     ],
     "themes": []
   },
@@ -24121,8 +24988,8 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dang_Thuy_Tram.jpg/500px-Dang_Thuy_Tram.jpg",
     "relations": [
-      "Chế Lan Viên",
       "Phạm Xuân Ẩn",
+      "Chế Lan Viên",
       "Đinh Núp"
     ],
     "themes": [
@@ -24151,6 +25018,29 @@ const RAW_DATA = [
     "themes": []
   },
   {
+    "born": 1942,
+    "died": 1943,
+    "title": "Joe Biden",
+    "fullName": "Joe Biden (Joseph Robinette Biden Jr.)",
+    "desc": "Tổng thống thứ 46 của Hoa Kỳ và là cựu Phó Tổng thống trong chính quyền Barack Obama (2009–2017). Có nền tảng sự nghiệp chính trị lâu năm tại Thượng viện đại diện cho bang Delaware, nhiệm kỳ tổng thống của ông tập trung vào việc xử lý các hệ quả của đại dịch COVID-19, thông qua các đạo luật về đầu tư cơ sở hạ tầng trong nước và tái định hình lại chính sách đối ngoại truyền thống của Hoa Kỳ.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/500px-Joe_Biden_presidential_portrait.jpg",
+    "relations": [
+      "Bill Clinton",
+      "Barack Obama",
+      "Donald Trump"
+    ]
+  },
+  {
     "born": 1943,
     "died": 1999,
     "title": "Grover Washington Jr.",
@@ -24175,7 +25065,7 @@ const RAW_DATA = [
     "born": 1943,
     "died": 2015,
     "title": "Từ Tài Hậu",
-    "desc": "Tướng Trung Quốc và Phó Chủ tịch Quân ủy Trung ương, có ảnh hưởng lớn trước khi sụp đổ vì cáo buộc tham nhũng.",
+    "desc": "Cựu Thượng tướng, Phó Chủ tịch Quân ủy Trung ương Đảng Cộng sản Trung Quốc. Ông từng là một trong những nhân vật quyền lực nhất trong Quân Giải phóng Nhân dân Trung Quốc trước khi bị bãi nhiệm, khai trừ khỏi Đảng và khởi tố vì liên quan đến một trong những vụ án tham nhũng và mua bán quân hàm lớn nhất lịch sử quân đội nước này.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -24186,9 +25076,9 @@ const RAW_DATA = [
     "fullName": "Từ Tài Hậu",
     "image": "",
     "relations": [
-      "Bạc Hy Lai",
       "Tăng Khánh Hồng",
-      "Chu Vĩnh Khang"
+      "Thái Kỳ",
+      "Hồ Cẩm Đào"
     ],
     "themes": [
       "Chinese Communism"
@@ -24210,8 +25100,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bobby_Fischer_1972.jpg/500px-Bobby_Fischer_1972.jpg",
     "relations": [
       "Anatoly Karpov",
-      "Garry Kasparov",
-      "Magnus Carlsen"
+      "Mikhail Tal",
+      "Garry Kasparov"
     ],
     "themes": [
       "Chess"
@@ -24346,10 +25236,32 @@ const RAW_DATA = [
     "relations": [
       "Margaret Atwood",
       "Hélène Cixous",
-      "Virginia Woolf"
+      "Kazuo Ishiguro"
     ],
     "themes": [
       "Feminism Movement"
+    ]
+  },
+  {
+    "born": 1943,
+    "died": 1944,
+    "title": "Nguyễn Khoa Điềm",
+    "fullName": "Nguyễn Khoa Điềm",
+    "desc": "Nhà thơ xuất sắc của nền văn học Việt Nam hiện đại, đồng thời là một chính khách từng giữ chức Ủy viên Bộ Chính trị, Trưởng ban Tư tưởng - Văn hóa Trung ương. Tác phẩm của ông, tiêu biểu là trường ca 'Mặt đường khát vọng' với chương 'Đất Nước', mang đậm chất suy tưởng triết lý và tinh thần yêu nước sâu sắc.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature",
+      "Political"
+    ],
+    "nationality": "Vietnamese",
+    "themes": [],
+    "image": "",
+    "relations": [
+      "Kazuo Ishiguro",
+      "Chế Lan Viên",
+      "Nguyễn Nguyên Phước"
     ]
   },
   {
@@ -24369,7 +25281,7 @@ const RAW_DATA = [
     "relations": [
       "Gary Ridgway",
       "Andrei Chikatilo",
-      "Elizabeth II"
+      "Từ Tài Hậu"
     ],
     "themes": []
   },
@@ -24520,9 +25432,9 @@ const RAW_DATA = [
     "fullName": "Aung San Suu Kyi",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Aung_San_Suu_Kyi_at_the_Enthronement_of_Naruhito_%281%29.jpg",
     "relations": [
+      "Al Gore",
       "Malala Yousafzai",
-      "Kofi Annan",
-      "Saddam Hussein"
+      "Kofi Annan"
     ],
     "themes": [
       "Giai Nobel"
@@ -24543,9 +25455,9 @@ const RAW_DATA = [
     "fullName": "Jacqueline Mary du Pré",
     "image": "",
     "relations": [
+      "Sir Edward Elgar",
       "Arthur Rubinstein",
-      "Karl Jenkins",
-      "Kiyoshi Kurosawa"
+      "Karl Jenkins"
     ],
     "themes": [
       "Classical Music"
@@ -24608,11 +25520,13 @@ const RAW_DATA = [
     "fullName": "Donald Trump",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg/500px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%28cropped%29%282%29.jpg",
     "relations": [
-      "Bạc Hy Lai",
-      "Phạm Minh Chính",
-      "Nguyễn Đức Cảnh"
+      "Bill Clinton",
+      "Joe Biden",
+      "Lyndon B. Johnson"
     ],
-    "themes": []
+    "themes": [
+      "US Presidents"
+    ]
   },
   {
     "born": 1946,
@@ -24694,12 +25608,35 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Le_Thuy_Hai.png",
     "relations": [
-      "Marcelo Bielsa",
       "Henrique Calisto",
-      "Otto Rehhagel"
+      "Marcelo Bielsa",
+      "Diego Simeone"
     ],
     "themes": [
       "Football"
+    ]
+  },
+  {
+    "born": 1946,
+    "died": 1947,
+    "title": "Bill Clinton",
+    "fullName": "Bill Clinton (William Jefferson Clinton)",
+    "desc": "Tổng thống thứ 42 của Hoa Kỳ, tại vị từ năm 1993 đến năm 2001. Nhiệm kỳ của ông gắn liền với giai đoạn tăng trưởng kinh tế mạnh mẽ của nước Mỹ trong thập niên 1990, việc ký kết Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA) và các chính sách thâm hụt ngân sách bằng không. Tuy nhiên, sự nghiệp chính trị của ông cũng đối mặt với nhiều tranh cãi, điển hình là quá trình bị Hạ viện luận tội vào năm 1998.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "US Presidents"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bill_Clinton_%28cropped_4%29.jpg/500px-Bill_Clinton_%28cropped_4%29.jpg",
+    "relations": [
+      "Joe Biden",
+      "Donald Trump",
+      "John Quincy Adams"
     ]
   },
   {
@@ -24782,7 +25719,7 @@ const RAW_DATA = [
     "relations": [
       "John Lennon",
       "Jafar Panahi",
-      "Jack Nicholson"
+      "Robin Williams"
     ],
     "themes": []
   },
@@ -24847,7 +25784,7 @@ const RAW_DATA = [
     "relations": [
       "Yuri Gagarin",
       "Mạc Cửu",
-      "Neil Armstrong"
+      "Dominik Tarczyński"
     ],
     "themes": []
   },
@@ -24909,9 +25846,9 @@ const RAW_DATA = [
     "fullName": "John Mearsheimer (John J. Mearsheimer)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/John_Mearsheimer.jpg",
     "relations": [
+      "Hồ Cẩm Đào",
       "Nguyễn Bá Thanh",
-      "Mã Anh Cửu",
-      "Nguyễn Thị Kim Ngân"
+      "Mã Anh Cửu"
     ],
     "themes": []
   },
@@ -24931,9 +25868,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/500px-Johan_Cruijff_%281974%29.jpg",
     "relations": [
+      "Henrique Calisto",
       "Marcelo Bielsa",
-      "Otto Rehhagel",
-      "Sir Bobby Robson"
+      "Otto Rehhagel"
     ]
   },
   {
@@ -24956,6 +25893,29 @@ const RAW_DATA = [
       "Virginia Woolf"
     ],
     "themes": []
+  },
+  {
+    "born": 1948,
+    "died": 1949,
+    "title": "Al Gore",
+    "fullName": "Al Gore (Albert Arnold Gore Jr.)",
+    "desc": "Cựu Phó Tổng thống thứ 45 của Hoa Kỳ dưới thời Bill Clinton và là nhà hoạt động môi trường quốc tế nổi tiếng. Từng trải qua thất bại sít sao và tranh cãi trong cuộc bầu cử Tổng thống năm 2000, ông đã dành phần đời còn lại để vận động chống biến đổi khí hậu toàn cầu, đỉnh cao là bộ phim tài liệu 'An Inconvenient Truth' và giải Nobel Hòa bình năm 2007.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "American",
+    "themes": [
+      "Giai Nobel"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/500px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg",
+    "relations": [
+      "Aung San Suu Kyi",
+      "Barack Obama",
+      "Kofi Annan"
+    ]
   },
   {
     "born": 1949,
@@ -24994,8 +25954,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bo_Xilai_%282004%29.jpg/500px-Bo_Xilai_%282004%29.jpg",
     "relations": [
       "Tăng Khánh Hồng",
-      "Tập Cận Bình",
-      "Từ Tài Hậu"
+      "Từ Tài Hậu",
+      "Tập Cận Bình"
     ],
     "themes": [
       "Chinese Communism"
@@ -25036,9 +25996,9 @@ const RAW_DATA = [
     ],
     "nationality": "Chinese",
     "relations": [
+      "Nguyễn Khoa Điềm",
       "Mạc Ngôn",
-      "Tàn Tuyết",
-      "Hân Nhiên"
+      "Kazuo Ishiguro"
     ],
     "themes": [],
     "image": ""
@@ -25254,8 +26214,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Ma_Ying-jeou_MOFA_Presidential_Portrait_2008.png",
     "relations": [
       "Thái Anh Văn",
-      "Trần Thủy Biển",
-      "Bạc Hy Lai"
+      "Joe Biden",
+      "Trần Thủy Biển"
     ],
     "themes": []
   },
@@ -25316,9 +26276,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg/500px-Zhang_Yimou_from_%22Full_River_Red%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853347207442%29_%28cropped%29.jpg",
     "relations": [
-      "Thang Duy",
-      "Trương Mạn Ngọc",
-      "Hầu Hiếu Hiền"
+      "Lương Triều Vỹ",
+      "Robin Williams",
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -25326,7 +26286,7 @@ const RAW_DATA = [
     "born": 1951,
     "died": 2014,
     "title": "Robin Williams",
-    "desc": "Diễn viên hài và diễn viên người Mỹ đã mang lại sự ấm áp, hóm hỉnh và chiều sâu cảm xúc cho cả những vai hài và kịch trên phim và truyền hình.",
+    "desc": "Diễn viên hài và tài tử điện ảnh huyền thoại người Mỹ, nổi tiếng toàn cầu với kỹ năng diễn xuất ứng biến thiên tài và giọng thoại đa dạng. Sự nghiệp của ông ghi dấu ấn rực rỡ qua các vai diễn để đời, đặc biệt là vai người thầy giáo truyền cảm hứng mãnh liệt John Keating trong tác phẩm kinh điển 'Dead Poets Society', mang đến tiếng cười và sự xúc động sâu sắc cho nhiều thế hệ khán giả.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -25337,9 +26297,9 @@ const RAW_DATA = [
     "fullName": "Robin Williams (Robin McLaurin Williams)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Robin_Williams_1996_%28cropped%29_2.jpg",
     "relations": [
-      "Ricky Gervais",
-      "Jack Nicholson",
-      "Sally Potter"
+      "Thang Duy",
+      "Kiyoshi Kurosawa",
+      "Lương Triều Vỹ"
     ],
     "themes": []
   },
@@ -25382,7 +26342,7 @@ const RAW_DATA = [
     "relations": [
       "Garry Kasparov",
       "Bobby Fischer",
-      "Gukesh D"
+      "Mikhail Tal"
     ]
   },
   {
@@ -25401,9 +26361,9 @@ const RAW_DATA = [
     "fullName": "Theresa Hak Kyung Cha",
     "image": "https://upload.wikimedia.org/wikipedia/en/9/91/Theresa_Hak_Kyung_Cha_%28Barnes%2C_1980%29.png",
     "relations": [
+      "Éric-Emmanuel Schmitt",
       "Tàn Tuyết",
-      "Hân Nhiên",
-      "Rosalind Miles"
+      "Kazuo Ishiguro"
     ],
     "themes": []
   },
@@ -25444,8 +26404,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hun_Sen_July_2019.jpg/500px-Hun_Sen_July_2019.jpg",
     "relations": [
       "Angela Merkel",
-      "Ali Khamenei",
-      "Tập Cận Bình"
+      "Ulf Kristersson",
+      "Ali Khamenei"
     ],
     "themes": []
   },
@@ -25484,9 +26444,9 @@ const RAW_DATA = [
     ],
     "nationality": "Italian",
     "relations": [
-      "Kiyoshi Kurosawa",
-      "Tilda Swinton",
-      "David Cronenberg"
+      "Robin Williams",
+      "Lương Triều Vỹ",
+      "Kiyoshi Kurosawa"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roberto_Benigni-5274.jpg/500px-Roberto_Benigni-5274.jpg"
@@ -25635,8 +26595,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%E6%AE%8B%E9%9B%AA1.jpg",
     "relations": [
       "Mạc Ngôn",
-      "Lưu Từ Hân",
-      "Theresa Hak Kyung Cha"
+      "Nguyễn Khoa Điềm",
+      "Lưu Từ Hân"
     ],
     "themes": []
   },
@@ -25656,8 +26616,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
     "relations": [
       "Tăng Khánh Hồng",
-      "Hồ Cẩm Đào",
-      "Giang Trạch Dân"
+      "Thái Kỳ",
+      "Hồ Cẩm Đào"
     ],
     "themes": [
       "Chinese Communism"
@@ -25667,7 +26627,7 @@ const RAW_DATA = [
     "born": 1953,
     "died": 2026,
     "title": "Henrique Calisto",
-    "desc": "Huấn luyện viên bóng đá người Bồ Đào Nha nổi tiếng với những thành công rực rỡ với đội tuyển quốc gia Việt Nam.",
+    "desc": "Huấn luyện viên bóng đá xuất sắc người Bồ Đào Nha, người hùng mang tính biểu tượng của bóng đá Việt Nam. Sở hữu tư duy chiến thuật nhạy bén và nghệ thuật đắc nhân tâm tuyệt vời, ông đã dẫn dắt Đội tuyển Quốc gia Việt Nam vượt qua bao khó khăn để lên ngôi vô địch AFF Cup 2008 lịch sử, đồng thời gặt hái nhiều thành công rực rỡ cùng câu lạc bộ Đồng Tâm Long An tại V.League.",
     "color": "#55a630",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -25678,9 +26638,9 @@ const RAW_DATA = [
     "fullName": "Henrique Calisto",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Henrique_Calisto.jpg",
     "relations": [
-      "Park Hang-seo",
       "Lê Thụy Hải",
-      "Otto Rehhagel"
+      "Diego Simeone",
+      "Park Hang-seo"
     ],
     "themes": [
       "Football"
@@ -25748,8 +26708,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Souness_%28retouched%29.jpg/500px-Souness_%28retouched%29.jpg",
     "relations": [
       "Mario Kempes",
-      "Osvaldo Ardiles",
-      "Johan Cruyff"
+      "Diego Simeone",
+      "Osvaldo Ardiles"
     ],
     "themes": [
       "Football"
@@ -25792,8 +26752,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Krasznahorkai_L%C3%A1szl%C3%B3_%28D%C3%A9ri_Mikl%C3%B3s%29_%283x4_cropped%29.jpg/500px-Krasznahorkai_L%C3%A1szl%C3%B3_%28D%C3%A9ri_Mikl%C3%B3s%29_%283x4_cropped%29.jpg",
     "relations": [
       "Cao Hành Kiện",
-      "Kazuo Ishiguro",
-      "Mạc Ngôn"
+      "Mạc Ngôn",
+      "Kawabata Yasunari"
     ],
     "themes": [
       "Giai Nobel"
@@ -25845,7 +26805,7 @@ const RAW_DATA = [
     "born": 1954,
     "died": 2026,
     "title": "Kazuo Ishiguro",
-    "desc": "Tiểu thuyết gia người Anh gốc Nhật, người đoạt giải Nobel nổi tiếng với 'The Remains of the Day' và 'Never Let Me Go'.",
+    "desc": "Nhà văn kiệt xuất người Anh gốc Nhật, chủ nhân của giải Nobel Văn học danh giá năm 2017. Những tác phẩm kinh điển của ông, tiêu biểu như 'The Remains of the Day' và 'Never Let Me Go', nổi bật với giọng văn u hoài, tinh tế, đi sâu vào khám phá ký ức, thời gian và những góc khuất đầy tổn thương trong thế giới tâm lý phức tạp của con người.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -25856,9 +26816,9 @@ const RAW_DATA = [
     "fullName": "Kazuo Ishiguro (石黒一雄, Nobel Prize 2017, Never Let Me Go, Remains of the Day)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kazuo_Ishiguro_in_Stockholm_2017_02.jpg/500px-Kazuo_Ishiguro_in_Stockholm_2017_02.jpg",
     "relations": [
-      "László Krasznahorkai",
-      "Mạc Ngôn",
-      "Cao Hành Kiện"
+      "Albert Camus",
+      "Annie Ernaux",
+      "Ōe Kenzaburo"
     ],
     "themes": [
       "Giai Nobel"
@@ -25967,8 +26927,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kempes_Valencia_CF.jpg",
     "relations": [
       "Osvaldo Ardiles",
-      "Graeme Souness",
-      "Son Heung-min"
+      "Henrique Calisto",
+      "Graeme Souness"
     ],
     "themes": [
       "Football"
@@ -25990,8 +26950,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/B%C3%A9la_Tarr.jpg",
     "relations": [
       "Mike de Leon",
-      "Agnès Varda",
-      "Kiyoshi Kurosawa"
+      "Christopher Nolan",
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -26033,7 +26993,7 @@ const RAW_DATA = [
     "relations": [
       "Jeff Bezos",
       "Jack Ma",
-      "Lôi Quân"
+      "Pavel Durov"
     ],
     "themes": []
   },
@@ -26077,7 +27037,7 @@ const RAW_DATA = [
     "relations": [
       "Ivan Pavlov",
       "Shimon Sakaguchi",
-      "Hoàng Tích Trí"
+      "Đặng Văn Ngữ"
     ],
     "themes": []
   },
@@ -26098,7 +27058,7 @@ const RAW_DATA = [
     "relations": [
       "Thái Kỳ",
       "Tập Cận Bình",
-      "Hồ Cẩm Đào"
+      "Từ Tài Hậu"
     ],
     "themes": [
       "Chinese Communism"
@@ -26108,7 +27068,7 @@ const RAW_DATA = [
     "born": 1955,
     "died": 1956,
     "title": "Thái Kỳ",
-    "desc": "Chính trị gia Trung Quốc là thành viên cấp cao của Đảng Cộng sản Trung Quốc. Ông hiện giữ chức Bí thư thứ nhất Ban Bí thư CPC và Ủy viên Thường vụ Bộ Chính trị.",
+    "desc": "Chính trị gia quyền lực hàng đầu của Cộng hòa Nhân dân Trung Hoa, hiện là Ủy viên Thường vụ Bộ Chính trị và Bí thư Ban Bí thư Trung ương Đảng Cộng sản Trung Quốc. Là một trong những đồng minh thân cận nhất của Chủ tịch Tập Cận Bình, ông có tầm ảnh hưởng sâu rộng trong việc hoạch định chính sách quốc gia và từng đảm nhiệm cương vị Bí thư Thành ủy Bắc Kinh.",
     "color": "#5b1a99",
     "position": "bottom",
     "primary_tag": "Political",
@@ -26119,9 +27079,9 @@ const RAW_DATA = [
     "fullName": "Thái Kỳ",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cai_in_Vietnam.jpg/500px-Cai_in_Vietnam.jpg",
     "relations": [
-      "Vương Hỗ Ninh",
-      "Tăng Khánh Hồng",
-      "Tập Cận Bình"
+      "Tập Cận Bình",
+      "Hồ Cẩm Đào",
+      "Tăng Khánh Hồng"
     ],
     "themes": [
       "Chinese Communism"
@@ -26144,7 +27104,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Thụy Hải",
       "Diego Simeone",
-      "Ange Postecoglou"
+      "Henrique Calisto"
     ],
     "themes": [
       "Football"
@@ -26188,7 +27148,7 @@ const RAW_DATA = [
     "relations": [
       "Tilda Swinton",
       "Jim Carrey",
-      "Edward Norton"
+      "Nicole Kidman"
     ],
     "themes": []
   },
@@ -26228,9 +27188,9 @@ const RAW_DATA = [
     "fullName": "Mircea Cărtărescu",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mircea_Cartarescu_-_Zsolnay-Lesefest.JPG/500px-Mircea_Cartarescu_-_Zsolnay-Lesefest.JPG",
     "relations": [
+      "Éric-Emmanuel Schmitt",
       "Ichikawa Takuji",
-      "Salman Rushdie",
-      "Thuận"
+      "Salman Rushdie"
     ],
     "themes": []
   },
@@ -26250,8 +27210,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tsai_Ing-wen_2016_MOFA_Portrait.png",
     "relations": [
       "Mã Anh Cửu",
-      "Trần Thủy Biển",
-      "Barack Obama"
+      "Joe Biden",
+      "Trần Thủy Biển"
     ],
     "themes": []
   },
@@ -26291,9 +27251,9 @@ const RAW_DATA = [
     "fullName": "Osama bin Laden",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Osama_bin_Laden_portrait.jpg",
     "relations": [
+      "Lý Bí",
       "Trịnh Xuân Thanh",
-      "Aleksey Navalny",
-      "Jeffrey Epstein"
+      "Aleksey Navalny"
     ],
     "themes": []
   },
@@ -26552,9 +27512,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Chí Vịnh",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nguyen_Chi_Vinh_-_United_States_and_Vietnam_Sign_Land_Handover_Memorandum_to_Initiate_Dioxin_Remediation_at_Bien_Hoa_Airbase_Area.jpg/500px-Nguyen_Chi_Vinh_-_United_States_and_Vietnam_Sign_Land_Handover_Memorandum_to_Initiate_Dioxin_Remediation_at_Bien_Hoa_Airbase_Area.jpg?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "relations": [
+      "Đỗ Mười",
       "Trần Văn Trà",
-      "Tô Ân Xô",
-      "Ngô Xuân Lịch"
+      "Tô Ân Xô"
     ],
     "themes": []
   },
@@ -26664,9 +27624,9 @@ const RAW_DATA = [
     "fullName": "Jafar Panahi (جعفر پناهی)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jafar_Panahi%2C_Cines_del_Sur_2007-1_%28cropped%29.jpg",
     "relations": [
+      "Wes Anderson",
       "Alejandro González Iñárritu",
-      "Sally Potter",
-      "Sofia Coppola"
+      "Sally Potter"
     ],
     "themes": []
   },
@@ -26730,8 +27690,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg",
     "relations": [
       "George Best",
-      "Pierluigi Collina",
-      "Pelé"
+      "Diego Simeone",
+      "Pierluigi Collina"
     ],
     "themes": [
       "Football"
@@ -26741,7 +27701,7 @@ const RAW_DATA = [
     "born": 1960,
     "died": 1994,
     "title": "Ayrton Senna",
-    "desc": "Tay đua người Brazil đã ba lần giành được Giải vô địch Tay đua Thế giới Công thức Một. Anh được nhiều người coi là một trong những tay đua Công thức 1 vĩ đại nhất mọi thời đại.",
+    "desc": "Huyền thoại đua xe Công thức 1 (F1) vĩ đại người Brazil, từng ba lần giành chức vô địch thế giới. Nổi danh với tốc độ kinh hoàng, kỹ năng xử lý hoàn hảo dưới trời mưa và phong cách thi đấu quyết liệt không khoan nhượng. Sự ra đi bi thảm của ông trong một tai nạn tại San Marino Grand Prix năm 1994 đã để lại niềm tiếc thương vô hạn cho hàng triệu người hâm mộ thể thao toàn cầu.",
     "color": "#f46036",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -26752,9 +27712,9 @@ const RAW_DATA = [
     "fullName": "Ayrton Senna",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ayrton_Senna_9_%28cropped%29.jpg",
     "relations": [
-      "Garry Kasparov",
-      "Mario Kempes",
-      "Graeme Souness"
+      "Diego Simeone",
+      "Graeme Souness",
+      "Zinedine Zidane"
     ],
     "themes": []
   },
@@ -26785,7 +27745,7 @@ const RAW_DATA = [
     "born": 1960,
     "died": 2026,
     "title": "Éric-Emmanuel Schmitt",
-    "desc": "Nhà viết kịch, tiểu thuyết gia, nhà văn viễn tưởng và đạo diễn phim người Pháp và Bỉ. Tác phẩm của ông đã được xuất bản ở 50 quốc gia và được dịch sang 50 thứ tiếng.",
+    "desc": "Nhà văn, nhà biên kịch và đạo diễn lừng danh người Pháp gốc Bỉ, một trong những tác giả Pháp ngữ được đọc và dịch nhiều nhất thế giới hiện nay. Tác phẩm của ông mang đậm tính triết lý nhân sinh sâu sắc, tiêu biểu là cuốn tiểu thuyết 'Oscar và bà áo hồng' cùng những vở kịch đầy tính suy tưởng về tôn giáo và sự cứu rỗi trong tâm hồn con người.",
     "color": "#2f5233",
     "position": "bottom",
     "primary_tag": "Literature",
@@ -26796,8 +27756,8 @@ const RAW_DATA = [
     "fullName": "Éric-Emmanuel Schmitt",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%C3%89ric-Emmanuel_Schmitt_2011-04-13.jpg/500px-%C3%89ric-Emmanuel_Schmitt_2011-04-13.jpg",
     "relations": [
-      "Jean-Philippe Toussaint",
-      "Lưu Từ Hân",
+      "Mario Puzo",
+      "Pedro Almodóvar",
       "Jean Teulé"
     ],
     "themes": []
@@ -26818,7 +27778,7 @@ const RAW_DATA = [
     "relations": [
       "Diego Maradona",
       "George Best",
-      "Michael Laudrup"
+      "Henrique Calisto"
     ],
     "themes": [
       "Football"
@@ -26862,8 +27822,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/GervaisPall230921_%285_of_17%29_%2851528328440%29_%28cropped%29.jpg",
     "relations": [
       "Owen Cooper",
-      "Tilda Swinton",
-      "Robin Williams"
+      "Nicole Kidman",
+      "Tilda Swinton"
     ],
     "themes": []
   },
@@ -26882,12 +27842,13 @@ const RAW_DATA = [
     "fullName": "Barack Obama",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
     "relations": [
-      "Anwar Al-Sadad",
-      "Kofi Annan",
+      "Joe Biden",
+      "Jimmy Carter",
       "Woodrow Wilson"
     ],
     "themes": [
-      "Giai Nobel"
+      "Giai Nobel",
+      "US Presidents"
     ]
   },
   {
@@ -26905,9 +27866,9 @@ const RAW_DATA = [
     "fullName": "Công nương Diana",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Diana%2C_Princess_of_Wales_1997_%282%29.jpg/500px-Diana%2C_Princess_of_Wales_1997_%282%29.jpg",
     "relations": [
+      "Thái Kỳ",
       "Tô Ân Xô",
-      "Cù Huy Hà Vũ",
-      "Tô Lâm"
+      "Cù Huy Hà Vũ"
     ],
     "themes": []
   },
@@ -26926,9 +27887,9 @@ const RAW_DATA = [
     "fullName": "David Fincher",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg/500px-TheKillerBFILFF051023_%288_of_22%29_%2853255176376%29_%28cropped2%29.jpg",
     "relations": [
+      "Wes Anderson",
       "Park Chan-wook",
-      "Spike Jonze",
-      "Edward Norton"
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -26957,7 +27918,7 @@ const RAW_DATA = [
     "born": 1962,
     "died": 1963,
     "title": "Lương Triều Vỹ",
-    "desc": "Diễn viên Hồng Kông, được coi là một trong những ngôi sao điện ảnh thành công nhất châu Á, được cả thế giới biết đến với *In the Mood for Love* và *Infernal Affair.*",
+    "desc": "Nam tài tử điện ảnh kiệt xuất của Hồng Kông, một trong những diễn viên vĩ đại và thành công nhất châu Á. Nổi tiếng với ánh mắt biết nói và diễn xuất nội tâm sâu sắc, ông là nàng thơ của đạo diễn Vương Gia Vệ qua các kiệt tác như 'In the Mood for Love', đồng thời để lại ấn tượng mạnh mẽ với khán giả quốc tế và Việt Nam qua sự góp mặt xuất thần trong bộ phim kinh điển 'Xích lô' của đạo diễn Trần Anh Hùng.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -26968,9 +27929,9 @@ const RAW_DATA = [
     "fullName": "Lương Triều Vỹ (Tony Leung Chiu-wai, 梁朝偉)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tony_Leung_as_the_President_of_the_International_Competition_Jury_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2024_%2854578353950%29.jpg",
     "relations": [
-      "Bong Joon-ho",
-      "Trương Mạn Ngọc",
-      "Tilda Swinton"
+      "Trần Anh Hùng",
+      "Lâm Tâm Như",
+      "Frank Sinatra"
     ],
     "themes": []
   },
@@ -26989,9 +27950,9 @@ const RAW_DATA = [
     "fullName": "Trần Anh Hùng",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tran_Anh_Hung_%22International_Competition_Jury%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_%2822453104525%29_%28cropped%29.jpg",
     "relations": [
+      "Lương Triều Vỹ",
       "Kiyoshi Kurosawa",
-      "Hầu Hiếu Hiền",
-      "Alejandro González Iñárritu"
+      "Hầu Hiếu Hiền"
     ],
     "themes": []
   },
@@ -27010,9 +27971,9 @@ const RAW_DATA = [
     "fullName": "Jim Carrey (James Eugene Carrey)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg",
     "relations": [
+      "Nicole Kidman",
       "Edward Norton",
-      "Sydney Sweeney",
-      "Leonardo DiCaprio"
+      "Sydney Sweeney"
     ],
     "themes": []
   },
@@ -27141,8 +28102,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Ichikawa Takuji",
-      "Nguyễn Nguyên Phước",
-      "Han Kang"
+      "Kazuo Ishiguro",
+      "Nguyễn Nguyên Phước"
     ],
     "themes": []
   },
@@ -27228,8 +28189,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/vi/thumb/2/2f/To_An_Xo_in_Moscow%2C_09052025.jpg/500px-To_An_Xo_in_Moscow%2C_09052025.jpg",
     "relations": [
       "Phan Văn Giang",
-      "Phạm Minh Chính",
-      "Tô Lâm"
+      "Đỗ Mười",
+      "Phạm Minh Chính"
     ],
     "themes": [
       "VN Modern Communism"
@@ -27274,9 +28235,9 @@ const RAW_DATA = [
     "fullName": "Michael Jordan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Michael_Jordan_in_2014.jpg",
     "relations": [
+      "Diego Simeone",
       "Zinedine Zidane",
-      "Petra Kvitova",
-      "Graeme Souness"
+      "Petra Kvitova"
     ],
     "themes": []
   },
@@ -27295,9 +28256,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%EB%B0%95%EC%B0%AC%EC%9A%B1_-_%EC%96%B4%EC%A9%94%EC%88%98%EA%B0%80%EC%97%86%EB%8B%A4.jpg",
     "relations": [
+      "Wes Anderson",
       "Spike Jonze",
-      "David Fincher",
-      "Jafar Panahi"
+      "Christopher Nolan"
     ],
     "themes": []
   },
@@ -27316,9 +28277,9 @@ const RAW_DATA = [
     "nationality": "Portuguese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jos%C3%A9_Mourinho_20250206_%281%29.jpg/500px-Jos%C3%A9_Mourinho_20250206_%281%29.jpg",
     "relations": [
+      "Henrique Calisto",
       "Marcelo Bielsa",
-      "Jari Litmanen",
-      "Santiago Bernabéu"
+      "Pep Guardiola"
     ],
     "themes": [
       "Football"
@@ -27339,9 +28300,9 @@ const RAW_DATA = [
     "fullName": "Aoyama Gōshō (Gosho Aoyama, 青山 剛昌)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Gosho_Aoyama.jpg/500px-Gosho_Aoyama.jpg",
     "relations": [
+      "Lương Triều Vỹ",
       "Hako Yamasaki",
-      "Yoshitaka Amano",
-      "Kim Ki-duk"
+      "Yoshitaka Amano"
     ],
     "themes": []
   },
@@ -27361,8 +28322,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Shunji_Iwai.jpg",
     "relations": [
       "Alejandro González Iñárritu",
-      "Sofia Coppola",
-      "Abbas Kiarostami"
+      "Wes Anderson",
+      "Christopher Nolan"
     ],
     "themes": []
   },
@@ -27386,6 +28347,27 @@ const RAW_DATA = [
       "Spike Jonze"
     ],
     "themes": []
+  },
+  {
+    "born": 1963,
+    "died": 1964,
+    "title": "Ulf Kristersson",
+    "fullName": "Ulf Kristersson",
+    "desc": "Chính trị gia người Thụy Điển và là Thủ tướng Thụy Điển từ năm 2022. Với tư cách là lãnh đạo của Đảng Ôn hòa, ông đại diện cho một chính phủ liên minh cánh hữu nhằm định hình lại các chính sách về an ninh, kiểm soát nhập cư và dẫn dắt Thụy Điển hoàn tất tiến trình lịch sử để chính thức gia nhập tổ chức Hiệp ước Bắc Đại Tây Dương (NATO).",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Swedish",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ulf_Kristersson_June_2025_%28cropped%29.jpg/500px-Ulf_Kristersson_June_2025_%28cropped%29.jpg",
+    "relations": [
+      "Phạm Minh Chính",
+      "Justin Trudeau",
+      "Thái Kỳ"
+    ]
   },
   {
     "born": 1964,
@@ -27424,8 +28406,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maggie_Cheung_%28cropped%29.jpg/500px-Maggie_Cheung_%28cropped%29.jpg",
     "relations": [
       "Lương Triều Vỹ",
-      "Trương Nghệ Mưu",
-      "Thang Duy"
+      "50 Cent",
+      "Trương Nghệ Mưu"
     ],
     "themes": []
   },
@@ -27444,9 +28426,9 @@ const RAW_DATA = [
     "fullName": "Michael Laudrup",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Michael_Laudrup_2016c_%28cropped%29.jpg/500px-Michael_Laudrup_2016c_%28cropped%29.jpg",
     "relations": [
-      "Eidur Gudjohnsen",
-      "Zinedine Zidane",
-      "Mario Kempes"
+      "Diego Simeone",
+      "Pep Guardiola",
+      "Eidur Gudjohnsen"
     ],
     "themes": [
       "Football"
@@ -27465,11 +28447,11 @@ const RAW_DATA = [
       "Business"
     ],
     "nationality": "American",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jeff_Bezos_at_the_2024_Met_Gala_%28cropped%29.jpg/500px-Jeff_Bezos_at_the_2024_Met_Gala_%28cropped%29.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/500px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg",
     "relations": [
       "Bill Gates",
       "Jack Ma",
-      "Daniel Levy"
+      "Pavel Durov"
     ],
     "themes": []
   },
@@ -27510,8 +28492,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Ariane_de_Rothschild_%28cropped%29.jpg",
     "relations": [
       "Jack Ma",
-      "Jeff Bezos",
-      "Daniel Levy"
+      "Thái Kỳ",
+      "Jeff Bezos"
     ],
     "themes": []
   },
@@ -27553,7 +28535,7 @@ const RAW_DATA = [
     "relations": [
       "Tô Ân Xô",
       "Tô Lâm",
-      "Viktor Yanukovych"
+      "Đỗ Mười"
     ],
     "themes": []
   },
@@ -27573,7 +28555,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ange_Postecoglou_%28cropped%29.jpg",
     "relations": [
       "Marcelo Bielsa",
-      "Pep Guardiola",
+      "Diego Simeone",
       "Park Hang-seo"
     ],
     "themes": [
@@ -27600,8 +28582,8 @@ const RAW_DATA = [
     ],
     "relations": [
       "Tim Cahill",
-      "Diego Simeone",
-      "Marcelo Bielsa"
+      "Marcelo Bielsa",
+      "Ronaldinho"
     ]
   },
   {
@@ -27664,9 +28646,9 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Đỗ Mười",
       "Xuân Thủy",
-      "Lê Thanh Nghị",
-      "Đinh La Thăng"
+      "Lê Thanh Nghị"
     ],
     "themes": [
       "VN Modern Communism"
@@ -27699,7 +28681,7 @@ const RAW_DATA = [
     "born": 1967,
     "died": 2026,
     "title": "Nicole Kidman",
-    "desc": "Nữ diễn viên và nhà sản xuất người Mỹ gốc Úc, được biết đến với những vai diễn đa dạng và nhiều giải thưởng, trong đó có Giải Oscar.",
+    "desc": "Nữ diễn viên và nhà sản xuất phim minh tinh người Úc gốc Mỹ. Là một trong những diễn viên xuất sắc nhất thế hệ của mình, bà đã chinh phục hàng loạt giải thưởng danh giá bao gồm giải Oscar, BAFTA và Quả cầu vàng. Các vai diễn đa dạng trong 'Moulin Rouge!', 'The Hours' hay 'Big Little Lies' đã khẳng định tài năng diễn xuất đầy sức hút và chiều sâu tâm lý của bà.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -27710,9 +28692,9 @@ const RAW_DATA = [
     "fullName": "Nicole Kidman (Nicole Mary Kidman, Eyes Wide Shut, Moulin Rouge)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nicole_Kidman-66059_%28cropped%29.jpg",
     "relations": [
-      "Edward Norton",
-      "Cate Blanchett",
-      "Tilda Swinton"
+      "Thang Duy",
+      "Owen Cooper",
+      "Spike Jonze"
     ],
     "themes": []
   },
@@ -27731,9 +28713,9 @@ const RAW_DATA = [
     "nationality": "Japanese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Okada_Yukiko.jpg",
     "relations": [
+      "Lương Triều Vỹ",
       "Kon Satoshi",
-      "Koji Yakusho",
-      "Yoshiko Sai"
+      "Koji Yakusho"
     ],
     "themes": []
   },
@@ -27775,9 +28757,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Po_Klong_Garai.jpg/500px-Po_Klong_Garai.jpg",
     "relations": [
+      "Éric-Emmanuel Schmitt",
       "Đặng Hoàng Giang",
-      "Han Kang",
-      "Mạc Ngôn"
+      "Han Kang"
     ],
     "themes": []
   },
@@ -27862,8 +28844,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg",
     "relations": [
       "Kim Min-hee",
-      "Thang Duy",
-      "Kim Ki-duk"
+      "Lương Triều Vỹ",
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -27884,7 +28866,7 @@ const RAW_DATA = [
     "relations": [
       "Jack Ma",
       "Trương Nhất Minh",
-      "Jeff Bezos"
+      "Nadiem Makarim"
     ],
     "themes": []
   },
@@ -27925,8 +28907,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg/500px-A%C3%A9cio_Neves%2C_Michael_Schumacher_e_Didi_%28Cropped%29.jpg",
     "relations": [
       "José Mourinho",
-      "Jari Litmanen",
-      "Park Ji-sung"
+      "Pep Guardiola",
+      "Jari Litmanen"
     ],
     "themes": []
   },
@@ -27945,8 +28927,8 @@ const RAW_DATA = [
     "fullName": "Cate Blanchett (Catherine Elise Blanchett, Lady Galadriel)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Cate_Blanchett-63298_%28cropped_2%29.jpg",
     "relations": [
-      "Tilda Swinton",
       "Nicole Kidman",
+      "Tilda Swinton",
       "Spike Jonze"
     ],
     "themes": []
@@ -27989,7 +28971,7 @@ const RAW_DATA = [
     "relations": [
       "Sofia Coppola",
       "David Cronenberg",
-      "Alejandro González Iñárritu"
+      "Christopher Nolan"
     ],
     "themes": []
   },
@@ -28008,8 +28990,8 @@ const RAW_DATA = [
     "nationality": "American",
     "relations": [
       "Leonardo DiCaprio",
-      "Tilda Swinton",
-      "Thang Duy"
+      "Nicole Kidman",
+      "Tilda Swinton"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg/500px-Ed_Norton_and_Shauna_Robertson_TIFF_2025_%28cropped%29.jpg"
@@ -28059,6 +29041,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1969,
+    "died": 1970,
+    "title": "Wes Anderson",
+    "fullName": "Wes Anderson",
+    "desc": "Đạo diễn, nhà biên kịch và nhà sản xuất phim người Mỹ, một trong những nhà làm phim có phong cách độc đáo nhất (auteur) của điện ảnh đương đại. Các tác phẩm của ông như 'The Grand Budapest Hotel' và 'The French Dispatch' nổi tiếng với sự ám ảnh về bố cục đối xứng hoàn hảo, màu sắc rực rỡ và nghệ thuật thị giác lập dị đầy tính chi tiết.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wes_Anderson-7541_%28cropped%29.jpg/500px-Wes_Anderson-7541_%28cropped%29.jpg",
+    "relations": [
+      "Christopher Nolan",
+      "Spike Jonze",
+      "Sofia Coppola"
+    ]
+  },
+  {
     "born": 1970,
     "died": 1971,
     "title": "Apichatpong Weerasethakul",
@@ -28073,9 +29076,9 @@ const RAW_DATA = [
     "fullName": "Apichatpong Weerasethakul (อภิชาติพงศ์ วีระเศรษฐกุล, Joe)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Apichatpong_Portrait_02.jpg",
     "relations": [
+      "Christopher Nolan",
       "Spike Jonze",
-      "Shunji Iwai",
-      "Alejandro González Iñárritu"
+      "Wes Anderson"
     ],
     "themes": []
   },
@@ -28083,7 +29086,7 @@ const RAW_DATA = [
     "born": 1970,
     "died": 1971,
     "title": "Christopher Nolan",
-    "desc": "Nhà làm phim người Anh và người Mỹ. Nổi tiếng với những bộ phim bom tấn Hollywood có lối kể chuyện phức tạp, ông được coi là nhà làm phim hàng đầu của thế kỷ 21.",
+    "desc": "Đạo diễn, biên kịch kiêm nhà sản xuất điện ảnh xuất chúng người Anh - Mỹ, một trong những nhà làm phim có ảnh hưởng nhất thế kỷ 21. Nổi tiếng với phong cách kể chuyện phi tuyến tính độc đáo, triết lý khoa học viễn tưởng và kỹ xảo thực tế, ông là cha đẻ của hàng loạt bom tấn phá vỡ kỷ lục phòng vé như 'Inception', bộ ba 'The Dark Knight', 'Interstellar' và kiệt tác 'Oppenheimer'.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -28094,9 +29097,9 @@ const RAW_DATA = [
     "fullName": "Christopher Nolan (Christopher Edward Nolan)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg/500px-ChrisNolanBFI150224_%2810_of_12%29_%2853532289710%29_%28cropped2%29.jpg",
     "relations": [
-      "Apichatpong Weerasethakul",
-      "Asia Argento",
-      "Kon Satoshi"
+      "Spike Jonze",
+      "Wes Anderson",
+      "Werner Herzog"
     ],
     "themes": []
   },
@@ -28140,7 +29143,7 @@ const RAW_DATA = [
     "relations": [
       "Michael Jackson",
       "Spike Jonze",
-      "Hako Yamasaki"
+      "Tùng Dương"
     ],
     "themes": []
   },
@@ -28149,7 +29152,7 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Diego Simeone",
     "fullName": "Diego Simeone (El Cholo)",
-    "desc": "Người quản lý bóng đá chuyên nghiệp người Argentina và cựu cầu thủ, người quản lý lâu năm của Atlético Madrid nổi tiếng với phong cách 'Cholo' mãnh liệt.",
+    "desc": "Cựu tiền vệ phòng ngự nổi tiếng người Argentina và là một trong những huấn luyện viên bóng đá xuất sắc nhất thế giới đương đại. Mang biệt danh \"El Cholo\", ông nổi tiếng với lối chơi kỷ luật, chặt chẽ và tinh thần chiến đấu không khoan nhượng. Trong vai trò huấn luyện viên trưởng, ông đã hồi sinh câu lạc bộ Atlético Madrid, phá vỡ thế độc tôn của Real Madrid và Barcelona tại La Liga, đồng thời giành được nhiều danh hiệu cao quý bao gồm hai chức vô địch quốc gia và hai lần lọt vào chung kết UEFA Champions League.",
     "color": "#3a7aed",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -28159,9 +29162,9 @@ const RAW_DATA = [
     "nationality": "Latin American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Diego_Simeone_-_240422_192621-2_%28cropped%29.jpg",
     "relations": [
-      "Marcelo Bielsa",
-      "David Beckham",
-      "Ronaldinho"
+      "Pep Guardiola",
+      "Zinedine Zidane",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -28206,8 +29209,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/500px-Elon_Musk_-_54820081119_%28cropped%29.jpg",
     "relations": [
       "Todd Boehly",
-      "Jeff Bezos",
-      "Ariane de Rothschild"
+      "Nadiem Makarim",
+      "Jeff Bezos"
     ],
     "themes": []
   },
@@ -28226,9 +29229,9 @@ const RAW_DATA = [
     "fullName": "Justin Trudeau",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg/500px-Prime_Minister_Trudeau%27s_message_on_Christmas_2023_%280m29s%29_%28cropped%29.jpg",
     "relations": [
+      "Ulf Kristersson",
       "Benito Mussolini",
-      "Phạm Minh Chính",
-      "Tô Lâm"
+      "Phạm Minh Chính"
     ],
     "themes": []
   },
@@ -28236,7 +29239,7 @@ const RAW_DATA = [
     "born": 1971,
     "died": 1972,
     "title": "Pep Guardiola",
-    "desc": "Quản lý bóng đá Tây Ban Nha và cựu cầu thủ, được biết đến với sự nghiệp huấn luyện thành công của mình, bao gồm FC Barcelona và Manchester City.",
+    "desc": "Huấn luyện viên bóng đá thiên tài kiêm cựu tiền vệ xuất sắc người Tây Ban Nha. Được coi là một trong những nhà chiến thuật vĩ đại nhất lịch sử bóng đá thế giới, ông đã nâng tầm lối chơi kiểm soát bóng (tiki-taka) và gặt hái vô số danh hiệu đỉnh cao cùng các câu lạc bộ Barcelona, Bayern Munich và Manchester City.",
     "color": "#f46036",
     "position": "bottom",
     "primary_tag": "Sport",
@@ -28247,9 +29250,9 @@ const RAW_DATA = [
     "fullName": "Pep Guardiola",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2797_%28cropped%29.jpg",
     "relations": [
-      "Ange Postecoglou",
-      "Park Hang-seo",
-      "Diego Simeone"
+      "Diego Simeone",
+      "Zinedine Zidane",
+      "Michael Laudrup"
     ],
     "themes": [
       "Football"
@@ -28272,7 +29275,7 @@ const RAW_DATA = [
     "relations": [
       "Spike Jonze",
       "Alejandro González Iñárritu",
-      "Shunji Iwai"
+      "Wes Anderson"
     ],
     "themes": []
   },
@@ -28314,7 +29317,7 @@ const RAW_DATA = [
     "relations": [
       "Lee Chong Wei",
       "Oscar Pistorius",
-      "Rafael Nadal"
+      "Pep Guardiola"
     ],
     "themes": []
   },
@@ -28356,12 +29359,33 @@ const RAW_DATA = [
     "fullName": "Jari Olavi Litmanen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Litmanen_jari.jpg/500px-Litmanen_jari.jpg",
     "relations": [
+      "Diego Simeone",
       "Eidur Gudjohnsen",
-      "Zinedine Zidane",
-      "Ronaldo de Lima"
+      "Zinedine Zidane"
     ],
     "themes": [
       "Football"
+    ]
+  },
+  {
+    "born": 1971,
+    "died": 1996,
+    "title": "Tupac Shakur",
+    "fullName": "Tupac Shakur (2Pac, Tupac Amaru Shakur, Lesane Parish Crooks)",
+    "desc": "Rapper và diễn viên người Mỹ huyền thoại, được công nhận là một trong những nghệ sĩ hip hop có ảnh hưởng lớn nhất mọi thời đại. Ông nổi tiếng với những ca từ sâu sắc phản ánh cuộc sống đường phố, các vấn đề xã hội và nạn phân biệt chủng tộc trước khi qua đời trong một vụ nổ súng vào năm 1996.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tupac_Shakur_in_1995.jpg/500px-Tupac_Shakur_in_1995.jpg",
+    "relations": [
+      "50 Cent",
+      "Eminem",
+      "Kurt Cobain"
     ]
   },
   {
@@ -28400,9 +29424,9 @@ const RAW_DATA = [
     "fullName": "Eminem (Marshall Bruce Mathers III, Slim Shady)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eminem_2021_Color_Corrected.jpg/500px-Eminem_2021_Color_Corrected.jpg",
     "relations": [
+      "50 Cent",
       "Kurt Cobain",
-      "Dmitri Shostakovich",
-      "Spike Jonze"
+      "Tupac Shakur"
     ],
     "themes": []
   },
@@ -28423,7 +29447,7 @@ const RAW_DATA = [
     "relations": [
       "Lê Bá Khánh Trình",
       "Terence Tao",
-      "Nguyễn Đức Cảnh"
+      "Giuseppe Peano"
     ],
     "themes": []
   },
@@ -28463,9 +29487,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
     "relations": [
-      "Jari Litmanen",
-      "Alfredo Di Stefano",
-      "Ronaldo de Lima"
+      "Diego Simeone",
+      "Pep Guardiola",
+      "Jari Litmanen"
     ]
   },
   {
@@ -28485,7 +29509,7 @@ const RAW_DATA = [
     "relations": [
       "Ronaldo de Lima",
       "Park Ji-sung",
-      "Lionel Messi"
+      "Pep Guardiola"
     ],
     "themes": [
       "Football"
@@ -28552,7 +29576,7 @@ const RAW_DATA = [
     "relations": [
       "Xuân Bắc",
       "Công Lý",
-      "Thang Duy"
+      "Nicole Kidman"
     ],
     "themes": []
   },
@@ -28573,7 +29597,7 @@ const RAW_DATA = [
     "relations": [
       "Asghar Farhadi",
       "Leonardo DiCaprio",
-      "Spike Jonze"
+      "Christopher Nolan"
     ],
     "themes": []
   },
@@ -28659,7 +29683,7 @@ const RAW_DATA = [
     "relations": [
       "Jimmy Kimmel",
       "Kim Kardashian",
-      "Anya Taylor-Joy"
+      "50 Cent"
     ],
     "themes": []
   },
@@ -28700,9 +29724,9 @@ const RAW_DATA = [
     "fullName": "David Beckham",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg/500px-David_Beckham_UNICEF_%28cropped2%29.jpg",
     "relations": [
-      "Diego Simeone",
       "Vozinha",
-      "Diego Maradona"
+      "Diego Maradona",
+      "Lionel Messi"
     ],
     "themes": [
       "Football"
@@ -28728,6 +29752,27 @@ const RAW_DATA = [
       "Tilda Swinton"
     ],
     "themes": []
+  },
+  {
+    "born": 1975,
+    "died": 1976,
+    "title": "50 Cent",
+    "fullName": "50 Cent (Curtis James Jackson III)",
+    "desc": "Rapper, nhạc sĩ, diễn viên kiêm doanh nhân người Mỹ vô cùng thành công. Anh nổi lên toàn cầu với album đầu tay huyền thoại 'Get Rich or Die Tryin'' dưới sự bảo trợ của Eminem và Dr. Dre, trở thành biểu tượng của hip hop Bờ Đông đầu những năm 2000.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Curtis_%2250_Cent%22_Jackson_visits_Barksdale_AFB_%285%29_%28cropped%29.jpg/500px-Curtis_%2250_Cent%22_Jackson_visits_Barksdale_AFB_%285%29_%28cropped%29.jpg",
+    "relations": [
+      "Eminem",
+      "Justin Timberlake",
+      "Bo Burnham"
+    ]
   },
   {
     "born": 1976,
@@ -28769,7 +29814,7 @@ const RAW_DATA = [
     "relations": [
       "Leonardo DiCaprio",
       "Heath Ledger",
-      "Daniel Radcliffe"
+      "Christopher Nolan"
     ],
     "themes": []
   },
@@ -28809,9 +29854,9 @@ const RAW_DATA = [
     "fullName": "Nguyễn Nguyên Phước",
     "image": "",
     "relations": [
-      "Phạm Duy Tốn",
-      "Lưu Từ Hân",
-      "Yoko Ogawa"
+      "Nguyễn Khoa Điềm",
+      "Éric-Emmanuel Schmitt",
+      "Phạm Duy Tốn"
     ],
     "themes": []
   },
@@ -28876,9 +29921,9 @@ const RAW_DATA = [
     "position": "bottom",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg/500px-Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg",
     "relations": [
+      "Diego Simeone",
       "Pavel Nedved",
-      "Jari Litmanen",
-      "Zinedine Zidane"
+      "Jari Litmanen"
     ]
   },
   {
@@ -28896,9 +29941,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ruby_Lin_at_the_57th_Golden_Bell_Awards_in_October_2022.png",
     "relations": [
+      "Lương Triều Vỹ",
       "Hứa Quang Hán",
-      "Thang Duy",
-      "Xuân Bắc"
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -28942,7 +29987,7 @@ const RAW_DATA = [
     "relations": [
       "Nguyễn Trần Duy Nhất",
       "Venus Williams",
-      "Serena Williams"
+      "Lý Hoàng Nam"
     ],
     "themes": []
   },
@@ -29005,7 +30050,7 @@ const RAW_DATA = [
     "relations": [
       "Kon Satoshi",
       "Shunji Iwai",
-      "Park Chan-wook"
+      "Wes Anderson"
     ],
     "themes": []
   },
@@ -29087,9 +30132,9 @@ const RAW_DATA = [
     "fullName": "Eiður Smári Guðjohnsen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg/500px-Ei%C3%B0ur_Gu%C3%B0johnsen_2018.jpg",
     "relations": [
+      "Diego Simeone",
       "Jari Litmanen",
-      "Michael Laudrup",
-      "Park Ji-sung"
+      "Michael Laudrup"
     ],
     "themes": [
       "Football"
@@ -29111,8 +30156,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Jay_Chou_in_Shanghai_2023_%284%29.jpg",
     "relations": [
       "Lâm Tâm Như",
-      "G-Dragon",
-      "Yoona"
+      "Justin Timberlake",
+      "G-Dragon"
     ],
     "themes": []
   },
@@ -29132,8 +30177,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/500px-Heath_Ledger_%282%29.jpg",
     "relations": [
       "Edward Norton",
-      "Thang Duy",
-      "Leonardo DiCaprio"
+      "Christopher Nolan",
+      "Thang Duy"
     ],
     "themes": []
   },
@@ -29152,9 +30197,9 @@ const RAW_DATA = [
     "fullName": "Thang Duy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/20250425_Tang_Wei_%E6%B1%A4%E5%94%AF_03.jpg",
     "relations": [
+      "Nicole Kidman",
       "Tilda Swinton",
-      "Agnès Varda",
-      "Asia Argento"
+      "Agnès Varda"
     ],
     "themes": []
   },
@@ -29196,9 +30241,9 @@ const RAW_DATA = [
     "fullName": "Vitas (Vitaliy Vladasovich Grachev)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/VVitas.jpg",
     "relations": [
+      "Tùng Dương",
       "G-Dragon",
-      "milet",
-      "Rei Harakami"
+      "milet"
     ],
     "themes": []
   },
@@ -29222,6 +30267,27 @@ const RAW_DATA = [
       "Pete Sampras"
     ],
     "themes": []
+  },
+  {
+    "born": 1979,
+    "died": 1980,
+    "title": "Dominik Tarczyński",
+    "fullName": "Dominik Tarczyński",
+    "desc": "Chính trị gia bảo thủ và cựu nhà báo người Ba Lan. Từng là nghị sĩ Quốc hội Ba Lan, ông hiện là thành viên Nghị viện Châu Âu đại diện cho đảng Pháp luật và Công lý (PiS). Ông nổi tiếng trên không gian mạng quốc tế với lập trường cứng rắn chống nhập cư bất hợp pháp và kiên quyết bảo vệ chủ quyền quốc gia.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Polish",
+    "themes": [],
+    "image": "",
+    "relations": [
+      "Phạm Hồng Thái",
+      "Thái Kỳ",
+      "Tăng Khánh Hồng"
+    ]
   },
   {
     "born": 1980,
@@ -29381,6 +30447,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1981,
+    "died": 1982,
+    "title": "Justin Timberlake",
+    "fullName": "Justin Timberlake (Justin Randall Timberlake)",
+    "desc": "Nam ca sĩ, nhạc sĩ, nhà sản xuất âm nhạc kiêm diễn viên danh tiếng người Mỹ. Cựu thành viên nhóm nhạc nam đình đám NSYNC, anh đã xây dựng sự nghiệp solo thành công vang dội với các album kinh điển như 'Justified' và 'FutureSex/LoveSounds', giành nhiều giải Grammy và Emmy danh giá.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "American",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Justin_Timberlake_by_Gage_Skidmore.jpg/500px-Justin_Timberlake_by_Gage_Skidmore.jpg",
+    "relations": [
+      "50 Cent",
+      "Thang Duy",
+      "Bo Burnham"
+    ]
+  },
+  {
     "born": 1982,
     "died": 1983,
     "title": "Kim Min-hee",
@@ -29416,9 +30503,9 @@ const RAW_DATA = [
     "fullName": "Công nương Kate",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Princess_of_Wales_in_2023_%28cropped%2903.JPG/500px-Princess_of_Wales_in_2023_%28cropped%2903.JPG",
     "relations": [
+      "Dominik Tarczyński",
       "Balendra Shah",
-      "Clara Schumann",
-      "Nam Phương Hoàng hậu"
+      "Thái Kỳ"
     ],
     "themes": []
   },
@@ -29437,9 +30524,9 @@ const RAW_DATA = [
     "fullName": "Lee Chong Wei",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lee_Chong_Wei%2C_SEA_Games_2017_%28cropped%29.jpg",
     "relations": [
+      "Diego Simeone",
       "Nguyễn Trần Duy Nhất",
-      "Lance Armstrong",
-      "Michael Phelps"
+      "Lance Armstrong"
     ],
     "themes": []
   },
@@ -29459,8 +30546,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg/500px-Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg",
     "relations": [
       "Marianne Bachmeier",
-      "Donald Trump",
-      "Aung San Suu Kyi"
+      "Gustav V",
+      "Donald Trump"
     ],
     "themes": []
   },
@@ -29501,8 +30588,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_CEO_Magazine_Cover.jpg",
     "relations": [
       "Lôi Quân",
-      "Todd Boehly",
-      "Vitalik Buterin"
+      "Nadiem Makarim",
+      "Pavel Durov"
     ],
     "themes": []
   },
@@ -29530,6 +30617,27 @@ const RAW_DATA = [
     ]
   },
   {
+    "born": 1983,
+    "died": 1984,
+    "title": "Tùng Dương",
+    "fullName": "Tùng Dương (Nguyễn Tùng Dương)",
+    "desc": "Nam ca sĩ nổi tiếng người Việt Nam, được mệnh danh là một trong bốn \"divo\" của làng nhạc nhẹ Việt Nam đương đại. Ông nổi tiếng với phong cách biểu diễn độc đáo, giọng hát đầy nội lực cùng những thử nghiệm âm nhạc mang tính tiên phong từ dân gian đương đại, điện tử cho đến rock.",
+    "color": "#e46a6a",
+    "position": "top",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Vietnamese",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/T%C3%B9ng_D%C6%B0%C6%A1ng.png/500px-T%C3%B9ng_D%C6%B0%C6%A1ng.png",
+    "relations": [
+      "Vitas",
+      "G-Dragon",
+      "Rei Harakami"
+    ]
+  },
+  {
     "born": 1984,
     "died": 1985,
     "title": "Nawapol Thamrongrattanarit",
@@ -29545,8 +30653,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Nawapol_Thamrongrattanarit_at_82nd_Venice_International_Film_Festival-1_%28cropped%29.jpg",
     "relations": [
       "Apichatpong Weerasethakul",
-      "Bong Joon-ho",
-      "Kim Min-hee"
+      "Margot Robbie",
+      "Bong Joon-ho"
     ],
     "themes": []
   },
@@ -29565,9 +30673,9 @@ const RAW_DATA = [
     "nationality": "Korean",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped%29.jpg",
     "relations": [
-      "Margaret Thatcher",
-      "Henry Kissinger",
-      "Leonid Ilyich Brezhnev"
+      "Đỗ Mười",
+      "Thái Kỳ",
+      "Hồ Cẩm Đào"
     ],
     "themes": []
   },
@@ -29612,6 +30720,49 @@ const RAW_DATA = [
       "Jeffrey Epstein"
     ],
     "themes": []
+  },
+  {
+    "born": 1984,
+    "died": 1985,
+    "title": "Nadiem Makarim",
+    "fullName": "Nadiem Makarim (Nadiem Anwar Makarim)",
+    "desc": "Doanh nhân tỷ phú kiêm chính trị gia người Indonesia. Ông là nhà sáng lập của Gojek, siêu ứng dụng công nghệ lớn nhất Indonesia, trước khi rời giới kinh doanh vào năm 2019 để gia nhập nội các chính phủ với cương vị Bộ trưởng Bộ Giáo dục, Văn hóa, Nghiên cứu và Công nghệ, mang khát vọng hiện đại hóa nền giáo dục nước nhà.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business",
+      "Political"
+    ],
+    "nationality": "Indonesian",
+    "themes": [],
+    "image": "",
+    "relations": [
+      "Pavel Durov",
+      "Trương Nhất Minh",
+      "Lôi Quân"
+    ]
+  },
+  {
+    "born": 1984,
+    "died": 1985,
+    "title": "Pavel Durov",
+    "fullName": "Pavel Durov",
+    "desc": "Doanh nhân tỷ phú ngành công nghệ người Nga, thường được mệnh danh là \"Mark Zuckerberg của nước Nga\". Ông nổi tiếng toàn cầu với tư cách là người sáng lập mạng xã hội VKontakte (VK) và ứng dụng nhắn tin mã hóa Telegram, đồng thời là biểu tượng của tinh thần bảo vệ quyền tự do ngôn luận trên không gian mạng.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business"
+    ],
+    "nationality": "Russian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pavel_Durov_sitting_portrait_%28cropped%29.jpg/500px-Pavel_Durov_sitting_portrait_%28cropped%29.jpg",
+    "relations": [
+      "Nadiem Makarim",
+      "Jeff Bezos",
+      "Tăng Khánh Hồng"
+    ]
   },
   {
     "born": 1985,
@@ -29762,7 +30913,7 @@ const RAW_DATA = [
     "relations": [
       "Lance Armstrong",
       "Lee Chong Wei",
-      "Venus Williams"
+      "Lý Hoàng Nam"
     ],
     "themes": []
   },
@@ -29805,8 +30956,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg/500px-Alexander_Rybak_%284%29_20180510_EuroVisionary_%28cropped%29.jpg",
     "relations": [
       "Vitas",
-      "Bo Burnham",
-      "Kenshi Yonezu"
+      "MCK",
+      "Margot Robbie"
     ],
     "themes": []
   },
@@ -29872,8 +31023,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Lionel_Messi_White_House_2026_%283x4_cropped%29.jpg",
     "relations": [
       "Son Heung-min",
-      "Lê Công Vinh",
-      "Lamine Yamal"
+      "Diego Simeone",
+      "Lê Công Vinh"
     ],
     "themes": [
       "Football"
@@ -29918,8 +31069,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg/500px-2015_Australian_Open_-_Andy_Murray_12_%28cropped%29.jpg",
     "relations": [
       "Serena Williams",
-      "Kim Clijsters",
-      "Simona Halep"
+      "Lý Hoàng Nam",
+      "Kim Clijsters"
     ],
     "themes": [
       "Tennis"
@@ -30047,8 +31198,8 @@ const RAW_DATA = [
     "nationality": "South Korean",
     "relations": [
       "Karina",
-      "Vitas",
-      "Yoona"
+      "Tùng Dương",
+      "Vitas"
     ],
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/G-Dragon_in_October_2025.jpg/500px-G-Dragon_in_October_2025.jpg"
@@ -30195,8 +31346,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg/500px-Victoria_Azarenka_%282024_DC_Open%29_02_%28cropped%29.jpg",
     "relations": [
       "Kim Clijsters",
-      "Petra Kvitova",
-      "Maria Sharapova"
+      "Lý Hoàng Nam",
+      "Petra Kvitova"
     ],
     "themes": [
       "Tennis"
@@ -30217,9 +31368,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/NGUY%E1%BB%84N_TR%E1%BA%A6N_DUY_NH%E1%BA%A4T_%E2%80%93_CALL_ME_BY_FIRE_VIETNAM_%E2%80%93_P2.jpg",
     "relations": [
+      "Lý Hoàng Nam",
       "Victoria Azarenka",
-      "Phạm Văn Mách",
-      "Lee Chong Wei"
+      "Phạm Văn Mách"
     ],
     "themes": []
   },
@@ -30259,9 +31410,9 @@ const RAW_DATA = [
     "fullName": "Trương Minh Quý",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tr%C6%B0%C6%A1ng_Minh_Qu%C3%BD.jpg",
     "relations": [
+      "Tùng Dương",
       "Kim Min-hee",
-      "Lexie Liu",
-      "Thang Duy"
+      "Lexie Liu"
     ],
     "themes": []
   },
@@ -30282,7 +31433,7 @@ const RAW_DATA = [
     "relations": [
       "Malala Yousafzai",
       "Công nương Kate",
-      "Emmanuel Macron"
+      "Dominik Tarczyński"
     ],
     "themes": []
   },
@@ -30313,7 +31464,7 @@ const RAW_DATA = [
     "born": 1990,
     "died": 2026,
     "title": "Margot Robbie",
-    "desc": "Nữ diễn viên và nhà sản xuất người Úc, được biết đến với vai diễn trong các bộ phim bom tấn như 'The Wolf of Wall Street' và 'Barbie'.",
+    "desc": "Nữ diễn viên và nhà sản xuất phim minh tinh người Úc, biểu tượng sắc đẹp và tài năng của Hollywood đương đại. Nổi lên từ vai diễn đột phá trong 'The Wolf of Wall Street', bà đã liên tục chinh phục giới phê bình qua các vai diễn phức tạp trong 'I, Tonya', 'Bombshell' và đại thắng toàn cầu với bom tấn 'Barbie'.",
     "color": "#e46a6a",
     "position": "bottom",
     "primary_tag": "Art",
@@ -30324,9 +31475,9 @@ const RAW_DATA = [
     "fullName": "Margot Robbie (Margot Elise Robbie, Barbie, Wolf of Wall Street)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/29th_Critics_Choice_Awards_-_Margot_Robbie_3_%28cropped%29.jpg",
     "relations": [
-      "Lâm Tâm Như",
-      "Hứa Quang Hán",
-      "Emma Watson"
+      "Thang Duy",
+      "Nicole Kidman",
+      "Kim Min-hee"
     ],
     "themes": []
   },
@@ -30434,8 +31585,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg/500px-Petra_Kvitov%C3%A1_Maud_Watson_trophy_2018.jpg",
     "relations": [
       "Kim Clijsters",
-      "Roger Federer",
-      "Simona Halep"
+      "Lý Hoàng Nam",
+      "Roger Federer"
     ],
     "themes": [
       "Tennis"
@@ -30457,10 +31608,31 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bo_Burnham_2018_%28cropped%29.jpg/500px-Bo_Burnham_2018_%28cropped%29.jpg",
     "relations": [
       "Kenshi Yonezu",
-      "Asia Argento",
-      "Werner Herzog"
+      "50 Cent",
+      "Asia Argento"
     ],
     "themes": []
+  },
+  {
+    "born": 1990,
+    "died": 1991,
+    "title": "Vinh Khuất",
+    "fullName": "Vinh Khuất (Khuất Duy Vinh)",
+    "desc": "Nam ca sĩ, nhạc sĩ, nhà sản xuất âm nhạc người Việt Nam định cư tại Đức. Ông nổi tiếng toàn cầu nhờ khả năng chơi nhiều nhạc cụ và ứng dụng công nghệ làm nhạc trực tiếp (loop station) độc đáo, kết hợp âm nhạc truyền thống Việt Nam với các thể loại hiện đại như Jazz, Funk, Pop.",
+    "color": "#e46a6a",
+    "position": "top",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Vietnamese",
+    "themes": [],
+    "image": "",
+    "relations": [
+      "Thang Duy",
+      "Bo Burnham",
+      "Kenshi Yonezu"
+    ]
   },
   {
     "born": 1991,
@@ -30501,8 +31673,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Bo Burnham",
-      "Trịnh Thăng Bình",
-      "milet"
+      "Justin Bieber",
+      "Justin Timberlake"
     ],
     "themes": []
   },
@@ -30592,7 +31764,7 @@ const RAW_DATA = [
     "relations": [
       "Lionel Messi",
       "Lamine Yamal",
-      "Lê Công Vinh"
+      "Diego Simeone"
     ],
     "themes": [
       "Football"
@@ -30637,8 +31809,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Son_Tung_M-TP_1_%282021%29.png",
     "relations": [
       "Trịnh Trung Kiên",
-      "G-Dragon",
-      "Phúc Du"
+      "Tùng Dương",
+      "G-Dragon"
     ],
     "themes": []
   },
@@ -30658,8 +31830,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg/500px-Vitalik_Buterin_TechCrunch_London_2015_%28cropped%29.jpg",
     "relations": [
       "Trương Nhất Minh",
-      "Bill Gates",
-      "Jack Ma"
+      "Pavel Durov",
+      "Nadiem Makarim"
     ],
     "themes": []
   },
@@ -30700,8 +31872,8 @@ const RAW_DATA = [
     "image": "",
     "relations": [
       "Vitas",
-      "Bo Burnham",
-      "Trịnh Thăng Bình"
+      "Justin Timberlake",
+      "Bo Burnham"
     ],
     "themes": []
   },
@@ -30741,11 +31913,32 @@ const RAW_DATA = [
     "nationality": "Other",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg/500px-Dodgers_at_Nationals_%2853677192000%29_%28cropped%29.jpg",
     "relations": [
+      "Lý Hoàng Nam",
       "Lê Công Vinh",
-      "LeBron James",
-      "Sadio Mané"
+      "LeBron James"
     ],
     "themes": []
+  },
+  {
+    "born": 1994,
+    "died": 1995,
+    "title": "Justin Bieber",
+    "fullName": "Justin Bieber (Justin Drew Bieber)",
+    "desc": "Nam ca sĩ kiêm nhạc sĩ người Canada, một trong những hiện tượng nhạc Pop lớn nhất thế kỷ 21. Được phát hiện qua YouTube vào năm 2008, anh nhanh chóng vươn lên thành siêu sao toàn cầu với đĩa đơn đầu tay 'Baby' và hàng loạt bản hit định hình âm nhạc đại chúng thế hệ mới.",
+    "color": "#e46a6a",
+    "position": "bottom",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Canadian",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/500px-Justin_Bieber_in_2015.jpg",
+    "relations": [
+      "Kenshi Yonezu",
+      "Bo Burnham",
+      "Owen Cooper"
+    ]
   },
   {
     "born": 1995,
@@ -30808,7 +32001,7 @@ const RAW_DATA = [
     "relations": [
       "Trịnh Thăng Bình",
       "Trịnh Trung Kiên",
-      "Phum Viphurit"
+      "Tùng Dương"
     ],
     "themes": []
   },
@@ -30827,9 +32020,9 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
+      "MCK",
       "Trịnh Thăng Bình",
-      "Karina",
-      "G-Dragon"
+      "Tùng Dương"
     ],
     "themes": []
   },
@@ -30848,9 +32041,9 @@ const RAW_DATA = [
     "fullName": "Phúc Du",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/BICH_PHUONG_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "relations": [
+      "Tùng Dương",
       "Trịnh Trung Kiên",
-      "Sơn Tùng M-TP",
-      "XXXTENTACION"
+      "Sơn Tùng M-TP"
     ],
     "themes": []
   },
@@ -31022,7 +32215,7 @@ const RAW_DATA = [
     "relations": [
       "Magnus Carlsen",
       "Lewis Hamilton",
-      "Đinh Lập Nhân"
+      "Lý Hoàng Nam"
     ],
     "themes": []
   },
@@ -31041,9 +32234,9 @@ const RAW_DATA = [
     "fullName": "Malala Yousafzai",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Malala_Yousafzai_2023_portrait_2x3.jpg/500px-Malala_Yousafzai_2023_portrait_2x3.jpg",
     "relations": [
+      "Al Gore",
       "Aung San Suu Kyi",
-      "Mother Teresa",
-      "Linus Pauling"
+      "Mother Teresa"
     ],
     "themes": [
       "Giai Nobel"
@@ -31066,9 +32259,32 @@ const RAW_DATA = [
     "relations": [
       "Lamine Yamal",
       "Shohei Ohtani",
-      "Erling Haaland"
+      "Lý Hoàng Nam"
     ],
     "themes": []
+  },
+  {
+    "born": 1997,
+    "died": 1998,
+    "title": "Lý Hoàng Nam",
+    "fullName": "Lý Hoàng Nam",
+    "desc": "Vận động viên quần vợt chuyên nghiệp xuất sắc nhất lịch sử quần vợt Việt Nam. Anh là tay vợt Việt Nam đầu tiên giành chức vô địch đôi nam trẻ tại giải Wimbledon năm 2015 và đạt thứ hạng cao nhất trong sự nghiệp đơn nam của Hiệp hội Quần vợt Chuyên nghiệp (ATP) ở vị trí 231 thế giới.",
+    "color": "#55a630",
+    "position": "top",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "Vietnamese",
+    "themes": [
+      "Tennis"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ly_Hoang_Nam.png/500px-Ly_Hoang_Nam.png",
+    "relations": [
+      "Petra Kvitova",
+      "Kim Clijsters",
+      "Victoria Azarenka"
+    ]
   },
   {
     "born": 1998,
@@ -31086,8 +32302,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Patricia_Jane%C4%8Dkov%C3%A1_March_2022.jpg/500px-Patricia_Jane%C4%8Dkov%C3%A1_March_2022.jpg",
     "relations": [
       "Sydney Sweeney",
-      "Vitas",
-      "Karina"
+      "Margot Robbie",
+      "Tùng Dương"
     ],
     "themes": []
   },
@@ -31106,9 +32322,9 @@ const RAW_DATA = [
     "fullName": "XXXTENTACION",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Xxxtentacion_%28cropped%29.jpg/500px-Xxxtentacion_%28cropped%29.jpg",
     "relations": [
+      "MCK",
       "Phúc Du",
-      "Trần Tiến",
-      "Bo Burnham"
+      "Tùng Dương"
     ],
     "themes": []
   },
@@ -31150,9 +32366,9 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/%E5%88%98%E6%9F%8F%E8%BE%9BLexie_Liu_8_%28cropped%29.jpg/500px-%E5%88%98%E6%9F%8F%E8%BE%9BLexie_Liu_8_%28cropped%29.jpg",
     "relations": [
+      "Tùng Dương",
       "Karina",
-      "Jang Won-young",
-      "G-Dragon"
+      "Jang Won-young"
     ],
     "themes": []
   },
@@ -31176,6 +32392,27 @@ const RAW_DATA = [
       "Mickey van de Ven"
     ],
     "themes": []
+  },
+  {
+    "born": 1999,
+    "died": 2000,
+    "title": "MCK",
+    "fullName": "RPT MCK (Nghiêm Vũ Hoàng Long, Ngơ, Nger)",
+    "desc": "Rapper kiêm ca sĩ, nhạc sĩ nổi tiếng người Việt Nam, một trong những đại diện tiêu biểu của thế hệ nghệ sĩ trẻ đương đại. Anh gây dựng tên tuổi từ giới underground trước khi bùng nổ tại chương trình Rap Việt mùa 1 và gặt hái thành công vang dội với album đầu tay '99%'.",
+    "color": "#e46a6a",
+    "position": "top",
+    "primary_tag": "Art",
+    "tags": [
+      "Art"
+    ],
+    "nationality": "Vietnamese",
+    "themes": [],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MCK_2020.png/500px-MCK_2020.png",
+    "relations": [
+      "Trịnh Trung Kiên",
+      "Bo Burnham",
+      "XXXTENTACION"
+    ]
   },
   {
     "born": 2000,
@@ -31237,7 +32474,7 @@ const RAW_DATA = [
     "relations": [
       "Carlos Alcaraz",
       "Petra Kvitova",
-      "Andy Murray"
+      "Lý Hoàng Nam"
     ],
     "themes": [
       "Tennis"
@@ -31433,8 +32670,8 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg/500px-IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg",
     "relations": [
       "Phạm Tuân",
-      "Erich Fromm",
-      "Kim Kardashian"
+      "Vinh Khuất",
+      "Erich Fromm"
     ],
     "themes": []
   },
@@ -31520,7 +32757,7 @@ const RAW_DATA = [
     "relations": [
       "Anya Taylor-Joy",
       "Sydney Sweeney",
-      "Ricky Gervais"
+      "Nicole Kidman"
     ],
     "themes": []
   },
@@ -31539,9 +32776,9 @@ const RAW_DATA = [
     "fullName": "Laurent Simons",
     "image": "",
     "relations": [
+      "Giuseppe Peano",
       "Karen Horney",
-      "Johannes Kepler",
-      "Erich Fromm"
+      "Johannes Kepler"
     ],
     "themes": []
   }
