@@ -1870,590 +1870,6 @@
     // Tag IDs: 1=Art 2=Business 3=Criminal 4=Literature 5=Medical
     //          6=Military 7=Others 8=Philosophy 9=Political 10=Religious 11=Science 12=Sport
     const EXTRA_TAGS = {
-    "Kim Kardashian": [
-        "Entertainment",
-        "Business"
-    ],
-    "Maria Montessori": [
-        "Medical",
-        "Science"
-    ],
-    "Carl Sagan": [
-        "Science",
-        "Literature"
-    ],
-    "Cửu Bả Đao": [
-        "Literature",
-        "Art"
-    ],
-    "Donald Trump": [
-        "Political",
-        "Business"
-    ],
-    "Ronald Reagan": [
-        "Political",
-        "Art"
-    ],
-    "Thomas Sankara": [
-        "Military",
-        "Political"
-    ],
-    "José Mujica": [
-        "Political",
-        "Military"
-    ],
-    "Iris Murdoch": [
-        "Literature",
-        "Philosophy"
-    ],
-    "Alfred Tarski": [
-        "Philosophy",
-        "Science"
-    ],
-    "Maria Gaetana Agnesi": [
-        "Science",
-        "Philosophy"
-    ],
-    "Tullia d'Aragona": [
-        "Philosophy",
-        "Literature"
-    ],
-    "Nguyễn Thị Kim Tiến": [
-        "Political",
-        "Medical",
-        "Criminal"
-    ],
-    "Hedy Lamarr": [
-        "Art",
-        "Science"
-    ],
-    "Ngô Phù Sai": [
-        "Political",
-        "Military"
-    ],
-    "Pol Pot": [
-        "Criminal",
-        "Political"
-    ],
-    "Muammar Gaddafi": [
-        "Political",
-        "Military"
-    ],
-    "Hugo Chávez": [
-        "Political",
-        "Military"
-    ],
-    "Daniel Levy": [
-        "Business",
-        "Sport"
-    ],
-    "Roman Abramovich": [
-        "Business",
-        "Sport"
-    ],
-    "Raul Castro": [
-        "Political",
-        "Military"
-    ],
-    "Che Guevara": [
-        "Political",
-        "Military"
-    ],
-    "Chu Nguyên Chương": [
-        "Political",
-        "Military"
-    ],
-    "Tư Mã Viêm": [
-        "Political",
-        "Military"
-    ],
-    "Minh Thành Tổ": [
-        "Political",
-        "Military"
-    ],
-    "Tôn Thất Thuyết": [
-        "Military",
-        "Political"
-    ],
-    "Hoàng Diệu": [
-        "Military",
-        "Political"
-    ],
-    "Nguyễn Tri Phương": [
-        "Military",
-        "Political"
-    ],
-    "Lê Đình Dương": [
-        "Political",
-        "Medical"
-    ],
-    "Khúc Hạo": [
-        "Political",
-        "Military"
-    ],
-    "Tô Định": [
-        "Political",
-        "Military"
-    ],
-    "Thi Sách": [
-        "Military",
-        "Political"
-    ],
-    "Trưng Nhị": [
-        "Political",
-        "Military"
-    ],
-    "Trưng Trắc": [
-        "Political",
-        "Military"
-    ],
-    "An Dương Vương": [
-        "Political",
-        "Military"
-    ],
-    "Ibn Khaldun": [
-        "Science",
-        "Philosophy"
-    ],
-    "Tôn Lâm": [
-        "Military",
-        "Political"
-    ],
-    "Trịnh Kiểm": [
-        "Political",
-        "Military"
-    ],
-    "Trịnh Tùng": [
-        "Political",
-        "Military"
-    ],
-    "Mạc Đĩnh Chi": [
-        "Political",
-        "Literature"
-    ],
-    "Sen no Rikyū": [
-        "Art",
-        "Religious"
-    ],
-    "Leonardo da Vinci": [
-        "Art",
-        "Science"
-    ],
-    "Adrian Le Roy": [
-        "Art",
-        "Business"
-    ],
-    "Henrik Ibsen": [
-        "Art",
-        "Literature"
-    ],
-    "August Strindberg": [
-        "Art",
-        "Literature"
-    ],
-    "Maurice Maeterlinck": [
-        "Art",
-        "Literature"
-    ],
-    "Ricky Gervais": [
-        "Art",
-        "Literature"
-    ],
-    "Miyamoto Musashi": [
-        "Art",
-        "Military"
-    ],
-    "Arnold Schwarzenegger": [
-        "Art",
-        "Political",
-        "Sport"
-    ],
-    "Zarathustra": [
-        "Religious",
-        "Philosophy"
-    ],
-    "Sư Vạn Hạnh": [
-        "Religious",
-        "Political"
-    ],
-    "Hypatia": [
-        "Science",
-        "Philosophy"
-    ],
-    "Denis Diderot": [
-        "Science",
-        "Philosophy"
-    ],
-    "Claude Lévi-Strauss": [
-        "Science",
-        "Philosophy"
-    ],
-    "Dương Trung Quốc": [
-        "Science",
-        "Political"
-    ],
-    "Oscar Pistorius": [
-        "Sport",
-        "Criminal"
-    ],
-    "Trương Anh Ngọc": [
-        "Sport",
-        "Literature"
-    ],
-    "David Beckham": [
-        "Sport",
-        "Business"
-    ],
-    "Michael Jordan": [
-        "Sport",
-        "Business"
-    ],
-    "Phạm Lãi": [
-        "Business",
-        "Political"
-    ],
-    "Harvey Weinstein": [
-        "Criminal",
-        "Art"
-    ],
-    "Diddy": [
-        "Criminal",
-        "Art"
-    ],
-    "Jeffrey Epstein": [
-        "Criminal",
-        "Business"
-    ],
-    "Robert Ley": [
-        "Criminal",
-        "Political"
-    ],
-    "Edward Snowden": [
-        "Criminal",
-        "Political"
-    ],
-    "László Krasznahorkai": [
-        "Literature",
-        "Art"
-    ],
-    "Cao Bá Quát": [
-        "Literature",
-        "Military"
-    ],
-    "Nikos Kazantzakis": [
-        "Literature",
-        "Philosophy"
-    ],
-    "Hélène Cixous": [
-        "Literature",
-        "Philosophy"
-    ],
-    "Huỳnh Mẫn Đạt": [
-        "Literature",
-        "Political"
-    ],
-    "Huy Cận": [
-        "Literature",
-        "Political"
-    ],
-    "Yukio Mishima": [
-        "Literature",
-        "Political"
-    ],
-    "Louis Pasteur": [
-        "Medical",
-        "Science"
-    ],
-    "Pyrros của Ipiros": [
-        "Military",
-        "Political"
-    ],
-    "Tư Mã Ý": [
-        "Military",
-        "Political"
-    ],
-    "Mai Hắc Đế": [
-        "Military",
-        "Political"
-    ],
-    "Cao Biền": [
-        "Military",
-        "Political"
-    ],
-    "Saladin": [
-        "Military",
-        "Political"
-    ],
-    "Thành Cát Tư Hãn": [
-        "Military",
-        "Political"
-    ],
-    "Oda Nobunaga": [
-        "Military",
-        "Political"
-    ],
-    "Trịnh Thành Công": [
-        "Military",
-        "Political"
-    ],
-    "Trịnh Kinh": [
-        "Military",
-        "Political"
-    ],
-    "Karl XII của Thụy Điển": [
-        "Military",
-        "Political"
-    ],
-    "Lê Văn Duyệt": [
-        "Military",
-        "Political"
-    ],
-    "Napoleon Bonaparte": [
-        "Military",
-        "Political"
-    ],
-    "Otto von Bismarck": [
-        "Military",
-        "Political"
-    ],
-    "Ulysses S. Grant": [
-        "Military",
-        "Political"
-    ],
-    "Ion Antonescu": [
-        "Military",
-        "Political"
-    ],
-    "T. E. Lawrence": [
-        "Military",
-        "Political"
-    ],
-    "Hermann Göring": [
-        "Military",
-        "Political"
-    ],
-    "Đinh Núp": [
-        "Military",
-        "Political"
-    ],
-    "Nguyễn Chí Vịnh": [
-        "Military",
-        "Political"
-    ],
-    "Jean-Paul Sartre": [
-        "Philosophy",
-        "Literature"
-    ],
-    "Phạm Công Thiện": [
-        "Philosophy",
-        "Literature",
-        "Religious"
-    ],
-    "Julia Kristeva": [
-        "Philosophy",
-        "Medical"
-    ],
-    "Chu Văn An": [
-        "Philosophy",
-        "Political"
-    ],
-    "Henri de Saint Simon": [
-        "Philosophy",
-        "Political"
-    ],
-    "Alexis de Tocqueville": [
-        "Philosophy",
-        "Political"
-    ],
-    "John Stuart Mill": [
-        "Philosophy",
-        "Political"
-    ],
-    "Thái tử Shotoku": [
-        "Political",
-        "Religious"
-    ],
-    "Mạc Cửu": [
-        "Political",
-        "Business"
-    ],
-    "Silvio Berlusconi": [
-        "Political",
-        "Business"
-    ],
-    "Heinrich Himmler": [
-        "Political",
-        "Criminal"
-    ],
-    "Alberto Fujimori": [
-        "Political",
-        "Criminal"
-    ],
-    "Đinh La Thăng": [
-        "Political",
-        "Criminal"
-    ],
-    "Léopold Sédar Senghor": [
-        "Political",
-        "Literature"
-    ],
-    "Tacitus": [
-        "Political",
-        "Literature",
-        "Science"
-    ],
-    "Flora Tristan": [
-        "Political",
-        "Literature",
-        "Philosophy"
-    ],
-    "Đường Cao Tổ Lý Uyên": [
-        "Political",
-        "Military"
-    ],
-    "Đường Thái Tông Lý Thế Dân": [
-        "Political",
-        "Military"
-    ],
-    "Đường Huyền Tông Lý Long Cơ": [
-        "Political",
-        "Military"
-    ],
-    "Khúc Thừa Dụ": [
-        "Political",
-        "Military"
-    ],
-    "William I": [
-        "Political",
-        "Military"
-    ],
-    "Lê Thái Tổ": [
-        "Political",
-        "Military"
-    ],
-    "Tokugawa Ieyasu": [
-        "Political",
-        "Military"
-    ],
-    "Lý Tự Thành": [
-        "Political",
-        "Military"
-    ],
-    "Giuseppe Garibaldi": [
-        "Political",
-        "Military"
-    ],
-    "Park Chung-hee": [
-        "Political",
-        "Military"
-    ],
-    "Phan Văn Giang": [
-        "Political",
-        "Military"
-    ],
-    "Đào Duy Từ": [
-        "Political",
-        "Military",
-        "Literature"
-    ],
-    "Malala Yousafzai": [
-        "Political"
-    ],
-    "Marcus Aurelius": [
-        "Political",
-        "Philosophy"
-    ],
-    "Vương Hỗ Ninh": [
-        "Political",
-        "Philosophy"
-    ],
-    "Lã Bất Vi": [
-        "Political",
-        "Business"
-    ],
-    "Điển Vi": [
-        "Military"
-    ],
-    "Hứa Chử": [
-        "Military"
-    ],
-    "Viên Thiệu": [
-        "Political",
-        "Military"
-    ],
-    "Mã Đằng": [
-        "Political",
-        "Military"
-    ],
-    "Mã Siêu": [
-        "Military"
-    ],
-    "Tôn Quyền": [
-        "Political",
-        "Military"
-    ],
-    "Trương Liêu": [
-        "Military"
-    ],
-    "Trương Sĩ Thành": [
-        "Political",
-        "Military"
-    ],
-    "Bàng Thống": [
-        "Military"
-    ],
-    "Hạ Hầu Bá": [
-        "Military"
-    ],
-    "Tào Xung": [
-        "Political"
-    ],
-    "Tôn Sách": [
-        "Political",
-        "Military"
-    ],
-    "Trịnh Xuân Thanh": [
-        "Criminal",
-        "Political"
-    ],
-    "Charles Perrault": [
-        "Literature",
-        "Art"
-    ],
-    "Phạm Công Tắc": [
-        "Religious",
-        "Political"
-    ],
-    "Mary Wollstonecraft": [
-        "Philosophy",
-        "Literature"
-    ],
-    "Thích Tuệ Sỹ": [
-        "Religious",
-        "Literature",
-        "Philosophy"
-    ],
-    "Lê Mạnh Thát": [
-        "Science",
-        "Religious",
-        "Philosophy"
-    ],
-    "Phan Khôi": [
-        "Literature",
-        "Political"
-    ],
-    "Edmund Husserl": [
-        "Philosophy",
-        "Science"
-    ],
-    "Tomáš Masaryk": [
-        "Political",
-        "Philosophy"
-    ],
-    "Trần Văn Trà": [
-        "Military",
-        "Political"
-    ],
     "Ngô vương Hạp Lư": [
         "Political",
         "Military"
@@ -2466,11 +1882,120 @@
         "Political",
         "Military"
     ],
+    "Lã Bất Vi": [
+        "Political",
+        "Business"
+    ],
+    "An Dương Vương": [
+        "Political",
+        "Military"
+    ],
+    "Thi Sách": [
+        "Military",
+        "Political"
+    ],
+    "Tô Định": [
+        "Political",
+        "Military"
+    ],
+    "Trưng Trắc": [
+        "Political",
+        "Military"
+    ],
+    "Trưng Nhị": [
+        "Political",
+        "Military"
+    ],
+    "Viên Thiệu": [
+        "Political",
+        "Military"
+    ],
+    "Mã Đằng": [
+        "Political",
+        "Military"
+    ],
+    "Tôn Sách": [
+        "Political",
+        "Military"
+    ],
+    "Tôn Quyền": [
+        "Political",
+        "Military"
+    ],
+    "Tôn Lâm": [
+        "Military",
+        "Political"
+    ],
+    "Tư Mã Viêm": [
+        "Political",
+        "Military"
+    ],
+    "Clovis I": [
+        "Political",
+        "Military"
+    ],
+    "Khúc Hạo": [
+        "Political",
+        "Military"
+    ],
+    "Kiều Công Tiễn": [
+        "Military",
+        "Political"
+    ],
+    "Dương Đình Nghệ": [
+        "Military",
+        "Political"
+    ],
+    "Al-Ghazali": [
+        "Philosophy",
+        "Religious"
+    ],
+    "Frederick Barbarossa": [
+        "Political",
+        "Military"
+    ],
+    "Baldwin IV": [
+        "Military",
+        "Political"
+    ],
+    "Philippe II của Pháp": [
+        "Political",
+        "Military"
+    ],
+    "Trần Khánh Dư": [
+        "Military",
+        "Political",
+        "Business"
+    ],
+    "Thoát Hoan": [
+        "Military",
+        "Political"
+    ],
+    "John Duns Scotus": [
+        "Philosophy",
+        "Religious"
+    ],
     "Phạm Sư Mạnh": [
         "Literature",
         "Political"
     ],
+    "Trương Sĩ Thành": [
+        "Political",
+        "Military"
+    ],
+    "Chu Nguyên Chương": [
+        "Political",
+        "Military"
+    ],
     "Chế Bồng Nga": [
+        "Political",
+        "Military"
+    ],
+    "Ibn Khaldun": [
+        "Science",
+        "Philosophy"
+    ],
+    "Minh Thành Tổ": [
         "Political",
         "Military"
     ],
@@ -2490,12 +2015,28 @@
         "Political",
         "Philosophy"
     ],
+    "Tullia d'Aragona": [
+        "Philosophy",
+        "Literature"
+    ],
     "Francis Bacon": [
         "Science",
         "Philosophy",
         "Political"
     ],
+    "Charles Perrault": [
+        "Literature",
+        "Art"
+    ],
+    "Nicolas Malebranche": [
+        "Philosophy",
+        "Religious"
+    ],
     "David Hume": [
+        "Science",
+        "Philosophy"
+    ],
+    "Maria Gaetana Agnesi": [
         "Science",
         "Philosophy"
     ],
@@ -2507,25 +2048,91 @@
         "Political",
         "Military"
     ],
+    "Nguyễn Hữu Chỉnh": [
+        "Military",
+        "Political",
+        "Literature"
+    ],
     "Nguyễn Nhạc": [
         "Military",
         "Political"
+    ],
+    "Nguyễn Huy Tự": [
+        "Political",
+        "Military",
+        "Literature"
+    ],
+    "Thomas Jefferson": [
+        "Political",
+        "Philosophy"
     ],
     "Johann Gottfried Herder": [
         "Philosophy",
         "Literature"
     ],
+    "Phan Huy Ích": [
+        "Literature",
+        "Political"
+    ],
+    "Vũ Trinh": [
+        "Literature",
+        "Political"
+    ],
     "Camille Desmoulins": [
         "Political",
         "Literature"
+    ],
+    "Trần Quang Diệu": [
+        "Military",
+        "Political"
     ],
     "Trịnh Hoài Đức": [
         "Literature",
         "Political"
     ],
+    "Lê Chiêu Thống": [
+        "Political",
+        "Military"
+    ],
+    "Andrew Jackson": [
+        "Political",
+        "Military"
+    ],
+    "Charles Babbage": [
+        "Science",
+        "Philosophy"
+    ],
+    "Nguyễn Văn Siêu": [
+        "Literature",
+        "Political"
+    ],
+    "Nguyễn Tri Phương": [
+        "Military",
+        "Political"
+    ],
+    "Fanny Mendelssohn": [
+        "Art",
+        "Women"
+    ],
+    "Phạm Văn Nghị": [
+        "Literature",
+        "Political"
+    ],
+    "Phạm Phú Thứ": [
+        "Political",
+        "Literature"
+    ],
+    "Hoàng Diệu": [
+        "Military",
+        "Political"
+    ],
     "Nguyễn Quang Bích": [
         "Literature",
         "Military"
+    ],
+    "Tôn Thất Thuyết": [
+        "Military",
+        "Political"
     ],
     "Tống Duy Tân": [
         "Military",
@@ -2535,6 +2142,22 @@
         "Literature",
         "Art"
     ],
+    "Phạm Như Xương": [
+        "Political",
+        "Literature"
+    ],
+    "Nguyễn Duy Hiệu": [
+        "Military",
+        "Political"
+    ],
+    "Gottlob Frege": [
+        "Philosophy",
+        "Science"
+    ],
+    "Tomáš Masaryk": [
+        "Political",
+        "Philosophy"
+    ],
     "Lương Văn Can": [
         "Literature",
         "Political"
@@ -2543,17 +2166,34 @@
         "Military",
         "Political"
     ],
+    "Giuseppe Peano": [
+        "Science",
+        "Philosophy"
+    ],
     "Kaiser Wilhelm II": [
         "Political",
         "Military"
     ],
+    "Edmund Husserl": [
+        "Philosophy",
+        "Science"
+    ],
     "Erich Ludendorff": [
+        "Military",
+        "Political"
+    ],
+    "Carl Gustaf Emil Mannerheim": [
         "Military",
         "Political"
     ],
     "Nguyễn Thượng Hiền": [
         "Literature",
         "Political"
+    ],
+    "Emanuel Lasker": [
+        "Sport",
+        "Science",
+        "Philosophy"
     ],
     "Alfred Adler": [
         "Science",
@@ -2562,6 +2202,10 @@
     "Sándor Ferenczi": [
         "Science",
         "Medical"
+    ],
+    "Willa Cather": [
+        "Literature",
+        "Women"
     ],
     "Hjalmar Schacht": [
         "Business",
@@ -2584,6 +2228,10 @@
         "Political",
         "Religious"
     ],
+    "Virginia Woolf": [
+        "Literature",
+        "Philosophy"
+    ],
     "Hideki Tojo": [
         "Military",
         "Criminal",
@@ -2593,13 +2241,29 @@
         "Science",
         "Medical"
     ],
+    "Lê Đình Dương": [
+        "Political",
+        "Medical"
+    ],
     "Karen Horney": [
         "Science",
         "Medical"
     ],
+    "Phan Khôi": [
+        "Literature",
+        "Political"
+    ],
+    "Tôn Đức Thắng": [
+        "Political",
+        "Military"
+    ],
     "Charles de Gaulle": [
         "Political",
         "Military"
+    ],
+    "Phạm Công Tắc": [
+        "Religious",
+        "Political"
     ],
     "Arthur Seyss-Inquart": [
         "Criminal",
@@ -2617,6 +2281,10 @@
         "Science",
         "Medical"
     ],
+    "Phạm Hồng Thái": [
+        "Political",
+        "Military"
+    ],
     "Joseph Goebbels": [
         "Political",
         "Criminal"
@@ -2633,9 +2301,17 @@
         "Literature",
         "Political"
     ],
+    "Alfred Tarski": [
+        "Philosophy",
+        "Science"
+    ],
     "Reinhard Heydrich": [
         "Criminal",
         "Military"
+    ],
+    "Anna May Wong": [
+        "Art",
+        "Entertainment"
     ],
     "Albert Speer": [
         "Political",
@@ -2661,9 +2337,49 @@
         "Political",
         "Military"
     ],
+    "Hoàng Văn Thụ": [
+        "Political",
+        "Military"
+    ],
+    "Ronald Reagan": [
+        "Political",
+        "Art"
+    ],
+    "Hedy Lamarr": [
+        "Art",
+        "Science"
+    ],
+    "Marguerite Duras": [
+        "Literature",
+        "Women"
+    ],
+    "Frank Sinatra": [
+        "Art",
+        "Entertainment"
+    ],
     "Thái Văn Lung": [
         "Political",
         "Military"
+    ],
+    "Robert McNamara": [
+        "Military",
+        "Political"
+    ],
+    "Trần Văn Trà": [
+        "Military",
+        "Political"
+    ],
+    "Iris Murdoch": [
+        "Literature",
+        "Philosophy"
+    ],
+    "Rosalind Franklin": [
+        "Science",
+        "Women"
+    ],
+    "Mario Puzo": [
+        "Literature",
+        "Art"
     ],
     "Văn Cao": [
         "Art",
@@ -2672,6 +2388,10 @@
     "René Girard": [
         "Philosophy",
         "Literature"
+    ],
+    "Pol Pot": [
+        "Criminal",
+        "Political"
     ],
     "Trần Thiện Khiêm": [
         "Military",
@@ -2689,99 +2409,335 @@
         "Military",
         "Political"
     ],
+    "Che Guevara": [
+        "Political",
+        "Military"
+    ],
+    "Chet Baker": [
+        "Art",
+        "Entertainment"
+    ],
     "Kim Đồng": [
         "Political",
         "Military"
+    ],
+    "Đồ U U": [
+        "Medical",
+        "Women"
+    ],
+    "Raul Castro": [
+        "Political",
+        "Military"
+    ],
+    "Lê Khả Phiêu": [
+        "Political",
+        "Military"
+    ],
+    "Toni Morrison": [
+        "Literature",
+        "Women"
+    ],
+    "James Dean": [
+        "Entertainment",
+        "Art"
+    ],
+    "Camilo Cienfuegos": [
+        "Military",
+        "Political"
     ],
     "Ali Shariati": [
         "Political",
         "Philosophy"
     ],
+    "Võ Thị Sáu": [
+        "Military",
+        "Political"
+    ],
     "Edward Said": [
         "Philosophy",
         "Literature"
+    ],
+    "Elvis Presley": [
+        "Entertainment",
+        "Art"
+    ],
+    "José Mujica": [
+        "Political",
+        "Military"
+    ],
+    "Margaret Atwood": [
+        "Literature",
+        "Women"
+    ],
+    "John Lennon": [
+        "Entertainment",
+        "Art"
+    ],
+    "Ringo Starr": [
+        "Entertainment",
+        "Art"
     ],
     "Joan Baez": [
         "Art",
         "Political"
     ],
+    "Muammar Gaddafi": [
+        "Political",
+        "Military"
+    ],
+    "Paul McCartney": [
+        "Entertainment",
+        "Art"
+    ],
+    "Đặng Thùy Trâm": [
+        "Literature",
+        "Medical"
+    ],
+    "George Harrison": [
+        "Entertainment",
+        "Art"
+    ],
+    "Thích Tuệ Sỹ": [
+        "Religious",
+        "Literature",
+        "Philosophy"
+    ],
+    "Rosalind Miles": [
+        "Literature",
+        "Women"
+    ],
+    "Nguyễn Khoa Điềm": [
+        "Literature",
+        "Political"
+    ],
+    "Lê Mạnh Thát": [
+        "Science",
+        "Religious",
+        "Philosophy"
+    ],
+    "Bob Marley": [
+        "Entertainment",
+        "Art"
+    ],
+    "Donald Trump": [
+        "Political",
+        "Business"
+    ],
     "John Mearsheimer": [
         "Political",
         "Philosophy"
+    ],
+    "Thomas Sankara": [
+        "Military",
+        "Political"
+    ],
+    "Robin Williams": [
+        "Entertainment",
+        "Art"
+    ],
+    "Theresa Hak Kyung Cha": [
+        "Literature",
+        "Art"
+    ],
+    "Yoshiko Sai": [
+        "Art",
+        "Entertainment"
+    ],
+    "Hugo Chávez": [
+        "Political",
+        "Military"
+    ],
+    "Hako Yamasaki": [
+        "Art",
+        "Entertainment"
+    ],
+    "Michael Jackson": [
+        "Entertainment",
+        "Art"
     ],
     "Anna Politkovskaya": [
         "Political",
         "Literature"
     ],
+    "Kimberle Crenshaw": [
+        "Philosophy",
+        "Political"
+    ],
+    "Jim Carrey": [
+        "Entertainment",
+        "Art"
+    ],
+    "Daniel Levy": [
+        "Business",
+        "Sport"
+    ],
+    "Yoko Ogawa": [
+        "Literature",
+        "Women"
+    ],
+    "Huy Đức": [
+        "Political",
+        "Literature"
+    ],
+    "Michael Jordan": [
+        "Sport",
+        "Business"
+    ],
     "José Luis Chilavert": [
         "Sport",
         "Political"
     ],
-    "Virginia Woolf": [
-        "Literature",
-        "Philosophy"
+    "Roman Abramovich": [
+        "Business",
+        "Sport"
     ],
-    "Vũ Trinh": [
-        "Literature",
+    "Trịnh Xuân Thanh": [
+        "Criminal",
         "Political"
     ],
-    "Nguyễn Huy Tự": [
-        "Political",
-        "Military",
-        "Literature"
+    "Kurt Cobain": [
+        "Entertainment",
+        "Art"
     ],
-    "Lê Chiêu Thống": [
-        "Political",
-        "Military"
+    "Thom Yorke": [
+        "Entertainment",
+        "Art"
     ],
-    "Trần Quang Diệu": [
-        "Military",
-        "Political"
-    ],
-    "Nguyễn Hữu Chỉnh": [
-        "Military",
-        "Political",
-        "Literature"
-    ],
-    "Phan Huy Ích": [
-        "Literature",
-        "Political"
-    ],
-    "Nguyễn Văn Siêu": [
-        "Literature",
-        "Political"
-    ],
-    "Thoát Hoan": [
-        "Military",
-        "Political"
-    ],
-    "Võ Thị Sáu": [
-        "Military",
-        "Political"
-    ],
-    "Tôn Đức Thắng": [
-        "Political",
-        "Military"
-    ],
-    "Robert McNamara": [
-        "Military",
-        "Political"
-    ],
-    "Baldwin IV": [
-        "Military",
-        "Political"
-    ],
-    "Fanny Mendelssohn": [
+    "Bong Joon-ho": [
         "Art",
-        "Women"
+        "Entertainment"
     ],
-    "Đặng Thùy Trâm": [
+    "Tupac Shakur": [
+        "Entertainment",
+        "Art"
+    ],
+    "Eminem": [
+        "Entertainment",
+        "Art"
+    ],
+    "Công Lý": [
+        "Art",
+        "Entertainment"
+    ],
+    "Tự Long": [
+        "Art",
+        "Entertainment"
+    ],
+    "Leonardo DiCaprio": [
+        "Entertainment",
+        "Art"
+    ],
+    "David Beckham": [
+        "Sport",
+        "Business"
+    ],
+    "Chester Bennington": [
+        "Entertainment",
+        "Art"
+    ],
+    "Xuân Bắc": [
+        "Art",
+        "Entertainment"
+    ],
+    "Sandra Hüller": [
+        "Art",
+        "Entertainment"
+    ],
+    "Heath Ledger": [
+        "Entertainment",
+        "Art"
+    ],
+    "Ryan Gosling": [
+        "Entertainment",
+        "Art"
+    ],
+    "Kim Kardashian": [
+        "Entertainment",
+        "Business"
+    ],
+    "Tùng Dương": [
+        "Entertainment",
+        "Art"
+    ],
+    "Nadiem Makarim": [
+        "Business",
+        "Political"
+    ],
+    "Emma Stone": [
+        "Entertainment",
+        "Art"
+    ],
+    "Taeyeon": [
+        "Entertainment",
+        "Art"
+    ],
+    "Bo Burnham": [
+        "Art",
+        "Entertainment"
+    ],
+    "Vinh Khuất": [
+        "Art",
+        "Entertainment"
+    ],
+    "Kenshi Yonezu": [
+        "Entertainment",
+        "Art"
+    ],
+    "Sơn Tùng M-TP": [
+        "Entertainment",
+        "Art"
+    ],
+    "Phum Viphurit": [
+        "Entertainment",
+        "Art"
+    ],
+    "Vũ Đinh Trọng Thắng": [
+        "Entertainment",
+        "Art"
+    ],
+    "Trịnh Trung Kiên": [
+        "Entertainment",
+        "Art"
+    ],
+    "Phúc Du": [
+        "Entertainment",
+        "Art"
+    ],
+    "MCK": [
+        "Entertainment",
+        "Art"
+    ],
+    "Owen Cooper": [
+        "Entertainment",
+        "Art"
+    ],
+    "Maria Montessori": [
+        "Medical",
+        "Science"
+    ],
+    "Carl Sagan": [
+        "Science",
+        "Literature"
+    ],
+    "Cửu Bả Đao": [
         "Literature",
-        "Medical"
+        "Art"
+    ],
+    "Matthew McConaughey": [
+        "Entertainment",
+        "Art"
+    ],
+    "Henry V": [
+        "Political",
+        "Military"
+    ],
+    "Taksin": [
+        "Political",
+        "Military"
     ]
-};;
+    };
 
-    const stripAll = s => s ? s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase() : "";
+    const stripAll = s => s ? s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase() : "";
 
     const people = RAW_DATA.map(p => {
       const cat = CATEGORIES.find(c => c.id === p.primary_tag);

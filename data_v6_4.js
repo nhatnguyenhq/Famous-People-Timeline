@@ -3143,7 +3143,7 @@ const RAW_DATA = [
     "tags": [
       "Military"
     ],
-    "nationality": "Vietnamese",
+    "nationality": "Chinese",
     "fullName": "Cao Biền",
     "image": "",
     "relations": [
@@ -4711,6 +4711,7 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
     "relations": [
+      "Henry V",
       "Khang Hi",
       "Quách Tử Nghi",
       "Trần Dụ Tông"
@@ -4977,6 +4978,7 @@ const RAW_DATA = [
     "fullName": "Jeanne d'Arc (Joan of Arc, The Maid of Orléans, Saint Joan)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg",
     "relations": [
+      "Henry V",
       "Pompey",
       "Trương Nghi",
       "Đinh Núp"
@@ -5064,6 +5066,7 @@ const RAW_DATA = [
     "themes": [],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Louis_XI_%281423-1483%29.jpg/500px-Louis_XI_%281423-1483%29.jpg",
     "relations": [
+      "Henry V",
       "Louis XIV",
       "Lương Nhữ Hộc",
       "Mehmed II"
@@ -6937,6 +6940,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_%28by_Hyacinthe_Rigaud%29_-_Louvre_Museum.jpg/500px-Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_%28by_Hyacinthe_Rigaud%29_-_Louvre_Museum.jpg",
     "relations": [
       "Anne d'Autriche",
+      "Anne, Nữ vương Đại Anh",
       "Louis XI",
       "Madame de Maintenon",
       "Madame de Montespan"
@@ -7287,6 +7291,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Daniel_Defoe.jpg",
     "relations": [
       "Alexandre Dumas con",
+      "Anne, Nữ vương Đại Anh",
       "Ivan Turgenev",
       "Jack London"
     ],
@@ -7354,6 +7359,7 @@ const RAW_DATA = [
     "relations": [
       "Càn Long",
       "Elizaveta Petrovna",
+      "Eugène de Savoie-Carignan",
       "Menelik II"
     ],
     "themes": []
@@ -7422,6 +7428,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Karl_XII_1706.jpg/500px-Karl_XII_1706.jpg",
     "relations": [
       "Boris Petrovich Sheremetev",
+      "Eugène de Savoie-Carignan",
       "Fyodor Matveyevich Apraksin",
       "Gustav II Adolf"
     ],
@@ -7512,6 +7519,7 @@ const RAW_DATA = [
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg",
     "relations": [
+      "Anne, Nữ vương Đại Anh",
       "Antonio Vivaldi",
       "Georg Philipp Telemann",
       "Giuseppe Tartini",
@@ -8019,6 +8027,7 @@ const RAW_DATA = [
     "fullName": "Adam Smith",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/500px-Adam_Smith_The_Muir_portrait.jpg",
     "relations": [
+      "David Ricardo",
       "Gilles Deleuze",
       "Immanuel Kant",
       "Julia Kristeva"
@@ -8267,6 +8276,7 @@ const RAW_DATA = [
     "relations": [
       "Alessandro Volta",
       "Charles-Augustin de Coulomb",
+      "David Ricardo",
       "Johannes Kepler",
       "Pierre-Simon Laplace"
     ],
@@ -8522,7 +8532,7 @@ const RAW_DATA = [
     "died": 1803,
     "title": "Johann Gottfried Herder",
     "fullName": "Johann Gottfried von Herder",
-    "desc": "Triết gia, nhà thần học, nhà thơ và nhà phê bình văn học người Đức. Anh ta gắn liền với sự Khai sáng và Sturm und Drang.",
+    "desc": "Nhà triết học, nhà thần học, nhà thơ và nhà phê bình văn học lỗi lạc người Đức. Ông là nhân vật tiên phong của phong trào 'Bão táp và Thúc bách' (Sturm und Drang), đồng thời đặt nền móng cho chủ nghĩa lãng mạn Đức và triết học lịch sử hiện đại với các khái niệm về bản sắc văn hóa dân tộc (Volk) và sự đa dạng ngôn ngữ.",
     "color": "#8b5cf6",
     "position": "bottom",
     "primary_tag": "Philosophy",
@@ -8546,7 +8556,7 @@ const RAW_DATA = [
     "fullName": "Abigail Adams",
     "desc": "Đệ nhất phu nhân thứ hai của Hoa Kỳ, vợ của Tổng thống John Adams và mẹ của Tổng thống John Quincy Adams. Bà được lịch sử ghi nhận là một trong những cố vấn chính trị có ảnh hưởng nhất thời kỳ lập quốc, nổi tiếng qua những bức thư sắc sảo kêu gọi giải phóng phụ nữ và xóa bỏ chế độ nô lệ, đặt nền móng cho quyền bình đẳng giới tại Mỹ.",
     "color": "#5b1a99",
-    "position": "top",
+    "position": "bottom",
     "primary_tag": "Political",
     "tags": [
       "Political"
@@ -9066,7 +9076,8 @@ const RAW_DATA = [
       "Khúc Thừa Dụ",
       "Klemens von Metternich",
       "Lê Văn Duyệt",
-      "Mạc Cửu"
+      "Mạc Cửu",
+      "Rama I"
     ],
     "themes": []
   },
@@ -9088,6 +9099,7 @@ const RAW_DATA = [
       "Cao Biền",
       "Gia Long",
       "Nguyễn Hữu Cảnh",
+      "Taksin",
       "Võ Tánh"
     ],
     "themes": []
@@ -9778,7 +9790,8 @@ const RAW_DATA = [
     "relations": [
       "Ada Lovelace",
       "Bernhard Riemann",
-      "Carl Friedrich Gauss"
+      "Carl Friedrich Gauss",
+      "David Ricardo"
     ]
   },
   {
@@ -10292,6 +10305,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/500px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg",
     "relations": [
       "Alexis de Tocqueville",
+      "David Ricardo",
       "Georg W. F. Hegel",
       "John Locke"
     ],
@@ -10402,6 +10416,7 @@ const RAW_DATA = [
       "Minh Mạng",
       "Nikolai I",
       "Phạm Phú Thứ",
+      "Rama III",
       "Đỗ Thúc Tịnh"
     ],
     "themes": []
@@ -10797,7 +10812,7 @@ const RAW_DATA = [
       "Georg Cantor"
     ],
     "themes": [],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Noncrossing_partitions_5.svg/500px-Noncrossing_partitions_5.svg.png?utm_source=vi.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "image": ""
   },
   {
     "born": 1815,
@@ -12852,6 +12867,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Chulalongkorn_LoC.jpg/500px-Chulalongkorn_LoC.jpg",
     "relations": [
       "Phạm Phú Thứ",
+      "Rama IV",
       "Rama X",
       "Theodore Roosevelt"
     ],
@@ -18700,6 +18716,7 @@ const RAW_DATA = [
     ],
     "nationality": "Vietnamese",
     "relations": [
+      "Cao Xuân Hạo",
       "Dương Quảng Hàm",
       "Hoàng Ngọc Phách",
       "Quách Tấn"
@@ -19134,7 +19151,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "American",
     "fullName": "Anna May Wong",
@@ -21114,7 +21132,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "American",
     "fullName": "Frank Sinatra (Francis Albert Sinatra, The Voice, Ol' Blue Eyes)",
@@ -21639,7 +21658,8 @@ const RAW_DATA = [
     "relations": [
       "Gabriel García Márquez",
       "Italo Calvino",
-      "Mario Puzo"
+      "Mario Puzo",
+      "Vũ Tú Nam"
     ],
     "themes": []
   },
@@ -22579,7 +22599,7 @@ const RAW_DATA = [
     "tags": [
       "Political"
     ],
-    "nationality": "Vietnamese",
+    "nationality": "American",
     "fullName": "Henry Kissinger (Heinz Alfred Kissinger, Secretary of State)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/500px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
     "relations": [
@@ -23009,11 +23029,11 @@ const RAW_DATA = [
     "died": 1962,
     "title": "Marilyn Monroe",
     "desc": "Nữ diễn viên, người mẫu và ca sĩ người Mỹ, Monroe đã trở thành một trong những biểu tượng mang tính biểu tượng nhất về sự nữ tính và quyến rũ ở Hollywood. Diễn xuất của cô trong các bộ phim như Some Like It Hot và Gentlemen Prefer Blondes đã củng cố địa vị của cô như một biểu tượng văn hóa, bất chấp cuộc đời bi thảm của cô.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "American",
     "fullName": "Marilyn Monroe (Norma Jeane Mortenson, Norma Jeane Baker)",
@@ -23658,7 +23678,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "American",
     "fullName": "Chet Baker",
@@ -23914,6 +23935,7 @@ const RAW_DATA = [
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg/500px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_%28cropped%29.jpg",
     "relations": [
       "Bill Gates",
+      "Jean-Michel Cazes",
       "John D. Rockefeller",
       "Yves Saint-Laurent"
     ],
@@ -24297,10 +24319,11 @@ const RAW_DATA = [
     "title": "James Dean",
     "fullName": "James Dean",
     "desc": "Nam tài tử điện ảnh người Mỹ, một trong những biểu tượng văn hóa đại chúng vĩ đại nhất của sự nổi loạn và nỗi lo âu tuổi vị thành niên. Dù qua đời trong một tai nạn xe hơi thảm khốc khi mới 24 tuổi, ông vẫn để lại dấu ấn bất tử qua ba tác phẩm kinh điển, đặc biệt là 'Rebel Without a Cause'.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -24617,7 +24640,7 @@ const RAW_DATA = [
     "fullName": "Corazon Aquino",
     "desc": "Nữ chính trị gia kiệt xuất và là Tổng thống thứ 11 của Cộng hòa Philippines (1986–1992). Trở thành biểu tượng của dân chủ sau khi chồng bà bị ám sát, bà đã dẫn dắt cuộc Cách mạng Quyền lực Nhân dân lật đổ chế độ độc tài của Ferdinand Marcos, trở thành nữ tổng thống đầu tiên tại châu Á.",
     "color": "#5b1a99",
-    "position": "top",
+    "position": "bottom",
     "primary_tag": "Political",
     "tags": [
       "Political"
@@ -24769,10 +24792,11 @@ const RAW_DATA = [
     "died": 1977,
     "title": "Elvis Presley",
     "desc": "Ca sĩ và diễn viên người Mỹ, được coi là biểu tượng văn hóa của thế kỷ 20 và thường được gọi là \"Ông hoàng nhạc Rock and Roll\" (The King of Rock and Roll). Phong cách biểu diễn và âm nhạc của ông đã định hình nền nhạc rock hiện đại.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -24889,6 +24913,7 @@ const RAW_DATA = [
     "relations": [
       "Henri Bergson",
       "Jean-Luc Godard",
+      "Jean-Michel Cazes",
       "Warren Buffett"
     ],
     "themes": []
@@ -25351,10 +25376,11 @@ const RAW_DATA = [
     "died": 1980,
     "title": "John Lennon",
     "desc": "Nhạc sĩ, ca sĩ và nhạc sĩ người Anh, được biết đến nhiều nhất với tư cách là thành viên của ban nhạc rock mang tính biểu tượng The Beatles. Sáng tác và hoạt động tích cực của Lennon đã khiến ông trở thành một biểu tượng văn hóa, và cái chết bi thảm của ông dưới bàn tay của một sát thủ đã củng cố di sản của ông như một huyền thoại âm nhạc.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -25470,10 +25496,11 @@ const RAW_DATA = [
     "died": 1941,
     "title": "Ringo Starr",
     "desc": "Nhạc sĩ, ca sĩ người Anh, nổi tiếng với tư cách là tay trống của ban nhạc rock huyền thoại The Beatles. Ông có phong cách chơi trống đặc trưng đầy tính sáng tạo và đôi khi đóng vai trò ca sĩ chính cho ban nhạc.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -25809,10 +25836,11 @@ const RAW_DATA = [
     "died": 1943,
     "title": "Paul McCartney",
     "desc": "Nhạc sĩ, ca sĩ, nhà sản xuất âm nhạc người Anh, nổi tiếng với vai trò ca sĩ chính kiêm chơi bass cho ban nhạc rock vĩ đại The Beatles. Cùng John Lennon tạo nên một trong những cặp đôi song ca/sáng tác nhạc có ảnh hưởng nhất thế kỷ 20.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -25994,10 +26022,11 @@ const RAW_DATA = [
     "died": 2001,
     "title": "George Harrison",
     "desc": "Nhạc sĩ, ca sĩ, nhà sản xuất phim người Anh, được biết đến nhiều nhất với vai trò nghệ sĩ guitar chính của ban nhạc rock The Beatles. Ông cũng nổi tiếng với việc đưa âm nhạc và triết học Ấn Độ vào văn hóa phương Tây.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -26248,10 +26277,11 @@ const RAW_DATA = [
     "died": 1981,
     "title": "Bob Marley",
     "desc": "Ca sĩ-nhạc sĩ và nhạc sĩ người Jamaica, Marley là một biểu tượng văn hóa được biết đến với việc phổ biến nhạc reggae. Các bài hát của anh thường đề cập đến chủ đề tình yêu, công bằng xã hội và sự phản kháng, với những tác phẩm kinh điển như \"No Woman, No Cry\" và \"One Love\".",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Latin American",
@@ -26520,11 +26550,11 @@ const RAW_DATA = [
     "died": 1948,
     "title": "Elton John",
     "desc": "Ca sĩ, nhạc sĩ và nghệ sĩ piano người Anh, Elton John là một trong những nhạc sĩ thành công nhất trong lịch sử, được biết đến với giọng hát đặc biệt và phong cách rực rỡ. Các bản hit của anh bao gồm \"Rocket Man\" và \"Tiny Dancer\", đồng thời anh cũng là người ủng hộ nổi bật cho quyền LGBTQ+.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "British",
     "fullName": "Elton John (Sir Elton Hercules John, né Reginald Kenneth Dwight, Rocket Man)",
@@ -26585,11 +26615,11 @@ const RAW_DATA = [
     "died": 1948,
     "title": "Arnold Schwarzenegger",
     "desc": "Diễn viên, vận động viên thể hình và chính trị gia người Mỹ gốc Áo, biểu tượng văn hóa đại chúng toàn cầu và cựu Thống đốc bang California, được biết đến với nhiều thành công trong sự nghiệp.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "German",
     "fullName": "Arnold Schwarzenegger (The Terminator, The Austrian Oak, Governor of California)",
@@ -26841,6 +26871,7 @@ const RAW_DATA = [
     "relations": [
       "Bành Đức Hoài",
       "Chu Vĩnh Khang",
+      "Hứa Gia Ấn",
       "Tập Cận Bình",
       "Từ Tài Hậu"
     ],
@@ -27087,6 +27118,7 @@ const RAW_DATA = [
     "relations": [
       "Bảo Ninh",
       "Ernest Hemingway",
+      "Hồ Ngọc Đại",
       "Ma Văn Kháng",
       "Marcel Proust"
     ],
@@ -27183,10 +27215,11 @@ const RAW_DATA = [
     "died": 2014,
     "title": "Robin Williams",
     "desc": "Diễn viên hài và tài tử điện ảnh huyền thoại người Mỹ, nổi tiếng toàn cầu với kỹ năng diễn xuất ứng biến thiên tài và giọng thoại đa dạng. Sự nghiệp của ông ghi dấu ấn rực rỡ qua các vai diễn để đời, đặc biệt là vai người thầy giáo truyền cảm hứng mãnh liệt John Keating trong tác phẩm kinh điển 'Dead Poets Society', mang đến tiếng cười và sự xúc động sâu sắc cho nhiều thế hệ khán giả.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -27426,7 +27459,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Japanese",
     "fullName": "Yoshiko Sai (さいよしこ)",
@@ -27909,6 +27943,7 @@ const RAW_DATA = [
     "relations": [
       "Anne Boleyn",
       "Jack Ma",
+      "Jean-Michel Cazes",
       "John D. Rockefeller",
       "Warren Buffett"
     ],
@@ -28286,7 +28321,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Japanese",
     "image": "",
@@ -28324,10 +28360,11 @@ const RAW_DATA = [
     "died": 2009,
     "title": "Michael Jackson",
     "desc": "Ca sĩ, nhạc sĩ và vũ công người Mỹ, được mệnh danh là \"Vua nhạc Pop\" vì những đóng góp đột phá cho âm nhạc và khiêu vũ. Các video âm nhạc sáng tạo và phong cách thanh nhạc của anh ấy đã thay đổi ngành công nghiệp âm nhạc.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -28752,11 +28789,11 @@ const RAW_DATA = [
     "died": 1962,
     "title": "Ricky Gervais",
     "desc": "Diễn viên hài, diễn viên, nhà văn và đạo diễn người Anh nổi tiếng với vai trò đồng sáng tạo và đóng vai chính trong bộ phim truyền hình The Office. Anh đã giành được nhiều giải thưởng trong đó có bảy giải BAFTA và ba giải Quả cầu vàng.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "British",
     "fullName": "Ricky Gervais",
@@ -28905,10 +28942,11 @@ const RAW_DATA = [
     "died": 1963,
     "title": "Jim Carrey",
     "desc": "Nam diễn viên kiêm diễn viên hài người Mỹ gốc Canada nổi tiếng với những màn trình diễn hài hước tràn đầy năng lượng. Anh lần đầu tiên được công nhận vào năm 1990 sau khi nhận được vai diễn định kỳ trong loạt phim hài phác họa In Living Color.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -29192,6 +29230,7 @@ const RAW_DATA = [
     "relations": [
       "Diego Simeone",
       "Petra Kvitova",
+      "Tom Brady",
       "Zinedine Zidane"
     ],
     "themes": []
@@ -29347,6 +29386,7 @@ const RAW_DATA = [
     "relations": [
       "Ariane de Rothschild",
       "Bill Gates",
+      "Hứa Gia Ấn",
       "Lôi Quân",
       "Phạm Nhật Vượng"
     ],
@@ -29424,11 +29464,11 @@ const RAW_DATA = [
     "died": 1966,
     "title": "Nguyễn Cao Kỳ Duyên",
     "desc": "Người dẫn chương trình và nhân vật truyền hình người Mỹ gốc Việt, nổi tiếng với việc tổ chức chương trình ca nhạc \"Paris By Night\".",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "Vietnamese",
     "fullName": "Nguyễn Cao Kỳ Duyên",
@@ -29457,6 +29497,7 @@ const RAW_DATA = [
     "relations": [
       "Hjalmar Schacht",
       "Jack Ma",
+      "Jean-Michel Cazes",
       "Jeff Bezos",
       "Phạm Nhật Vượng"
     ],
@@ -29628,10 +29669,11 @@ const RAW_DATA = [
     "died": 1994,
     "title": "Kurt Cobain",
     "desc": "Ca sĩ, nhạc sĩ và nghệ sĩ guitar người Mỹ, được biết đến nhiều nhất với tư cách là thủ lĩnh của Nirvana. Là nhân vật trung tâm của phong trào grunge, những ca từ thô thiển và cuộc sống đầy khó khăn của ông đã để lại tác động văn hóa lâu dài.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -29653,11 +29695,11 @@ const RAW_DATA = [
     "died": 2026,
     "title": "Nicole Kidman",
     "desc": "Nữ diễn viên và nhà sản xuất phim minh tinh người Úc gốc Mỹ. Là một trong những diễn viên xuất sắc nhất thế hệ của mình, bà đã chinh phục hàng loạt giải thưởng danh giá bao gồm giải Oscar, BAFTA và Quả cầu vàng. Các vai diễn đa dạng trong 'Moulin Rouge!', 'The Hours' hay 'Big Little Lies' đã khẳng định tài năng diễn xuất đầy sức hút và chiều sâu tâm lý của bà.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "Australian",
     "fullName": "Nicole Kidman (Nicole Mary Kidman, Eyes Wide Shut, Moulin Rouge)",
@@ -29763,10 +29805,11 @@ const RAW_DATA = [
     "title": "Thom Yorke",
     "fullName": "Thom Yorke (Thomas Edward Yorke)",
     "desc": "Nhạc sĩ kiêm ca sĩ người Anh, thủ lĩnh và linh hồn của ban nhạc alternative rock huyền thoại Radiohead. Ông nổi tiếng thế giới nhờ giọng hát giả thanh đặc trưng cùng tư duy thử nghiệm âm nhạc đột phá, góp phần tái định hình diện mạo âm nhạc hiện đại.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -29810,7 +29853,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Korean",
     "fullName": "Bong Joon-ho (봉준호)",
@@ -29838,6 +29882,7 @@ const RAW_DATA = [
     "fullName": "Lôi Quân",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/%E9%9B%B7%E5%86%9B_Lei_Jun.jpg",
     "relations": [
+      "Hứa Gia Ấn",
       "Jack Ma",
       "Nadiem Makarim",
       "Trương Nhất Minh"
@@ -30362,10 +30407,11 @@ const RAW_DATA = [
     "title": "Tupac Shakur",
     "fullName": "Tupac Shakur (2Pac, Tupac Amaru Shakur, Lesane Parish Crooks)",
     "desc": "Rapper và diễn viên người Mỹ huyền thoại, được công nhận là một trong những nghệ sĩ hip hop có ảnh hưởng lớn nhất mọi thời đại. Ông nổi tiếng với những ca từ sâu sắc phản ánh cuộc sống đường phố, các vấn đề xã hội và nạn phân biệt chủng tộc trước khi qua đời trong một vụ nổ súng vào năm 1996.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -30403,10 +30449,11 @@ const RAW_DATA = [
     "died": 1973,
     "title": "Eminem",
     "desc": "Rapper và nhạc sĩ người Mỹ nổi tiếng với ca từ phức tạp và phong cách độc đáo. Anh ấy đã nhận được nhiều giải thưởng và thường được coi là một trong những nghệ sĩ hip-hop vĩ đại nhất.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -30480,7 +30527,8 @@ const RAW_DATA = [
       "Alfredo Di Stefano",
       "Ayrton Senna",
       "Jari Litmanen",
-      "Michael Jordan"
+      "Michael Jordan",
+      "Thierry Henry"
     ]
   },
   {
@@ -30516,7 +30564,8 @@ const RAW_DATA = [
     "position": "top",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Vietnamese",
     "fullName": "Công Lý",
@@ -30560,7 +30609,8 @@ const RAW_DATA = [
     "position": "top",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Vietnamese",
     "fullName": "Vũ Tự Long",
@@ -30599,10 +30649,11 @@ const RAW_DATA = [
     "died": 1975,
     "title": "Leonardo DiCaprio",
     "desc": "Diễn viên và nhà hoạt động môi trường người Mỹ, DiCaprio được biết đến với những vai diễn đa dạng trong các bộ phim như \"Titanic\", \"Inception\" và \"The Revenant\". Các màn trình diễn của anh ấy đã nhận được sự hoan nghênh của giới phê bình và anh ấy là người ủng hộ nổi bật cho nhận thức về biến đổi khí hậu.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -30780,10 +30831,11 @@ const RAW_DATA = [
     "died": 2017,
     "title": "Chester Bennington",
     "desc": "Ca sĩ và nhạc sĩ nhạc rock người Mỹ, được biết đến nhiều nhất với tư cách là giọng ca chính của Linkin Park. Giọng hát mạnh mẽ và ca từ giàu cảm xúc đã khiến anh trở thành một nhân vật nổi tiếng trong dòng nhạc alternative rock và nu-metal.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -30828,7 +30880,8 @@ const RAW_DATA = [
     "position": "top",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Vietnamese",
     "fullName": "Xuân Bắc",
@@ -31073,7 +31126,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "German",
     "fullName": "Sandra Hüller (Sandra Huller)",
@@ -31102,7 +31156,8 @@ const RAW_DATA = [
     "relations": [
       "David Beckham",
       "LeBron James",
-      "Muhammad Ali"
+      "Muhammad Ali",
+      "Tom Brady"
     ],
     "themes": []
   },
@@ -31157,11 +31212,11 @@ const RAW_DATA = [
     "died": 1980,
     "title": "Châu Kiệt Luân",
     "desc": "Ca sĩ, nhạc sĩ, diễn viên và đạo diễn người Đài Loan, người đã cách mạng hóa Mandopop bằng sự kết hợp giữa ảnh hưởng cổ điển, R&B và hip-hop.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "Taiwanese",
     "fullName": "Châu Kiệt Luân (Jay Chou, 周杰倫)",
@@ -31178,10 +31233,11 @@ const RAW_DATA = [
     "died": 2008,
     "title": "Heath Ledger",
     "desc": "Nam diễn viên người Úc được tôn vinh vì những màn trình diễn đầy biến đổi, đặc biệt là vai Joker trong \"The Dark Knight\", bộ phim đã mang về cho anh giải Oscar sau khi qua đời.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -31246,11 +31302,11 @@ const RAW_DATA = [
     "died": null,
     "title": "Vitas",
     "desc": "Ca sĩ, nhạc sĩ người Nga nổi tiếng thế giới sở hữu chất giọng nam cao falsetto độc đáo và phong cách biểu diễn kỳ lạ. Anh nổi tiếng qua các ca khúc như 'Opera #2' và 'The 7th Element' cùng những bộ trang phục tự thiết kế mang hơi hướng tương lai.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "Russian",
     "fullName": "Vitas (Vitaliy Vladasovich Grachev)",
@@ -31322,6 +31378,7 @@ const RAW_DATA = [
     "relations": [
       "José Luis Chilavert",
       "Lê Công Vinh",
+      "Thierry Henry",
       "Tim Cahill"
     ],
     "themes": [
@@ -31334,10 +31391,11 @@ const RAW_DATA = [
     "title": "Ryan Gosling",
     "fullName": "Ryan Gosling (Ryan Thomas Gosling)",
     "desc": "Diễn viên và nhạc sĩ người Canada, được công nhận với các vai diễn linh hoạt trong 'La La Land', 'Drive' và 'Blade Runner 2049'.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Canadian",
@@ -31436,6 +31494,7 @@ const RAW_DATA = [
     "relations": [
       "Andy Murray",
       "Steffi Graf",
+      "Tom Brady",
       "Venus Williams"
     ],
     "themes": [
@@ -31611,6 +31670,7 @@ const RAW_DATA = [
     "nationality": "Chinese",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/The_CEO_Magazine_Cover.jpg",
     "relations": [
+      "Hứa Gia Ấn",
       "Lôi Quân",
       "Nadiem Makarim",
       "Pavel Durov",
@@ -31649,10 +31709,11 @@ const RAW_DATA = [
     "title": "Tùng Dương",
     "fullName": "Tùng Dương (Nguyễn Tùng Dương)",
     "desc": "Nam ca sĩ nổi tiếng người Việt Nam, được mệnh danh là một trong bốn \"divo\" của làng nhạc nhẹ Việt Nam đương đại. Ông nổi tiếng với phong cách biểu diễn độc đáo, giọng hát đầy nội lực cùng những thử nghiệm âm nhạc mang tính tiên phong từ dân gian đương đại, điện tử cho đến rock.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Vietnamese",
@@ -31726,7 +31787,8 @@ const RAW_DATA = [
       "Kobe Bryant",
       "Shohei Ohtani",
       "Stephen Bunting",
-      "Stephen Curry"
+      "Stephen Curry",
+      "Tom Brady"
     ],
     "themes": []
   },
@@ -32169,10 +32231,11 @@ const RAW_DATA = [
     "died": 1989,
     "title": "Emma Stone",
     "desc": "Nữ diễn viên người Mỹ, người nhận giải Oscar, được biết đến với các bộ phim như *La La Land* và *Poor Things.*",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -32341,10 +32404,11 @@ const RAW_DATA = [
     "title": "Taeyeon",
     "fullName": "Taeyeon (Kim Tae-yeon)",
     "desc": "Ca sĩ Hàn Quốc và trưởng nhóm của Girls' Generation, một trong những nghệ sĩ solo thành công nhất tại Hàn Quốc.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "South Korean",
@@ -32662,7 +32726,8 @@ const RAW_DATA = [
     "position": "bottom",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "American",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bo_Burnham_2018_%28cropped%29.jpg/500px-Bo_Burnham_2018_%28cropped%29.jpg",
@@ -32685,7 +32750,8 @@ const RAW_DATA = [
     "position": "top",
     "primary_tag": "Art",
     "tags": [
-      "Art"
+      "Art",
+      "Entertainment"
     ],
     "nationality": "Vietnamese",
     "themes": [],
@@ -32725,10 +32791,11 @@ const RAW_DATA = [
     "title": "Kenshi Yonezu",
     "fullName": "Kenshi Yonezu (米津 玄師)",
     "desc": "Nam ca sĩ, nhạc sĩ kiêm nhà sản xuất âm nhạc xuất chúng người Nhật Bản. Khởi đầu từ sân chơi Vocaloid dưới nghệ danh Hachi, ông đã vươn lên thành ngôi sao hàng đầu của J-pop với siêu hit \"Lemon\" (2018) làm khuynh đảo các bảng xếp hạng âm nhạc châu Á.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Japanese",
@@ -32864,10 +32931,11 @@ const RAW_DATA = [
     "died": 1995,
     "title": "Sơn Tùng M-TP",
     "desc": "Ca sĩ, nhạc sĩ và nhà sản xuất âm nhạc hàng đầu Việt Nam, được mệnh danh là 'Ông hoàng V-pop' thế hệ mới. Sở hữu hàng loạt bản hit phá vỡ mọi kỷ lục nhạc số trong nước và đạt thứ hạng cao trên bảng xếp hạng quốc tế như 'Lạc trôi', 'Hãy trao cho anh' (hợp tác với Snoop Dogg), ông là người có tầm ảnh hưởng lớn định hình diện mạo nhạc pop Việt Nam hiện đại.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Vietnamese",
@@ -32928,11 +32996,11 @@ const RAW_DATA = [
     "title": "milet",
     "fullName": "milet (Milet Ichikawa, 一川見鶴, Japanese singer)",
     "desc": "Nữ ca sĩ kiêm nhạc sĩ solo nổi tiếng người Nhật Bản, sở hữu giọng ca khàn trầm ấm, đầy nội lực mang hơi hướng phương Tây độc đáo. Cô thu hút lượng fan đông đảo qua các ca khúc nhạc phim anime đình đám cùng màn trình diễn tại lễ bế mạc Olympic Tokyo 2020.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "Japanese",
     "image": "",
@@ -33013,10 +33081,11 @@ const RAW_DATA = [
     "died": 1996,
     "title": "Phum Viphurit",
     "desc": "Ca sĩ-nhạc sĩ người Thái nổi tiếng với sự pha trộn độc đáo giữa nhạc dân gian, nhạc jazz và nhạc pop. Giai điệu quyến rũ và ca từ nội tâm của anh đã giúp anh có được lượng người theo dõi đáng kể cả ở Thái Lan và quốc tế.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "ASEAN",
@@ -33058,10 +33127,11 @@ const RAW_DATA = [
     "title": "Vũ Đinh Trọng Thắng",
     "fullName": "Vũ Đinh Trọng Thắng (Thắng Ngọt)",
     "desc": "Nhạc sĩ, ca sĩ người Việt Nam, thủ lĩnh và người sáng lập của ban nhạc indie Ngọt lừng danh (2013-2024). Với tư duy viết nhạc độc đáo, đậm tính tự sự và giai điệu mộc mạc, ông là người chắp bút cho nhiều bản hit định hình trào lưu nhạc indie Việt.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Vietnamese",
@@ -33079,10 +33149,11 @@ const RAW_DATA = [
     "title": "Trịnh Trung Kiên",
     "fullName": "Trịnh Trung Kiên (Kiên Trịnh)",
     "desc": "Nam ca sĩ kiêm nhạc sĩ nổi bật trong làn sóng nhạc indie Việt Nam. Anh gây ấn tượng mạnh mẽ với công chúng nhờ phong cách âm nhạc mộc mạc, phóng khoáng cùng những ca từ đời thường đầy tự sự nhưng không kém phần hài hước, dí dỏm qua các tác phẩm tự sáng tác tiêu biểu như \"Thế kỷ 21 buồn\", \"Em ăn sáng chưa?\".",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Vietnamese",
@@ -33101,10 +33172,11 @@ const RAW_DATA = [
     "died": 1997,
     "title": "Phúc Du",
     "desc": "Rapper và nhạc sĩ người Việt nổi tiếng với những ca từ nội tâm và cách kể chuyện đầy chất thơ trong làng rap Việt Nam hiện đại.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Vietnamese",
@@ -33123,11 +33195,11 @@ const RAW_DATA = [
     "died": 1997,
     "title": "Anya Taylor-Joy",
     "desc": "Nữ diễn viên thực lực người Mỹ gốc Anh-Argentina, nổi danh toàn cầu từ bộ phim kinh dị độc lập \"The Witch\" và vụt sáng thành sao hạng A qua vai diễn kỳ thủ Beth Harmon trong loạt phim truyền hình ăn khách \"The Queen's Gambit\" đoạt giải Quả cầu vàng.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
-      "Art"
+      "Entertainment"
     ],
     "nationality": "British",
     "fullName": "Anya Taylor-Joy",
@@ -33424,7 +33496,8 @@ const RAW_DATA = [
     "relations": [
       "Erling Haaland",
       "Justin Fontaine",
-      "Mohamed Salah"
+      "Mohamed Salah",
+      "Thierry Henry"
     ],
     "themes": [
       "Football"
@@ -33479,10 +33552,11 @@ const RAW_DATA = [
     "title": "MCK",
     "fullName": "RPT MCK (Nghiêm Vũ Hoàng Long, Ngơ, Nger)",
     "desc": "Rapper kiêm ca sĩ, nhạc sĩ nổi tiếng người Việt Nam, một trong những đại diện tiêu biểu của thế hệ nghệ sĩ trẻ đương đại. Anh gây dựng tên tuổi từ giới underground trước khi bùng nổ tại chương trình Rap Việt mùa 1 và gặt hái thành công vang dội với album đầu tay '99%'.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "top",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "Vietnamese",
@@ -33834,10 +33908,11 @@ const RAW_DATA = [
     "died": 2010,
     "title": "Owen Cooper",
     "desc": "Nam diễn viên trẻ người Anh gặt hái thành công vang dội với vai chính Jamie Miller trong loạt phim truyền hình ngắn 'Adolescence' của Netflix (2025). Vai diễn này giúp anh nhận được hàng loạt giải thưởng lớn bao gồm BAFTA, Quả cầu vàng và Primetime Emmy, đưa anh trở thành nam diễn viên trẻ tuổi nhất lịch sử đạt được các danh hiệu này.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "British",
@@ -33880,7 +33955,7 @@ const RAW_DATA = [
     "fullName": "Bảo Ninh (Hoàng Ấu Phương)",
     "desc": "Nhà văn quân đội nổi tiếng, tác giả tiểu thuyết kiệt tác 'Nỗi buồn chiến tranh' (được dịch ra nhiều thứ tiếng và đạt nhiều giải thưởng quốc tế lớn), phản ánh chân thực về số phận con người trong chiến tranh Việt Nam.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -33909,6 +33984,7 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "",
     "relations": [
+      "Cao Xuân Hạo",
       "Chế Lan Viên",
       "Huy Cận",
       "Tố Hữu",
@@ -33925,7 +34001,7 @@ const RAW_DATA = [
     "fullName": "Kim Lân (Nguyễn Văn Tài)",
     "desc": "Nhà văn chuyên viết truyện ngắn xuất sắc về làng quê và người nông dân Việt Nam trước và sau Cách mạng tháng Tám, với các tác phẩm tiêu biểu như 'Vợ nhặt', 'Làng'.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -33935,7 +34011,8 @@ const RAW_DATA = [
     "relations": [
       "Bảo Ninh",
       "Nam Cao",
-      "Tô Hoài"
+      "Tô Hoài",
+      "Vũ Tú Nam"
     ],
     "themes": []
   },
@@ -33954,6 +34031,7 @@ const RAW_DATA = [
     "nationality": "Vietnamese",
     "image": "https://upload.wikimedia.org/wikipedia/vi/9/9c/Luu_Quang_Vu.jpg",
     "relations": [
+      "Hồ Ngọc Đại",
       "Ma Văn Kháng",
       "Tố Hữu",
       "Xuân Quỳnh"
@@ -33967,7 +34045,7 @@ const RAW_DATA = [
     "fullName": "Ma Văn Kháng (Đinh Trọng Đoàn)",
     "desc": "Nhà văn hiện đại gạo cội của văn học Việt Nam nửa cuối thế kỷ 20, nổi tiếng với các tiểu thuyết và truyện ngắn về đời sống xã hội miền núi phía Bắc và đô thị thời kỳ đổi mới như 'Mưa mùa hạ', 'Côi cút giữa cảnh đời'.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34010,7 +34088,7 @@ const RAW_DATA = [
     "fullName": "Ngô Tất Tố",
     "desc": "Nhà văn, nhà báo hiện thực xuất sắc trước Cách mạng tháng Tám, tác giả tiểu thuyết 'Tắt đèn' với nhân vật chị Dậu biểu tượng cho số phận đau khổ của người nông dân Việt Nam dưới chế độ thực dân phong kiến.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34052,7 +34130,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Minh Châu",
     "desc": "Nhà văn mở đường, 'người tiền trạm tinh anh và tài năng nhất' của văn học Việt Nam thời kỳ Đổi mới. Tác phẩm của ông chuyển dịch sâu sắc từ đề tài chiến tranh sang thế sự và triết lý nhân sinh như 'Bến quê', 'Chiếc thuyền ngoài xa'.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34094,7 +34172,7 @@ const RAW_DATA = [
     "fullName": "Nguyễn Ngọc Tư",
     "desc": "Nữ nhà văn Nam Bộ nổi tiếng với giọng văn mộc mạc, thấm đẫm tình đất tình người phương Nam, tác giả của tập truyện ngắn kiệt tác 'Cánh đồng bất tận' gặt hái nhiều giải thưởng lớn trong nước và quốc tế.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34137,7 +34215,7 @@ const RAW_DATA = [
     "fullName": "Thạch Lam (Nguyễn Tường Vinh)",
     "desc": "Nhà văn lãng mạn xuất sắc, thành viên cốt cán của nhóm Tự Lực Văn Đoàn. Văn phong của ông trong trẻo, giàu chất thơ và thấm đượm tình người, tập trung vào số phận con người nghèo khổ qua các tác phẩm tiêu biểu như 'Hai đứa trẻ', 'Gió lạnh đầu mùa' và bút ký 'Hà Nội băm sáu phố phường'.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34180,7 +34258,7 @@ const RAW_DATA = [
     "fullName": "Tố Hữu (Nguyễn Kim Thành)",
     "desc": "Nhà thơ lớn của thơ ca cách mạng Việt Nam thế kỷ 20, đồng thời là chính khách cấp cao giữ chức Phó Chủ tịch Hội đồng Bộ trưởng. Thơ ông gắn liền với các chặng đường lịch sử của dân tộc qua các tập thơ tiêu biểu như 'Từ ấy', 'Việt Bắc', 'Gió lộng'.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34223,7 +34301,7 @@ const RAW_DATA = [
     "fullName": "Xuân Quỳnh (Nguyễn Thị Xuân Quỳnh)",
     "desc": "Nữ nhà thơ tình xuất sắc bậc nhất của văn học Việt Nam hiện đại, tác giả của những bài thơ tình kinh điển đi cùng năm tháng như 'Sóng', 'Thuyền và biển', 'Tự hát'. Bà là vợ của nhà viết kịch Lưu Quang Vũ.",
     "color": "#4a7c5a",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Literature",
     "tags": [
       "Literature"
@@ -34244,7 +34322,7 @@ const RAW_DATA = [
     "fullName": "Trần Ích Tắc",
     "desc": "Hoàng tử nhà Trần, con trai của vua Trần Thái Tông và là em trai của vua Trần Thánh Tông. Trong cuộc kháng chiến chống quân Nguyên lần thứ hai (1285), ông đầu hàng nhà Nguyên và được phong làm An Nam Quốc vương. Sau đó, ông sống lưu vong tại Trung Quốc cho đến cuối đời.",
     "color": "#5b1a99",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Political",
     "tags": [
       "Political"
@@ -34288,7 +34366,7 @@ const RAW_DATA = [
     "fullName": "Lý Huệ Tông (Lý Sảm)",
     "desc": "Vị hoàng đế thứ tám của nhà Lý, trị vì trong giai đoạn triều đại này suy vong nghiêm trọng và quyền lực chuyển dần sang họ Trần. Ông truyền ngôi cho con gái Lý Chiêu Hoàng (nữ hoàng duy nhất trong lịch sử Việt Nam) rồi đi tu, sau đó bị Trần Thủ Độ ép tự tử.",
     "color": "#5b1a99",
-    "position": "bottom",
+    "position": "top",
     "primary_tag": "Political",
     "tags": [
       "Political"
@@ -34651,10 +34729,11 @@ const RAW_DATA = [
     "title": "Matthew McConaughey",
     "fullName": "Matthew David McConaughey",
     "desc": "Nam diễn viên và nhà sản xuất phim người Mỹ giành giải Oscar. Ông nổi danh qua các vai diễn xuất sắc trong các bộ phim như 'Dallas Buyers Club', 'Interstellar', 'True Detective', nổi tiếng với phong thái lôi cuốn và triết lý sống tự do.",
-    "color": "#e46a6a",
+    "color": "#ff006e",
     "position": "bottom",
-    "primary_tag": "Art",
+    "primary_tag": "Entertainment",
     "tags": [
+      "Entertainment",
       "Art"
     ],
     "nationality": "American",
@@ -34663,6 +34742,359 @@ const RAW_DATA = [
       "Christopher Nolan",
       "Leonardo DiCaprio",
       "Trương Minh Quý"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1930,
+    "died": 2007,
+    "title": "Cao Xuân Hạo",
+    "fullName": "Cao Xuân Hạo",
+    "desc": "Nhà ngôn ngữ học và dịch giả nổi tiếng của Việt Nam. Ông có những đóng góp to lớn cho ngành ngôn ngữ học Việt Nam với các công trình nghiên cứu hệ thống âm vị và ngữ pháp tiếng Việt, đồng thời là dịch giả của nhiều tác phẩm văn học kinh điển như 'Chiến tranh và Hòa bình'.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "https://upload.wikimedia.org/wikipedia/vi/4/4c/Caoxuanhao.jpg",
+    "relations": [
+      "Hoài Thanh",
+      "Hồ Ngọc Đại",
+      "Vũ Tú Nam",
+      "Đặng Thai Mai"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1929,
+    "died": 2020,
+    "title": "Vũ Tú Nam",
+    "fullName": "Vũ Tú Nam",
+    "desc": "Nhà văn Việt Nam, cựu Tổng thư ký Hội Nhà văn Việt Nam. Ông nổi tiếng với các tác phẩm viết cho thiếu nhi, đặc biệt là truyện 'Cuộc phiêu lưu của Văn Nhan' và truyện dài 'Quê hương'.",
+    "color": "#4a7c5a",
+    "position": "top",
+    "primary_tag": "Literature",
+    "tags": [
+      "Literature"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Cao Xuân Hạo",
+      "Hồ Ngọc Đại",
+      "Kim Lân",
+      "Nguyên Hồng"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1936,
+    "died": null,
+    "title": "Hồ Ngọc Đại",
+    "fullName": "Hồ Ngọc Đại",
+    "desc": "Giáo sư khoa học giáo dục người Việt Nam, người sáng lập mô hình thực nghiệm và chương trình 'Công nghệ giáo dục' gây nhiều tiếng vang. Ông có nhiều đóng góp quan trọng trong việc cải cách phương pháp dạy học cho học sinh tiểu học.",
+    "color": "#247ba0",
+    "position": "top",
+    "primary_tag": "Science",
+    "tags": [
+      "Science"
+    ],
+    "nationality": "Vietnamese",
+    "image": "",
+    "relations": [
+      "Cao Xuân Hạo",
+      "Lưu Quang Vũ",
+      "Nguyễn Huy Thiệp",
+      "Vũ Tú Nam"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1665,
+    "died": 1714,
+    "title": "Anne, Nữ vương Đại Anh",
+    "fullName": "Anne, Nữ vương Đại Anh (Queen Anne)",
+    "desc": "Nữ vương đầu tiên của Vương quốc Đại Anh sau Đạo luật Liên hợp năm 1707 thống nhất Anh và Scotland. Triều đại của bà gắn liền với sự trỗi dậy của chế độ nội các và sự tham gia của Anh trong Chiến tranh Kế vị Tây Ban Nha.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "British",
+    "image": "",
+    "relations": [
+      "Daniel Defoe",
+      "Eugène de Savoie-Carignan",
+      "Georg Friedrich Händel",
+      "Louis XIV"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1663,
+    "died": 1736,
+    "title": "Eugène de Savoie-Carignan",
+    "fullName": "Eugène de Savoie-Carignan (Prince Eugene of Savoy)",
+    "desc": "Mãnh tướng và nhà ngoại giao xuất chúng của Thánh chế La Mã và hoàng triều Habsburg (Áo). Ông là một trong những nhà quân sự vĩ đại nhất lịch sử châu Âu, nổi danh qua các chiến thắng trước Đế quốc Ottoman và liên minh với Anh trong Chiến tranh Kế vị Tây Ban Nha.",
+    "color": "#990000",
+    "position": "bottom",
+    "primary_tag": "Military",
+    "tags": [
+      "Military"
+    ],
+    "nationality": "Austrian",
+    "image": "",
+    "relations": [
+      "Anne, Nữ vương Đại Anh",
+      "Henry V",
+      "Karl XII của Thụy Điển",
+      "Pyotr Đại đế"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1386,
+    "died": 1422,
+    "title": "Henry V",
+    "fullName": "Henry V (King of England)",
+    "desc": "Một trong những vị vua quân sự xuất chúng nhất của nước Anh thời Trung cổ. Ông đã dẫn dắt quân Anh giành chiến thắng lẫy lừng trước quân Pháp tại trận Agincourt trong Chiến tranh Trăm năm, suýt chút nữa đã thống nhất vương quyền hai nước.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/King_Henry_V_from_NPG.jpg/500px-King_Henry_V_from_NPG.jpg",
+    "relations": [
+      "Eugène de Savoie-Carignan",
+      "Jeanne d'Arc",
+      "Louis XI",
+      "Minh Thành Tổ"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1977,
+    "died": null,
+    "title": "Thierry Henry",
+    "fullName": "Thierry Henry",
+    "desc": "Cựu danh thủ bóng đá người Pháp, một trong những tiền đạo vĩ đại nhất lịch sử Ngoại hạng Anh và câu lạc bộ Arsenal. Ông là nhà vô địch World Cup 1998, Euro 2000 cùng tuyển Pháp và giành cú ăn ba lịch sử cùng Barcelona năm 2009.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "French",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Thierry_Henry_de_l%27Equipe_de_France_de_football_en_2006.jpg/500px-Thierry_Henry_de_l%27Equipe_de_France_de_football_en_2006.jpg",
+    "relations": [
+      "Kylian Mbappé",
+      "Ronaldinho",
+      "Zinedine Zidane"
+    ],
+    "themes": [
+      "Football"
+    ]
+  },
+  {
+    "born": 1977,
+    "died": null,
+    "title": "Tom Brady",
+    "fullName": "Tom Brady (Thomas Edward Patrick Brady Jr.)",
+    "desc": "Huyền thoại bóng bầu dục Mỹ (NFL), được coi là tiền vệ kiến thiết (quarterback) vĩ đại nhất mọi thời đại. Ông đã giành kỷ lục 7 chức vô địch Siêu cúp bóng bầu dục (Super Bowl) trong sự nghiệp lẫy lừng kéo dài hơn hai thập kỷ.",
+    "color": "#55a630",
+    "position": "bottom",
+    "primary_tag": "Sport",
+    "tags": [
+      "Sport"
+    ],
+    "nationality": "American",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2021.jpg/500px-Tom_Brady_2021.jpg",
+    "relations": [
+      "Kobe Bryant",
+      "LeBron James",
+      "Michael Jordan",
+      "Serena Williams"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1958,
+    "died": null,
+    "title": "Hứa Gia Ấn",
+    "fullName": "Hứa Gia Ấn (Hui Ka Yan / Xu Jiayin)",
+    "desc": "Tỷ phú người Trung Quốc, người sáng lập và cựu chủ tịch tập đoàn bất động sản lớn thứ hai Trung Quốc Evergrande Group. Tập đoàn này sau đó lâm vào khủng hoảng nợ nghiêm trọng, gây ảnh hưởng lớn đến nền kinh tế Trung Quốc.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business"
+    ],
+    "nationality": "Chinese",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hui_Ka_Yan_2018.jpg/500px-Hui_Ka_Yan_2018.jpg",
+    "relations": [
+      "Bạc Hy Lai",
+      "Jack Ma",
+      "Lôi Quân",
+      "Trương Nhất Minh"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1772,
+    "died": 1823,
+    "title": "David Ricardo",
+    "fullName": "David Ricardo",
+    "desc": "Nhà kinh tế học cổ điển xuất chúng người Anh, người đã xây dựng các lý thuyết nền tảng về lợi thế so sánh trong thương mại quốc tế, lý thuyết phân phối và giá trị lao động, có ảnh hưởng sâu sắc đến cả kinh tế học tân cổ điển và Marx.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business"
+    ],
+    "nationality": "British",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/David_Ricardo_by_Thomas_Phillips_clean.jpg/500px-David_Ricardo_by_Thomas_Phillips_clean.jpg",
+    "relations": [
+      "Adam Smith",
+      "Charles Babbage",
+      "James Watt",
+      "John Stuart Mill"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1935,
+    "died": 2023,
+    "title": "Jean-Michel Cazes",
+    "fullName": "Jean-Michel Cazes",
+    "desc": "Doanh nhân và nhà sản xuất rượu vang lừng danh người Pháp, chủ sở hữu của Château Lynch-Bages ở Bordeaux. Ông được vinh danh vì những đóng góp to lớn trong việc hiện đại hóa quy trình sản xuất và quảng bá thương hiệu rượu vang Bordeaux ra toàn cầu.",
+    "color": "#ff9f1c",
+    "position": "bottom",
+    "primary_tag": "Business",
+    "tags": [
+      "Business"
+    ],
+    "nationality": "French",
+    "image": "",
+    "relations": [
+      "Ariane de Rothschild",
+      "Bill Gates",
+      "Warren Buffett",
+      "Yves Saint-Laurent"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1734,
+    "died": 1782,
+    "title": "Taksin",
+    "fullName": "Taksin (Vua Taksin Đại đế của Thonburi)",
+    "desc": "Vị vua duy nhất của vương quốc Thonburi (Thái Lan). Ông là anh hùng dân tộc có công giải phóng Xiêm khỏi ách thống trị của người Miến Điện sau sự sụp đổ của Ayutthaya năm 1767, thống nhất đất nước trước khi bị phế truất.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political",
+      "Military"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_Taksin_monument.jpg/500px-King_Taksin_monument.jpg",
+    "relations": [
+      "Lê Văn Duyệt",
+      "Rama I",
+      "Rama II"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1737,
+    "died": 1809,
+    "title": "Rama I",
+    "fullName": "Rama I (Phra Phutthayotfa Chulalok)",
+    "desc": "Vị hoàng đế sáng lập vương triều Chakri trị vì Thái Lan cho đến ngày nay. Ông đã dời đô về Bangkok, xây dựng Hoàng cung và tái thiết luật pháp, văn hóa Xiêm sau thời kỳ chiến tranh loạn lạc.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/King_Rama_I_of_Thailand.jpg/500px-King_Rama_I_of_Thailand.jpg",
+    "relations": [
+      "Gia Long",
+      "Rama II",
+      "Rama III",
+      "Taksin"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1767,
+    "died": 1824,
+    "title": "Rama II",
+    "fullName": "Rama II (Phra Phutthaloetla Naphalai)",
+    "desc": "Vua thứ hai của vương triều Chakri. Triều đại của ông được coi là thời kỳ hoàng kim của nghệ thuật và văn học Xiêm, bản thân nhà vua cũng là một nhà thơ lớn và đã cho xây dựng đền Wat Arun nổi tiếng.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rama_II.jpg/500px-Rama_II.jpg",
+    "relations": [
+      "Rama I",
+      "Rama III",
+      "Rama IV",
+      "Taksin"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1787,
+    "died": 1851,
+    "title": "Rama III",
+    "fullName": "Rama III (Nangklao)",
+    "desc": "Vua thứ ba của vương triều Chakri. Ông nổi tiếng với các hoạt động phát triển kinh tế thương mại mạnh mẽ với Trung Quốc và củng cố hệ thống phòng thủ của Xiêm chống lại các mối đe dọa bên ngoài.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Portrait_of_Rama_III.jpg/500px-Portrait_of_Rama_III.jpg",
+    "relations": [
+      "Rama I",
+      "Rama II",
+      "Rama IV",
+      "Thiệu Trị"
+    ],
+    "themes": []
+  },
+  {
+    "born": 1804,
+    "died": 1868,
+    "title": "Rama IV",
+    "fullName": "Rama IV (Mongkut)",
+    "desc": "Vua thứ tư của vương triều Chakri. Ông là người đã mở cửa Xiêm với phương Tây, khởi xướng các cải cách hiện đại hóa khoa học và giáo dục quốc gia, truyền cảm hứng cho tác phẩm 'Anna và đức vua'.",
+    "color": "#5b1a99",
+    "position": "bottom",
+    "primary_tag": "Political",
+    "tags": [
+      "Political"
+    ],
+    "nationality": "Thai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mongkut.JPG/500px-Mongkut.JPG",
+    "relations": [
+      "Rama II",
+      "Rama III",
+      "Rama V"
     ],
     "themes": []
   }
